@@ -1,0 +1,874 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Nakka — o caso como jogo. Quatro decisões, um desfecho.">
+<style>html,body{background:#052E38}</style>
+<!-- ARTIFACT:INICIO -->
+<title>Caso ROTA</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:ital,wght@0,400;0,500;0,600;1,400&family=Instrument+Sans:ital,wght@0,400;0,500;0,600&display=swap">
+
+<style>
+/* ==========================================================================
+   CASO ROTA — o caso clínico como partida curta.
+   Tokens herdados do brand kit Nakka (indexv2.html). Nada de paleta nova:
+   o único acento é o Fresco, como no site. Tema único e deliberado — o
+   fundo é pintado explicitamente para não pegar emprestado o do host.
+   ========================================================================== */
+:root{
+  --deep-teal:#052E38;
+  --teal:#2E4348;
+  --nuvem:#F4EDE7;
+  --grisaceo:#AFBDBC;
+  --fresco:#C6FA5D;
+  --seed:#8C5A18;
+  --carvao:#333333;
+
+  /* semântica de triagem — convenção clínica real, dessaturada para não
+     brigar com o Fresco no fundo teal */
+  --ambar:#E0A44A;
+  --rubro:#C2604E;
+
+  --estuque:rgba(244,237,231,.055);
+  --estuque-forte:rgba(244,237,231,.09);
+  --borda:rgba(244,237,231,.13);
+  --borda-viva:rgba(198,250,93,.42);
+
+  --tipo-display:'Familjen Grotesk','Avenir Next','Helvetica Neue',sans-serif;
+  --tipo-texto:'Instrument Sans','Avenir Next','Helvetica Neue',sans-serif;
+  --assenta:cubic-bezier(.16,1,.3,1);
+
+  --pad-x:clamp(1.1rem,4vw,2.6rem);
+}
+*,*::before,*::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;}
+body{
+  margin:0;background:var(--deep-teal);color:var(--nuvem);
+  font-family:var(--tipo-texto);font-size:16px;line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+}
+button{font:inherit;color:inherit;margin:0;}
+:focus-visible{outline:2px solid var(--fresco);outline-offset:3px;border-radius:3px;}
+@media (prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;transition-duration:.01ms!important;}}
+
+/* ---------- casca ---------- */
+.app{max-width:44rem;margin:0 auto;padding:0 var(--pad-x) 4rem;}
+
+.hud{
+  position:sticky;top:0;z-index:20;background:var(--deep-teal);
+  padding:1rem 0 .8rem;border-bottom:1px solid var(--borda);
+  display:flex;align-items:center;gap:1rem;flex-wrap:wrap;
+}
+.hud__marca{width:.78rem;flex:none;fill:var(--nuvem);opacity:.85;}
+.hud__paciente{
+  flex:1 1 12rem;min-width:0;font-size:.86rem;line-height:1.35;color:var(--grisaceo);
+}
+.hud__paciente em{font-style:normal;color:var(--fresco);font-weight:600;}
+.indice{display:flex;gap:.34rem;flex:none;}
+.indice span{
+  width:1.55rem;height:1.55rem;display:grid;place-items:center;border-radius:50%;
+  font-family:var(--tipo-display);font-size:.74rem;font-weight:600;
+  border:1px solid var(--borda);color:var(--grisaceo);
+  transition:color .45s var(--assenta),border-color .45s var(--assenta),background .45s var(--assenta);
+}
+.indice span.feito{color:var(--deep-teal);background:var(--fresco);border-color:var(--fresco);}
+.indice span.agora{color:var(--fresco);border-color:var(--borda-viva);}
+
+/* ---------- telas ---------- */
+.tela{padding:clamp(1.6rem,5vw,2.6rem) 0 0;animation:entra .45s var(--assenta) both;}
+/* a primeira tela é o quadro em repouso da página — entra pronta, sem fade */
+#tela-inicio{animation:none;}
+@keyframes entra{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+
+.marcador{
+  display:inline-flex;align-items:center;gap:.5rem;font-size:.66rem;font-weight:600;
+  letter-spacing:.17em;text-transform:uppercase;color:var(--grisaceo);opacity:.8;
+  margin:0 0 .85rem;
+}
+.marcador::before{content:'';width:.36rem;height:.36rem;background:var(--fresco);border-radius:50%;flex:none;}
+
+.titulo{
+  font-family:var(--tipo-display);font-weight:500;letter-spacing:-.02em;
+  font-size:clamp(1.5rem,5.4vw,2.15rem);line-height:1.11;text-wrap:balance;
+  margin:0 0 .75rem;max-width:20ch;
+}
+.linha{font-size:1rem;line-height:1.6;color:var(--grisaceo);margin:0 0 .8rem;max-width:56ch;}
+.linha em{font-style:normal;font-weight:600;color:var(--fresco);}
+.fala{
+  font-family:var(--tipo-display);font-style:italic;font-weight:400;
+  font-size:clamp(1.12rem,3.6vw,1.4rem);line-height:1.34;color:var(--nuvem);
+  margin:0 0 1rem;max-width:32ch;
+}
+.rotulo{
+  font-size:.68rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--grisaceo);margin:1.5rem 0 .7rem;
+}
+
+/* ---------- R: os movimentos ---------- */
+.contador{
+  display:flex;align-items:baseline;gap:.5rem;margin:0 0 .9rem;
+  font-size:.8rem;letter-spacing:.04em;color:var(--grisaceo);
+}
+.contador b{
+  font-family:var(--tipo-display);font-size:1.5rem;font-weight:600;color:var(--fresco);
+  font-variant-numeric:tabular-nums;line-height:1;
+}
+.movimentos{display:grid;grid-template-columns:repeat(auto-fit,minmax(9.5rem,1fr));gap:.5rem;margin:0;padding:0;list-style:none;}
+.mov{
+  width:100%;text-align:left;cursor:pointer;
+  background:var(--estuque);border:1px solid var(--borda);border-radius:2px;
+  padding:.72rem .8rem;font-size:.9rem;line-height:1.35;color:var(--nuvem);
+  transition:border-color .3s var(--assenta),background .3s var(--assenta),opacity .3s;
+}
+.mov:hover:not(:disabled){border-color:var(--borda-viva);background:var(--estuque-forte);}
+.mov[aria-pressed="true"]{border-color:var(--fresco);background:rgba(198,250,93,.09);color:var(--fresco);}
+.mov:disabled{opacity:.3;cursor:default;}
+/* o que você escolheu continua legível depois que a rodada trava — só o
+   que ficou para trás é que recua */
+.mov[aria-pressed="true"]:disabled{opacity:1;}
+
+.prontuario{display:grid;gap:.55rem;margin-top:1.1rem;}
+.achado{
+  border-left:2px solid var(--borda);padding:.15rem 0 .15rem .85rem;
+  animation:entra .45s var(--assenta) both;
+}
+.achado--ouro{border-left-color:var(--fresco);}
+.achado b{
+  display:block;font-family:var(--tipo-display);font-size:.76rem;font-weight:600;
+  letter-spacing:.06em;text-transform:uppercase;color:var(--grisaceo);margin-bottom:.15rem;
+}
+.achado p{margin:0;font-size:.95rem;line-height:1.5;color:var(--nuvem);}
+.achado--ouro p{color:var(--nuvem);}
+
+/* ---------- escolhas em coluna (O, T, A) ---------- */
+.escolhas{display:grid;gap:.5rem;margin:0;padding:0;list-style:none;}
+.escolha{
+  width:100%;text-align:left;cursor:pointer;display:flex;gap:.75rem;align-items:flex-start;
+  background:var(--estuque);border:1px solid var(--borda);border-radius:2px;
+  padding:.85rem .9rem;font-size:.96rem;line-height:1.42;color:var(--nuvem);
+  transition:border-color .3s var(--assenta),background .3s var(--assenta),opacity .3s;
+}
+.escolha:hover:not(:disabled){border-color:var(--borda-viva);background:var(--estuque-forte);}
+.escolha[aria-pressed="true"]{border-color:var(--fresco);background:rgba(198,250,93,.09);}
+.escolha:disabled{opacity:.34;cursor:default;}
+.escolha[aria-pressed="true"]:disabled{opacity:1;}
+.escolha .sigla{
+  flex:none;width:1.4rem;height:1.4rem;border-radius:50%;display:grid;place-items:center;
+  font-family:var(--tipo-display);font-size:.75rem;font-weight:600;
+  border:1px solid var(--borda);color:var(--grisaceo);margin-top:.05rem;
+}
+.escolha[aria-pressed="true"] .sigla{background:var(--fresco);border-color:var(--fresco);color:var(--deep-teal);}
+.escolha .luz{flex:none;width:.62rem;height:.62rem;border-radius:50%;margin-top:.42rem;}
+.luz--verde{background:var(--fresco);}
+.luz--ambar{background:var(--ambar);}
+.luz--rubro{background:var(--rubro);}
+
+/* ---------- caixas de contexto ---------- */
+.exame{
+  border:1px solid var(--borda);border-left:2px solid var(--grisaceo);
+  padding:.9rem 1rem;margin:0 0 1.2rem;background:var(--estuque);
+}
+.exame p{margin:0;font-size:.94rem;line-height:1.55;color:var(--grisaceo);}
+.exame p + p{margin-top:.45rem;}
+.exame strong{color:var(--nuvem);font-weight:600;}
+
+.chip{
+  display:inline-flex;align-items:center;gap:.5rem;margin:0 0 1.1rem;
+  padding:.42rem .75rem;border-radius:999px;font-size:.79rem;letter-spacing:.02em;
+  border:1px solid var(--borda);color:var(--grisaceo);background:var(--estuque);
+}
+.chip::before{content:'';width:.34rem;height:.34rem;border-radius:50%;background:var(--fresco);flex:none;}
+.chip--cego{border-color:rgba(140,90,24,.6);color:var(--ambar);}
+.chip--cego::before{background:var(--ambar);}
+.chip b{color:var(--nuvem);font-weight:600;}
+
+.eco{
+  margin:1.1rem 0 0;padding:.9rem 1rem;background:var(--estuque);
+  border:1px solid var(--borda);border-left:2px solid var(--fresco);
+  animation:entra .5s var(--assenta) both;
+}
+.eco p{margin:0;font-size:.96rem;line-height:1.55;color:var(--nuvem);}
+
+/* ---------- consequência (a única quebra de tom do jogo) ---------- */
+.dano{
+  margin:1.2rem 0 0;padding:1.15rem 1.15rem 1.25rem;
+  border:1px solid rgba(194,96,78,.5);border-left:3px solid var(--rubro);
+  background:rgba(194,96,78,.08);animation:entra .5s var(--assenta) both;
+}
+.dano__quando{
+  font-family:var(--tipo-display);font-size:.72rem;font-weight:600;
+  letter-spacing:.17em;text-transform:uppercase;color:var(--rubro);margin:0 0 .55rem;
+}
+.dano__frase{
+  font-family:var(--tipo-display);font-weight:500;font-size:clamp(1.05rem,3.4vw,1.3rem);
+  line-height:1.25;margin:0 0 .7rem;color:var(--nuvem);max-width:30ch;text-wrap:balance;
+}
+.dano p{margin:0 0 .5rem;font-size:.93rem;line-height:1.55;color:var(--grisaceo);}
+.dano p:last-child{margin-bottom:0;}
+.lados{display:grid;gap:.3rem;margin:.7rem 0;padding:0;list-style:none;}
+.lados li{
+  position:relative;padding-left:1.4rem;font-size:.92rem;line-height:1.45;color:var(--grisaceo);
+}
+.lados li::before{content:'';position:absolute;left:0;top:.66em;width:.85rem;height:1px;background:var(--rubro);}
+
+/* ---------- A: o plano ---------- */
+.campo{margin:0 0 1.35rem;}
+.campo__nome{
+  font-size:.8rem;font-weight:600;letter-spacing:.02em;color:var(--nuvem);margin:0 0 .1rem;
+}
+.campo__dica{font-size:.79rem;color:var(--grisaceo);margin:0 0 .55rem;}
+.opcoes{display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0;list-style:none;}
+.op{
+  cursor:pointer;background:var(--estuque);border:1px solid var(--borda);border-radius:999px;
+  padding:.45rem .85rem;font-size:.86rem;line-height:1.3;color:var(--nuvem);
+  transition:border-color .3s var(--assenta),background .3s var(--assenta),color .3s;
+}
+.op:hover{border-color:var(--borda-viva);}
+.op[aria-pressed="true"]{background:var(--fresco);border-color:var(--fresco);color:var(--deep-teal);font-weight:600;}
+
+/* ---------- desfecho ---------- */
+.noventa{
+  font-family:var(--tipo-display);font-size:.72rem;font-weight:600;
+  letter-spacing:.19em;text-transform:uppercase;color:var(--fresco);margin:0 0 .8rem;
+}
+.desfecho__texto{
+  font-family:var(--tipo-display);font-weight:400;
+  font-size:clamp(1.1rem,3.7vw,1.42rem);line-height:1.42;color:var(--nuvem);
+  margin:0 0 1.6rem;max-width:40ch;text-wrap:pretty;
+}
+.desfecho__texto em{font-style:normal;font-weight:600;color:var(--fresco);}
+
+.selos{display:grid;grid-template-columns:repeat(3,1fr);gap:.5rem;margin:0 0 1.8rem;padding:0;list-style:none;}
+.selo{
+  border:1px solid var(--borda);padding:.85rem .7rem;text-align:center;
+  background:var(--estuque);
+}
+.selo--ganho{border-color:var(--borda-viva);background:rgba(198,250,93,.07);}
+.selo__icone{display:block;width:1.55rem;height:1.55rem;margin:0 auto .45rem;color:var(--grisaceo);opacity:.55;}
+.selo--ganho .selo__icone{color:var(--fresco);opacity:1;}
+.selo__nome{
+  display:block;font-family:var(--tipo-display);font-size:.78rem;font-weight:600;
+  letter-spacing:.04em;color:var(--grisaceo);
+}
+.selo--ganho .selo__nome{color:var(--nuvem);}
+.selo__nota{display:block;font-size:.71rem;line-height:1.35;color:var(--grisaceo);opacity:.75;margin-top:.25rem;}
+
+/* ---------- debrief ---------- */
+.rota-lida{display:grid;gap:0;margin:0 0 1.6rem;padding:0;list-style:none;border-top:1px solid var(--borda);}
+.passo{
+  display:grid;grid-template-columns:1.5rem 1fr;gap:.85rem;align-items:start;
+  padding:.85rem 0;border-bottom:1px solid var(--borda);
+}
+.passo__letra{
+  font-family:var(--tipo-display);font-size:1rem;font-weight:600;color:var(--fresco);line-height:1.3;
+}
+.passo__voce{margin:0;font-size:.93rem;line-height:1.45;color:var(--nuvem);}
+.passo__certo{margin:.28rem 0 0;font-size:.86rem;line-height:1.45;color:var(--grisaceo);}
+.passo__certo b{color:var(--nuvem);font-weight:600;}
+.passo--erro .passo__letra{color:var(--rubro);}
+
+.perdidos{display:grid;gap:.4rem;margin:0 0 1.6rem;padding:0;list-style:none;}
+.perdido{
+  display:grid;grid-template-columns:auto 1fr;gap:.7rem;align-items:baseline;
+  font-size:.88rem;line-height:1.45;color:var(--grisaceo);
+}
+.perdido b{font-weight:600;color:var(--fresco);font-size:.8rem;letter-spacing:.05em;text-transform:uppercase;}
+
+.refs{margin:0;padding:0 0 0 1.2rem;list-style:decimal;}
+.refs li{font-size:.76rem;line-height:1.5;color:var(--grisaceo);opacity:.75;margin-bottom:.4rem;}
+.refs i{font-style:italic;}
+
+.segunda{
+  margin:2.2rem 0 0;padding:1.15rem 1.15rem;border:1px solid var(--borda);
+  background:var(--estuque);
+}
+.segunda p{margin:0;font-size:.93rem;line-height:1.55;color:var(--grisaceo);}
+.segunda strong{
+  display:block;font-family:var(--tipo-display);font-size:1.05rem;font-weight:500;
+  color:var(--nuvem);margin-bottom:.3rem;
+}
+
+/* ---------- ações ---------- */
+.barra{display:flex;flex-wrap:wrap;gap:.6rem;align-items:center;margin-top:1.6rem;}
+.acao{
+  display:inline-flex;align-items:center;gap:.6rem;cursor:pointer;
+  background:var(--fresco);color:var(--deep-teal);border:1px solid var(--fresco);
+  border-radius:999px;padding:.68rem 1.3rem;
+  font-family:var(--tipo-display);font-size:.88rem;font-weight:600;letter-spacing:.01em;
+  transition:opacity .3s,transform .3s var(--assenta);
+}
+.acao:hover:not(:disabled){transform:translateX(2px);}
+.acao:disabled{opacity:.28;cursor:default;transform:none;}
+.acao svg{width:.85rem;height:.85rem;fill:none;stroke:currentColor;stroke-width:1.8;}
+.acao--vazada{background:transparent;color:var(--nuvem);border-color:var(--borda);}
+.acao--vazada:hover{border-color:var(--fresco);}
+
+.nota-tempo{font-size:.76rem;color:var(--grisaceo);opacity:.7;letter-spacing:.03em;}
+[hidden]{display:none!important;}
+</style>
+</head>
+<body>
+
+<div class="app">
+
+<header class="hud">
+  <svg class="hud__marca" viewBox="0 0 25.284 35.47" aria-hidden="true"><path d="M18.148 10.642 L18.217 0 L25.265 0.087 C25.284 1.294 25.262 2.505 25.269 3.713 C25.279 5.493 24.983 5.462 24.109 6.338 L12.819 17.657 C14.497 17.962 22.443 17.551 25.255 17.742 L25.266 24.778 L7.236 24.797 L7.239 35.47 L0.23 35.466 C0.068 34.674 0.176 32.748 0.171 31.828 C0.161 29.954 0.386 30.082 1.32 29.15 L10.786 19.688 C11.295 19.18 12.414 18.288 12.634 17.656 C11.841 17.855 1.782 17.756 0.166 17.737 C0.187 16.401 0 11.542 0.245 10.653 L18.148 10.642 Z"/></svg>
+  <p class="hud__paciente">Mulher, <em>52 anos</em> · <em>Dor na ATM</em> há 3 meses</p>
+  <div class="indice" id="indice" aria-label="Progresso da rota">
+    <span data-letra="R">R</span><span data-letra="O">O</span><span data-letra="T">T</span><span data-letra="A">A</span>
+  </div>
+</header>
+
+<!-- ====================== A CADEIRA ====================== -->
+<section class="tela" id="tela-inicio">
+  <p class="marcador">Caso 01 · Reumatologia</p>
+  <h1 class="titulo">Ela senta na cadeira e diz que é bruxismo.</h1>
+  <p class="linha">
+    Você tem quatro decisões pela frente — as mesmas quatro de sempre:
+    <em>reconhecer</em>, <em>ordenar o risco</em>, <em>traduzir em conduta</em>, <em>acompanhar</em>.
+    Cada uma muda o que acontece depois. Ninguém te diz se acertou até o fim.
+  </p>
+  <div class="barra">
+    <button class="acao" type="button" data-vai="R">Sentar na cadeira <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+    <span class="nota-tempo">≈ 3 minutos</span>
+  </div>
+</section>
+
+<!-- ====================== R — RECONHECER ====================== -->
+<section class="tela" id="tela-R" hidden>
+  <p class="marcador">R — Reconhecer</p>
+  <h2 class="titulo">Três movimentos antes de tocar nela.</h2>
+  <p class="linha">A consulta é curta e você sabe disso. Escolha onde gastar o tempo — o resto do prontuário fica em branco.</p>
+
+  <p class="contador"><b id="contador-mov">0</b> de 3 movimentos usados</p>
+
+  <ul class="movimentos" id="movimentos"></ul>
+
+  <div class="prontuario" id="prontuario" aria-live="polite"></div>
+
+  <div class="barra">
+    <button class="acao" type="button" id="fim-R" data-vai="O" disabled>Examinar a paciente <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+  </div>
+</section>
+
+<!-- ====================== O — ORDENAR O RISCO ====================== -->
+<section class="tela" id="tela-O" hidden>
+  <p class="marcador">O — Ordenar o risco</p>
+  <h2 class="titulo">O exame mudou o caso.</h2>
+
+  <div class="exame">
+    <p><strong>Úlcera de 6 mm no palato mole</strong>, borda irregular, dolorosa. Não estava lá na consulta de seis meses atrás.</p>
+    <p>Mobilidade grau II em 36 e 46. Sangramento à sondagem em <strong>62%</strong> dos sítios.</p>
+  </div>
+
+  <p class="rotulo">A decisão de hoje</p>
+  <ul class="escolhas" id="escolhas-O"></ul>
+
+  <div id="eco-O"></div>
+
+  <div class="barra">
+    <button class="acao" type="button" id="fim-O" data-vai="T" disabled>Ela pede algo para a dor <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+  </div>
+</section>
+
+<!-- ====================== T — TRADUZIR EM CONDUTA ====================== -->
+<section class="tela" id="tela-T" hidden>
+  <p class="marcador">T — Traduzir em conduta · a questão</p>
+  <h2 class="titulo">Ao fim da sessão, ela pede algo para a dor.</h2>
+  <p class="linha">Qual a prescrição analgésica?</p>
+
+  <p class="chip" id="chip-prontuario"></p>
+
+  <ul class="escolhas" id="escolhas-T"></ul>
+
+  <div id="eco-T"></div>
+
+  <div class="barra">
+    <button class="acao" type="button" id="fim-T" data-vai="A" disabled>Fechar a consulta <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+  </div>
+</section>
+
+<!-- ====================== A — ACOMPANHAR ====================== -->
+<section class="tela" id="tela-A" hidden>
+  <p class="marcador">A — Acompanhar</p>
+  <h2 class="titulo">O plano é a parte que só você faz.</h2>
+  <p class="linha">O reumatologista vê essa paciente duas vezes por ano. Você pode vê-la quatro.</p>
+
+  <div class="campo">
+    <p class="campo__nome">Intervalo de manutenção periodontal</p>
+    <p class="campo__dica">Periodontite associada a doença autoimune em uso de imunossupressor.</p>
+    <ul class="opcoes" id="op-intervalo"></ul>
+  </div>
+
+  <div class="campo">
+    <p class="campo__nome">Posição da cadeira no retorno</p>
+    <p class="campo__dica">Artrite reumatoide de longa data.</p>
+    <ul class="opcoes" id="op-cadeira"></ul>
+  </div>
+
+  <div class="campo">
+    <p class="campo__nome">Reavaliar no retorno <span style="color:var(--grisaceo);font-weight:400">— escolha 2</span></p>
+    <p class="campo__dica">O que muda entre uma consulta e outra nesta paciente, e não em outra.</p>
+    <ul class="opcoes" id="op-reavaliar"></ul>
+  </div>
+
+  <div class="barra">
+    <button class="acao" type="button" id="fim-A" data-vai="desfecho" disabled>Fechar o plano <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+  </div>
+</section>
+
+<!-- ====================== DESFECHO ====================== -->
+<section class="tela" id="tela-desfecho" hidden>
+  <p class="noventa">Noventa dias depois</p>
+  <p class="desfecho__texto" id="desfecho-texto"></p>
+
+  <ul class="selos" id="selos">
+    <li class="selo" data-selo="seguranca">
+      <svg class="selo__icone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M12 2.6 20.2 5.5v6.1c0 5-3.4 8.6-8.2 9.8-4.8-1.2-8.2-4.8-8.2-9.8V5.5Z" stroke-linejoin="round"/></svg>
+      <span class="selo__nome">Segurança</span>
+      <span class="selo__nota">nenhum dano</span>
+    </li>
+    <li class="selo" data-selo="precisao">
+      <svg class="selo__icone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="12" cy="12" r="8.4"/><circle cx="12" cy="12" r="4.2"/><circle cx="12" cy="12" r="1.1" fill="currentColor" stroke="none"/></svg>
+      <span class="selo__nome">Precisão</span>
+      <span class="selo__nota">conduta certa</span>
+    </li>
+    <li class="selo" data-selo="economia">
+      <svg class="selo__icone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M13.2 2.6 4.8 13.4h5.4l-.6 8 8.6-11h-5.6Z" stroke-linejoin="round"/></svg>
+      <span class="selo__nome">Economia</span>
+      <span class="selo__nota">3 de 3 movimentos</span>
+    </li>
+  </ul>
+
+  <p class="rotulo">A rota que você percorreu</p>
+  <ul class="rota-lida" id="rota-lida"></ul>
+
+  <div id="bloco-perdidos" hidden>
+    <p class="rotulo">O que ficou em branco no prontuário</p>
+    <ul class="perdidos" id="perdidos"></ul>
+  </div>
+
+  <p class="rotulo">Referências</p>
+  <ol class="refs">
+    <li>Wegner N, Wait R, Sroka A, et al. Peptidylarginine deiminase from <i>Porphyromonas gingivalis</i> citrullinates human fibrinogen and alpha-enolase: implications for autoimmunity in rheumatoid arthritis. <i>Arthritis Rheum.</i> 2010;62(9):2662–2672. PMID: 20506214.</li>
+    <li>Hysa E, Lercara A, Cere A, et al. Temporomandibular disorders in immune-mediated rheumatic diseases of the adult: a systematic review. <i>Semin Arthritis Rheum.</i> 2023;61:152215. PMID: 37167773.</li>
+    <li>Loboz KK, Shenfield GM. Drug combinations and impaired renal function — the ‘triple whammy’. <i>Br J Clin Pharmacol.</i> 2005;59(2):239–243. PMID: 15676048.</li>
+    <li>Deeming GM, Collingwood J, Pemberton MN. Methotrexate and oral ulceration. <i>Br Dent J.</i> 2005;198(2):83–85. PMID: 15702101.</li>
+    <li>Gillick JL, Wainwright J, Das K. Rheumatoid arthritis and the cervical spine: a review on the role of surgery. <i>Int J Rheumatol.</i> 2015;2015:252456. PMID: 26351458.</li>
+  </ol>
+
+  <div class="segunda">
+    <p><strong>Próximo caso: segunda-feira.</strong>
+    Um por semana, não um por dia. Se não for simples de aplicar na segunda-feira, não é Nakka.</p>
+  </div>
+
+  <div class="barra">
+    <button class="acao acao--vazada" type="button" id="de-novo">Jogar de novo</button>
+  </div>
+</section>
+
+</div>
+
+<script>
+(function(){
+  'use strict';
+
+  /* ------------------------------------------------------------------
+     CONTEÚDO — um caso é este objeto. Trocar de caso é trocar o objeto.
+     Todo o resto do arquivo é o motor.
+     ------------------------------------------------------------------ */
+  var MOVIMENTOS = [
+    {id:'tempo',  rotulo:'Há quanto tempo dói?',        peso:'ruido',
+     achado:'Três meses. Começou de leve, piorou nas últimas semanas.'},
+    {id:'bruxo',  rotulo:'Você range os dentes à noite?', peso:'armadilha',
+     achado:'“Achei que fosse bruxismo. Já usei placa, não adiantou.”'},
+    {id:'maos',   rotulo:'Como as suas mãos amanhecem?',  peso:'ouro',
+     achado:'Travadas. Rigidez matinal de mais de uma hora, edema simétrico das pequenas articulações.'},
+    {id:'medic',  rotulo:'Que medicamentos você usa?',    peso:'ouro',
+     achado:'Metotrexato 15 mg/semana. Enalapril. Hidroclorotiazida.'},
+    {id:'panor',  rotulo:'Radiografia panorâmica',        peso:'meio',
+     achado:'Perda óssea horizontal generalizada. Aplainamento do côndilo direito.'},
+    {id:'atm',    rotulo:'Palpar ATM, medir abertura',    peso:'meio',
+     achado:'Abertura de 38 mm. Dor à palpação bilateral, sem estalido.'},
+    {id:'placa',  rotulo:'Índice de placa',               peso:'ouro',
+     achado:'Placa em 18% das faces. A placa não explica esta perda óssea.'},
+    {id:'fumo',   rotulo:'Você fuma?',                    peso:'ruido',
+     achado:'Nunca fumou.'}
+  ];
+  var OURO = ['maos','medic','placa'];
+
+  var TRIAGEM = [
+    {id:'verde', luz:'verde', texto:'Raspagem hoje, protocolo padrão.',
+     eco:'Você segue com a raspagem. A úlcera fica anotada para a próxima consulta.'},
+    {id:'ambar', luz:'ambar', texto:'Atendo hoje com adaptação e comunico a reumatologista.',
+     eco:'Você raspa por quadrante e liga para a reumatologista ainda na sexta. Ela pede um hemograma para amanhã.'},
+    {id:'rubro', luz:'rubro', texto:'Não atendo. Encaminho e espero o retorno.',
+     eco:'Você explica que prefere aguardar. Ela sai com um encaminhamento na mão e liga para marcar.'}
+  ];
+
+  var ANALGESIA = [
+    {id:'a', sigla:'A', texto:'Ibuprofeno 600 mg, 8/8 h, por 5 dias', aine:true,
+     porque:'Ibuprofeno é AINE. Bloqueia a prostaglandina que mantém a arteríola aferente aberta.'},
+    {id:'b', sigla:'B', texto:'Naproxeno 500 mg, 12/12 h, por 5 dias', aine:true,
+     porque:'Trocar de AINE não muda o mecanismo. A arteríola é a mesma.'},
+    {id:'c', sigla:'C', texto:'Paracetamol 750 mg, até 6/6 h, conforme a dor', aine:false,
+     porque:''},
+    {id:'d', sigla:'D', texto:'Nimesulida 100 mg, 12/12 h, por 5 dias', aine:true,
+     porque:'Nimesulida é AINE — COX-2 preferencial, e a arteríola renal depende justamente dessa via.'},
+    {id:'e', sigla:'E', texto:'Dipirona 1 g alternada com ibuprofeno 400 mg', aine:true,
+     porque:'A dipirona não protege o rim do ibuprofeno. Alternar não dilui o AINE, só o espalha pelo dia.'}
+  ];
+
+  var PLANO = {
+    intervalo:[
+      {id:'12', texto:'12 meses'},
+      {id:'6',  texto:'6 meses'},
+      {id:'34', texto:'3 a 4 meses', certo:true}
+    ],
+    cadeira:[
+      {id:'total', texto:'Totalmente reclinada'},
+      {id:'semi',  texto:'Semi-reclinada, com apoio cervical', certo:true}
+    ],
+    reavaliar:[
+      {id:'forca',  texto:'Força de preensão', certo:true},
+      {id:'mucosa', texto:'Mucosa oral',        certo:true},
+      {id:'medic',  texto:'Medicação em uso',   certo:true},
+      {id:'estalo', texto:'Estalido da ATM'},
+      {id:'cor',    texto:'Cor da gengiva marginal'}
+    ]
+  };
+
+  var DESFECHOS = {
+    dano:'A paciente está em acompanhamento nefrológico. A ATM ainda dói. A periodontite não foi tocada. ' +
+         'Você resolveu uma dor de três dias e <em>abriu um problema de anos</em>.',
+    perdeuUlcera:'A úlcera era mielossupressão por metotrexato. O hemograma veio quarenta dias tarde — leucócitos 2.100, ' +
+         'metotrexato suspenso às pressas, internação de três dias. <em>A sua raspagem estava impecável.</em>',
+    encaminhou:'A consulta com a reumatologista saiu em cinco semanas. Quando ela voltou para você, a mobilidade do 36 tinha piorado. ' +
+         'Você não causou dano nenhum. <em>Você só não fez o que só você podia fazer.</em>',
+    limpo:'O hemograma de fevereiro pegou a mielossupressão cedo: dose ajustada, sem internação. Sangramento à sondagem caiu de 62% para 24%. ' +
+         'E ela trocou a escova por uma de cabo grosso — <em>porque alguém perguntou como as mãos dela amanheciam</em>.'
+  };
+
+  /* ------------------------------------------------------------------
+     MOTOR
+     ------------------------------------------------------------------ */
+  var estado = {movimentos:[], triagem:null, analgesia:null, intervalo:null, cadeira:null, reavaliar:[]};
+  var LETRAS = ['R','O','T','A'];
+
+  function $(id){ return document.getElementById(id); }
+  function criar(tag, classe, texto){
+    var el = document.createElement(tag);
+    if(classe) el.className = classe;
+    if(texto != null) el.textContent = texto;
+    return el;
+  }
+
+  function mostra(nome){
+    ['inicio','R','O','T','A','desfecho'].forEach(function(n){
+      var el = $('tela-'+n);
+      if(el) el.hidden = (n !== nome);
+    });
+    var i = LETRAS.indexOf(nome);
+    Array.prototype.forEach.call($('indice').children, function(sp, k){
+      sp.className = '';
+      if(nome === 'desfecho' || (i > -1 && k < i)) sp.classList.add('feito');
+      else if(k === i) sp.classList.add('agora');
+    });
+    window.scrollTo({top:0, behavior:'auto'});
+  }
+
+  /* ---------------- R ---------------- */
+  function montaR(){
+    var lista = $('movimentos');
+    lista.textContent = '';
+    MOVIMENTOS.forEach(function(m){
+      var li = criar('li');
+      var b = criar('button', 'mov', m.rotulo);
+      b.type = 'button';
+      b.setAttribute('aria-pressed', 'false');
+      b.addEventListener('click', function(){ usaMovimento(m, b); });
+      li.appendChild(b);
+      lista.appendChild(li);
+    });
+  }
+
+  function usaMovimento(m, botao){
+    if(estado.movimentos.length >= 3 || estado.movimentos.indexOf(m.id) > -1) return;
+    estado.movimentos.push(m.id);
+    botao.setAttribute('aria-pressed', 'true');
+    botao.disabled = true;
+
+    var bloco = criar('div', 'achado' + (m.peso === 'ouro' ? ' achado--ouro' : ''));
+    bloco.appendChild(criar('b', null, m.rotulo));
+    bloco.appendChild(criar('p', null, m.achado));
+    $('prontuario').appendChild(bloco);
+
+    $('contador-mov').textContent = String(estado.movimentos.length);
+
+    if(estado.movimentos.length === 3){
+      Array.prototype.forEach.call($('movimentos').querySelectorAll('.mov'), function(b){ b.disabled = true; });
+      $('fim-R').disabled = false;
+    }
+  }
+
+  /* ---------------- O ---------------- */
+  function montaO(){
+    var lista = $('escolhas-O');
+    lista.textContent = '';
+    TRIAGEM.forEach(function(t){
+      var li = criar('li');
+      var b = criar('button', 'escolha');
+      b.type = 'button';
+      b.setAttribute('aria-pressed', 'false');
+      b.appendChild(criar('span', 'luz luz--' + t.luz));
+      b.appendChild(criar('span', null, t.texto));
+      b.addEventListener('click', function(){ escolheTriagem(t); });
+      li.appendChild(b);
+      lista.appendChild(li);
+    });
+  }
+
+  function escolheTriagem(t){
+    if(estado.triagem) return;
+    estado.triagem = t.id;
+    Array.prototype.forEach.call($('escolhas-O').querySelectorAll('.escolha'), function(b, k){
+      b.disabled = true;
+      if(TRIAGEM[k].id === t.id) b.setAttribute('aria-pressed', 'true');
+    });
+    var eco = criar('div', 'eco');
+    eco.appendChild(criar('p', null, t.eco));
+    $('eco-O').appendChild(eco);
+    $('fim-O').disabled = false;
+  }
+
+  /* ---------------- T ---------------- */
+  function montaT(){
+    var sabeMedicacoes = estado.movimentos.indexOf('medic') > -1;
+    var chip = $('chip-prontuario');
+    chip.textContent = '';
+    chip.className = 'chip' + (sabeMedicacoes ? '' : ' chip--cego');
+    if(sabeMedicacoes){
+      chip.appendChild(document.createTextNode('Prontuário: '));
+      chip.appendChild(criar('b', null, 'enalapril · hidroclorotiazida · metotrexato'));
+    } else {
+      chip.appendChild(document.createTextNode('Prontuário: '));
+      chip.appendChild(criar('b', null, 'medicações em uso — não perguntado'));
+    }
+
+    var lista = $('escolhas-T');
+    lista.textContent = '';
+    ANALGESIA.forEach(function(a){
+      var li = criar('li');
+      var b = criar('button', 'escolha');
+      b.type = 'button';
+      b.setAttribute('aria-pressed', 'false');
+      b.appendChild(criar('span', 'sigla', a.sigla));
+      b.appendChild(criar('span', null, a.texto));
+      b.addEventListener('click', function(){ escolheAnalgesia(a); });
+      li.appendChild(b);
+      lista.appendChild(li);
+    });
+  }
+
+  function escolheAnalgesia(a){
+    if(estado.analgesia) return;
+    estado.analgesia = a.id;
+    Array.prototype.forEach.call($('escolhas-T').querySelectorAll('.escolha'), function(b, k){
+      b.disabled = true;
+      if(ANALGESIA[k].id === a.id) b.setAttribute('aria-pressed', 'true');
+    });
+
+    if(a.aine){
+      // A única vez em que o jogo sai do personagem: antes que o dano role solto.
+      var cx = criar('div', 'dano');
+      cx.appendChild(criar('p', 'dano__quando', 'Setenta e duas horas depois'));
+      cx.appendChild(criar('p', 'dano__frase', 'Creatinina 2,4 mg/dL. Era 0,9 há dois meses.'));
+      cx.appendChild(criar('p', null, 'A paciente está na emergência com lesão renal aguda. Três medicamentos fecharam os três lados da filtração glomerular:'));
+      var ul = criar('ul', 'lados');
+      ['O AINE fecha a arteríola aferente','O enalapril (IECA) já abria a eferente e reduzia a pressão de filtração','A hidroclorotiazida já reduzia o volume circulante'
+      ].forEach(function(t){ ul.appendChild(criar('li', null, t)); });
+      cx.appendChild(ul);
+      cx.appendChild(criar('p', null, a.porque + ' É a tríplice clássica.³'));
+      if(estado.movimentos.indexOf('medic') === -1){
+        cx.appendChild(criar('p', null, 'Você não sabia do enalapril nem da hidroclorotiazida. Ninguém escondeu — você não perguntou.'));
+      }
+      $('eco-T').appendChild(cx);
+    } else {
+      var eco = criar('div', 'eco');
+      eco.appendChild(criar('p', null, 'Você prescreve o paracetamol e escreve na receita, à mão, por que não é ibuprofeno. Ela lê e guarda.'));
+      $('eco-T').appendChild(eco);
+    }
+    $('fim-T').disabled = false;
+  }
+
+  /* ---------------- A ---------------- */
+  function montaA(){
+    campoUnico('op-intervalo', PLANO.intervalo, 'intervalo');
+    campoUnico('op-cadeira',  PLANO.cadeira,    'cadeira');
+    campoDuplo('op-reavaliar', PLANO.reavaliar);
+  }
+
+  function campoUnico(idLista, opcoes, chave){
+    var lista = $(idLista);
+    lista.textContent = '';
+    opcoes.forEach(function(o){
+      var li = criar('li');
+      var b = criar('button', 'op', o.texto);
+      b.type = 'button';
+      b.setAttribute('aria-pressed', 'false');
+      b.addEventListener('click', function(){
+        estado[chave] = o.id;
+        Array.prototype.forEach.call(lista.querySelectorAll('.op'), function(x){ x.setAttribute('aria-pressed', 'false'); });
+        b.setAttribute('aria-pressed', 'true');
+        checaPlano();
+      });
+      li.appendChild(b);
+      lista.appendChild(li);
+    });
+  }
+
+  function campoDuplo(idLista, opcoes){
+    var lista = $(idLista);
+    lista.textContent = '';
+    opcoes.forEach(function(o){
+      var li = criar('li');
+      var b = criar('button', 'op', o.texto);
+      b.type = 'button';
+      b.setAttribute('aria-pressed', 'false');
+      b.addEventListener('click', function(){
+        var i = estado.reavaliar.indexOf(o.id);
+        if(i > -1){
+          estado.reavaliar.splice(i, 1);
+          b.setAttribute('aria-pressed', 'false');
+        } else if(estado.reavaliar.length < 2){
+          estado.reavaliar.push(o.id);
+          b.setAttribute('aria-pressed', 'true');
+        }
+        checaPlano();
+      });
+      li.appendChild(b);
+      lista.appendChild(li);
+    });
+  }
+
+  function checaPlano(){
+    $('fim-A').disabled = !(estado.intervalo && estado.cadeira && estado.reavaliar.length === 2);
+  }
+
+  /* ---------------- desfecho ---------------- */
+  function analgesiaEscolhida(){
+    for(var i = 0; i < ANALGESIA.length; i++){ if(ANALGESIA[i].id === estado.analgesia) return ANALGESIA[i]; }
+    return null;
+  }
+  function textoOpcao(opcoes, id){
+    for(var i = 0; i < opcoes.length; i++){ if(opcoes[i].id === id) return opcoes[i].texto; }
+    return '—';
+  }
+
+  function montaDesfecho(){
+    var deuAINE   = analgesiaEscolhida().aine;
+    var ignorou   = estado.triagem === 'verde';
+    var encaminhou= estado.triagem === 'rubro';
+    var ourosFeitos = estado.movimentos.filter(function(id){ return OURO.indexOf(id) > -1; }).length;
+    var reavaliarOk = estado.reavaliar.filter(function(id){
+      return PLANO.reavaliar.some(function(o){ return o.id === id && o.certo; });
+    }).length === 2;
+
+    var selos = {
+      seguranca: !deuAINE && !ignorou,
+      precisao:  !deuAINE && estado.triagem === 'ambar' && estado.intervalo === '34' && estado.cadeira === 'semi' && reavaliarOk,
+      economia:  ourosFeitos === 3
+    };
+
+    // o desfecho segue o dano mais grave que a paciente sofreu
+    var texto = DESFECHOS.limpo;
+    if(deuAINE)         texto = DESFECHOS.dano;
+    else if(ignorou)    texto = DESFECHOS.perdeuUlcera;
+    else if(encaminhou) texto = DESFECHOS.encaminhou;
+    $('desfecho-texto').innerHTML = texto;
+
+    Array.prototype.forEach.call($('selos').children, function(li){
+      li.classList.toggle('selo--ganho', !!selos[li.getAttribute('data-selo')]);
+    });
+
+    // a rota lida de volta, passo a passo
+    var passos = [
+      {letra:'R', erro: ourosFeitos < 2,
+       voce:'Você gastou os três movimentos e levou ' + ourosFeitos + ' de 3 achados que mudavam o caso.',
+       certo:'<b>Mãos, medicações e índice de placa.</b> Rigidez matinal de mais de uma hora com edema simétrico é artrite reumatoide — ' +
+             'e a ATM é uma articulação sinovial como qualquer outra, sítio real da doença e não colateral dela.² ' +
+             'A periodontite desproporcional à placa também não é coincidência: <i>P. gingivalis</i> citrulina proteínas do hospedeiro e alimenta a resposta autoimune.¹'},
+      {letra:'O', erro: estado.triagem !== 'ambar',
+       voce:'Você escolheu: ' + (estado.triagem === 'verde' ? 'raspar hoje, protocolo padrão.' : estado.triagem === 'ambar' ? 'atender com adaptação e comunicar.' : 'não atender e encaminhar.'),
+       certo:'<b>Atender com adaptação e comunicar.</b> Úlcera atípica em uso de metotrexato pode ser mielossupressão — pede hemograma, não bochecho.⁴ Mas a periodontite não espera cinco semanas por uma vaga.'},
+      {letra:'T', erro: deuAINE,
+       voce:'Você prescreveu: ' + analgesiaEscolhida().texto + '.',
+       certo:'<b>Paracetamol.</b> IECA + diurético + AINE fecham os três lados da filtração renal — a tríplice.³'},
+      {letra:'A', erro: !(estado.intervalo === '34' && estado.cadeira === 'semi' && reavaliarOk),
+       voce:'Seu plano: ' + textoOpcao(PLANO.intervalo, estado.intervalo).toLowerCase() + ', cadeira ' +
+            (estado.cadeira === 'semi' ? 'semi-reclinada' : 'totalmente reclinada') + '.',
+       certo:'<b>3 a 4 meses, semi-reclinada, reavaliando força de preensão e mucosa.</b> ' +
+             'AR de longa data pede cuidado com hiperextensão cervical na cadeira⁵ — e a escova que servia há seis meses pode não servir mais.'}
+    ];
+
+    var lista = $('rota-lida');
+    lista.textContent = '';
+    passos.forEach(function(p){
+      var li = criar('li', 'passo' + (p.erro ? ' passo--erro' : ''));
+      li.appendChild(criar('span', 'passo__letra', p.letra));
+      var col = criar('div');
+      col.appendChild(criar('p', 'passo__voce', p.voce));
+      var c = criar('p', 'passo__certo');
+      c.innerHTML = p.certo;
+      col.appendChild(c);
+      li.appendChild(col);
+      lista.appendChild(li);
+    });
+
+    // o que você não perguntou
+    var naoVistos = MOVIMENTOS.filter(function(m){
+      return estado.movimentos.indexOf(m.id) === -1 && m.peso === 'ouro';
+    });
+    var bloco = $('bloco-perdidos');
+    var ul = $('perdidos');
+    ul.textContent = '';
+    bloco.hidden = naoVistos.length === 0;
+    naoVistos.forEach(function(m){
+      var li = criar('li', 'perdido');
+      li.appendChild(criar('b', null, m.rotulo));
+      li.appendChild(criar('span', null, m.achado));
+      ul.appendChild(li);
+    });
+  }
+
+  /* ---------------- navegação ---------------- */
+  document.addEventListener('click', function(ev){
+    var alvo = ev.target.closest ? ev.target.closest('[data-vai]') : null;
+    if(!alvo || alvo.disabled) return;
+    var destino = alvo.getAttribute('data-vai');
+    if(destino === 'T') montaT();
+    if(destino === 'desfecho') montaDesfecho();
+    mostra(destino);
+  });
+
+  $('de-novo').addEventListener('click', function(){
+    estado = {movimentos:[], triagem:null, analgesia:null, intervalo:null, cadeira:null, reavaliar:[]};
+    $('prontuario').textContent = '';
+    $('eco-O').textContent = '';
+    $('eco-T').textContent = '';
+    $('contador-mov').textContent = '0';
+    ['fim-R','fim-O','fim-T','fim-A'].forEach(function(id){ $(id).disabled = true; });
+    montaR(); montaO(); montaA();
+    mostra('inicio');
+  });
+
+  montaR(); montaO(); montaA();
+  mostra('inicio');
+})();
+</script>
+<!-- ARTIFACT:FIM -->
+</body>
+</html>
