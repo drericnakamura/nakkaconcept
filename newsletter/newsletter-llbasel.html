@@ -11,23 +11,27 @@
 <!--
   NEWSLETTER · IN26 — Longevity Lab Basel
   ===========================================================================
-  Conteúdo e visual vindos do carrossel de 6 telas, tela a tela:
-    01 Osseointegração é um evento sistêmico  ->  hero
-    02 O line-up — odontologia                ->  bloco escuro de nomes
-    03 O line-up — medicina                   ->  bloco claro com credenciais
-    04 Por que juntos                         ->  Planejar/Prescrever/Ajustar/Integrar
-    05 Ao final do congresso                  ->  lista 01-04
-    06 Inscrições abertas                     ->  fecho IN26 + CTA
+  Conteúdo e visual vindos do carrossel, tela a tela (sem a numeração
+  "01/06", que é linguagem de slide e não de e-mail):
+    Osseointegração é um evento sistêmico  ->  hero
+    O line-up — odontologia                ->  bloco escuro de nomes
+    O line-up — medicina                   ->  bloco claro com credenciais
+    Por que juntos                         ->  Planejar/Prescrever/Ajustar/Integrar
+    Ao final do congresso                  ->  lista 01-04
+    Inscrições abertas                     ->  fecho IN26 + CTA
   Paleta tirada do próprio carrossel: petróleo #09323B, quase-branco #F7FAFB,
   marinho #10294A e terracota #C1622F (#B2551F no texto pequeno sobre claro,
   para o contraste passar em AA).
 
   ANTES DE DISPARAR
-  1. Troque LINK-DE-INSCRICAO (aparece 3x) pela URL real de inscrição.
-  2. Troque cada src="assets/..." pela URL absoluta de hospedagem. A maioria
-     das plataformas de envio sobe as imagens sozinha ao importar o HTML.
-  3. Preencha data, local e valores — não constavam do carrossel. Há um bloco
-     marcado "DATA E LOCAL" logo abaixo do hero, pronto para receber.
+  Troque cada src="assets/..." pela URL absoluta de hospedagem. A maioria das
+  plataformas de envio sobe as imagens sozinha ao importar o HTML.
+
+  Data, local e inscrição já estão no arquivo: 22 a 25 de setembro de 2026,
+  Centro de Convenções do Distrito Anhembi (São Paulo), incongress.com.br.
+
+  A marca IN26 veio de um PNG de 145x57 px, então ela entra pequena — 160 px
+  no fecho e 120 px no topo. Com o vetor em mãos, dá para usá-la maior.
 
   LOGOTIPOS
   EMS, Edelwhite Swiss e n&w dental care vêm com fundo branco embutido no PNG;
@@ -50,7 +54,6 @@
     .pad{padding-left:24px !important;padding-right:24px !important;}
     .h1{font-size:33px !important;line-height:40px !important;}
     .h2{font-size:26px !important;line-height:33px !important;}
-    .in26{font-size:58px !important;line-height:62px !important;}
     .card{max-width:100% !important;margin:0 0 12px !important;}
     .parceiro-img{width:190px !important;height:auto !important;}
     .hero-logo{width:210px !important;height:auto !important;}
@@ -77,14 +80,12 @@
     <!-- ══════════ 01 · HERO ══════════ -->
     <tr>
       <td class="pad" style="background-color:#09323B;padding:44px 46px 10px;" bgcolor="#09323B">
-        <p style="margin:0 0 12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:13px;line-height:18px;color:#9FB3B8;">
-          01/06
-        </p>
+        <img src="assets/in26-marca-mini.png" width="120" alt="IN26" style="width:120px;max-width:100%;height:auto;margin:0 0 22px;">
         <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 18px;">
           <tr><td height="2" width="92" style="background-color:#C1622F;font-size:0;line-height:0;">&nbsp;</td></tr>
         </table>
         <p style="margin:0 0 20px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:13px;line-height:18px;letter-spacing:2.4px;text-transform:uppercase;font-weight:700;color:#E08A4F;">
-          In 2026
+          22 a 25 de setembro de 2026
         </p>
         <p class="h1" style="margin:0 0 30px;font-family:Georgia,'Times New Roman',serif;font-size:42px;line-height:50px;font-weight:400;color:#FFFFFF;letter-spacing:-.3px;">
           Osseointegração<br>é um evento<br>sistêmico.
@@ -110,12 +111,11 @@
       </td>
     </tr>
 
-    <!-- ══════════ DATA E LOCAL ══════════
-         Não constava do carrossel. Preencha e remova o comentário. -->
+    <!-- ══════════ DATA E LOCAL ══════════ -->
     <tr>
       <td class="pad" style="background-color:#0C3C46;padding:18px 46px;" bgcolor="#0C3C46" align="center">
         <p style="margin:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:13px;line-height:20px;letter-spacing:1.6px;text-transform:uppercase;color:#BFD0D4;">
-          [Data] &nbsp;·&nbsp; [Local] &nbsp;·&nbsp; Inscrições abertas
+          Centro de Convenções do Distrito Anhembi &nbsp;·&nbsp; São Paulo &nbsp;·&nbsp; Inscrições abertas
         </p>
       </td>
     </tr>
@@ -123,9 +123,6 @@
     <!-- ══════════ 02 · LINE-UP ODONTOLOGIA ══════════ -->
     <tr>
       <td class="pad" style="background-color:#09323B;padding:46px 46px 10px;" bgcolor="#09323B">
-        <p style="margin:0 0 12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:13px;line-height:18px;color:#9FB3B8;">
-          02/06
-        </p>
         <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 18px;">
           <tr><td height="2" width="92" style="background-color:#C1622F;font-size:0;line-height:0;">&nbsp;</td></tr>
         </table>
@@ -164,9 +161,6 @@
     <!-- ══════════ 03 · LINE-UP MEDICINA ══════════ -->
     <tr>
       <td class="pad" style="background-color:#F7FAFB;padding:46px 46px 8px;" bgcolor="#F7FAFB">
-        <p style="margin:0 0 12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:13px;line-height:18px;color:#7A8A93;">
-          03/06
-        </p>
         <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 18px;">
           <tr><td height="2" width="92" style="background-color:#C1622F;font-size:0;line-height:0;">&nbsp;</td></tr>
         </table>
@@ -188,11 +182,15 @@
                 Francisco Tustumi
               </p>
               <p style="margin:0 0 6px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;line-height:22px;color:#44565F;">
-                Cirurgião — FMUSP e Hospital Israelita Albert Einstein &nbsp;·&nbsp; MSc, PhD e pós-doutorado FMUSP
+                Cirurgião — <strong style="color:#B2551F;">FMUSP</strong> e <strong style="color:#B2551F;">Hospital Israelita Albert Einstein</strong> &nbsp;·&nbsp; MSc, PhD e pós-doutorado <strong style="color:#B2551F;">FMUSP</strong>
               </p>
-              <p style="margin:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;line-height:22px;color:#44565F;">
-                Entre os 2% dos pesquisadores mais influentes do mundo (Univ. Stanford)
-              </p>
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:4px 0 0;">
+                <tr>
+                  <td bgcolor="#FBEEE4" style="background-color:#FBEEE4;padding:7px 12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:13px;line-height:19px;font-weight:700;color:#8F4417;">
+                    Entre os 2% dos pesquisadores mais influentes do mundo (Univ. Stanford)
+                  </td>
+                </tr>
+              </table>
             </td>
           </tr>
 
@@ -202,7 +200,7 @@
                 Gabriel Chibana
               </p>
               <p style="margin:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;line-height:22px;color:#44565F;">
-                Diretor — Hospital Santa Marcelina
+                Diretor — <strong style="color:#B2551F;">Hospital Santa Marcelina</strong>
               </p>
             </td>
           </tr>
@@ -213,7 +211,7 @@
                 Vanessa Brito
               </p>
               <p style="margin:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;line-height:22px;color:#44565F;">
-                Neurologista — Hospital Sírio-Libanês &nbsp;·&nbsp; Fellow FMUSP
+                Neurologista — <strong style="color:#B2551F;">Hospital Sírio-Libanês</strong> &nbsp;·&nbsp; Fellow <strong style="color:#B2551F;">FMUSP</strong>
               </p>
             </td>
           </tr>
@@ -224,7 +222,7 @@
                 Eric Nakamura
               </p>
               <p style="margin:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;line-height:22px;color:#44565F;">
-                Cirurgião-dentista FOUSP &nbsp;·&nbsp; MSc e PhD(c) em Gastroenterologia, FMUSP
+                Cirurgião-dentista <strong style="color:#B2551F;">FOUSP</strong> &nbsp;·&nbsp; MSc e PhD(c) em Gastroenterologia, <strong style="color:#B2551F;">FMUSP</strong>
               </p>
             </td>
           </tr>
@@ -236,9 +234,6 @@
     <!-- ══════════ 04 · POR QUE JUNTOS ══════════ -->
     <tr>
       <td class="pad" style="background-color:#F7FAFB;padding:46px 46px 8px;" bgcolor="#F7FAFB">
-        <p style="margin:0 0 12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:13px;line-height:18px;color:#7A8A93;">
-          04/06
-        </p>
         <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 18px;">
           <tr><td height="2" width="92" style="background-color:#C1622F;font-size:0;line-height:0;">&nbsp;</td></tr>
         </table>
@@ -301,9 +296,6 @@
     <!-- ══════════ 05 · AO FINAL DO CONGRESSO ══════════ -->
     <tr>
       <td class="pad" style="background-color:#F1F1EE;padding:46px 46px 8px;" bgcolor="#F1F1EE">
-        <p style="margin:0 0 12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:13px;line-height:18px;color:#7A8A93;">
-          05/06
-        </p>
         <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 18px;">
           <tr><td height="2" width="92" style="background-color:#C1622F;font-size:0;line-height:0;">&nbsp;</td></tr>
         </table>
@@ -385,24 +377,23 @@
     <!-- ══════════ 06 · INSCRIÇÕES ABERTAS ══════════ -->
     <tr>
       <td class="pad" style="background-color:#09323B;padding:48px 46px 10px;" bgcolor="#09323B">
-        <p style="margin:0 0 12px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:13px;line-height:18px;color:#9FB3B8;">
-          06/06
-        </p>
         <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="margin:0 0 18px;">
           <tr><td height="2" width="92" style="background-color:#C1622F;font-size:0;line-height:0;">&nbsp;</td></tr>
         </table>
         <p style="margin:0 0 14px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:13px;line-height:18px;letter-spacing:2.4px;text-transform:uppercase;font-weight:700;color:#E08A4F;">
           Inscrições abertas
         </p>
-        <p class="in26" style="margin:0 0 10px;font-family:Georgia,'Times New Roman',serif;font-size:68px;line-height:72px;font-weight:400;color:#FFFFFF;letter-spacing:.5px;">
-          IN26
-        </p>
+        <img src="assets/in26-marca.png" width="160" alt="IN26" style="width:160px;max-width:100%;height:auto;margin:0 0 22px;">
         <p class="h2" style="margin:0 0 20px;font-family:Georgia,'Times New Roman',serif;font-size:30px;line-height:39px;font-weight:400;color:#FFFFFF;letter-spacing:-.2px;">
           A outra metade do seu<br>plano de tratamento.
         </p>
-        <p style="margin:0 0 30px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;line-height:26px;color:#C3D2D5;">
+        <p style="margin:0 0 20px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:16px;line-height:26px;color:#C3D2D5;">
           Congresso de implante e reabilitação — onde a odontologia
           e a medicina discutem o mesmo paciente.
+        </p>
+        <p style="margin:0 0 30px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:15px;line-height:25px;color:#FFFFFF;">
+          22 a 25 de setembro de 2026<br>
+          Centro de Convenções do Distrito Anhembi — São Paulo
         </p>
 
         <!-- Botão à prova de Outlook -->
@@ -410,13 +401,13 @@
           <tr>
             <td align="center" bgcolor="#C1622F" style="background-color:#C1622F;">
               <!--[if mso]>
-              <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="LINK-DE-INSCRICAO" style="height:52px;v-text-anchor:middle;width:290px;" stroke="f" fillcolor="#C1622F">
+              <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://incongress.com.br" style="height:52px;v-text-anchor:middle;width:290px;" stroke="f" fillcolor="#C1622F">
                 <w:anchorlock/>
                 <center style="color:#ffffff;font-family:Helvetica,Arial,sans-serif;font-size:14px;font-weight:bold;letter-spacing:2px;">GARANTIR MINHA VAGA</center>
               </v:rect>
               <![endif]-->
               <!--[if !mso]><!-- -->
-              <a href="LINK-DE-INSCRICAO" target="_blank" style="display:inline-block;padding:17px 36px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;line-height:18px;font-weight:700;letter-spacing:2.2px;text-transform:uppercase;color:#FFFFFF;background-color:#C1622F;">
+              <a href="https://incongress.com.br" target="_blank" style="display:inline-block;padding:17px 36px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;line-height:18px;font-weight:700;letter-spacing:2.2px;text-transform:uppercase;color:#FFFFFF;background-color:#C1622F;">
                 Garantir minha vaga &nbsp;&rarr;
               </a>
               <!--<![endif]-->
@@ -429,7 +420,7 @@
       <td class="pad" style="background-color:#09323B;padding:14px 46px 46px;" bgcolor="#09323B">
         <p style="margin:0;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-size:14px;line-height:22px;color:#9FB3B8;">
           Ou acesse
-          <a href="LINK-DE-INSCRICAO" target="_blank" style="color:#FFFFFF;text-decoration:underline;">a página de inscrição</a>.
+          <a href="https://incongress.com.br" target="_blank" style="color:#FFFFFF;text-decoration:underline;">a página de inscrição</a>.
         </p>
       </td>
     </tr>
