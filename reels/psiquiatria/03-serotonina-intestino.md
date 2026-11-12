@@ -288,6 +288,7 @@ por que pacientes com depressão podem ter sangramento gengival mesmo sem escova
 
 - **Onde está a serotonina:** "most serotonin is found outside the central nervous system" ([Berger 2009](#fontes)); o trato gastrointestinal "contains much of the body's serotonin" e as células enterocromafins abastecem mucosa, lúmen e plaquetas circulantes ([Yano 2015](#fontes)).
 - **Bactérias regulam a produção:** bactérias formadoras de esporos promovem a biossíntese de 5-HT pelas células enterocromafins, em camundongos e com bactérias humanas ([Yano 2015](#fontes)).
+- **Como o intestino "conversa" com o cérebro:** por sinais neurais e pelo controle do metabolismo do triptofano pela microbiota — não por serotonina atravessando a barreira ([O'Mahony 2015](#fontes)). É área de pesquisa ativa; o roteiro não promete tratamento pelo intestino.
 - **Duas fábricas, dois estoques:** quase toda a 5-HT periférica vem das células enterocromafins; TPH1 no intestino, TPH2 nos núcleos da rafe; "As 5-HT cannot readily cross the blood-brain barrier, the central and peripheral pools of 5-HT are anatomically separated" ([Jones 2020](#fontes); [Walther 2003](#fontes)).
 
 ### A curiosidade
