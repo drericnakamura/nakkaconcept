@@ -1,7 +1,7 @@
 # O fígado escuta a gengiva?
 
 **Selo:** ASSOCIAÇÃO FRACA — aparece em estudos enormes, some em outros, e ninguém testou se tratar previne
-**Duração:** ~2 min 35 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 44 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que atende adulto com obesidade, diabetes ou álcool; médico que acompanha esteatose
 **Cavalo de troia:** o espectador entra para saber se a gengiva causa câncer de fígado. Sai sabendo o que é MASLD, por que o câncer da gordura escapa do rastreio e o que dizer ao paciente.
 **Próximo episódio (gancho):** a bactéria da gengiva dentro do tumor de intestino ([ep07-colorretal.md](ep07-colorretal.md)).
@@ -28,13 +28,9 @@ quem tinha periodontite teve 25% mais câncer de fígado.
 
 E faz sentido.
 
-Tudo o que você engole cai no intestino.
+Tudo o que o intestino absorve passa primeiro pelo fígado, pela veia porta.
 
-E tudo o que o intestino absorve vai primeiro para um lugar só.
-
-O fígado. Pela veia porta.
-
-O fígado é o primeiro a receber o que desce da boca.
+Ou seja: o fígado é o primeiro a receber o que desce da boca.
 
 Pronto. Caso resolvido.
 
@@ -44,23 +40,45 @@ Pronto. Caso resolvido.
 
 Só que não.
 
-Juntando todos os estudos — dezesseis milhões de pessoas — o efeito encolhe para 9%.
+Um estudo sozinho pode enganar. Por isso a ciência junta vários.
 
-Somando três grandes coortes americanas: nada.
+Juntando dezenove estudos, dezesseis milhões de pessoas, o aumento não era de 25%.
 
-E quando usaram genética — o mais próximo de um sorteio que a natureza faz —: nada.
+Era de 9%.
 
-> 🎬 O carimbo rasga. Barra de **+25%** encolhendo para **+9%**, depois para **0**. Ícone de DNA: "efeito = 0".
+> 🎬 O carimbo rasga. Uma pilha de 19 artigos cai na tela. Barra de **+25%** encolhendo até **+9%**.
+
+**[A SEGUNDA MICROEPIFANIA]**
+
+E aí entrou um tipo de estudo mais esperto.
+
+Tem gente que nasce com genes que aumentam a chance de ter periodontite.
+
+Ninguém escolhe esses genes. Eles são sorteados na concepção.
+
+E não têm nada a ver com cigarro, álcool ou comida.
+
+Então dá para perguntar:
+
+quem tirou os genes da periodontite no sorteio tem mais câncer de fígado?
+
+Se a gengiva causasse o câncer, deveria ter.
+
+Não tem.
+
+> 🎬 Bolinhas de bingo com fitas de DNA dentro saindo de um globo. Duas filas de pessoas: **"sorteou genes de periodontite"** e **"não sorteou"**. Fígados iguais nas duas filas. Rodapé: **"Randomização mendeliana"**.
 
 **[O QUESTIONAMENTO]**
 
 Então é mentira?
 
-Também não.
+Também não. Os 9% existem.
 
-Talvez a pergunta esteja errada.
+Mas o que produz esses 9%?
 
-> 🎬 Tela escura. A pergunta do começo reaparece, e um risco atravessa "causa".
+Talvez não seja a gengiva.
+
+> 🎬 Tela escura. **9%** no centro, com um ponto de interrogação girando em volta.
 
 **[A CURIOSIDADE]**
 
@@ -76,9 +94,7 @@ Diz a lenda que Pasteur, no fim da vida, teria admitido:
 
 Provavelmente ele nunca disse isso.
 
-Mas a frase sobreviveu. Porque explica muita coisa.
-
-Inclusive esta.
+Mas a frase sobreviveu. E explica este caso.
 
 > 🎬 Retratos recortados de Pasteur e Bernard, um de cada lado de uma balança. A citação entra com a etiqueta **"atribuída — provavelmente apócrifa"**.
 
@@ -102,23 +118,17 @@ Portanto, a gengiva talvez não seja a causa.
 
 Mas pode ser a janela.
 
-E do outro lado dessa janela está a causa de câncer de fígado que mais cresce no mundo: a gordura no fígado. MASLD — o nome novo da esteatose.
+Do outro lado dela está a causa de câncer de fígado que mais cresce no mundo: a gordura no fígado, a MASLD.
 
-Quase um em cada três adultos no mundo.
-
-Na América Latina, mais de quatro em cada dez.
+Já são quase um em cada três adultos.
 
 > 🎬 Uma janela se abre na gengiva e mostra um fígado amarelado. **~1 em 3** · **44% na América Latina**.
 
 **[O QUE NINGUÉM TE CONTOU]**
 
-O detalhe que pouca gente sabe:
+E esse câncer nem sempre espera a cirrose: quase quatro em cada dez aparecem sem ela.
 
-o câncer de fígado da gordura nem sempre espera a cirrose.
-
-Quase quatro em cada dez aparecem num fígado sem cirrose.
-
-Mas só um em cada três estava sendo rastreado.
+Só um em cada três estava sendo rastreado.
 
 É o paciente que ninguém está olhando.
 
@@ -136,13 +146,11 @@ Ninguém provou que tratar a gengiva previne câncer de fígado.
 
 **[O QUE MUDA AMANHÃ]**
 
-Periodontite com barriga, glicemia alta ou álcool? Pergunte: "Você já olhou o seu fígado?"
+Periodontite com barriga, glicemia alta ou álcool? Pergunte: "Já olhou o seu fígado?"
 
-Emagrecimento sem dieta, olho amarelo, barriga crescendo: gastroenterologista.
+Emagreceu sem dieta, olho amarelo, barriga crescendo: gastroenterologista.
 
-E diga ao paciente o que funciona: se mexer, perder peso, beber menos.
-
-E vacina de hepatite B em dia — a primeira vacina da história a prevenir um câncer.
+Para o paciente: se mexer, perder peso, beber menos. E vacina de hepatite B em dia — a primeira da história a prevenir um câncer.
 
 > 🎬 Lista com as letras da ROTA no canto. Ícones com o número ao lado: tênis **−27% (observacional)** · balança **−10% do peso → esteato-hepatite resolvida em 9 de 10** · copo riscado **álcool pesado = 2× o risco** · seringa **hepatite B: −69% de CHC nos vacinados**.
 
@@ -168,9 +176,9 @@ E ela viaja com o câncer.
 
 ---
 
-**Narração:** cerca de 435 palavras, perto de 2 min 35 s em ritmo de explainer, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
+**Narração:** cerca de 460 palavras, perto de 2 min 44 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
 
-**Corte de 90 s:** manter PERGUNTA, PISTA, MICROEPIFANIA (sem os camundongos), QUEBRA, QUESTIONAMENTO, VIRADA, SELO, FRASE e GANCHO. Condensar a CURIOSIDADE em duas linhas ("Pasteur dizia: o micróbio. Bernard: o terreno.") e mover O QUE NINGUÉM TE CONTOU e O QUE MUDA AMANHÃ para a legenda e o carrossel.
+**Corte de 90 s:** manter PERGUNTA, PISTA, MICROEPIFANIA, QUEBRA, SEGUNDA MICROEPIFANIA (só as três últimas linhas: a pergunta do sorteio, "deveria ter", "não tem"), QUESTIONAMENTO, VIRADA, SELO, FRASE e GANCHO. Condensar a CURIOSIDADE em duas linhas ("Pasteur dizia: o micróbio. Bernard: o terreno.") e mover O QUE NINGUÉM TE CONTOU e O QUE MUDA AMANHÃ para a legenda e o carrossel.
 
 ### O motor do episódio
 
@@ -179,7 +187,8 @@ E ela viaja com o câncer.
 | Cavalo de troia | A pergunta é sobre gengiva; a aula é sobre MASLD e rastreio de CHC |
 | Microepifania | "O fígado é o primeiro a receber o que desce da boca" · "O câncer da gordura nem sempre espera a cirrose" |
 | Falsa resolução | "Pronto. Caso resolvido." |
-| Quebra de clímax | "Só que não." — o número encolhe de 25% para zero |
+| Quebra de clímax | "Só que não." — o número encolhe de 25% para 9% |
+| Segunda microepifania | O sorteio genético: "quem tirou os genes da periodontite no sorteio tem mais câncer de fígado? … Não tem." Prepara a virada do terreno, porque o sorteio é justamente o que tira cigarro, álcool e comida da conta |
 | Questionamento | "Então é mentira? Também não. Talvez a pergunta esteja errada." |
 | Mas / portanto | MAS os estudos discordam → PORTANTO a pergunta muda → MAS a gengiva vira janela → PORTANTO olhe o fígado |
 | Curiosidade | Pasteur × Bernard, e a frase que ele provavelmente nunca disse · hepatite B, a primeira vacina contra câncer |
@@ -271,7 +280,7 @@ E ela viaja com o câncer.
 
 > Gengiva que sangra causa câncer de fígado?
 >
-> Um estudo sueco com quase 6 milhões de pessoas viu 25% mais câncer de fígado em quem tinha periodontite. Caso resolvido? Não: somando todos os estudos, o efeito cai para ~9%. Em três grandes coortes americanas e na genética: zero.
+> Um estudo sueco com quase 6 milhões de pessoas viu 25% mais câncer de fígado em quem tinha periodontite. Caso resolvido? Não: juntando 19 estudos, o aumento cai para ~9%. E nos estudos genéticos — que comparam quem nasceu com genes que favorecem a periodontite, sorteados ao acaso e sem relação com cigarro ou álcool — nenhum efeito sobre o fígado.
 >
 > Talvez a pergunta esteja errada. Gengiva e fígado podem estar respondendo ao mesmo terreno — cigarro, álcool, açúcar, barriga. A gengiva não é a causa. É a janela.
 >
@@ -306,7 +315,7 @@ E ela viaja com o câncer.
 | Coreia, 3,8 milhões ([Lee 2025](#fontes)) | Coorte administrativa | Perda dentária HR 1,09 (1,04–1,14) |
 | Metanálise, 19 estudos, 16,6 milhões ([Wang 2024](#fontes)) | Metanálise | HR 1,09 (1,04–1,13) |
 | EUA, HPFS + NHS + WHI ([Wu 2026](#fontes)) | Coortes somadas, 198 casos | HR 0,99 (0,67–1,47) — **nulo**; autores: "inconclusive" |
-| Randomização mendeliana ([Sergeeva 2025](#fontes)) | Genética | OR 1,04 (0,90–1,20) — **nulo** |
+| Randomização mendeliana ([Sergeeva 2025](#fontes)) | Genética | OR 1,04 (0,90–1,20) — **nulo**. Ressalva: os genes ligados à periodontite explicam pouco da doença (instrumentos fracos), então o nulo não exclui um efeito pequeno. Por isso o roteiro diz "Também não. Os 9% existem" |
 
 ### Por que o selo é ASSOCIAÇÃO FRACA
 
