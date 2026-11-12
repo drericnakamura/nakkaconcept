@@ -1,7 +1,7 @@
 # Por que pessoas com depressão têm bactérias diferentes na boca?
 
 **Selo:** ASSOCIAÇÃO — depressão e boca andam juntas; o caminho mais provável passa pelo terreno que a depressão cria, não por uma "bactéria da tristeza"
-**Duração:** ~2 min 50 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 52 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que acompanha pacientes por anos; psiquiatra, clínico e médico de família
 **Cavalo de troia:** o espectador entra pela curiosidade microbiológica. Sai sabendo que a boca funciona como um diário do comportamento, que depressão se associa a mais cárie, periodontite e perda dentária, que o paciente deprimido responde pior à raspagem e como ajustar o plano de cuidado.
 **Em outro episódio (gancho):** "Por que pacientes com depressão podem apresentar sangramento gengival mesmo sem escovar menos os dentes?"
@@ -19,13 +19,13 @@ Por que pessoas com depressão têm bactérias diferentes na boca?
 
 **[A PISTA]**
 
-Em 2021, na Irlanda do Norte, pesquisadores sequenciaram a saliva de quarenta jovens com depressão e de quarenta e três sem.
+Em 2021, pesquisadores sequenciaram a saliva de jovens com e sem depressão.
 
 Quarenta tipos de bactéria apareciam em quantidade diferente.
 
 Nos Estados Unidos, em mais de seis mil pessoas, quanto menos variada a comunidade de bactérias da boca, mais depressão.
 
-> 🎬 Primeira página da *Scientific Reports* 2021. Barras de bactérias subindo e descendo: **21 ↑ · 19 ↓**. Mapa dos EUA: **6.212 pessoas**. Lettering: **MICROBIOMA ORAL — a comunidade de bactérias da boca**.
+> 🎬 Primeira página da *Scientific Reports* 2021. Lettering: **Irlanda do Norte · 40 jovens com depressão × 43 sem**. Barras de bactérias subindo e descendo: **21 ↑ · 19 ↓**. Mapa dos EUA: **6.212 pessoas**. Lettering: **MICROBIOMA ORAL — a comunidade de bactérias da boca**.
 
 **[A MICROEPIFANIA]**
 
@@ -45,9 +45,13 @@ Uma comunidade de bactérias não muda sozinha.
 
 Ela muda quando muda o lugar onde ela vive.
 
-E a depressão muda o lugar inteiro.
+Na boca, esse lugar é feito de três coisas: a escova que passa, o açúcar que chega e a defesa da gengiva.
 
-> 🎬 O carimbo rasga. A placa de Petri vira uma paisagem — um ecossistema — que vai mudando de cor.
+Mexeu numa delas, outras bactérias levam vantagem — o que chamamos de hipótese ecológica da placa.
+
+E a depressão mexe nas três.
+
+> 🎬 O carimbo rasga. A placa de Petri vira uma paisagem — um ecossistema — com três controles deslizantes: **ESCOVA · AÇÚCAR · DEFESA**. A cada controle que se move, a paisagem muda de cor. Lettering: **HIPÓTESE ECOLÓGICA DA PLACA** (Marsh, 1994).
 
 **[A CURIOSIDADE]**
 
@@ -55,7 +59,7 @@ Na Primeira Guerra Mundial, uma doença de gengiva ficou tão comum entre os sol
 
 O nome técnico é gengivite ulcerativa necrosante.
 
-Décadas depois, ela reapareceu em recrutas e em estudantes universitários — jovens no auge da saúde.
+Décadas depois, reapareceu em recrutas e universitários — jovens no auge da saúde.
 
 O que eles tinham em comum?
 
@@ -79,13 +83,13 @@ Não é "que bactéria a depressão traz".
 
 **[O TERRENO]**
 
-A energia some, e a escova fica para depois: quem se sente deprimido tem mais chance de escovar menos.
+A escova: a energia some, e escovar fica para depois.
 
-A comida muda: em quase dezoito mil adolescentes, parte da ligação entre depressão e cárie passou pelo açúcar e pela escova.
+O açúcar: em quase dezoito mil adolescentes, parte da ligação entre depressão e cárie passou pelo açúcar e pela escova.
 
-O cigarro entra — e cigarro e depressão se puxam nos dois sentidos.
+A defesa: o cigarro entra — e cigarro e depressão se puxam nos dois sentidos.
 
-E o estresse crônico pesa: num estudo com mais de mil e quatrocentos adultos, aperto financeiro com pouca capacidade de enfrentamento se associou a mais perda de osso ao redor dos dentes.
+E o estresse crônico pesa sobre ela: em mais de mil e quatrocentos adultos, aperto financeiro sem estratégia para enfrentar se associou a mais perda de osso ao redor dos dentes.
 
 > 🎬 Quatro quadros, um por linha: escova parada no copo (**+37% de chance de escovar menos**); doces se acumulando; cigarro com setas nos dois sentidos para uma nuvem cinza; boleto com radiografia de perda óssea. Lettering no último: **ENFRENTAMENTO — a forma de lidar com o problema**.
 
@@ -101,11 +105,11 @@ Mas é uma consequência que cobra preço: quem tem depressão tem cerca de trin
 
 **[O QUE NINGUÉM TE CONTOU]**
 
-E tem um detalhe que pouca gente sabe.
+Pouca gente sabe:
 
-Pacientes sob estresse crônico respondem pior à raspagem.
+pacientes sob estresse crônico respondem pior à raspagem.
 
-O mesmo tratamento, a mesma técnica.
+Mesma técnica.
 
 E quase oito décimos de milímetro a menos de ganho de inserção.
 
@@ -155,7 +159,7 @@ mesmo sem escovar menos os dentes?
 
 ---
 
-**Narração:** cerca de 470 palavras, perto de 2 min 50 s em ritmo de explainer, com as pausas das quebras.
+**Narração:** cerca de 480 palavras, perto de 2 min 52 s, com as pausas das quebras.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (só a Irlanda do Norte), MICROEPIFANIA, QUEBRA, CURIOSIDADE (condensada: "boca de trincheira — as bactérias já moravam ali; o que mudou foi o dono da boca"), VIRADA, SELO, FRASE e GANCHO. Mover O TERRENO, O QUESTIONAMENTO, O QUE NINGUÉM TE CONTOU e O QUE MUDA AMANHÃ para a legenda e o carrossel.
 
@@ -333,6 +337,7 @@ mesmo sem escovar menos os dentes?
 16. Dazzi T, Gribble R, Wessely S, Fear NT. Does asking about suicide and related behaviours induce suicidal ideation? What is the evidence? Psychol Med. 2014;44(16):3361-3. doi:10.1017/S0033291714001299. PMID: 24998511.
 17. Schuch FB, Vancampfort D, Firth J, Rosenbaum S, Ward PB, Silva ES, et al. Physical activity and incident depression: a meta-analysis of prospective cohort studies. Am J Psychiatry. 2018;175(7):631-48. doi:10.1176/appi.ajp.2018.17111194. PMID: 29690792.
 18. Taylor G, McNeill A, Girling A, Farley A, Lindson-Hawley N, Aveyard P. Change in mental health after smoking cessation: systematic review and meta-analysis. BMJ. 2014;348:g1151. doi:10.1136/bmj.g1151. PMID: 24524926.
+19. Marsh PD. Microbial ecology of dental plaque and its significance in health and disease. Adv Dent Res. 1994;8(2):263-71. doi:10.1177/08959374940080022001. PMID: 7865085.
 
 ---
 
@@ -343,7 +348,7 @@ Só a narração, sem rótulos nem indicações de cena. Números por extenso, u
 ```text
 Por que pessoas com depressão têm bactérias diferentes na boca?
 
-Em dois mil e vinte e um, na Irlanda do Norte, pesquisadores sequenciaram a saliva de quarenta jovens com depressão e de quarenta e três sem.
+Em dois mil e vinte e um, pesquisadores sequenciaram a saliva de jovens com e sem depressão.
 Quarenta tipos de bactéria apareciam em quantidade diferente.
 Nos Estados Unidos, em mais de seis mil pessoas, quanto menos variada a comunidade de bactérias da boca, mais depressão.
 
@@ -355,11 +360,15 @@ Só que não.
 
 Uma comunidade de bactérias não muda sozinha.
 Ela muda quando muda o lugar onde ela vive.
-E a depressão muda o lugar inteiro.
+Na boca, esse lugar é feito de três coisas:
+a escova que passa, o açúcar que chega e a defesa da gengiva.
+Mexeu numa delas, outras bactérias levam vantagem.
+O que chamamos de hipótese ecológica da placa.
+E a depressão mexe nas três.
 
 Na Primeira Guerra Mundial, uma doença de gengiva ficou tão comum entre os soldados que ganhou o apelido de boca de trincheira.
 O nome técnico é gengivite ulcerativa necrosante.
-Décadas depois, ela reapareceu em recrutas e em estudantes universitários.
+Décadas depois, reapareceu em recrutas e universitários.
 Jovens no auge da saúde.
 O que eles tinham em comum?
 Não era uma bactéria nova.
@@ -371,23 +380,21 @@ Portanto, a pergunta muda.
 Não é que bactéria a depressão traz.
 É o que a depressão faz com a vida de quem tem.
 
-A energia some, e a escova fica para depois.
-Quem se sente deprimido tem mais chance de escovar menos.
-A comida muda.
-Em quase dezoito mil adolescentes, parte da ligação entre depressão e cárie passou pelo açúcar e pela escova.
-O cigarro entra.
+A escova: a energia some, e escovar fica para depois.
+O açúcar: em quase dezoito mil adolescentes, parte da ligação entre depressão e cárie passou pelo açúcar e pela escova.
+A defesa: o cigarro entra.
 E cigarro e depressão se puxam nos dois sentidos.
-E o estresse crônico pesa.
-Num estudo com mais de mil e quatrocentos adultos, aperto financeiro com pouca capacidade de enfrentamento se associou a mais perda de osso ao redor dos dentes.
+E o estresse crônico pesa sobre ela.
+Em mais de mil e quatrocentos adultos, aperto financeiro sem estratégia para enfrentar se associou a mais perda de osso ao redor dos dentes.
 
 Então as bactérias diferentes são só consequência?
 Em boa parte, provavelmente.
 Mas é uma consequência que cobra preço.
 Quem tem depressão tem cerca de trinta por cento mais periodontite, mais cárie e mais perda de todos os dentes.
 
-E tem um detalhe que pouca gente sabe.
-Pacientes sob estresse crônico respondem pior à raspagem.
-O mesmo tratamento, a mesma técnica.
+Pouca gente sabe:
+pacientes sob estresse crônico respondem pior à raspagem.
+Mesma técnica.
 E quase oito décimos de milímetro a menos de ganho de inserção.
 
 Depressão e boca andam juntas.
