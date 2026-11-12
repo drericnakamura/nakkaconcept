@@ -1,0 +1,1734 @@
+# Roteiro de gravação — o que falar e o que gravar com o rosto
+
+18 roteiros, na ordem: Qual é qual (fígado), Psiquiatria 01–11, Suíça 01–04, Portugal 01–02.
+
+## Como ler
+
+- **🎥 ROSTO** — grave olhando para a lente. É o que aparece com você na tela.
+- **🎙️ OFF** — só a sua voz. Na edição, esse trecho vai coberto por gráfico, artigo, foto de arquivo ou animação (as indicações estão no documento, nas linhas 🎬).
+- Uma linha = uma frase. Linha em branco entre blocos = pausa.
+
+## Como gravar
+
+1. **Rosto primeiro, em sequência.** Grave todos os blocos 🎥 do episódio de uma vez, na ordem. Mantém o mesmo ritmo e a mesma energia.
+2. **OFF no mesmo microfone, no mesmo dia.** Pode ler sentado, sem olhar para a lente. O som precisa casar com o do rosto.
+3. **Na dúvida, grave o OFF também com o rosto.** Custa pouco e dá ao editor a opção de mostrar você.
+4. **As quebras são o tempero.** "Pronto. Caso resolvido." com confiança; um segundo de silêncio; "Só que não." seco, olhando para a lente.
+5. **Números:** aqui estão em algarismos para caber na linha. A versão com números por extenso está no fim de cada episódio, no documento.
+
+---
+
+## Qual é qual · EP01 — O fígado escuta a gengiva?
+
+Duração: ~2 min 50 s · 59% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+Gengiva que sangra pode ter alguma coisa a ver com câncer de fígado?  
+
+🎙️ **OFF** · a pista
+
+Uma coorte sueca acompanhou quase seis milhões de pessoas:  
+quem tinha periodontite teve 25% mais câncer de fígado.  
+
+🎙️ **OFF** · a microepifania
+
+E faz sentido.  
+Tudo o que o intestino absorve passa primeiro pelo fígado, pela veia porta.  
+O fígado é o primeiro a receber o que desce da boca.  
+
+🎥 **ROSTO** · a microepifania
+
+Pronto. Caso resolvido.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+Um estudo sozinho pode enganar. Por isso existe a metanálise: juntar vários.  
+Dezenove estudos, dezesseis milhões de pessoas: o aumento não era de 25%.  
+Era de 9%.  
+
+🎙️ **OFF** · a segunda microepifania
+
+Aí entra um estudo mais esperto.  
+Tem gente que nasce com genes que facilitam a periodontite.  
+Ninguém escolhe esses genes. Eles são sorteados na concepção.  
+E não têm nada a ver com cigarro, álcool ou comida.  
+Esse desenho se chama randomização mendeliana. E permite perguntar:  
+quem tirou os genes da periodontite no sorteio tem mais câncer de fígado?  
+Se a gengiva causasse o câncer, deveria ter.  
+Não tem.  
+
+🎥 **ROSTO** · o questionamento
+
+Então é mentira?  
+Também não. Os 9% existem.  
+Mas o que produz esses 9%?  
+Talvez não seja a gengiva.  
+
+🎙️ **OFF** · a curiosidade
+
+No século XIX, uma briga famosa.  
+Pasteur dizia: a doença vem do micróbio.  
+Claude Bernard respondia: depende do terreno onde o micróbio cai.  
+Diz a lenda que Pasteur, no fim da vida, teria admitido:  
+"Bernard tinha razão. O micróbio não é nada. O terreno é tudo."  
+Provavelmente ele nunca disse isso.  
+Mas a frase sobreviveu. E explica este caso.  
+
+🎥 **ROSTO** · a virada
+
+E se a gengiva e o fígado não estiverem conversando entre si…  
+mas respondendo ao mesmo terreno?  
+Cigarro. Álcool. Glicemia alta. Gordura abdominal.  
+Os quatro inflamam a gengiva.  
+Os quatro adoecem o fígado.  
+
+🎥 **ROSTO** · o portanto
+
+Portanto, a gengiva talvez não seja a causa.  
+Mas pode ser a janela.  
+Do outro lado dela, a causa de câncer de fígado que mais cresce no mundo: gordura no fígado — a doença hepática esteatótica metabólica, a MASLD.  
+Já são quase um em cada três adultos.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+E esse câncer — o carcinoma hepatocelular — nem sempre espera a cirrose: quase quatro em cada dez aparecem sem ela.  
+Só um em cada três estava em rastreamento.  
+É o paciente que ninguém está olhando.  
+Talvez ele esteja na sua cadeira. Com a gengiva sangrando.  
+
+🎥 **ROSTO** · o selo
+
+Às vezes, andam juntas.  
+Ninguém provou que tratar a gengiva previne câncer de fígado.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Periodontite com obesidade abdominal, glicemia alta ou álcool? Pergunte: "Já olhou o seu fígado?"  
+Perda de peso involuntária. Olho amarelado — o que chamamos de icterícia. Abdome crescendo, que pode ser ascite. Qualquer um desses: gastroenterologista.  
+Para o paciente: se mexer, perder peso, beber menos. E vacina de hepatite B em dia — a primeira da história a prevenir um câncer.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+No próximo episódio:  
+uma bactéria da gengiva foi encontrada dentro de tumores de intestino.  
+E ela viaja com o câncer.  
+
+---
+
+## Psiquiatria 01 — As bactérias da sua boca podem influenciar seu humor?
+
+Duração: ~2 min 40 s · 57% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+As bactérias da sua boca podem influenciar o seu humor?  
+
+🎙️ **OFF** · a pista
+
+Pesquisadores chineses injetaram na gengiva de camundongos o LPS — um pedaço da parede da Porphyromonas gingivalis, a bactéria símbolo da periodontite.  
+Em três semanas, os animais tinham periodontite.  
+E algo mais: passaram a se comportar como camundongos deprimidos.  
+
+🎙️ **OFF** · a microepifania
+
+E faz sentido.  
+A gengiva inflamada solta no sangue os mensageiros da inflamação — as citocinas, como a interleucina-6.  
+E o cérebro escuta esses mensageiros — é por isso que, gripado, você fica sem energia e sem vontade de nada. No cérebro daqueles camundongos, o hipocampo estava inflamado.  
+
+🎥 **ROSTO** · a microepifania
+
+Pronto. A boca deprime.  
+Caso resolvido.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+Camundongo não é gente.  
+Quando uma metanálise juntou os estudos em pessoas, quem tinha doença periodontal não teve mais depressão de forma significativa.  
+O aumento ficou em sete por cento — dentro da margem do acaso.  
+
+🎥 **ROSTO** · o questionamento
+
+Então a inflamação não mexe com o humor?  
+Mexe. E isso já foi provado em gente.  
+
+🎙️ **OFF** · a curiosidade
+
+Durante anos, a hepatite C foi tratada com interferon-alfa — uma injeção que imita o sinal de alarme de uma infecção.  
+E os médicos notaram um efeito colateral estranho: um em cada quatro pacientes desenvolvia depressão maior.  
+Em 2009, em Londres, pesquisadores testaram isso de propósito.  
+Dezesseis voluntários saudáveis tomaram vacina de febre tifoide ou placebo, sem saber qual.  
+Com a vacina, a interleucina-6 subiu — e em três horas o humor caiu.  
+A ressonância mostrou mais atividade numa região ligada à depressão: o cíngulo subgenual.  
+
+🎥 **ROSTO** · a virada
+
+Portanto, a inflamação é uma das portas de entrada da depressão.  
+E não é uma porta rara: um em cada quatro pacientes deprimidos tem inflamação de baixo grau no sangue — proteína C-reativa acima de três.  
+Mas a periodontite produz inflamação suficiente para abrir essa porta?  
+Ninguém mostrou ainda.  
+E não encontramos nenhum ensaio que tenha testado se tratar a gengiva melhora a depressão.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+E se o problema é inflamação, a tentação na cadeira é o anti-inflamatório. Cuidado.  
+O antidepressivo, sozinho, quase não faz a extração sangrar.  
+O problema é o anti-inflamatório que a gente prescreve depois.  
+Junto com um antidepressivo do tipo ISRS, o risco de sangramento no estômago fica quatro vezes maior.  
+
+🎥 **ROSTO** · o selo
+
+Inflamação mudando o humor: provado.  
+A gengiva causando depressão: ainda não.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Trate a periodontite pelo que ela é — e não prometa melhora do humor.  
+Mas pergunte. Duas perguntas bastam: nas últimas duas semanas, você se sentiu para baixo? Perdeu o prazer nas coisas?  
+É o PHQ-2, um rastreio de dois itens.  
+Pontuou alto? Médico.  
+Falou em não querer viver? No mesmo dia. CVV, cento e oitenta e oito.  
+E em quem toma antidepressivo, prefira o paracetamol ao anti-inflamatório.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+se quase toda a serotonina do corpo é produzida no intestino…  
+por que a depressão é tratada no cérebro?  
+
+---
+
+## Psiquiatria 02 — Por que pessoas com depressão têm bactérias diferentes na boca?
+
+Duração: ~2 min 52 s · 45% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+Por que pessoas com depressão têm bactérias diferentes na boca?  
+
+🎙️ **OFF** · a pista
+
+Em 2021, pesquisadores sequenciaram a saliva de jovens com e sem depressão.  
+Quarenta tipos de bactéria apareciam em quantidade diferente.  
+Nos Estados Unidos, em mais de seis mil pessoas, quanto menos variada a comunidade de bactérias da boca, mais depressão.  
+
+🎙️ **OFF** · a microepifania
+
+Então a depressão deixa uma assinatura na boca.  
+Um dia, um exame de saliva vai diagnosticar depressão.  
+
+🎥 **ROSTO** · a microepifania
+
+Pronto. Caso resolvido.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+Uma comunidade de bactérias não muda sozinha.  
+Ela muda quando muda o lugar onde ela vive.  
+Na boca, esse lugar é feito de três coisas: a escova que passa, o açúcar que chega e a defesa da gengiva.  
+Mexeu numa delas, outras bactérias levam vantagem — o que chamamos de hipótese ecológica da placa.  
+E a depressão mexe nas três.  
+
+🎙️ **OFF** · a curiosidade
+
+Na Primeira Guerra Mundial, uma doença de gengiva ficou tão comum entre os soldados que ganhou o apelido de boca de trincheira.  
+O nome técnico é gengivite ulcerativa necrosante.  
+Décadas depois, reapareceu em recrutas e universitários — jovens no auge da saúde.  
+O que eles tinham em comum?  
+Não era uma bactéria nova.  
+Era estresse, cansaço, cigarro, comida ruim e pouca higiene.  
+As bactérias já moravam ali. O que mudou foi o dono da boca.  
+
+🎥 **ROSTO** · a virada
+
+Portanto, a pergunta muda.  
+Não é "que bactéria a depressão traz".  
+É "o que a depressão faz com a vida de quem tem".  
+
+🎙️ **OFF** · o terreno
+
+A escova: a energia some, e escovar fica para depois.  
+O açúcar: em quase dezoito mil adolescentes, parte da ligação entre depressão e cárie passou pelo açúcar e pela escova.  
+A defesa: o cigarro entra — e cigarro e depressão se puxam nos dois sentidos.  
+E o estresse crônico pesa sobre ela: em mais de mil e quatrocentos adultos, aperto financeiro sem estratégia para enfrentar se associou a mais perda de osso ao redor dos dentes.  
+
+🎥 **ROSTO** · o questionamento
+
+Então as bactérias diferentes são só consequência?  
+Em boa parte, provavelmente.  
+Mas é uma consequência que cobra preço: quem tem depressão tem cerca de trinta por cento mais periodontite, mais cárie e mais perda de todos os dentes.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+Pouca gente sabe:  
+pacientes sob estresse crônico respondem pior à raspagem.  
+Mesma técnica.  
+E quase oito décimos de milímetro a menos de ganho de inserção.  
+
+🎥 **ROSTO** · o selo
+
+Depressão e boca andam juntas.  
+O caminho mais provável passa pelo comportamento — não por uma bactéria da tristeza.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Higiene que piorou de repente não é preguiça. Pode ser sintoma.  
+Pergunte pelo humor: nas últimas duas semanas, se sentiu para baixo? Perdeu o prazer nas coisas?  
+Sim às duas? Médico.  
+Falou em não querer viver? Hoje. CVV, cento e oitenta e oito.  
+E adapte o plano: retornos mais curtos, rotina mais simples, menos açúcar.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+por que pacientes com depressão podem ter sangramento gengival…  
+mesmo sem escovar menos os dentes?  
+
+---
+
+## Psiquiatria 03 — A serotonina mora no intestino. Por que a depressão é tratada no cérebro?
+
+Duração: ~2 min 50 s · 63% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+Se quase toda a serotonina do corpo é produzida no intestino, por que a depressão é tratada no cérebro?  
+
+🎙️ **OFF** · a pista
+
+A premissa é verdadeira.  
+A maior parte da serotonina do corpo está fora do cérebro.  
+Quem fabrica são as células enterocromafins, sensores na parede do intestino.  
+
+🎙️ **OFF** · a curiosidade
+
+A serotonina foi descoberta duas vezes.  
+Em 1937, o italiano Vittorio Erspamer achou no intestino uma substância e chamou de enteramina.  
+Em 1948, americanos acharam no sangue uma substância que contraía os vasos: serotonina — soro mais tônus.  
+Só depois perceberam que era a mesma molécula.  
+E no cérebro? Só foi encontrada em 1953.  
+A molécula do humor nasceu como molécula do intestino e do vaso.  
+
+🎙️ **OFF** · a microepifania
+
+Então é só cuidar do intestino que o humor melhora.  
+
+🎥 **ROSTO** · a microepifania
+
+Pronto. Caso resolvido.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+Entre o sangue e o cérebro existe um filtro — a barreira hematoencefálica.  
+E a serotonina não atravessa esse filtro com facilidade.  
+São duas fábricas, com enzimas diferentes: uma no intestino, outra no tronco cerebral.  
+Dois estoques que não se misturam.  
+A serotonina do intestino não é a serotonina do humor.  
+
+🎙️ **OFF** · a segunda microepifania
+
+E para onde vai a serotonina do intestino?  
+Boa parte vai parar dentro das plaquetas — as células que fecham o sangramento.  
+Guarde essa informação.  
+
+🎥 **ROSTO** · o questionamento
+
+Então a depressão é falta de serotonina no cérebro, certo? O famoso desequilíbrio químico.  
+Em 2022, uma grande revisão não achou evidência consistente de que a depressão seja causada por serotonina baixa.  
+Então o antidepressivo é placebo?  
+Também não.  
+Numa metanálise com mais de cem mil pacientes, os 21 antidepressivos testados funcionaram melhor que o placebo.  
+
+🎥 **ROSTO** · a virada
+
+O detalhe que resolve o paradoxo é o tempo.  
+O antidepressivo demora semanas para fazer efeito.  
+Se fosse só repor serotonina, por que a demora?  
+Porque ele não enche um tanque vazio. Ele muda, aos poucos, a forma como o cérebro processa emoção — o que chamamos de neuroplasticidade.  
+
+🎥 **ROSTO** · o portanto
+
+Portanto, a depressão é tratada no cérebro porque a serotonina do humor é fabricada no cérebro.  
+O intestino conversa com o cérebro. Mas não mandando serotonina pelo sangue.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+Lembra das plaquetas?  
+O antidepressivo bloqueia a recaptação — o reaproveitamento — de serotonina no cérebro — e também na plaqueta. Ela fica com menos serotonina e agrega pior.  
+Sozinho, o efeito é pequeno.  
+Mas antidepressivo somado a anti-inflamatório multiplicou por quatro o risco de sangramento digestivo.  
+É aqui que o dentista entra.  
+
+🎥 **ROSTO** · o selo
+
+A teoria da "falta de serotonina" é uma hipótese.  
+A eficácia do antidepressivo é estabelecida.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Vai extrair? Não suspenda o antidepressivo: nos estudos, o sangramento na boca foi raro. Capriche na hemostasia local.  
+Anti-inflamatório? Só combinado com o médico.  
+Tramadol junto com antidepressivo pode causar síndrome serotoninérgica — um excesso perigoso de serotonina.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+por que pacientes com depressão podem ter sangramento gengival mesmo sem escovar menos os dentes?  
+
+---
+
+## Psiquiatria 04 — O antidepressivo muda a boca — ou a depressão muda o microbioma?
+
+Duração: ~2 min 40 s · 43% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+O antidepressivo muda a boca?  
+Ou é a depressão que muda as bactérias da boca?  
+
+🎙️ **OFF** · a pista
+
+A queixa aparece todo dia: "Desde que comecei o remédio, minha boca vive seca."  
+E não é impressão.  
+Juntando noventa e nove ensaios com mais de vinte mil pessoas, os antidepressivos modernos aumentaram a xerostomia — a sensação de boca seca.  
+Os ISRS, como a sertralina, em sessenta e cinco por cento. Os IRSN, como a venlafaxina, em mais que o dobro.  
+
+🎙️ **OFF** · a microepifania
+
+E saliva é a defesa da boca: lava, neutraliza o ácido, carrega anticorpos.  
+Menos saliva, outro ambiente. Outro ambiente, outras bactérias.  
+
+🎥 **ROSTO** · a microepifania
+
+Pronto. É o remédio.  
+Caso resolvido.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+Quem toma antidepressivo também tem depressão.  
+E a depressão muda a escova, a comida, o cigarro, o sono.  
+Então, como separar o remédio da doença?  
+
+🎙️ **OFF** · a curiosidade
+
+A história ajuda a desconfiar.  
+O primeiro antidepressivo, a iproniazida, nasceu nos anos cinquenta como remédio contra tuberculose — um antimicrobiano.  
+Foi por acaso que se descobriu que ele agia no humor.  
+E a recíproca vale: remédio feito para o corpo humano também mexe com bactérias.  
+Num teste com mais de mil medicamentos, um em cada quatro remédios feitos para o corpo humano freou o crescimento de bactérias do intestino.  
+
+🎙️ **OFF** · a segunda microepifania
+
+Então como separar? Com um truque simples: dar o remédio para quem não tem a doença.  
+Em mil novecentos e noventa e cinco, na Escócia, pesquisadores mediram a saliva de quem tomava antidepressivo.  
+Os tricíclicos, como a amitriptilina, cortaram o fluxo da parótida em cinquenta e oito por cento.  
+Depois, deram um tricíclico a pessoas sem depressão. A saliva caiu do mesmo jeito.  
+Conclusão: a depressão em si contribuía pouco para a boca seca.  
+Era o remédio — que bloqueia o receptor muscarínico, o interruptor que manda a glândula produzir saliva.  
+
+🎥 **ROSTO** · o questionamento
+
+Então é sempre o remédio?  
+Para a boca seca, quase sempre.  
+Para as bactérias, ninguém sabe ainda.  
+No intestino, num estudo com mais de mil pessoas, os medicamentos explicaram mais da variação das bactérias do que qualquer outro fator medido.  
+Na boca, ainda faltam estudos que separem bem uma coisa da outra.  
+
+🎥 **ROSTO** · o selo
+
+Boca seca pelo antidepressivo: estabelecido.  
+Antidepressivo mudando as bactérias da boca: hipótese.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Boca seca em quem toma antidepressivo?  
+Não mande parar o remédio. Avise o médico — às vezes dá para trocar por um que seca menos.  
+E proteja os dentes: com menos saliva, a cárie avança.  
+Tricíclico na lista? Ele potencializa a adrenalina: vasoconstritor em dose pequena, aspirando, e sem fio retrator com adrenalina.  
+Lítio na lista? O anti-inflamatório sobe o lítio no sangue: nada de anti-inflamatório sem falar com o psiquiatra.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+por que alguns antipsicóticos deixam a boca seca…  
+e outros fazem a saliva escorrer?  
+
+---
+
+## Psiquiatria 05 — Dá para rastrear doença mental na cadeira do dentista?
+
+Duração: ~2 min 50 s · 53% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+Dá para rastrear doença mental na cadeira do dentista?  
+
+🎙️ **OFF** · a pista
+
+Às vezes, a boca entrega antes da pessoa.  
+Olhe a face dos dentes superiores virada para o céu da boca.  
+Lisa. Polida. Sem brilho.  
+É esmalte dissolvido por ácido — o que chamamos de erosão dentária.  
+O ácido do copo bate mais na frente dos dentes.  
+Desse lado de dentro, ele pode ter vindo do estômago.  
+
+🎙️ **OFF** · a microepifania
+
+Uma metanálise juntou dez estudos.  
+Quem tinha transtorno alimentar tinha cinco vezes mais chance de erosão.  
+Quem provocava o vômito, sete.  
+Os autores escreveram: o dentista pode ser o primeiro a suspeitar.  
+
+🎥 **ROSTO** · a microepifania
+
+Pronto. Erosão no palato é bulimia. Caso resolvido.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+Num relato de caso, um adolescente com erosão grave chegou a ser suspeito de bulimia.  
+A investigação apontou outra coisa: refluxo.  
+A boca dá a pista. Não dá o diagnóstico.  
+
+🎙️ **OFF** · a segunda microepifania
+
+Então, em vez de só olhar: pergunte.  
+Em 1997, pesquisadores de San Francisco testaram duas perguntas.  
+Uma sobre o humor para baixo. Outra sobre perder o prazer nas coisas.  
+Acharam noventa e seis por cento de quem tinha depressão maior.  
+Hoje isso tem nome: PHQ-2, o Questionário de Saúde do Paciente.  
+Para ansiedade, existe o GAD-2.  
+
+🎥 **ROSTO** · o questionamento
+
+Então o dentista diagnostica depressão?  
+Não.  
+E as perguntas também disparam alarme falso em mais de quatro de cada dez pessoas sem depressão.  
+Isso é rastreio. Rastreio levanta a mão.  
+Quem fecha o diagnóstico é o médico.  
+
+🎙️ **OFF** · a curiosidade
+
+Em 1979, o psiquiatra Gerald Russell descreveu trinta pacientes que comiam compulsivamente e depois provocavam o vômito.  
+Chamou o quadro de bulimia nervosa.  
+Hoje, um sinal leva o nome dele.  
+Calos no dorso da mão, onde os incisivos raspam durante o vômito.  
+Os dentes deixam marca na mão.  
+E o ácido deixa marca nos dentes.  
+
+🎥 **ROSTO** · a virada
+
+Mas quase ninguém chega com um sinal tão claro.  
+Quem tem depressão ou ansiedade chega com mais cárie e mais dentes perdidos.  
+E a gente pergunta da escovação… e nunca pergunta como a pessoa está.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+E o medo de sempre: perguntar sobre suicídio planta a ideia?  
+Os estudos não encontraram aumento de pensamentos suicidas. Falar pode até aliviar.  
+E quase metade de quem morreu por suicídio tinha passado por um médico da atenção primária no mês anterior.  
+Quantas passaram pelo dentista?  
+Não encontramos estudo que tenha medido.  
+
+🎥 **ROSTO** · o selo
+
+As perguntas são validadas em milhares de pacientes.  
+Na cadeira do dentista, os estudos ainda são pequenos — mas os pacientes acharam aceitável ser perguntados.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Coloque as duas perguntas na anamnese.  
+Deu positivo? Não rotule: encaminhe ao médico.  
+Se aparecer ideia de morte, pergunte direto: "Você tem pensado em tirar a própria vida?"  
+Risco imediato: SAMU, cento e noventa e dois.  
+Para conversar, a qualquer hora: CVV, cento e oitenta e oito.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+por que uma pessoa com depressão pode sentir mais dor…  
+mesmo sem uma lesão maior?  
+
+---
+
+## Psiquiatria 06 — Ansiedade e depressão são diferentes. Por que o remédio é o mesmo?
+
+Duração: ~2 min 50 s · 52% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+Se ansiedade e depressão são tão diferentes, por que o remédio é o mesmo?  
+
+🎙️ **OFF** · a pista
+
+Escitalopram. Venlafaxina. Duloxetina.  
+Na bula, antidepressivos.  
+Mas, em 89 ensaios, eles também funcionaram no transtorno de ansiedade generalizada — a preocupação excessiva e difícil de controlar.  
+O mesmo frasco para duas doenças.  
+
+🎙️ **OFF** · a curiosidade
+
+Essa confusão vem de longe.  
+Nos anos 1950, num hospital psiquiátrico isolado na Suíça, o psiquiatra Roland Kuhn testava moléculas parecidas com o primeiro antipsicótico.  
+Uma delas não funcionou na psicose.  
+Mas os pacientes deprimidos melhoraram.  
+Era a imipramina, o primeiro antidepressivo.  
+Poucos anos depois, em Nova York, Donald Klein deu a mesma imipramina a pacientes com ansiedade grave. Ela bloqueava as crises de pânico.  
+O "antidepressivo" tratava ansiedade desde o começo. O nome ficou por causa da primeira doença em que ele foi testado.  
+
+🎙️ **OFF** · a microepifania
+
+As duas andam juntas.  
+Num estudo holandês, dois terços de quem tinha depressão tinham também um transtorno de ansiedade.  
+E, na maioria desses casos, a ansiedade veio primeiro.  
+
+🎥 **ROSTO** · a microepifania
+
+Pronto: ansiedade e depressão são a mesma doença. Caso resolvido.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+Um estudo com mais de mil pares de gêmeas separou genes e ambiente.  
+Os genes eram os mesmos para as duas doenças.  
+O ambiente, só em parte.  
+Mesma vulnerabilidade. Gatilhos diferentes. Não são a mesma doença: são parentes.  
+
+🎙️ **OFF** · a segunda microepifania
+
+E no cérebro?  
+Juntando 193 estudos de imagem, de seis diagnósticos diferentes, a perda de volume aparecia nas mesmas regiões: o cíngulo anterior e as ínsulas.  
+Uma rede ligada ao controle da atenção e das decisões — o que chamamos de funções executivas. Doenças com nomes diferentes, um mesmo pedaço de cérebro.  
+
+🎥 **ROSTO** · o questionamento
+
+Então o remédio age na doença inteira?  
+Também não.  
+O mesmo remédio não prova que é a mesma doença.  
+Prova que ele age em algo que as duas têm em comum.  
+Klein já tinha visto isso: o remédio cortava a crise de pânico, mas o medo da próxima crise só ia embora depois.  
+
+🎥 **ROSTO** · a virada
+
+O nome "antidepressivo" conta a história do remédio, não o mecanismo.  
+
+🎥 **ROSTO** · o portanto
+
+Portanto, quando o paciente ansioso diz que toma antidepressivo, não tem erro de receita.  
+E quando o paciente chega ansioso, vale lembrar: muitas vezes a depressão está junto.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+E o mesmo remédio traz os mesmos efeitos na boca.  
+Bruxismo nas primeiras semanas.  
+Boca seca.  
+Mais sangramento se somar anti-inflamatório.  
+E se for tricíclico, como a amitriptilina, atenção ao vasoconstritor do anestésico: o tricíclico potencializa a adrenalina.  
+
+🎥 **ROSTO** · o selo
+
+Que funciona nas duas: estabelecido, em ensaios randomizados.  
+Por que funciona nas duas: associação, ainda em estudo.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Pergunte pela medicação, não só pelo diagnóstico.  
+Antidepressivo? Pergunte por ranger de dentes e boca seca.  
+Tricíclico? Vasoconstritor em dose baixa, aspirando e medindo a pressão.  
+E se o paciente disser que não vê mais sentido em nada, encaminhe no mesmo dia.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+o tratamento da ansiedade pode provocar bruxismo?  
+
+---
+
+## Psiquiatria 07 — Mesma depressão, sintomas diferentes?
+
+Duração: ~2 min 45 s · 64% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+Por que duas pessoas com o mesmo diagnóstico de depressão podem ter sintomas completamente diferentes?  
+
+🎙️ **OFF** · a pista
+
+Para diagnosticar depressão, o manual lista nove sintomas.  
+Precisa ter cinco — e um deles tem que ser tristeza ou perda de prazer, o que chamamos de anedonia.  
+Faça a conta: são 227 combinações possíveis.  
+
+🎙️ **OFF** · a microepifania
+
+Agora o detalhe que quase ninguém percebe.  
+Cinco mais cinco dá dez. A lista só tem nove.  
+Então duas pessoas podem ter depressão e dividir um único sintoma.  
+E tem sintomas que vão nos dois sentidos: insônia ou sono demais, perder ou ganhar apetite, agitação ou lentidão.  
+Duas pessoas com o mesmo diagnóstico podem ser opostas.  
+
+🎥 **ROSTO** · a falsa resolução
+
+Mas isso é matemática de manual. Na vida real, os pacientes se parecem.  
+Pronto. Caso resolvido.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+Num grande estudo americano, os pesquisadores contaram os perfis de sintomas de 3.703 pacientes deprimidos.  
+Acharam 1.030 perfis diferentes.  
+O mais comum? Só 1,8% dos pacientes.  
+E quase metade dos perfis pertencia a uma única pessoa.  
+
+🎙️ **OFF** · a curiosidade
+
+Há uns 2.400 anos, a medicina hipocrática chamava isso de melancolia — bile negra.  
+Um líquido. Uma causa.  
+Hoje, as sete escalas de depressão mais usadas medem, juntas, 52 sintomas diferentes.  
+E só 12% deles aparecem em todas.  
+Saímos de um líquido para cinquenta e dois sintomas.  
+
+🎥 **ROSTO** · o questionamento
+
+Então depressão não existe?  
+Também não.  
+Ela existe. O que não existe é uma depressão só.  
+
+🎥 **ROSTO** · a virada
+
+E os subtipos têm biologia diferente.  
+Na depressão melancólica — sem apetite, acordando de madrugada — o cortisol, o hormônio do estresse, fica mais alto.  
+Na depressão atípica — fome e sono aumentados — aparecem mais inflamação, mais cintura e mais triglicérides.  
+E respondem diferente ao remédio: num ensaio, a atípica respondeu mais a um antidepressivo antigo, um IMAO — que impede a quebra da serotonina e da noradrenalina — do que à imipramina.  
+
+🎥 **ROSTO** · o portanto
+
+Portanto, o diagnóstico diz "depressão".  
+Mas é o sintoma que diz o que muda no seu consultório.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+E a boca mostra qual depressão está ali.  
+Quem tem mais fome tem mais refeições passando pelo dente.  
+Quem perdeu o prazer em tudo para de cuidar de si — e falta às consultas.  
+Numa revisão com mais de trezentas mil pessoas, depressão e ansiedade vieram com mais cárie e mais perda dentária.  
+
+🎥 **ROSTO** · o selo
+
+Que a depressão varia muito de pessoa para pessoa: estabelecido.  
+Que cada subtipo tem uma causa própria: associação, ainda em estudo.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Não pergunte só "você tem depressão?".  
+Pergunte: como está o sono? E o apetite? Ainda sente prazer nas coisas?  
+A resposta muda o plano: flúor e dieta para quem come mais, retornos mais curtos para quem perdeu a energia.  
+E se aparecer falta de esperança ou ideia de morte, encaminhe no mesmo dia.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+por que uma pessoa com depressão pode sentir mais dor, mesmo sem uma lesão maior?  
+
+---
+
+## Psiquiatria 08 — Por que a depressão dói?
+
+Duração: ~2 min 40 s · 66% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+Por que uma pessoa com depressão pode sentir mais dor, mesmo sem uma lesão maior?  
+
+🎙️ **OFF** · a pista
+
+Segunda Guerra, frente italiana.  
+O anestesista Henry Beecher atende soldados gravemente feridos e nota uma coisa estranha:  
+só cerca de um em cada três pede morfina.  
+Anos depois, ele compara com civis operados: mais de quatro em cada cinco pediam.  
+Ferida grave. Dor completamente diferente.  
+
+🎙️ **OFF** · a microepifania
+
+O que mudava era o significado.  
+Para o soldado, a ferida queria dizer: saí vivo.  
+Para o civil: minha vida parou.  
+A dor não é só um sinal que sobe do corpo para o cérebro.  
+O cérebro também manda sinais para baixo.  
+
+🎙️ **OFF** · a segunda microepifania
+
+Existe um sistema que desce do tronco cerebral até a medula, como um botão de volume da dor.  
+O nome técnico é modulação descendente.  
+E ele trabalha com dois mensageiros: serotonina e noradrenalina — os mesmos em que os antidepressivos mexem.  
+
+🎥 **ROSTO** · a segunda microepifania
+
+Pronto. A depressão abaixa o freio, a dor aumenta. Caso resolvido.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+Quando pesquisadores testaram dor na pele de pessoas com depressão — calor, pressão — elas não sentiram mais dor.  
+Às vezes, até um pouco menos.  
+
+🎥 **ROSTO** · o questionamento
+
+Então a dor da depressão é imaginação?  
+Também não.  
+Na mesma análise, a dor de dentro — a dor isquêmica, de músculo sem oxigênio — doía mais.  
+
+🎥 **ROSTO** · a virada
+
+A depressão não aumenta toda dor.  
+Ela muda a dor que vem de dentro, a que demora, a que não tem lesão visível.  
+E é muito parecida com a dor que chega ao consultório: músculo da mandíbula, ardência na língua, dente que dói sem cárie.  
+
+🎥 **ROSTO** · o portanto
+
+Portanto, o remédio pode ser o mesmo.  
+A duloxetina, um antidepressivo que mexe em serotonina e noradrenalina, reduziu dor em ensaios clínicos — inclusive a dor física da própria depressão.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+E aqui mora o perigo.  
+Quando um dente tratado de canal continua doendo, mais da metade das vezes a dor não vem do dente.  
+É dor não odontogênica.  
+Abrir de novo, extrair, prescrever opioide — nada disso resolve.  
+E quem tem depressão recebe opioide por longo prazo três vezes mais.  
+
+🎥 **ROSTO** · o selo
+
+A ligação é sólida, e o tratamento foi testado.  
+O circuito exato ainda é um modelo.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Dor desproporcional ao que você vê? Antes de mais um procedimento, pergunte do sono, do humor e do estresse.  
+Sono ruim dobrou o risco de dor na articulação da mandíbula.  
+Em quem usa antidepressivo, cuidado com tramadol: risco de síndrome serotoninérgica, o excesso de serotonina.  
+E se o paciente falar em desesperança ou em morrer: CVV, um-oito-oito, e médico no mesmo dia.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+o remédio da ansiedade pode fazer você ranger os dentes?  
+
+---
+
+## Psiquiatria 09 — O remédio da ansiedade que aperta a mandíbula
+
+Duração: ~2 min 30 s · 67% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+O remédio da ansiedade pode fazer você ranger os dentes?  
+
+🎙️ **OFF** · a curiosidade
+
+Nas festas de música eletrônica dos anos noventa, um acessório estranho virou comum: chupeta.  
+Não era moda.  
+Era o ecstasy, uma droga que faz o cérebro liberar serotonina em massa — e que trava e faz ranger a mandíbula.  
+
+🎙️ **OFF** · a microepifania
+
+Agora pense nos remédios mais usados para ansiedade e depressão: os inibidores seletivos da recaptação — o reaproveitamento — de serotonina, os ISRS.  
+Fluoxetina. Sertralina. Escitalopram.  
+Eles também aumentam a serotonina.  
+E há relatos publicados de gente que começou a ranger os dentes semanas depois de começar o remédio.  
+
+🎥 **ROSTO** · a microepifania
+
+Pronto. Serotonina faz ranger. Caso resolvido.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+Quando juntaram os estudos com pacientes, fluoxetina, sertralina e escitalopram não aumentaram o bruxismo do sono.  
+Quem apareceu foram paroxetina, venlafaxina e duloxetina.  
+E uma análise no banco mundial de efeitos adversos da Organização Mundial da Saúde — a farmacovigilância — achou uma pista inesperada:  
+o risco acompanhava mais a noradrenalina do que a serotonina.  
+
+🎥 **ROSTO** · o questionamento
+
+Então é mito?  
+Também não.  
+Num estudo com quinhentas pessoas em uso de antidepressivo, catorze por cento desenvolveram bruxismo depois de começar.  
+E, entre os efeitos de movimento desses remédios, o bruxismo é o sinal mais forte no banco da OMS.  
+
+🎥 **ROSTO** · a virada
+
+Talvez a pergunta não seja qual mensageiro do cérebro.  
+O bruxismo não é uma doença em si. É um comportamento: atividade repetida do músculo da mastigação, dormindo ou acordado.  
+E comportamento muda com café, álcool, cigarro, estresse — e com remédio.  
+O antidepressivo é mais um botão nesse painel.  
+
+🎥 **ROSTO** · o portanto
+
+Portanto, mais útil que o mecanismo é o relógio.  
+Nos relatos, o bruxismo começa três a quatro semanas depois de iniciar o remédio.  
+E costuma melhorar três a quatro semanas depois de um ajuste: baixar a dose, trocar de remédio ou acrescentar buspirona, um ansiolítico de outra família.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+E o maior risco não é o dente.  
+É o paciente ouvir "o remédio está estragando seus dentes" e parar sozinho.  
+Cerca de um em cada seis que interrompem um antidepressivo tem sintomas de descontinuação — e a doença pode voltar.  
+
+🎥 **ROSTO** · o selo
+
+O sinal é consistente nos relatos.  
+Mas nenhum ensaio mediu, de verdade, com que frequência isso acontece.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Desgaste novo, dor na mandíbula ao acordar, restauração que quebrou? Pergunte se começou ou aumentou algum remédio nas últimas semanas.  
+Proteja os dentes com placa de mordida.  
+E fale com quem prescreveu. Nunca suspenda você.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+por que alguns antipsicóticos secam a boca — e outros fazem a saliva escorrer?  
+
+---
+
+## Psiquiatria 10 — Por que alguns antipsicóticos secam a boca e outros fazem babar?
+
+Duração: ~2 min 50 s · 52% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+Por que alguns antipsicóticos secam a boca…  
+e outros fazem o paciente acordar com o travesseiro molhado?  
+
+🎙️ **OFF** · a pista
+
+A saliva tem um interruptor.  
+O nervo manda acetilcolina para a glândula, e ela se encaixa em receptores chamados muscarínicos.  
+Muitos remédios psiquiátricos bloqueiam esses receptores — o que chamamos de efeito anticolinérgico.  
+Interruptor desligado: boca seca. Xerostomia.  
+
+🎙️ **OFF** · a microepifania
+
+E sem saliva, a boca perde quem a lavava.  
+Pessoas com transtorno mental grave têm mais de três vezes a chance de perder todos os dentes.  
+Não é só o remédio. Mas a boca seca entra na conta.  
+
+🎥 **ROSTO** · a microepifania
+
+Pronto. Antipsicótico seca a boca. Caso resolvido.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+A clozapina, o remédio mais eficaz na esquizofrenia resistente, bloqueia esses receptores com força.  
+E, mesmo assim, num estudo, noventa e dois por cento tinham saliva em excesso.  
+O que chamamos de sialorreia.  
+
+🎙️ **OFF** · a segunda microepifania
+
+Como um remédio que bloqueia a saliva faz babar?  
+Em 1994, em células de laboratório, testaram a clozapina nos cinco receptores muscarínicos, um por um.  
+Em quatro, ela bloqueou.  
+No quinto, o M4, ela fez o contrário: ligou.  
+Virou agonista: acendeu o receptor em vez de apagar.  
+Os autores: isso pode explicar, em parte, a saliva a mais.  
+
+🎥 **ROSTO** · o questionamento
+
+Em parte?  
+Repare quando ela aparece: oitenta e cinco por cento à noite, contra quarenta e oito durante o dia.  
+À noite, a gente engole menos. Talvez parte do problema seja engolir, não só produzir.  
+A conta não fechou.  
+
+🎙️ **OFF** · a curiosidade
+
+E ela quase não chegou até aqui.  
+Em 1975, na Finlândia, em seis meses de uso, dezessete pacientes tiveram queda grave dos glóbulos brancos. Oito morreram.  
+O desenvolvimento travou por mais de uma década.  
+Em 1988, um ensaio testou a clozapina em quem não tinha melhorado com três antipsicóticos.  
+Responderam trinta por cento. Com o remédio antigo, quatro.  
+A clozapina voltou. Com uma condição: exame de sangue toda semana.  
+
+🎥 **ROSTO** · a virada
+
+E aqui a boca volta à história.  
+Essa queda dos glóbulos brancos — a agranulocitose — aparece em menos de um por cento no primeiro ano.  
+Mas ela se disfarça.  
+De infecção comum — muitas vezes na boca: febre, garganta, ferida.  
+
+🎥 **ROSTO** · o portanto
+
+E o mesmo paciente pode pedir dois cuidados opostos.  
+Boca seca: cárie.  
+Saliva demais: risco de aspirar. E a clozapina triplica o risco de pneumonia.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+E entre os remédios que tratam essa baba nos ensaios…  
+vários são anticolinérgicos.  
+O mesmo mecanismo que seca a boca dos outros.  
+Quem decide é o psiquiatra.  
+
+🎥 **ROSTO** · o selo
+
+Que os antipsicóticos mexem na saliva, está estabelecido.  
+Por que a clozapina faz o contrário, ainda é hipótese.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Pergunte qual antipsicótico o paciente usa.  
+Boca seca: creme dental com flúor de alta concentração.  
+Clozapina com qualquer infecção que pareça banal: hemograma no mesmo dia e aviso ao psiquiatra.  
+E nunca suspenda o antipsicótico por conta própria.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+se ansiedade e depressão são tão diferentes…  
+por que o remédio é o mesmo?  
+
+---
+
+## Psiquiatria 11 — Por que a gengiva de quem tem depressão sangra?
+
+Duração: ~2 min 35 s · 56% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+Por que a gengiva de quem tem depressão pode sangrar mais — mesmo sem escovar menos?  
+
+🎙️ **OFF** · a curiosidade
+
+Na Alemanha, estudantes de medicina aceitaram um experimento estranho.  
+Durante vinte e oito dias, pararam de escovar dois quadrantes da boca.  
+Metade estava em época de prova. Metade, não.  
+Mesma placa. Mesmo tempo sem escova.  
+Mas a gengiva de quem estava sob estresse respondeu diferente — mais interleucina-1 beta, um mensageiro da inflamação.  
+E, nas mulheres, até o sangramento mudou.  
+
+🎙️ **OFF** · a microepifania
+
+O sangramento não mede só a sujeira.  
+Mede a resposta do corpo à sujeira.  
+E o estresse mexe nessa resposta, pelo eixo do cortisol — o eixo hipotálamo-hipófise-adrenal.  
+
+🎥 **ROSTO** · a microepifania
+
+Pronto. A depressão inflama a gengiva. Caso resolvido.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+Quando juntaram os estudos, quem tinha depressão tinha cerca de trinta por cento mais periodontite — mas com certeza baixa.  
+E uma metanálise brasileira de 2026 achou a seta ao contrário:  
+a doença da gengiva aumentava a chance de depressão. A depressão não aumentava a de doença da gengiva.  
+
+🎥 **ROSTO** · o questionamento
+
+Então a seta está ao contrário?  
+Talvez nos dois sentidos.  
+E falta um personagem nessa história: o remédio.  
+
+🎙️ **OFF** · a segunda microepifania
+
+A plaqueta carrega serotonina e usa essa serotonina para grudar e fechar o vaso.  
+Os antidepressivos mais usados, os ISRS, esvaziam esse estoque.  
+Num ensaio, duas semanas de paroxetina derrubaram a serotonina dentro da plaqueta em oitenta e três por cento.  
+E o tampão de plaquetas demorou trinta e um por cento mais para se formar.  
+
+🎥 **ROSTO** · o portanto
+
+Portanto, existe um risco real de sangrar.  
+Mas onde?  
+No estômago.  
+O ISRS sozinho mais que dobra o risco de hemorragia digestiva alta.  
+Com anti-inflamatório junto, chega a seis vezes.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+E na cadeira do dentista?  
+Num estudo com noventa e dois pacientes em uso de ISRS, e cento e sessenta e sete extrações, houve um retorno e um telefonema por sangramento.  
+Quase nada.  
+O perigo não está na extração. Está na receita que você escreve depois dela.  
+
+🎥 **ROSTO** · o selo
+
+O estresse mexe na gengiva, e o remédio mexe na plaqueta.  
+Mas a ligação entre depressão e doença da gengiva ainda é fraca.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Gengiva sangrando com placa parecida com a de sempre? Pergunte do sono, do estresse, do humor — e da lista de remédios.  
+Não suspenda o antidepressivo para extrair.  
+Anti-inflamatório em quem usa ISRS? Evite. Se precisar, menor dose pelo menor tempo.  
+E lembre: o cigarro esconde o sangramento — a gengiva de quem fuma pode estar pior do que parece.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+por que duas pessoas com o mesmo diagnóstico de depressão podem ter sintomas completamente diferentes?  
+
+---
+
+## Suíça 01 — Por que uma empresa que estudava fraturas acabou na boca?
+
+Duração: ~2 min 50 s · 51% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+Por que uma empresa que estudava fraturas ósseas acabou revolucionando a implantodontia?  
+
+🎙️ **OFF** · a pista
+
+Waldenburg, Suíça. Uma cidade de relojoeiros.  
+Nos anos 1930, o engenheiro Reinhard Straumann ajudou a criar uma liga para a peça mais delicada do relógio: a mola espiral, que não pode mudar com o calor nem com o ímã.  
+Em 1954, ele abre ali um instituto de pesquisa em metais.  
+
+🎙️ **OFF** · a microepifania
+
+Em 1958, cirurgiões suíços fundam a AO, um grupo para tratar fraturas com placas e parafusos — o que chamamos de osteossíntese.  
+E eles tinham um problema de relojoeiro: um metal que trabalhe anos sem cansar e sem corroer.  
+Só que dentro do corpo.  
+Foram bater na porta de quem entendia de metal. E do osso da perna para o da mandíbula foi um passo.  
+Então era só levar o parafuso para a boca. Caso resolvido.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+O parafuso da perna fica fechado, embaixo da pele, num ambiente estéril.  
+O implante dentário atravessa a gengiva.  
+Vive numa boca com centenas de espécies de bactérias.  
+E leva mordida todo dia.  
+Engenharia sozinha não bastava. Faltava biologia.  
+
+🎙️ **OFF** · a curiosidade
+
+Berna, anos 1970.  
+O professor André Schroeder coloca cilindros de titânio, com a superfície rugosa de titânio aspergido a plasma, na mandíbula de macacos.  
+Depois, corta o osso e olha no microscópio.  
+O osso tinha crescido colado no metal. Sem tecido mole no meio.  
+Ele chamou isso de anquilose. E ela se manteve com mastigação, por até dezesseis meses.  
+Agora olha quem assina o artigo junto com ele: Fritz Straumann, o filho do relojoeiro.  
+
+🎥 **ROSTO** · o questionamento
+
+Então foram os suíços que inventaram o implante moderno?  
+Não sozinhos.  
+Na mesma época, na Suécia, Brånemark descrevia o mesmo fenômeno com outro nome: osseointegração.  
+O nome que ficou foi o dele.  
+
+🎥 **ROSTO** · a virada
+
+E o metal deixou de ser o problema.  
+Em dez anos, cerca de noventa e seis em cada cem implantes continuam na boca.  
+Mas cerca de um em cada cinco pacientes desenvolve peri-implantite — a inflamação que destrói o osso em volta do implante.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+E quem perde o implante não é quem tem o metal errado.  
+A evidência forte aponta três coisas: história de periodontite, placa que fica e falta de manutenção.  
+Cigarro e diabetes, que todo mundo cita? Para peri-implantite, os dados ainda são inconclusivos.  
+
+🎥 **ROSTO** · o portanto
+
+Portanto, a pergunta deixou de ser "esse implante é bom?".  
+Virou "esse paciente está pronto para o implante?".  
+
+🎥 **ROSTO** · o selo
+
+Aqui a ciência já testou: o osso integra ao titânio, e o implante dura em quem é preparado e acompanhado.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Antes de implantar, trate a periodontite.  
+Depois, sonde em volta do implante: o sangramento à sondagem é o primeiro sinal — o que chamamos de mucosite peri-implantar.  
+E diga ao paciente: implante não tem cárie. Mas tem gengiva.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+o que uma doença da tireoide tem a ver com a prevenção da cárie?  
+
+---
+
+## Suíça 02 — O que uma doença da tireoide tem a ver com a cárie?
+
+Duração: ~2 min 50 s · 59% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+O que uma doença da tireoide tem a ver com a prevenção da cárie?  
+
+🎙️ **OFF** · a pista
+
+Suíça, começo do século vinte.  
+Nos vales dos Alpes, o bócio — o aumento da tireoide — era comum. A causa: falta de iodo na alimentação.  
+Em 1922, um cirurgião de Herisau, Hans Eggenberger, consegue liberar o sal com iodo. Em um ano, já estava em dezessete cantões.  
+O bócio praticamente desapareceu.  
+
+🎙️ **OFF** · a microepifania
+
+O truque não era o iodo. Era o sal.  
+Todo mundo come. Todo dia. Mais ou menos na mesma quantidade.  
+Ninguém precisa lembrar.  
+Um ginecologista de Aarau, Hans Jakob Wespi, que fazia campanha pelo sal iodado, pensou: se o sal leva iodo para a tireoide, pode levar flúor para os dentes.  
+Em 1955, Zurique autoriza o sal com flúor.  
+
+🎥 **ROSTO** · a microepifania
+
+Pronto. Cárie resolvida com um saleiro.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+A dose era baixa demais: noventa miligramas de flúor por quilo de sal. Protegia pouco.  
+O sal com flúor passou quase trinta anos patinando.  
+Só em 1983 a concentração subiu para duzentos e cinquenta. Em 2004, quase nove em cada dez quilos de sal vendidos na Suíça tinham flúor.  
+
+🎙️ **OFF** · a curiosidade
+
+E a ideia de um ginecologista suíço viajou.  
+Mais de cem milhões de pessoas na América Latina passaram a usar sal fluoretado — no México, na Colômbia, no Peru, em Cuba.  
+Custo: alguns centavos de euro por pessoa, por ano.  
+
+🎥 **ROSTO** · o questionamento
+
+Então por que o Brasil não coloca flúor no sal?  
+Porque escolheu outro veículo.  
+Desde 1974, a lei obriga a fluoretar a água onde existe estação de tratamento.  
+E com flúor, dose é tudo: na infância, o excesso mancha o esmalte. O que chamamos de fluorose.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+Agora, o detalhe que muda a história.  
+Quando a Cochrane separou os estudos de água fluoretada feitos depois de 1975, o efeito encolheu: cerca de um quarto de dente de leite cariado a menos por criança. E o intervalo inclui nenhum efeito.  
+Por quê?  
+Porque nessa época já tinha chegado um veículo que pega carona num hábito diário: o creme dental com flúor.  
+
+🎥 **ROSTO** · a virada
+
+A lição que a tireoide deu à odontologia não era sobre iodo, nem sobre sal.  
+Era sobre veículo: a prevenção que funciona pega carona num hábito que já existe.  
+Portanto, o veículo que está na sua mão é o tubo de pasta.  
+
+🎥 **ROSTO** · o selo
+
+Aqui a ciência já testou: creme dental com pelo menos mil ppm de flúor previne cárie. O sal funciona, mas os estudos são fracos.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Mande o paciente olhar o tubo: pelo menos mil ppm de flúor — mil partes por milhão.  
+Creme dental sem flúor não previne cárie.  
+E para o médico: na consulta da criança, pergunte qual pasta ela usa. Leva dez segundos.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+por que a escova elétrica moderna começou como solução para quem tinha dificuldade de mover as mãos?  
+
+---
+
+## Suíça 03 — A escova elétrica foi feita para quem não conseguia escovar?
+
+Duração: ~2 min 30 s · 65% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+Por que a escova elétrica moderna começou como solução para quem tinha dificuldade de mover as mãos?  
+
+🎙️ **OFF** · a pista
+
+Suíça, 1954. Philippe-Guy Woog lança a Broxodent, considerada a primeira escova elétrica do mercado.  
+Ligada na tomada. Pesada.  
+E pensada para dois grupos: quem tinha pouca destreza nas mãos e quem usava aparelho ortodôntico.  
+
+🎙️ **OFF** · a microepifania
+
+E faz sentido.  
+Escovar parece simples, mas é um movimento fino: punho, dedos, pressão, ângulo.  
+Artrite, tremor, sequela de AVC — tudo isso tira exatamente esse movimento.  
+Se o motor faz o movimento, a mão só precisa segurar.  
+
+🎥 **ROSTO** · a microepifania
+
+Pronto. Problema resolvido.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+Quando juntaram os estudos em crianças e adolescentes com deficiência intelectual e do desenvolvimento, a escova elétrica não mostrou benefício convincente.  
+O que teve evidência melhor foi outra coisa: a escova adaptada para aquela pessoa.  
+
+🎥 **ROSTO** · o questionamento
+
+Então a elétrica não serve?  
+Serve. Só que o ganho aparece em outro lugar.  
+Numa revisão Cochrane com cinquenta e seis ensaios, a elétrica tirou cerca de vinte e um por cento mais placa que a manual depois de três meses, e reduziu a gengivite em onze por cento.  
+A que tem mais estudos é a rotacional-oscilatória: a cabeça redonda que gira para um lado e para o outro.  
+
+🎙️ **OFF** · a curiosidade
+
+E tem um detalhe na própria história.  
+A empresa que fabrica a Broxo até hoje conta outra origem: massagear a gengiva e tirar restos de comida.  
+As revisões científicas repetem a versão das mãos e do aparelho.  
+Provavelmente eram as duas coisas.  
+
+🎥 **ROSTO** · a virada
+
+A lição de 1954 continua valendo, só que não do jeito que parece.  
+O problema nunca foi a escova. Era a mão.  
+E a mão muda com o tempo. A escova que servia há seis meses pode não servir mais.  
+
+🎥 **ROSTO** · o portanto
+
+Portanto, a pergunta não é "manual ou elétrica?".  
+É "essa mão ainda consegue tirar a placa?".  
+
+🎥 **ROSTO** · o selo
+
+Aqui a ciência já testou: a elétrica remove mais placa e reduz mais gengivite.  
+Mas, para quem tem limitação, a evidência mais forte está em adaptar a escova e treinar quem escova.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Dentista: olhe a mão antes da boca. Peça para o paciente mostrar como segura a escova.  
+Pouca força ou tremor? Engrosse o cabo, teste a elétrica se ela ficar mais fácil, e treine o cuidador.  
+Médico: quando a mão do seu paciente muda, a escovação muda junto. Avise o dentista.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+por que a gengiva começa a sangrar antes de o paciente perceber que está doente?  
+
+---
+
+## Suíça 04 — Por que a gengiva sangra antes de o paciente perceber que está doente?
+
+Duração: ~2 min 45 s · 62% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+Por que a gengiva sangra antes de o paciente perceber que está doente?  
+
+🎙️ **OFF** · a pista
+
+Zurique, 1971.  
+Hans Mühlemann — o professor suíço ligado a um creme dental com flúor que talvez esteja no seu banheiro — publica, com o colega Son, um artigo de título curioso:  
+"Sangramento do sulco gengival: o sintoma-guia da gengivite inicial."  
+
+🎙️ **OFF** · a microepifania
+
+Até ali, gengivite se diagnosticava com o olho: vermelhidão, inchaço.  
+Mühlemann propôs outra coisa.  
+Passar a sonda com delicadeza no sulco — o espaço raso entre o dente e a gengiva — e esperar.  
+Se sangrou, tem inflamação. Mesmo quando a gengiva ainda parece normal.  
+O sangue chega antes da cor.  
+
+🎙️ **OFF** · a segunda microepifania
+
+Por quê?  
+Porque a inflamação começa por baixo, no fundo do sulco, onde o olho não alcança.  
+Biópsias mostraram: o ponto que sangra tem o tecido conjuntivo cheio de células de defesa e pobre em colágeno.  
+A superfície ainda está bonita. O andar de baixo, não.  
+
+🎥 **ROSTO** · a falsa resolução
+
+Pronto. Sangrou, é placa. Basta olhar a placa.  
+
+🎥 **ROSTO** · a quebra
+
+Só que não.  
+
+🎙️ **OFF** · a quebra
+
+Na Itália, noventa e seis voluntários pararam de limpar uma parte da boca por vinte e um dias.  
+Mesma quantidade de placa.  
+E gengivas que inflamaram de forma completamente diferente.  
+Medir a placa diz quanto biofilme tem. Medir o sangramento diz como aquele corpo responde a ele.  
+
+🎥 **ROSTO** · o questionamento
+
+Então sangrou, vai piorar?  
+Também não.  
+Berna, 1990. Niklaus Lang acompanhou pacientes tratados por dois anos e meio.  
+Dos pontos que sangravam com frequência, só seis por cento perderam inserção.  
+Dos que não sangravam, noventa e oito por cento ficaram estáveis.  
+O sangramento é um alarme sensível demais.  
+A melhor notícia da periodontia é a falta dele.  
+
+🎥 **ROSTO** · o portanto
+
+Portanto, quando a classificação mundial de 2017 precisou definir gengivite, escolheu o sangue.  
+Dez por cento dos pontos sangrando, ou mais: gengivite. Acima de trinta por cento: generalizada.  
+A doença passou a ser definida pela resposta do tecido.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+E tem um paciente que engana esse teste.  
+O fumante.  
+Num levantamento com mais de doze mil americanos, quem fumava mais de dez cigarros por dia tinha uma chance quarenta e quatro por cento menor de sangrar num ponto saudável.  
+O cigarro não cura a gengiva. Esconde a inflamação.  
+
+🎥 **ROSTO** · o selo
+
+O sangramento é o melhor sinal que temos de inflamação gengival.  
+Mas, sozinho, prevê mal quem vai perder osso.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Anote a porcentagem de sangramento em toda consulta — e mostre o número caindo para o paciente.  
+Gengiva que não sangra em fumante não é gengiva saudável.  
+Sangramento desproporcional à placa, com manchas roxas na pele ou cansaço? Hemograma — e médico.  
+E para o paciente: sangrar não é sinal de que escovou forte demais. É sinal de inflamação. A escova e o fio são o tratamento.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+por que a escova elétrica moderna começou como uma solução para pessoas com dificuldade motora?  
+
+---
+
+## Portugal 01 — Se falta osso, por que não mudar a posição do implante?
+
+Duração: ~2 min 50 s · 51% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+Se o paciente não tem osso suficiente para colocar implantes…  
+por que não mudar a posição dos implantes?  
+
+🎙️ **OFF** · a pista
+
+Lisboa, anos noventa.  
+O paciente sem dentes e com o osso reabsorvido ouvia quase sempre a mesma resposta: primeiro, enxerto.  
+Levantar o seio maxilar e esperar meses.  
+Paulo Maló, um dentista português, olhou o problema do outro lado.  
+
+🎙️ **OFF** · a microepifania
+
+O osso que falta está atrás.  
+Lá ficam o seio maxilar, em cima, e o nervo alveolar inferior, embaixo.  
+Mas na frente, quase sempre, ainda tem osso.  
+Então, em vez de colocar o implante de trás em pé, você o inclina.  
+Ele passa rente ao seio, ou à frente do nervo, e sai lá atrás.  
+Como uma mão-francesa segurando uma prateleira.  
+
+🎙️ **OFF** · a segunda microepifania
+
+Isso resolve um problema de engenharia.  
+A prótese ganha apoio mais para trás, e o pedaço que fica sem apoio — o cantiléver — encolhe.  
+Inclinar o implante pode dar quase um centímetro a mais de apoio na maxila.  
+Quatro implantes. Prótese fixa no mesmo dia. Sem enxerto.  
+O nome pegou: All-on-4.  
+
+🎥 **ROSTO** · a falsa resolução
+
+Pronto. Problema resolvido.  
+Virou protocolo. Virou marca.  
+
+🎥 **ROSTO** · a quebra
+
+Só que o tempo cobra a conta.  
+
+🎙️ **OFF** · a quebra
+
+O próprio grupo de Maló acompanhou quase quinhentos pacientes por até dezoito anos.  
+Os implantes resistiram: noventa e três por cento.  
+Mas mais de um terço teve complicação mecânica — prótese que quebra, parafuso que solta.  
+E quase um em cada três pacientes sumiu do acompanhamento.  
+
+🎥 **ROSTO** · o questionamento
+
+Então a técnica falha?  
+Não exatamente.  
+Quem complica mais tem perfil: quem range os dentes — o bruxismo — e quem fuma.  
+Quem fumava teve quase três vezes mais chance de perder osso em volta do implante.  
+O parafuso é o mesmo. O paciente, não.  
+
+🎙️ **OFF** · a curiosidade
+
+E a ideia de inclinar não nasceu sozinha em Lisboa.  
+Em 2000, na Suécia, Krekmanov e colegas já inclinavam implantes posteriores para escapar do nervo e do seio.  
+Um nome aparece nos dois artigos: o sueco Bo Rangert.  
+Portugal fez da ideia um protocolo.  
+
+🎥 **ROSTO** · o portanto
+
+Portanto, a grande virada não foi o parafuso.  
+Foi trocar a pergunta "onde falta osso?" por "onde ainda tem?".  
+Mas o resultado de longo prazo não depende do ângulo.  
+Depende de força, de inflamação e de manutenção.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+Não existe ensaio randomizado comparando o All-on-4 com o enxerto.  
+Quase tudo vem de séries de casos — muitas da própria clínica que criou a técnica.  
+E cerca de um em cada cinco pacientes com implante desenvolve peri-implantite: a periodontite do implante.  
+
+🎥 **ROSTO** · o selo
+
+Estabelecido na prática. Frágil no método.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Antes de indicar, pergunte: range os dentes? Fuma? Tem diabetes?  
+Explique que o implante quase sempre fica. O que dá trabalho é a prótese e a gengiva em volta dela.  
+Desenhe a prótese para ser limpa.  
+E coloque a manutenção no plano, não no "se der".  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+por que continuamos procurando doenças no sangue, quando a saliva também carrega informação?  
+
+---
+
+## Portugal 02 — Por que procurar no sangue o que também aparece na saliva?
+
+Duração: ~2 min 50 s · 42% da fala no rosto
+
+🎥 **ROSTO** · a pergunta
+
+Por que continuamos procurando doenças no sangue, quando muita coisa também aparece na saliva?  
+
+🎙️ **OFF** · a pista
+
+Viseu, Portugal.  
+Na Universidade Católica, um laboratório chamado SalivaTec estuda a saliva como quem estuda o sangue: proteínas, DNA, RNA.  
+Uma das ferramentas do grupo separa as proteínas da saliva por eletroforese capilar e desenha um perfil — uma espécie de impressão digital de proteínas.  
+O nome: SalivaPRINT.  
+
+🎙️ **OFF** · a microepifania
+
+E faz sentido.  
+Quando o grupo de Viseu catalogou as proteínas já encontradas na boca, chegou a mais de três mil.  
+E quase duas mil delas têm origem no plasma, o líquido do sangue.  
+A boca carrega um pedaço do sangue.  
+Sem agulha.  
+
+🎥 **ROSTO** · a microepifania
+
+Pronto. Por que ainda furamos o braço?  
+
+🎙️ **OFF** · a quebra
+
+Porque achar uma molécula não é o mesmo que ter um exame.  
+Todo exame precisa responder três perguntas.  
+Mede certo? Isso é validade analítica.  
+Separa quem tem a doença de quem não tem? Validade clínica.  
+E muda alguma decisão para o paciente? Utilidade clínica.  
+Uma molécula interessante pode parar no primeiro degrau.  
+
+🎙️ **OFF** · a segunda microepifania
+
+E a saliva tem armadilhas próprias.  
+Ela muda com a hora do dia, com o fluxo, com o que você comeu.  
+E a boca pode sangrar dentro da amostra.  
+Num estudo, escovar os dentes com força elevou a testosterona salivar por meia hora.  
+O cortisol? Não mudou.  
+Cada molécula tem a sua armadilha.  
+
+🎥 **ROSTO** · o questionamento
+
+Então saliva é só promessa?  
+Não.  
+Alguns testes já subiram a escada inteira.  
+
+🎙️ **OFF** · a curiosidade
+
+O cortisol tem relógio.  
+Ele deveria estar no ponto mais baixo perto da meia-noite.  
+Na síndrome de Cushing — o excesso crônico de cortisol — esse relógio quebra.  
+Por isso a saliva colhida em casa, tarde da noite, virou um dos exames de primeira linha.  
+Somando mais de cento e trinta estudos, ela acerta mais de noventa por cento das vezes.  
+O teste rápido de HIV no fluido oral também chegou lá.  
+E, na pandemia, o PCR da saliva teve desempenho parecido com o do cotonete no nariz.  
+
+🎥 **ROSTO** · o que ninguém te contou
+
+Mas até o teste bom tem letra miúda.  
+O mesmo teste de HIV, numa população em que a infecção é rara:  
+na saliva, de cada cem resultados positivos, uns onze são falsos.  
+No sangue, uns dois.  
+Positivo na saliva pede confirmação.  
+
+🎥 **ROSTO** · o portanto
+
+Portanto, a pergunta não é "sangue ou saliva?".  
+É: este teste, nesta amostra, para esta decisão, já foi validado?  
+
+🎥 **ROSTO** · o selo
+
+Para poucos testes, estabelecido.  
+Para a maioria dos biomarcadores salivares, ainda hipótese.  
+
+🎥 **ROSTO** · o que muda amanhã
+
+Desconfie do teste de saliva vendido como diagnóstico sem estudo de validação.  
+Na coleta, siga o protocolo: horário, jejum, sem escovar antes quando o laboratório pedir.  
+Na suspeita de Cushing, o cortisol salivar noturno é uma das opções de primeira linha.  
+E o positivo de HIV no fluido oral se confirma no sangue.  
+
+🎥 **ROSTO** · a frase
+
+A boca faz parte da saúde do paciente.  
+Mas a saúde do paciente não termina na boca.  
+Entre a odontologia e a medicina, nós.  
+
+🎥 **ROSTO** · o gancho
+
+Em outro episódio:  
+se um paciente não tem osso suficiente para colocar implantes, por que não mudar a posição dos implantes?
