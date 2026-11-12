@@ -4,7 +4,7 @@
 **Duração:** ~2 min 50 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que atende adulto com obesidade, diabetes ou álcool; médico que acompanha esteatose
 **Cavalo de troia:** o espectador entra para saber se a gengiva causa câncer de fígado. Sai sabendo o que é MASLD, por que o câncer da gordura escapa do rastreio e o que dizer ao paciente.
-**Próximo episódio (gancho):** a bactéria da gengiva dentro do tumor de intestino ([ep07-colorretal.md](ep07-colorretal.md)).
+**Próximo episódio (gancho):** a bactéria da gengiva dentro do tumor de intestino (colorretal — a escrever).
 
 ---
 
@@ -383,3 +383,98 @@ E ela viaja com o câncer.
 24. Cocero N, Bezzi M, Martini S, Carossa S. Oral surgical treatment of patients with chronic liver disease: assessments of bleeding and its relationship with thrombocytopenia and blood coagulation parameters. J Oral Maxillofac Surg. 2017;75(1):28-34. doi:10.1016/j.joms.2016.08.033. PMID: 27677683.
 25. Kennedy OJ, Roderick P, Buchanan R, Fallowfield JA, Hayes PC, Parkes J. Coffee, including caffeinated and decaffeinated coffee, and the risk of hepatocellular carcinoma: a systematic review and dose-response meta-analysis. BMJ Open. 2017;7(5):e013739. doi:10.1136/bmjopen-2016-013739. PMID: 28490552.
 26. Di Maso M, Boffetta P, Negri E, La Vecchia C, Bravi F. Caffeinated coffee consumption and health outcomes in the US population: a dose-response meta-analysis and estimation of disease cases and deaths avoided. Adv Nutr. 2021;12(4):1160-76. doi:10.1093/advances/nmaa177. PMID: 33570108.
+
+---
+
+## Texto para o teleprompter
+
+Só a narração, sem rótulos nem indicações de cena. Números por extenso, uma frase por linha, linha em branco = pausa. Copie o bloco inteiro e cole no app.
+
+```text
+Gengiva que sangra pode ter alguma coisa a ver com câncer de fígado?
+
+Uma coorte sueca acompanhou quase seis milhões de pessoas.
+Quem tinha periodontite teve vinte e cinco por cento mais câncer de fígado.
+
+E faz sentido.
+Tudo o que o intestino absorve passa primeiro pelo fígado, pela veia porta.
+O fígado é o primeiro a receber o que desce da boca.
+Pronto. Caso resolvido.
+
+Só que não.
+
+Um estudo sozinho pode enganar.
+Por isso existe a metanálise: juntar vários.
+Dezenove estudos, dezesseis milhões de pessoas.
+O aumento não era de vinte e cinco por cento.
+Era de nove.
+
+Aí entra um estudo mais esperto.
+Tem gente que nasce com genes que facilitam a periodontite.
+Ninguém escolhe esses genes.
+Eles são sorteados na concepção.
+E não têm nada a ver com cigarro, álcool ou comida.
+Esse desenho se chama randomização mendeliana.
+E permite perguntar:
+quem tirou os genes da periodontite no sorteio tem mais câncer de fígado?
+Se a gengiva causasse o câncer, deveria ter.
+Não tem.
+
+Então é mentira?
+Também não.
+Os nove por cento existem.
+Mas o que produz esses nove por cento?
+Talvez não seja a gengiva.
+
+No século dezenove, uma briga famosa.
+Pasteur dizia: a doença vem do micróbio.
+Claude Bernard respondia: depende do terreno onde o micróbio cai.
+Diz a lenda que Pasteur, no fim da vida, teria admitido:
+Bernard tinha razão.
+O micróbio não é nada.
+O terreno é tudo.
+Provavelmente ele nunca disse isso.
+Mas a frase sobreviveu.
+E explica este caso.
+
+E se a gengiva e o fígado não estiverem conversando entre si...
+mas respondendo ao mesmo terreno?
+Cigarro. Álcool. Glicemia alta. Gordura abdominal.
+Os quatro inflamam a gengiva.
+Os quatro adoecem o fígado.
+
+Portanto, a gengiva talvez não seja a causa.
+Mas pode ser a janela.
+Do outro lado dela, a causa de câncer de fígado que mais cresce no mundo:
+gordura no fígado.
+A doença hepática esteatótica metabólica. A MASLD.
+Já são quase um em cada três adultos.
+
+E esse câncer, o carcinoma hepatocelular, nem sempre espera a cirrose.
+Quase quatro em cada dez aparecem sem ela.
+Só um em cada três estava em rastreamento.
+É o paciente que ninguém está olhando.
+Talvez ele esteja na sua cadeira.
+Com a gengiva sangrando.
+
+Às vezes, andam juntas.
+Ninguém provou que tratar a gengiva previne câncer de fígado.
+
+Periodontite com obesidade abdominal, glicemia alta ou álcool?
+Pergunte: já olhou o seu fígado?
+Perda de peso involuntária.
+Olho amarelado, o que chamamos de icterícia.
+Abdome crescendo, que pode ser ascite.
+Qualquer um desses: gastroenterologista.
+Para o paciente: se mexer, perder peso, beber menos.
+E vacina de hepatite B em dia.
+A primeira da história a prevenir um câncer.
+
+A boca faz parte da saúde do paciente.
+Mas a saúde do paciente não termina na boca.
+Entre a odontologia e a medicina, nós.
+
+No próximo episódio:
+uma bactéria da gengiva foi encontrada dentro de tumores de intestino.
+E ela viaja com o câncer.
+```
