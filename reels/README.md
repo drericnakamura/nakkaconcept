@@ -80,6 +80,7 @@ usa sempre estas peças:
 | **Questionamento** | A pergunta que o espectador faria, dita antes dele | "Então é mentira? Também não. Talvez a pergunta esteja errada." |
 | **Curiosidade** | Uma história real (personagem, data, lugar) que carrega o conceito | Pasteur × Claude Bernard e a frase que ele provavelmente nunca disse |
 | **A frase** | A assinatura da série, sempre igual | "A boca faz parte da saúde do paciente. Mas a saúde do paciente não termina na boca." |
+| **Termo técnico traduzido** | O nome técnico dito junto com a explicação, nunca sozinho. Traz credibilidade sem perder o leigo | "Olho amarelado — o que chamamos de icterícia" · "Esse desenho se chama randomização mendeliana" |
 | **Gancho** | O último segundo vende o próximo episódio | "Uma bactéria da gengiva foi encontrada dentro de tumores de intestino. E ela viaja com o câncer." |
 
 **Batidas-padrão:** `[A PERGUNTA]` → `[A PISTA]` → `[A MICROEPIFANIA]` →
@@ -152,7 +153,8 @@ Narração em ritmo de explainer, cerca de 2,7–2,8 palavras por segundo:
 6. **Nada de medo.** O tom é de quem explica, não de quem assusta. Nenhum episódio termina em "cuidado!".
 7. **O diagnóstico é do médico.** O dentista reconhece e encaminha; não diagnostica câncer, demência nem cardiopatia. Essa linha do site vale para todos os roteiros.
 8. **Número sem fonte não entra.** Todo número do roteiro está na tabela de fontes no fim do arquivo, com PMID ou o documento oficial de onde saiu.
-9. **Termos atualizados.** DHGNA/NASH agora é MASLD/MASH (nomenclatura de 2023). Usar o termo novo e dizer o antigo uma vez.
+9. **Termo técnico entra — sempre com a tradução do lado.** "Olho amarelado — o que chamamos de icterícia." "Abdome crescendo, que pode ser ascite." "Juntar vários estudos — o que chamamos de metanálise." O leigo entende, o especialista reconhece o vocabulário e a série ganha credibilidade. Alterne a ordem (termo → tradução, tradução → termo), use no máximo um termo novo por batida e repita o termo em lettering na tela.
+10. **Termos atualizados.** DHGNA/NASH agora é MASLD/MASH (nomenclatura de 2023). Usar o termo novo e dizer o antigo uma vez.
 
 ---
 

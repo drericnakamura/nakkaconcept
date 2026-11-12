@@ -1,7 +1,7 @@
 # O fígado escuta a gengiva?
 
 **Selo:** ASSOCIAÇÃO FRACA — aparece em estudos enormes, some em outros, e ninguém testou se tratar previne
-**Duração:** ~2 min 44 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 50 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que atende adulto com obesidade, diabetes ou álcool; médico que acompanha esteatose
 **Cavalo de troia:** o espectador entra para saber se a gengiva causa câncer de fígado. Sai sabendo o que é MASLD, por que o câncer da gordura escapa do rastreio e o que dizer ao paciente.
 **Próximo episódio (gancho):** a bactéria da gengiva dentro do tumor de intestino ([ep07-colorretal.md](ep07-colorretal.md)).
@@ -18,7 +18,7 @@ Gengiva que sangra pode ter alguma coisa a ver com câncer de fígado?
 
 **[A PISTA]**
 
-Um estudo sueco, quase seis milhões de pessoas:
+Uma coorte sueca acompanhou quase seis milhões de pessoas:
 
 quem tinha periodontite teve 25% mais câncer de fígado.
 
@@ -30,7 +30,7 @@ E faz sentido.
 
 Tudo o que o intestino absorve passa primeiro pelo fígado, pela veia porta.
 
-Ou seja: o fígado é o primeiro a receber o que desce da boca.
+O fígado é o primeiro a receber o que desce da boca.
 
 Pronto. Caso resolvido.
 
@@ -40,25 +40,25 @@ Pronto. Caso resolvido.
 
 Só que não.
 
-Um estudo sozinho pode enganar. Por isso a ciência junta vários.
+Um estudo sozinho pode enganar. Por isso existe a metanálise: juntar vários.
 
-Juntando dezenove estudos, dezesseis milhões de pessoas, o aumento não era de 25%.
+Dezenove estudos, dezesseis milhões de pessoas: o aumento não era de 25%.
 
 Era de 9%.
 
-> 🎬 O carimbo rasga. Uma pilha de 19 artigos cai na tela. Barra de **+25%** encolhendo até **+9%**.
+> 🎬 O carimbo rasga. Uma pilha de 19 artigos se funde num só, com o lettering **METANÁLISE**. Barra de **+25%** encolhendo até **+9%**.
 
 **[A SEGUNDA MICROEPIFANIA]**
 
-E aí entrou um tipo de estudo mais esperto.
+Aí entra um estudo mais esperto.
 
-Tem gente que nasce com genes que aumentam a chance de ter periodontite.
+Tem gente que nasce com genes que facilitam a periodontite.
 
 Ninguém escolhe esses genes. Eles são sorteados na concepção.
 
 E não têm nada a ver com cigarro, álcool ou comida.
 
-Então dá para perguntar:
+Esse desenho se chama randomização mendeliana. E permite perguntar:
 
 quem tirou os genes da periodontite no sorteio tem mais câncer de fígado?
 
@@ -66,7 +66,7 @@ Se a gengiva causasse o câncer, deveria ter.
 
 Não tem.
 
-> 🎬 Bolinhas de bingo com fitas de DNA dentro saindo de um globo. Duas filas de pessoas: **"sorteou genes de periodontite"** e **"não sorteou"**. Fígados iguais nas duas filas. Rodapé: **"Randomização mendeliana"**.
+> 🎬 Bolinhas de bingo com fitas de DNA dentro saindo de um globo. Duas filas de pessoas: **"sorteou genes de periodontite"** e **"não sorteou"**. Fígados iguais nas duas filas. Lettering grande quando o nome é dito: **RANDOMIZAÇÃO MENDELIANA**.
 
 **[O QUESTIONAMENTO]**
 
@@ -104,7 +104,7 @@ E se a gengiva e o fígado não estiverem conversando entre si…
 
 mas respondendo ao mesmo terreno?
 
-Cigarro. Álcool. Açúcar alto. Barriga.
+Cigarro. Álcool. Glicemia alta. Gordura abdominal.
 
 Os quatro inflamam a gengiva.
 
@@ -118,23 +118,23 @@ Portanto, a gengiva talvez não seja a causa.
 
 Mas pode ser a janela.
 
-Do outro lado dela está a causa de câncer de fígado que mais cresce no mundo: a gordura no fígado, a MASLD.
+Do outro lado dela, a causa de câncer de fígado que mais cresce no mundo: gordura no fígado — a doença hepática esteatótica metabólica, a MASLD.
 
 Já são quase um em cada três adultos.
 
-> 🎬 Uma janela se abre na gengiva e mostra um fígado amarelado. **~1 em 3** · **44% na América Latina**.
+> 🎬 Uma janela se abre na gengiva e mostra um fígado amarelado. Lettering: **MASLD — doença hepática esteatótica associada à disfunção metabólica** (o antigo "esteatose"). **~1 em 3** · **44% na América Latina**.
 
 **[O QUE NINGUÉM TE CONTOU]**
 
-E esse câncer nem sempre espera a cirrose: quase quatro em cada dez aparecem sem ela.
+E esse câncer — o carcinoma hepatocelular — nem sempre espera a cirrose: quase quatro em cada dez aparecem sem ela.
 
-Só um em cada três estava sendo rastreado.
+Só um em cada três estava em rastreamento.
 
 É o paciente que ninguém está olhando.
 
 Talvez ele esteja na sua cadeira. Com a gengiva sangrando.
 
-> 🎬 Fígado liso, sem cirrose, com um nódulo acendendo. Lupa passando por cima sem parar. Corte para a cadeira odontológica vista de cima.
+> 🎬 Fígado liso, sem cirrose, com um nódulo acendendo e o lettering **CARCINOMA HEPATOCELULAR**. Lupa passando por cima sem parar. Corte para a cadeira odontológica vista de cima.
 
 **[O SELO]**
 
@@ -146,13 +146,13 @@ Ninguém provou que tratar a gengiva previne câncer de fígado.
 
 **[O QUE MUDA AMANHÃ]**
 
-Periodontite com barriga, glicemia alta ou álcool? Pergunte: "Já olhou o seu fígado?"
+Periodontite com obesidade abdominal, glicemia alta ou álcool? Pergunte: "Já olhou o seu fígado?"
 
-Emagreceu sem dieta, olho amarelo, barriga crescendo: gastroenterologista.
+Perda de peso involuntária. Olho amarelado — o que chamamos de icterícia. Abdome crescendo, que pode ser ascite. Qualquer um desses: gastroenterologista.
 
 Para o paciente: se mexer, perder peso, beber menos. E vacina de hepatite B em dia — a primeira da história a prevenir um câncer.
 
-> 🎬 Lista com as letras da ROTA no canto. Ícones com o número ao lado: tênis **−27% (observacional)** · balança **−10% do peso → esteato-hepatite resolvida em 9 de 10** · copo riscado **álcool pesado = 2× o risco** · seringa **hepatite B: −69% de CHC nos vacinados**.
+> 🎬 Lista com as letras da ROTA no canto. Sinais de alarme com o termo técnico em destaque: **PERDA DE PESO INVOLUNTÁRIA** · **ICTERÍCIA** (esclera amarelada) · **ASCITE** (abdome crescendo). Depois, ícones com o número ao lado: tênis **−27% (observacional)** · balança **−10% do peso → esteato-hepatite resolvida em 9 de 10** · copo riscado **álcool pesado = 2× o risco** · seringa **hepatite B: −69% de CHC nos vacinados**.
 
 **[A FRASE]**
 
@@ -176,7 +176,7 @@ E ela viaja com o câncer.
 
 ---
 
-**Narração:** cerca de 460 palavras, perto de 2 min 44 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
+**Narração:** cerca de 480 palavras, perto de 2 min 50 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA, MICROEPIFANIA, QUEBRA, SEGUNDA MICROEPIFANIA (só as três últimas linhas: a pergunta do sorteio, "deveria ter", "não tem"), QUESTIONAMENTO, VIRADA, SELO, FRASE e GANCHO. Condensar a CURIOSIDADE em duas linhas ("Pasteur dizia: o micróbio. Bernard: o terreno.") e mover O QUE NINGUÉM TE CONTOU e O QUE MUDA AMANHÃ para a legenda e o carrossel.
 
@@ -192,6 +192,7 @@ E ela viaja com o câncer.
 | Questionamento | "Então é mentira? Também não. Talvez a pergunta esteja errada." |
 | Mas / portanto | MAS os estudos discordam → PORTANTO a pergunta muda → MAS a gengiva vira janela → PORTANTO olhe o fígado |
 | Curiosidade | Pasteur × Bernard, e a frase que ele provavelmente nunca disse · hepatite B, a primeira vacina contra câncer |
+| Termo técnico traduzido | Coorte, metanálise, randomização mendeliana, veia porta, MASLD, carcinoma hepatocelular, icterícia, ascite — cada um dito junto com a explicação, e em lettering na tela |
 | Gancho | A bactéria que viaja com o tumor de intestino |
 
 ---
