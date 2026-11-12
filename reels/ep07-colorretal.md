@@ -98,7 +98,7 @@ Narração: cerca de 245 palavras, perto de 89 s.
 ## Fontes
 
 1. Kostic AD, Gevers D, Pedamallu CS, Michaud M, Duke F, Earl AM, et al. Genomic analysis identifies association of *Fusobacterium* with colorectal carcinoma. Genome Res. 2012;22(2):292-8. doi:10.1101/gr.126573.111. PMID: 22009990.
-2. Castellarin M, Warren RL, Freeman JD, Dreolini L, Krzywinski M, Strauss J, et al. *Fusobacterium nucleatum* infection is prevalent in human colorectal carcinoma. Genome Res. 2012;22(2):299-306. PMID: 22009989.
+2. Castellarin M, Warren RL, Freeman JD, Dreolini L, Krzywinski M, Strauss J, et al. *Fusobacterium nucleatum* infection is prevalent in human colorectal carcinoma. Genome Res. 2012;22(2):299-306. doi:10.1101/gr.126516.111. PMID: 22009989.
 3. Bullman S, Pedamallu CS, Sicinska E, Clancy TE, Zhang X, Cai D, et al. Analysis of *Fusobacterium* persistence and antibiotic response in colorectal cancer. Science. 2017;358(6369):1443-8. doi:10.1126/science.aal5240. PMID: 29170280.
 4. Komiya Y, Shimomura Y, Higurashi T, Sugi Y, Arimoto J, Umezawa S, et al. Patients with colorectal cancer have identical strains of *Fusobacterium nucleatum* in their colorectal cancer and oral cavity. Gut. 2019;68(7):1335-7. doi:10.1136/gutjnl-2018-316661. PMID: 29934439.
 5. Mima K, Nishihara R, Qian ZR, Cao Y, Sukawa Y, Nowak JA, et al. *Fusobacterium nucleatum* in colorectal carcinoma tissue and patient prognosis. Gut. 2016;65(12):1973-80. doi:10.1136/gutjnl-2015-310101. PMID: 26311717.

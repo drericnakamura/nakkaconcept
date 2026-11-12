@@ -64,7 +64,68 @@ entra como porta de entrada para a rotina de saúde — não como cura.
 
 ---
 
-## A estrutura de um episódio (60–90 s)
+## O motor narrativo (formato v2, a partir do EP01 revisto)
+
+O espectador precisa entender, ficar preso e querer o próximo. Cada episódio é
+escrito em batidas curtas, uma ideia por linha, com rótulos entre colchetes, e
+usa sempre estas peças:
+
+| Peça | O que é | Exemplo (EP01) |
+| --- | --- | --- |
+| **Cavalo de troia** | A pergunta que atrai não é a aula que fica. Entra pela curiosidade, sai com raciocínio clínico | Entra por "gengiva e câncer de fígado"; sai sabendo MASLD e rastreio de CHC |
+| **Mas / portanto** | As cenas se ligam por "mas" e "portanto", nunca por "e então". Cada bloco muda o rumo do anterior ou é consequência dele | MAS os estudos discordam → PORTANTO a pergunta muda |
+| **Microepifania** | Um "ah, então é isso" pequeno, a cada 20–30 s | "O fígado é o primeiro a receber o que desce da boca" |
+| **Falsa resolução** | Quando o espectador acha que entendeu, a gente fecha o caso… | "Pronto. Caso resolvido." |
+| **Quebra de clímax** | …e reabre logo em seguida | "Só que não." |
+| **Questionamento** | A pergunta que o espectador faria, dita antes dele | "Então é mentira? Também não. Talvez a pergunta esteja errada." |
+| **Curiosidade** | Uma história real (personagem, data, lugar) que carrega o conceito | Pasteur × Claude Bernard e a frase que ele provavelmente nunca disse |
+| **A frase** | A assinatura da série, sempre igual | "A boca faz parte da saúde do paciente. Mas a saúde do paciente não termina na boca." |
+| **Gancho** | O último segundo vende o próximo episódio | "Uma bactéria da gengiva foi encontrada dentro de tumores de intestino. E ela viaja com o câncer." |
+
+**Batidas-padrão:** `[A PERGUNTA]` → `[A PISTA]` → `[A MICROEPIFANIA]` →
+`[A QUEBRA]` → `[O QUESTIONAMENTO]` → `[A CURIOSIDADE]` → `[A VIRADA]` →
+`[O PORTANTO]` → `[O QUE NINGUÉM TE CONTOU]` → `[O SELO]` →
+`[O QUE MUDA AMANHÃ]` → `[A FRASE]` → `[O GANCHO]`. Nem todo episódio usa todas; a
+ordem pode mudar, o "mas/portanto" não.
+
+**Curiosidade histórica tem regra própria:** se a história é lenda, a narração
+diz que é lenda. Uma curiosidade falsa contada como verdadeira destrói a
+credibilidade da série inteira.
+
+**Duração:** versão longa de 2 min a 2 min 40 s (cerca de 380–440 palavras),
+mais um corte de 90 s indicado no próprio roteiro.
+
+### O que muda amanhã — sempre pela ROTA
+
+A seção de conduta segue a Metodologia ROTA da Nakka:
+
+- **R — Reconhecer:** o terreno (fatores de risco) e o que se vê na cadeira.
+- **O — Ordenar o risco:** tabela situação → o que fazer, do "rotina" ao "encaminhar com prioridade".
+- **T — Traduzir em conduta:**
+  - o que o dentista faz e o que o médico faz;
+  - **frases prontas para orientar o paciente**, em linguagem de consultório;
+  - **tabela dos fatores que comprovadamente mudam o risco**, cada um com número e fonte. Os fracos entram marcados como fracos.
+- **A — Acompanhar:** o que checar no retorno.
+
+### A corrente de ganchos (ordem de publicação sugerida)
+
+Cada episódio termina vendendo o próximo:
+
+1. *(Estreia)* **O problema nunca foram as bactérias?** — o roteiro de vocês sobre ecologia da placa, Pasteur, Koch e Marsh. Termina em: "se a doença é um ecossistema inflamado, o resto do corpo percebe?"
+2. **Diabetes** → "se tratar a gengiva baixa a glicada… protege o coração?"
+3. **Coração** → "se a bactéria cai no sangue toda vez que você escova, por que o antibiótico é só antes da extração?"
+4. **Endocardite** → "existe um lugar onde a escova de dentes salva vidas. E não é o consultório."
+5. **Pneumonia** → "na UTI, a boca suja chega ao pulmão. E se chegasse ao cérebro?"
+6. **Alzheimer** → "em 2006, outra ideia boa foi testada num grande ensaio. E deu empate."
+7. **Gestação** → "às vezes a boca é só um sinal de algo que mora longe dela."
+8. **Fígado** → "uma bactéria da gengiva foi encontrada dentro de tumores de intestino."
+9. **Colorretal** → fecha a temporada voltando ao terreno.
+
+---
+
+## A estrutura de um episódio — formato v1 (60–90 s)
+
+*EP02 a EP08 ainda estão neste formato e serão reescritos no formato v2.*
 
 | Bloco | Tempo | Função | Truque Vox |
 | --- | --- | --- | --- |
