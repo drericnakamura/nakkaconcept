@@ -18,7 +18,7 @@
 | 42–81 s | "Então olhe para o que é sólido. Quatro em cada cinco cânceres de fígado são carcinoma hepatocelular, e um dos motores que mais crescem é a gordura no fígado, a MASLD. Ela atinge quase um em cada três adultos e anda com obesidade e diabetes — o mesmo paciente com periodontite da sua cadeira. Perda de peso sem dieta, olho amarelo, barriga crescendo, dor do lado direito: gastroenterologista. E o que protege: quem se movimenta mais tem cerca de um quarto menos câncer de fígado, e perder 10% do peso faz a inflamação do fígado sumir em nove de cada dez. A boca entra na rotina de saúde. Não no lugar dela." | **4 em 5** = carcinoma hepatocelular. **~1 em 3 adultos** com MASLD. Mapa do Brasil, só na tela: **2 em 3 diagnosticados em estágio avançado**. Lista de alarme com ícones (balança, olho, abdome, seta no hipocôndrio direito). Tênis: **−27%** (observacional). Balança: **−10% do peso → 9 em 10 sem esteato-hepatite**. |
 | 81–84 s | "Entre a odontologia e a medicina, nós." | Logo Nakka. |
 
-Narração: cerca de 225 palavras, perto de 85 s em ritmo de explainer. O dado do Brasil e o dos camundongos ficam só na tela.
+Narração: cerca de 235 palavras, perto de 85 s em ritmo de explainer. O dado do Brasil e o dos camundongos ficam só na tela.
 
 **Decisão de redação:** a redução de 27% com atividade física é risco relativo de estudo observacional (percentil 90 contra percentil 10 de atividade). A narração diz "cerca de um quarto" e a tela marca "observacional". Se preferir tirar o número da fala, troque por "quem se movimenta mais tem bem menos câncer de fígado" e deixe o 27% só na legenda.
 

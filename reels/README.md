@@ -26,14 +26,18 @@ periodontia sem ter sondado uma bolsa. A régua: **um especialista da outra
 
 | EP | Tema | Selo | Arquivo |
 | --- | --- | --- | --- |
-| 01 | Periodontite e câncer de fígado | Hipótese | [ep01-figado.md](ep01-figado.md) |
-| 02 | Periodontite e diabetes | Estabelecido | [ep02-diabetes.md](ep02-diabetes.md) |
-| 03 | Periodontite e coração | Associação | [ep03-coracao.md](ep03-coracao.md) |
+| 01 | Gengiva e câncer de fígado | Associação fraca | [ep01-figado.md](ep01-figado.md) |
+| 02 | O remédio para diabetes que sai da cadeira do dentista | Estabelecido (glicada, não complicações) | [ep02-diabetes.md](ep02-diabetes.md) |
+| 03 | A gengiva causa infarto? | Associação | [ep03-coracao.md](ep03-coracao.md) |
 | 04 | Gestação: o ensaio que deu negativo | Associação, com ECR negativo | [ep04-gestacao.md](ep04-gestacao.md) |
-| 05 | Alzheimer e a bactéria da gengiva | Hipótese | [ep05-alzheimer.md](ep05-alzheimer.md) |
-| 06 | Pneumonia: a placa como reservatório | Estabelecido (com ressalvas) | [ep06-pneumonia.md](ep06-pneumonia.md) |
-| 07 | *Fusobacterium* e câncer colorretal | Associação | [ep07-colorretal.md](ep07-colorretal.md) |
-| 08 | Endocardite: quem precisa de profilaxia | Diretriz sem ECR | [ep08-endocardite.md](ep08-endocardite.md) |
+| 05 | A bactéria da gengiva e o Alzheimer | Hipótese | [ep05-alzheimer.md](ep05-alzheimer.md) |
+| 06 | A escova que previne pneumonia | Estabelecido no hospital; fraco na ILPI | [ep06-pneumonia.md](ep06-pneumonia.md) |
+| 07 | A bactéria da gengiva dentro do tumor de intestino | Associação | [ep07-colorretal.md](ep07-colorretal.md) |
+| 08 | Antibiótico antes do dentista: quem precisa | Associação; diretriz recomenda para alto risco | [ep08-endocardite.md](ep08-endocardite.md) |
+
+Ordem sugerida de publicação: 02 → 04 → 06 → 01 → 08 → 05 → 03 → 07. Abre com o
+selo mais forte para estabelecer que a série não é contra a odontologia
+sistêmica — é a favor de dizer até onde ela vai.
 
 A ordem de publicação sugerida alterna selos — um tema forte, um tema
 fraco — para o público aprender que o selo muda e que isso é o ponto.
@@ -71,8 +75,9 @@ entra como porta de entrada para a rotina de saúde — não como cura.
 | 5. O que muda amanhã | 55–85 s | Duas ou três ações concretas, para dentista e para médico | Lista na tela, uma ação por vez, com o porquê |
 | 6. Fecho | 85–90 s | Assinatura | "Entre a odontologia e a medicina, nós." |
 
-Narração em português falado, cerca de 2,5 palavras por segundo:
-**170 a 220 palavras** para um reel de 70–90 s. Cada roteiro traz a contagem.
+Narração em ritmo de explainer, cerca de 2,7–2,8 palavras por segundo:
+**230 a 250 palavras** para um reel de ~90 s. Para uma versão de 60 s, a meta é
+~165 palavras — cada roteiro indica qual bloco cortar primeiro. Cada roteiro traz a contagem.
 
 ---
 

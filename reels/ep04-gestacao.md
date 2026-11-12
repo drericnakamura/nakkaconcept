@@ -1,7 +1,7 @@
 # EP04 — O ensaio que deu negativo
 
 **Selo:** ASSOCIAÇÃO — e os ensaios que testaram o tratamento deram negativo
-**Duração:** ~85 s
+**Duração:** ~87 s
 **Para quem:** dentista que atende gestante; obstetra e médico de família que fazem pré-natal
 **Tese em uma frase:** gestante com periodontite tem mais parto prematuro, mas tratar a gengiva não reduziu a prematuridade nos melhores ensaios — e mesmo assim a gestante deve ser tratada, porque é seguro e a gengiva dela precisa.
 
@@ -11,16 +11,16 @@
 
 | TEMPO | NARRAÇÃO | TELA |
 | --- | --- | --- |
-| 0–4 s | "Em 2006, uma das revistas médicas mais lidas do mundo publicou um ensaio que a odontologia preferiu não comentar muito." | Primeira página do NEJM 2006: *Treatment of periodontal disease and the risk of preterm birth*. Marca-texto no título. |
-| 4–14 s | "A ideia era boa. Grávida com periodontite tem mais parto prematuro — estudo após estudo mostrava isso. Então, se a gente tratar a gengiva na gestação, o bebê deveria nascer na hora certa." | Seta desenhada: GENGIVA → BEBÊ PREMATURO. Número: **60% a mais de risco** (revisões observacionais). |
-| 14–26 s | "E o mecanismo fazia sentido. Na gravidez, os hormônios deixam a gengiva mais vascularizada e mais inflamada, mesmo com a mesma quantidade de placa. E bactérias da boca já foram encontradas na placenta." | Gengiva sangrando à sondagem. Corte para ilustração de placenta com bactéria. Rodapé: "*F. nucleatum* na placenta — relato de 1 caso, 2010". |
-| 26–44 s | "Então eles testaram. Sortearam 823 grávidas. Metade tratou a gengiva no segundo trimestre; a outra metade, só depois do parto. Resultado: 12 em cada 100 bebês prematuros de um lado. Quase 13 do outro. Empate. E outros três ensaios grandes, nos Estados Unidos e na Austrália, deram o mesmo empate." | Duas filas de 100 bebês, os prematuros acendendo: **12,0%** vs **12,8%**. Quatro carimbos caindo: OPT 2006 · MOTOR 2009 · Austrália 2009 · PIPS 2010 — "SEM DIFERENÇA". |
-| 44–48 s | "Andam juntas. Mas tratar uma não mudou a outra." | Selo **ASSOCIAÇÃO** entra no canto. |
-| 48–56 s | "A explicação mais provável: gengiva inflamada e parto prematuro têm causas em comum — fumo, renda, escolaridade, diabetes. A boca era um sinal, não o interruptor." | Ícones dos confundidores apontando para as duas pontas da seta. A seta GENGIVA → BEBÊ se apaga. |
-| 56–82 s | "O que muda amanhã? Primeiro: trate a gestante. Esses mesmos ensaios mostraram que raspagem e anestesia local são seguras na gravidez. Trate porque a gengiva dela precisa — não para segurar o bebê. Segundo: na cadeira, meça a pressão. Catorze por nove ou mais, avise o obstetra. Dezesseis por onze, ou dor de cabeça forte com visão turva, é urgência. E para o médico: o que reduz prematuridade é outra coisa — progesterona na gestante de alto risco, aspirina para quem tem risco de pré-eclâmpsia, parar de fumar. A consulta com o dentista entra no pré-natal como cuidado, não como promessa." | Lista, um item por vez: ✓ TRATAR É SEGURO · 🩺 ≥140/90 → obstetra · 🚨 ≥160/110 ou cefaleia + visão → urgência · 💊 progesterona · aspirina · parar de fumar. |
-| 82–85 s | "Entre a odontologia e a medicina, nós." | Logo Nakka. |
+| 0–5 s | "Em 2006, o New England publicou um ensaio que a odontologia preferiu não comentar." | Primeira página do NEJM 2006: *Treatment of periodontal disease and the risk of preterm birth*. Marca-texto no título. |
+| 5–15 s | "A ideia era boa: grávida com periodontite tem mais parto prematuro. Então, se a gente tratar a gengiva na gestação, o bebê deveria nascer na hora certa." | Seta desenhada: GENGIVA → BEBÊ PREMATURO. Número: **60% a mais de risco** (revisões observacionais). |
+| 15–24 s | "Fazia sentido: na gravidez, os hormônios deixam a gengiva mais inflamada, mesmo com a mesma placa. E já acharam bactéria da boca na placenta." | Gengiva sangrando à sondagem. Corte para ilustração de placenta com bactéria. Rodapé: "*F. nucleatum* na placenta — relato de 1 caso, 2010". |
+| 24–39 s | "Então eles testaram. Sortearam 823 grávidas: metade tratou a gengiva no segundo trimestre, metade só depois do parto. Prematuros: 12 em cada 100 de um lado, quase 13 do outro. Empate. E outros três ensaios grandes deram o mesmo empate." | Duas filas de 100 bebês, os prematuros acendendo: **12,0%** vs **12,8%**. Quatro carimbos caindo: OPT 2006 · MOTOR 2009 · Austrália 2009 · PIPS 2010 — "SEM DIFERENÇA". |
+| 39–42 s | "Andam juntas. Mas tratar uma não mudou a outra." | Selo **ASSOCIAÇÃO** entra no canto. |
+| 42–51 s | "A explicação mais provável: gengiva inflamada e parto prematuro têm causas em comum — fumo, renda, escolaridade, diabetes. A boca era um sinal, não o interruptor." | Ícones dos confundidores apontando para as duas pontas da seta. A seta GENGIVA → BEBÊ se apaga. |
+| 51–84 s | "O que muda amanhã? Trate a gestante: os mesmos ensaios mostraram que raspagem e anestesia local são seguras. Trate porque a gengiva dela precisa, não para segurar o bebê. Na cadeira, meça a pressão: catorze por nove ou mais, avise o obstetra; dezesseis por onze, ou dor de cabeça forte com visão turva, é urgência. E para o médico: prematuridade se previne com outras armas — progesterona na gestante de alto risco, aspirina para quem tem risco de pré-eclâmpsia, parar de fumar. O dentista entra no pré-natal como cuidado, não como promessa." | Lista, um item por vez: ✓ TRATAR É SEGURO · 🩺 ≥140/90 → obstetra · 🚨 ≥160/110 ou cefaleia + visão → urgência · 💊 progesterona · aspirina · parar de fumar. |
+| 84–87 s | "Entre a odontologia e a medicina, nós." | Logo Nakka. |
 
-Narração: cerca de 260 palavras, perto de 90 s em ritmo rápido. Para caber em 75 s, o primeiro corte é o bloco 14–26 s (mecanismo) — ele também funciona só na tela.
+Narração: cerca de 235 palavras, perto de 87 s. Para caber em 75 s, o primeiro corte é o bloco 15–24 s (mecanismo) — ele também funciona só na tela.
 
 ---
 
