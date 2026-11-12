@@ -63,7 +63,7 @@ O primeiro antidepressivo, a iproniazida, nasceu nos anos cinquenta como remédi
 
 Foi por acaso que se descobriu que ele agia no humor.
 
-E hoje sabemos que o caminho também vai no sentido contrário.
+E a recíproca vale: remédio feito para o corpo humano também mexe com bactérias.
 
 Num teste com mais de mil medicamentos, um em cada quatro remédios feitos para o corpo humano freou o crescimento de bactérias do intestino.
 
@@ -115,9 +115,9 @@ Não mande parar o remédio. Avise o médico — às vezes dá para trocar por u
 
 E proteja os dentes: com menos saliva, a cárie avança.
 
-Tricíclico na lista? Vasoconstritor em dose pequena, aspirando, e sem fio retrator com adrenalina.
+Tricíclico na lista? Ele potencializa a adrenalina: vasoconstritor em dose pequena, aspirando, e sem fio retrator com adrenalina.
 
-Lítio na lista? Nada de anti-inflamatório sem falar com o psiquiatra.
+Lítio na lista? O anti-inflamatório sobe o lítio no sangue: nada de anti-inflamatório sem falar com o psiquiatra.
 
 > 🎬 Lista com as letras da ROTA no canto. Caixa de remédio com ✓ "não suspender". Carpule com gota pequena. Fio retrator riscado. Frasco de lítio e comprimido de AINE separados por um ⚠️.
 
@@ -143,7 +143,7 @@ e outros fazem a saliva escorrer?
 
 ---
 
-**Narração:** cerca de 450 palavras, perto de 2 min 40 s em ritmo de explainer, com as pausas das quebras.
+**Narração:** cerca de 460 palavras, perto de 2 min 46 s, com as pausas das quebras.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (só a última frase com os números), QUEBRA, SEGUNDA MICROEPIFANIA (do "truque simples" até "era o remédio"), QUESTIONAMENTO (só "Para a boca seca, quase sempre. Para as bactérias, ninguém sabe ainda"), SELO, FRASE e GANCHO. Mover a CURIOSIDADE e O QUE MUDA AMANHÃ para a legenda e o carrossel.
 
@@ -258,6 +258,8 @@ e outros fazem a saliva escorrer?
 
 ## Bastidor da evidência
 
+**Revisão de lacunas (nov/2026):** entraram os porquês das interações — tricíclico potencializa a adrenalina; anti-inflamatório eleva o lítio no sangue. Mecanismos clássicos de farmacologia; referência específica a conferir antes de publicar.
+
 ### Boca seca: por que ESTABELECIDO
 
 - **Metanálise de 99 ECRs duplo-cegos controlados por placebo, 20.868 adultos** ([Cappetta 2017](#fontes)):
@@ -355,7 +357,7 @@ A história ajuda a desconfiar.
 O primeiro antidepressivo, a iproniazida, nasceu nos anos cinquenta como remédio contra tuberculose.
 Um antimicrobiano.
 Foi por acaso que se descobriu que ele agia no humor.
-E hoje sabemos que o caminho também vai no sentido contrário.
+E a recíproca vale: remédio feito para o corpo humano também mexe com bactérias.
 Num teste com mais de mil medicamentos, um em cada quatro remédios feitos para o corpo humano freou o crescimento de bactérias do intestino.
 
 Então como separar?
@@ -383,8 +385,10 @@ Avise o médico.
 Às vezes dá para trocar por um que seca menos.
 E proteja os dentes: com menos saliva, a cárie avança.
 Tricíclico na lista?
+Ele potencializa a adrenalina.
 Vasoconstritor em dose pequena, aspirando, e sem fio retrator com adrenalina.
 Lítio na lista?
+O anti-inflamatório sobe o lítio no sangue.
 Nada de anti-inflamatório sem falar com o psiquiatra.
 
 A boca faz parte da saúde do paciente.

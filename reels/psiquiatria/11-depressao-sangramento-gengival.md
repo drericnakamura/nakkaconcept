@@ -51,7 +51,7 @@ Só que não.
 
 Quando juntaram os estudos, quem tinha depressão tinha cerca de trinta por cento mais periodontite — mas com certeza baixa.
 
-E uma metanálise brasileira deste ano achou a seta ao contrário:
+E uma metanálise brasileira de 2026 achou a seta ao contrário:
 
 a doença da gengiva aumentava a chance de depressão. A depressão não aumentava a de doença da gengiva.
 
@@ -145,7 +145,7 @@ por que duas pessoas com o mesmo diagnóstico de depressão podem ter sintomas c
 
 ---
 
-**Narração:** cerca de 435 palavras, perto de 2 min 35 s em ritmo de explainer.
+**Narração:** cerca de 430 palavras, perto de 2 min 35 s.
 
 **Corte de 90 s:** manter PERGUNTA, CURIOSIDADE (sem a frase das mulheres), MICROEPIFANIA, QUEBRA (só "cerca de trinta por cento, com certeza baixa"), SEGUNDA MICROEPIFANIA (só o "−83%"), PORTANTO, O QUE NINGUÉM TE CONTOU, SELO, FRASE e GANCHO. O QUE MUDA AMANHÃ vai para a legenda e o carrossel.
 
@@ -294,7 +294,7 @@ por que duas pessoas com o mesmo diagnóstico de depressão podem ter sintomas c
   - [Bergström 2005](#fontes) é um comentário, sem *abstract*; só o título ("Smoking may impede gingival bleeding") foi verificado;
   - em [Bozaba 2026](#fontes), a diferença de sangramento entre fumantes e não fumantes não foi significativa após correção, embora os autores a interpretem como supressão vascular;
   - **conferir uma revisão primária antes de publicar.**
-- **"Metanálise brasileira deste ano":** [Mascarenhas 2026](#fontes) é de Pelotas, publicada na *Braz Oral Res* em setembro de 2026. Se o vídeo sair em 2027, trocar para "de 2026".
+- **"Metanálise brasileira de dois mil e vinte e seis":** [Mascarenhas 2026](#fontes) é de Pelotas, publicada na *Braz Oral Res* em setembro de 2026. Se o vídeo sair em 2027, trocar para "de 2026".
 - **CVV 188 e SAMU 192:** serviços nacionais (fonte oficial, não PubMed).
 
 ---

@@ -49,7 +49,7 @@ O "antidepressivo" tratava ansiedade desde o começo. O nome ficou por causa da 
 
 **[A MICROEPIFANIA]**
 
-E tem mais: as duas andam juntas.
+As duas andam juntas.
 
 Num estudo holandês, dois terços de quem tinha depressão tinham também um transtorno de ansiedade.
 
@@ -69,7 +69,7 @@ Os genes eram os mesmos para as duas doenças.
 
 O ambiente, só em parte.
 
-Mesma vulnerabilidade. Gatilhos diferentes.
+Mesma vulnerabilidade. Gatilhos diferentes. Não são a mesma doença: são parentes.
 
 > 🎬 O carimbo rasga. Pares de gêmeas em silhueta. Uma hélice de DNA única ligando "DEPRESSÃO" e "ANSIEDADE"; embaixo, dois caminhos de vida que se separam.
 
@@ -79,13 +79,13 @@ E no cérebro?
 
 Juntando 193 estudos de imagem, de seis diagnósticos diferentes, a perda de volume aparecia nas mesmas regiões: o cíngulo anterior e as ínsulas.
 
-Uma rede ligada ao controle da atenção e das decisões — o que chamamos de funções executivas.
+Uma rede ligada ao controle da atenção e das decisões — o que chamamos de funções executivas. Doenças com nomes diferentes, um mesmo pedaço de cérebro.
 
 > 🎬 Cérebro em corte com três regiões acendendo nos seis diagnósticos ao mesmo tempo. Rodapé: "JAMA Psychiatry 2015 — 15.892 pessoas". Lettering: **CÍNGULO ANTERIOR · ÍNSULAS · FUNÇÕES EXECUTIVAS**.
 
 **[O QUESTIONAMENTO]**
 
-Então qualquer remédio serve para as duas?
+Então o remédio age na doença inteira?
 
 Também não.
 
@@ -100,8 +100,6 @@ Klein já tinha visto isso: o remédio cortava a crise de pânico, mas o medo da
 **[A VIRADA]**
 
 O nome "antidepressivo" conta a história do remédio, não o mecanismo.
-
-Ele age em circuitos de emoção que a ansiedade e a depressão compartilham.
 
 > 🎬 A etiqueta "ANTIDEPRESSIVO" descola do frasco e revela embaixo: "age em circuitos de emoção".
 
@@ -123,7 +121,7 @@ Boca seca.
 
 Mais sangramento se somar anti-inflamatório.
 
-E se for tricíclico, como a amitriptilina, atenção ao vasoconstritor do anestésico.
+E se for tricíclico, como a amitriptilina, atenção ao vasoconstritor do anestésico: o tricíclico potencializa a adrenalina.
 
 > 🎬 Ícones entrando um a um: dente rangendo · gota de saliva secando · gota de sangue + AINE · tubete de anestésico com ⚠️.
 
@@ -167,7 +165,7 @@ o tratamento da ansiedade pode provocar bruxismo?
 
 ---
 
-**Narração:** cerca de 470 palavras, perto de 2 min 50 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
+**Narração:** cerca de 480 palavras, perto de 2 min 52 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (sem o número de ensaios), CURIOSIDADE (só Kuhn: "não funcionou na psicose, os deprimidos melhoraram"), MICROEPIFANIA, QUEBRA, QUESTIONAMENTO (sem a frase de Klein), SELO, FRASE e GANCHO. A SEGUNDA MICROEPIFANIA vira lettering e O QUE NINGUÉM TE CONTOU e O QUE MUDA AMANHÃ vão para a legenda e o carrossel.
 
@@ -179,7 +177,7 @@ o tratamento da ansiedade pode provocar bruxismo?
 | Microepifania | "O nome ficou por causa da primeira doença em que ele foi testado" · "Dois terços de quem tem depressão também têm ansiedade" · as mesmas três regiões no cérebro |
 | Falsa resolução | "Ansiedade e depressão são a mesma doença. Caso resolvido." |
 | Quebra de clímax | "Só que não." — mesmos genes, ambientes só em parte iguais |
-| Questionamento | "Então qualquer remédio serve para as duas? Também não." |
+| Questionamento | "Então o remédio age na doença inteira? Também não." |
 | Mas / portanto | MAS são doenças diferentes → PORTANTO o remédio deveria ser diferente → MAS andam juntas → MAS não são a mesma → PORTANTO o remédio age no que elas compartilham |
 | Curiosidade | Roland Kuhn e a molécula que falhou na psicose (Suíça, anos 1950) · Donald Klein e a imipramina no pânico (Nova York, anos 1960) |
 | Termo técnico traduzido | Transtorno de ansiedade generalizada, cíngulo anterior, ínsula, funções executivas, ansiedade antecipatória, tricíclico, vasoconstritor |
@@ -283,6 +281,8 @@ o tratamento da ansiedade pode provocar bruxismo?
 
 ## Bastidor da evidência
 
+**Revisão de lacunas (nov/2026):** o questionamento passou a ser "o remédio age na doença inteira?", que é o que o exemplo de Klein responde; entrou o porquê do cuidado com vasoconstritor no tricíclico (potencializa a adrenalina — a conferir).
+
 ### Que funciona nas duas (ESTABELECIDO)
 
 - **Ansiedade generalizada** ([Slee 2019](#fontes)): 89 ensaios, 25.441 pacientes, 22 drogas.
@@ -368,7 +368,7 @@ Ela bloqueava as crises de pânico.
 O antidepressivo tratava ansiedade desde o começo.
 O nome ficou por causa da primeira doença em que ele foi testado.
 
-E tem mais: as duas andam juntas.
+As duas andam juntas.
 Num estudo holandês,
 dois terços de quem tinha depressão tinham também um transtorno de ansiedade.
 E, na maioria desses casos, a ansiedade veio primeiro.
@@ -382,6 +382,7 @@ Os genes eram os mesmos para as duas doenças.
 O ambiente, só em parte.
 Mesma vulnerabilidade.
 Gatilhos diferentes.
+Não são a mesma doença: são parentes.
 
 E no cérebro?
 Juntando cento e noventa e três estudos de imagem, de seis diagnósticos diferentes,
@@ -389,8 +390,9 @@ a perda de volume aparecia nas mesmas regiões:
 o cíngulo anterior e as ínsulas.
 Uma rede ligada ao controle da atenção e das decisões.
 O que chamamos de funções executivas.
+Doenças com nomes diferentes, um mesmo pedaço de cérebro.
 
-Então qualquer remédio serve para as duas?
+Então o remédio age na doença inteira?
 Também não.
 O mesmo remédio não prova que é a mesma doença.
 Prova que ele age em algo que as duas têm em comum.
@@ -399,7 +401,6 @@ O remédio cortava a crise de pânico.
 Mas o medo da próxima crise só ia embora depois.
 
 O nome antidepressivo conta a história do remédio, não o mecanismo.
-Ele age em circuitos de emoção que a ansiedade e a depressão compartilham.
 
 Portanto, quando o paciente ansioso diz que toma antidepressivo, não tem erro de receita.
 E quando o paciente chega ansioso, vale lembrar: muitas vezes a depressão está junto.
@@ -409,7 +410,8 @@ Bruxismo nas primeiras semanas.
 Boca seca.
 Mais sangramento se somar anti-inflamatório.
 E se for tricíclico, como a amitriptilina,
-atenção ao vasoconstritor do anestésico.
+atenção ao vasoconstritor do anestésico:
+o tricíclico potencializa a adrenalina.
 
 Que funciona nas duas: estabelecido, em ensaios randomizados.
 Por que funciona nas duas: associação, ainda em estudo.

@@ -27,9 +27,9 @@ Lisa. Polida. Sem brilho.
 
 É esmalte dissolvido por ácido — o que chamamos de erosão dentária.
 
-Desse lado, o ácido talvez não tenha vindo do copo.
+O ácido do copo bate mais na frente dos dentes.
 
-Pode ter vindo do estômago.
+Desse lado de dentro, ele pode ter vindo do estômago.
 
 > 🎬 Espelho clínico mostrando a face palatina dos incisivos superiores com erosão. Lettering: **EROSÃO DENTÁRIA**. Seta vinda "de dentro", do esôfago para a boca.
 
@@ -81,7 +81,7 @@ Então o dentista diagnostica depressão?
 
 Não.
 
-Só que elas também disparam alarme falso em mais de quatro de cada dez pessoas sem depressão.
+E as perguntas também disparam alarme falso em mais de quatro de cada dez pessoas sem depressão.
 
 Isso é rastreio. Rastreio levanta a mão.
 
@@ -173,7 +173,7 @@ mesmo sem uma lesão maior?
 
 ---
 
-**Narração:** cerca de 480 palavras, perto de 2 min 50 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
+**Narração:** cerca de 480 palavras, perto de 2 min 53 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (só "a boca entrega antes da pessoa" e "é esmalte dissolvido por ácido"), QUEBRA, SEGUNDA MICROEPIFANIA, QUESTIONAMENTO, O QUE NINGUÉM TE CONTOU (só a pergunta sobre suicídio e a resposta), O QUE MUDA AMANHÃ, FRASE e GANCHO. A CURIOSIDADE e a MICROEPIFANIA vão para a legenda e o carrossel.
 
@@ -294,6 +294,8 @@ mesmo sem uma lesão maior?
 
 ## Bastidor da evidência
 
+**Revisão de lacunas (nov/2026):** entrou a explicação do padrão de erosão (ácido da dieta na face vestibular; ácido do estômago na face palatina). Semiologia clássica; referência específica a conferir.
+
 ### Por que o selo tem duas partes
 
 - **Os questionários são sólidos:** validados em milhares de pacientes de atenção primária e obstetrícia ([Kroenke 2001](#fontes); [Kroenke 2003](#fontes); [Spitzer 2006](#fontes)).
@@ -362,8 +364,8 @@ Lisa.
 Polida.
 Sem brilho.
 É esmalte dissolvido por ácido, o que chamamos de erosão dentária.
-Desse lado, o ácido talvez não tenha vindo do copo.
-Pode ter vindo do estômago.
+O ácido do copo bate mais na frente dos dentes.
+Desse lado de dentro, ele pode ter vindo do estômago.
 
 Uma metanálise juntou dez estudos.
 Quem tinha transtorno alimentar tinha cinco vezes mais chance de erosão.
@@ -389,7 +391,7 @@ Para ansiedade, existe o GAD-2.
 
 Então o dentista diagnostica depressão?
 Não.
-Só que elas também disparam alarme falso em mais de quatro de cada dez pessoas sem depressão.
+E as perguntas também disparam alarme falso em mais de quatro de cada dez pessoas sem depressão.
 Isso é rastreio.
 Rastreio levanta a mão.
 Quem fecha o diagnóstico é o médico.

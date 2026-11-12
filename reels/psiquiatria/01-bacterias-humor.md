@@ -33,7 +33,7 @@ E faz sentido.
 
 A gengiva inflamada solta no sangue os mensageiros da inflamação — as citocinas, como a interleucina-6.
 
-E o cérebro escuta esses mensageiros. No cérebro daqueles camundongos, o hipocampo estava inflamado.
+E o cérebro escuta esses mensageiros — é por isso que, gripado, você fica sem energia e sem vontade de nada. No cérebro daqueles camundongos, o hipocampo estava inflamado.
 
 Pronto. A boca deprime.
 
@@ -93,7 +93,7 @@ E não encontramos nenhum ensaio que tenha testado se tratar a gengiva melhora a
 
 **[O QUE NINGUÉM TE CONTOU]**
 
-E tem um detalhe que importa muito mais na cadeira.
+E se o problema é inflamação, a tentação na cadeira é o anti-inflamatório. Cuidado.
 
 O antidepressivo, sozinho, quase não faz a extração sangrar.
 
@@ -149,7 +149,7 @@ por que a depressão é tratada no cérebro?
 
 ---
 
-**Narração:** cerca de 450 palavras, perto de 2 min 40 s em ritmo de explainer, com as pausas das quebras.
+**Narração:** cerca de 480 palavras, perto de 2 min 50 s, com as pausas das quebras.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (só a primeira e a última linha), QUEBRA, QUESTIONAMENTO, CURIOSIDADE (só o interferon: "um em cada quatro"), VIRADA (até "PCR acima de três"), SELO, FRASE e GANCHO. Mover O QUE NINGUÉM TE CONTOU e O QUE MUDA AMANHÃ para a legenda e o carrossel.
 
@@ -268,6 +268,8 @@ Cada classe muda uma conduta odontológica — ver abaixo.
 
 ## Bastidor da evidência
 
+**Revisão de lacunas (nov/2026):** a frase da gripe ("sem energia e sem vontade de nada") é o comportamento de doença: citocinas agindo no cérebro ([19] Dantzer 2008).
+
 ### A associação, estudo por estudo
 
 | Estudo | Desenho | Resultado |
@@ -331,6 +333,7 @@ Cada classe muda uma conduta odontológica — ver abaixo.
 16. Yagiela JA. Adverse drug interactions in dental practice: interactions associated with vasoconstrictors. Part V of a series. J Am Dent Assoc. 1999;130(5):701-9. doi:10.14219/jada.archive.1999.0280. PMID: 10332135.
 17. Schuch FB, Vancampfort D, Firth J, Rosenbaum S, Ward PB, Silva ES, et al. Physical activity and incident depression: a meta-analysis of prospective cohort studies. Am J Psychiatry. 2018;175(7):631-48. doi:10.1176/appi.ajp.2018.17111194. PMID: 29690792.
 18. Taylor G, McNeill A, Girling A, Farley A, Lindson-Hawley N, Aveyard P. Change in mental health after smoking cessation: systematic review and meta-analysis. BMJ. 2014;348:g1151. doi:10.1136/bmj.g1151. PMID: 24524926.
+19. Dantzer R, O'Connor JC, Freund GG, Johnson RW, Kelley KW. From inflammation to sickness and depression: when the immune system subjugates the brain. Nat Rev Neurosci. 2008;9(1):46-56. doi:10.1038/nrn2297. PMID: 18073775.
 
 ---
 
@@ -350,6 +353,7 @@ E faz sentido.
 A gengiva inflamada solta no sangue os mensageiros da inflamação.
 As citocinas, como a interleucina-seis.
 E o cérebro escuta esses mensageiros.
+É por isso que, gripado, você fica sem energia e sem vontade de nada.
 No cérebro daqueles camundongos, o hipocampo estava inflamado.
 Pronto. A boca deprime.
 Caso resolvido.
@@ -383,7 +387,8 @@ Mas a periodontite produz inflamação suficiente para abrir essa porta?
 Ninguém mostrou ainda.
 E não encontramos nenhum ensaio que tenha testado se tratar a gengiva melhora a depressão.
 
-E tem um detalhe que importa muito mais na cadeira.
+E se o problema é inflamação, a tentação na cadeira é o anti-inflamatório.
+Cuidado.
 O antidepressivo, sozinho, quase não faz a extração sangrar.
 O problema é o anti-inflamatório que a gente prescreve depois.
 Junto com um antidepressivo do tipo ISRS, o risco de sangramento no estômago fica quatro vezes maior.

@@ -115,7 +115,7 @@ O intestino conversa com o cérebro. Mas não mandando serotonina pelo sangue.
 
 Lembra das plaquetas?
 
-O antidepressivo bloqueia a recaptação de serotonina no cérebro — e também na plaqueta. Ela fica com menos serotonina e agrega pior.
+O antidepressivo bloqueia a recaptação — o reaproveitamento — de serotonina no cérebro — e também na plaqueta. Ela fica com menos serotonina e agrega pior.
 
 Sozinho, o efeito é pequeno.
 
@@ -139,9 +139,7 @@ Vai extrair? Não suspenda o antidepressivo: nos estudos, o sangramento na boca 
 
 Anti-inflamatório? Só combinado com o médico.
 
-Tramadol junto com antidepressivo pode causar síndrome serotoninérgica.
-
-E bruxismo novo nas primeiras semanas do remédio? Avise o psiquiatra.
+Tramadol junto com antidepressivo pode causar síndrome serotoninérgica — um excesso perigoso de serotonina.
 
 > 🎬 Lista com as letras da ROTA no canto. Ícones: frasco de ISRS com ✓ "não suspender" · gaze e sutura · AINE com ⚠️ · tramadol + ISRS com ⚠️ · dente rangendo com calendário "3–4 semanas".
 
@@ -165,7 +163,7 @@ por que pacientes com depressão podem ter sangramento gengival mesmo sem escova
 
 ---
 
-**Narração:** cerca de 475 palavras, perto de 2 min 50 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
+**Narração:** cerca de 480 palavras, perto de 2 min 50 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (só "a maior parte está fora do cérebro" e "células enterocromafins"), MICROEPIFANIA, QUEBRA, QUESTIONAMENTO (sem o número de ensaios), O QUE NINGUÉM TE CONTOU, SELO, FRASE e GANCHO. A CURIOSIDADE vira uma linha de lettering ("descoberta no intestino em 1937, no cérebro só em 1953") e O QUE MUDA AMANHÃ vai para a legenda e o carrossel.
 
@@ -401,7 +399,7 @@ O intestino conversa com o cérebro.
 Mas não mandando serotonina pelo sangue.
 
 Lembra das plaquetas?
-O antidepressivo bloqueia a recaptação de serotonina no cérebro, e também na plaqueta.
+O antidepressivo bloqueia a recaptação — o reaproveitamento — de serotonina no cérebro, e também na plaqueta.
 Ela fica com menos serotonina e agrega pior.
 Sozinho, o efeito é pequeno.
 Mas antidepressivo somado a anti-inflamatório multiplicou por quatro o risco de sangramento digestivo.
@@ -414,9 +412,7 @@ Vai extrair?
 Não suspenda o antidepressivo: nos estudos, o sangramento na boca foi raro.
 Capriche na hemostasia local.
 Anti-inflamatório? Só combinado com o médico.
-Tramadol junto com antidepressivo pode causar síndrome serotoninérgica.
-E bruxismo novo nas primeiras semanas do remédio?
-Avise o psiquiatra.
+Tramadol junto com antidepressivo pode causar síndrome serotoninérgica — um excesso perigoso de serotonina.
 
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.

@@ -95,7 +95,7 @@ Na depressão melancólica — sem apetite, acordando de madrugada — o cortiso
 
 Na depressão atípica — fome e sono aumentados — aparecem mais inflamação, mais cintura e mais triglicérides.
 
-E respondem diferente ao remédio: num ensaio, a atípica respondeu mais a um antidepressivo antigo, um IMAO, do que à imipramina.
+E respondem diferente ao remédio: num ensaio, a atípica respondeu mais a um antidepressivo antigo, um IMAO — que impede a quebra da serotonina e da noradrenalina — do que à imipramina.
 
 > 🎬 Tela dividida: MELANCÓLICA (curva de cortisol subindo) × ATÍPICA (fita métrica, gota de gordura, chama de inflamação). Barras: **71%** IMAO · **50%** imipramina · **28%** placebo. Lettering: **IMAO — inibidor da monoaminoxidase**.
 
@@ -159,7 +159,7 @@ por que uma pessoa com depressão pode sentir mais dor, mesmo sem uma lesão mai
 
 ---
 
-**Narração:** cerca de 460 palavras, perto de 2 min 45 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
+**Narração:** cerca de 480 palavras, perto de 2 min 50 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA, MICROEPIFANIA, FALSA RESOLUÇÃO, QUEBRA, QUESTIONAMENTO, PORTANTO, O QUE MUDA AMANHÃ (só as três perguntas e o encaminhamento), FRASE e GANCHO. A CURIOSIDADE vira uma linha de lettering ("melancolia = bile negra; hoje, 52 sintomas") e a VIRADA vai para a legenda e o carrossel.
 
@@ -380,7 +380,7 @@ o cortisol, o hormônio do estresse, fica mais alto.
 Na depressão atípica, com fome e sono aumentados,
 aparecem mais inflamação, mais cintura e mais triglicérides.
 E respondem diferente ao remédio.
-Num ensaio, a atípica respondeu mais a um antidepressivo antigo, um IMAO, do que à imipramina.
+Num ensaio, a atípica respondeu mais a um antidepressivo antigo, um IMAO — que impede a quebra da serotonina e da noradrenalina — do que à imipramina.
 
 Portanto, o diagnóstico diz depressão.
 Mas é o sintoma que diz o que muda no seu consultório.

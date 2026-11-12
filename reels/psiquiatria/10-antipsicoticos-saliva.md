@@ -77,7 +77,7 @@ Em parte?
 
 Repare quando ela aparece: oitenta e cinco por cento à noite, contra quarenta e oito durante o dia.
 
-O mecanismo ainda é mal compreendido.
+À noite, a gente engole menos. Talvez parte do problema seja engolir, não só produzir.
 
 A conta não fechou.
 
@@ -88,8 +88,6 @@ A conta não fechou.
 E ela quase não chegou até aqui.
 
 Em 1975, na Finlândia, em seis meses de uso, dezessete pacientes tiveram queda grave dos glóbulos brancos. Oito morreram.
-
-E outros casos podem ter passado como infecções banais.
 
 O desenvolvimento travou por mais de uma década.
 
@@ -109,13 +107,13 @@ Essa queda dos glóbulos brancos — a agranulocitose — aparece em menos de um
 
 Mas ela se disfarça.
 
-De infecção comum.
+De infecção comum — muitas vezes na boca: febre, garganta, ferida.
 
 > 🎬 Lettering: **AGRANULOCITOSE** · **0,8% no 1º ano**. Uma "afta" comum que, ao zoom, mostra um alerta vermelho.
 
 **[O PORTANTO]**
 
-Portanto, o mesmo paciente pode pedir dois cuidados opostos.
+E o mesmo paciente pode pedir dois cuidados opostos.
 
 Boca seca: cárie.
 
@@ -177,7 +175,7 @@ por que o remédio é o mesmo?
 
 ---
 
-**Narração:** cerca de 480 palavras, perto de 2 min 50 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
+**Narração:** cerca de 490 palavras, perto de 2 min 54 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA, QUEBRA, SEGUNDA MICROEPIFANIA (sem a frase dos autores), VIRADA, PORTANTO, O QUE MUDA AMANHÃ, FRASE e GANCHO. Condensar a CURIOSIDADE em duas linhas ("Em 1975, na Finlândia, oito mortes. Em 1988, voltou — com exame de sangue toda semana.") e mover MICROEPIFANIA, QUESTIONAMENTO e O QUE NINGUÉM TE CONTOU para a legenda e o carrossel.
 
@@ -312,6 +310,8 @@ por que o remédio é o mesmo?
 
 ## Bastidor da evidência
 
+**Revisão de lacunas (nov/2026):** o horário noturno da sialorreia agora é explicado (à noite se engole menos — hipótese de deglutição, a conferir), e a agranulocitose ganhou a ligação com a boca (febre, garganta, ferida — lista de sinais a conferir).
+
 ### Por que o selo tem duas partes
 
 - **Que psicotrópicos causam xerostomia está bem documentado** ([Wolff 2017](#fontes)), assim como a sialorreia da clozapina ([Maher 2016](#fontes)).
@@ -400,13 +400,12 @@ Os autores: isso pode explicar, em parte, a saliva a mais.
 
 Em parte?
 Repare quando ela aparece: oitenta e cinco por cento à noite, contra quarenta e oito durante o dia.
-O mecanismo ainda é mal compreendido.
+À noite, a gente engole menos. Talvez parte do problema seja engolir, não só produzir.
 A conta não fechou.
 
 E ela quase não chegou até aqui.
 Em mil novecentos e setenta e cinco, na Finlândia, em seis meses de uso, dezessete pacientes tiveram queda grave dos glóbulos brancos.
 Oito morreram.
-E outros casos podem ter passado como infecções banais.
 O desenvolvimento travou por mais de uma década.
 Em mil novecentos e oitenta e oito, um ensaio testou a clozapina em quem não tinha melhorado com três antipsicóticos.
 Responderam trinta por cento.
@@ -417,9 +416,9 @@ Com uma condição: exame de sangue toda semana.
 E aqui a boca volta à história.
 Essa queda dos glóbulos brancos, a agranulocitose, aparece em menos de um por cento no primeiro ano.
 Mas ela se disfarça.
-De infecção comum.
+De infecção comum — muitas vezes na boca: febre, garganta, ferida.
 
-Portanto, o mesmo paciente pode pedir dois cuidados opostos.
+E o mesmo paciente pode pedir dois cuidados opostos.
 Boca seca: cárie.
 Saliva demais: risco de aspirar.
 E a clozapina triplica o risco de pneumonia.

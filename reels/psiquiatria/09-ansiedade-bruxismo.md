@@ -29,7 +29,7 @@ Era o ecstasy, uma droga que faz o cérebro liberar serotonina em massa — e qu
 
 **[A MICROEPIFANIA]**
 
-Agora pense nos remédios mais usados para ansiedade e depressão: os inibidores seletivos da recaptação de serotonina, os ISRS.
+Agora pense nos remédios mais usados para ansiedade e depressão: os inibidores seletivos da recaptação — o reaproveitamento — de serotonina, os ISRS.
 
 Fluoxetina. Sertralina. Escitalopram.
 
@@ -137,7 +137,7 @@ por que alguns antipsicóticos secam a boca — e outros fazem a saliva escorrer
 
 ---
 
-**Narração:** cerca de 425 palavras, perto de 2 min 30 s em ritmo de explainer.
+**Narração:** cerca de 430 palavras, perto de 2 min 32 s.
 
 **Corte de 90 s:** manter PERGUNTA, CURIOSIDADE, MICROEPIFANIA (sem a lista de nomes), QUEBRA (só "fluoxetina, sertralina e escitalopram não aumentaram" e a pista da noradrenalina), QUESTIONAMENTO, PORTANTO, SELO, FRASE e GANCHO. A VIRADA e O QUE NINGUÉM TE CONTOU vão para a legenda e o carrossel.
 
@@ -326,7 +326,7 @@ Uma droga que faz o cérebro liberar serotonina em massa.
 E que trava e faz ranger a mandíbula.
 
 Agora pense nos remédios mais usados para ansiedade e depressão.
-Os inibidores seletivos da recaptação de serotonina. Os ISRS.
+Os inibidores seletivos da recaptação, o reaproveitamento, de serotonina. Os ISRS.
 Fluoxetina. Sertralina. Escitalopram.
 Eles também aumentam a serotonina.
 E há relatos publicados de gente que começou a ranger os dentes semanas depois de começar o remédio.

@@ -34,9 +34,9 @@ E eles tinham um problema de relojoeiro: um metal que trabalhe anos sem cansar e
 
 Só que dentro do corpo.
 
-Foram bater na porta de quem entendia de metal.
+Foram bater na porta de quem entendia de metal. E do osso da perna para o da mandíbula foi um passo.
 
-Então era só diminuir o parafuso da perna e colocar na boca. Caso resolvido.
+Então era só levar o parafuso para a boca. Caso resolvido.
 
 > 🎬 Lettering **AO · 1958**. Placa aparafusada numa tíbia. O parafuso encolhe e voa para uma mandíbula. Carimbo: **CASO RESOLVIDO**.
 
@@ -146,7 +146,7 @@ o que uma doença da tireoide tem a ver com a prevenção da cárie?
 
 ---
 
-**Narração:** cerca de 470 palavras, perto de 2 min 50 s, com as pausas das quebras.
+**Narração:** cerca de 480 palavras, perto de 2 min 53 s, com as pausas das quebras.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (só "Waldenburg, Suíça. Uma cidade de relojoeiros." e 1954), MICROEPIFANIA, QUEBRA, CURIOSIDADE (sem a frase da mastigação), VIRADA, PORTANTO, FRASE e GANCHO. QUESTIONAMENTO, O QUE NINGUÉM TE CONTOU e O QUE MUDA AMANHÃ vão para a legenda e o carrossel.
 
@@ -351,7 +351,8 @@ E eles tinham um problema de relojoeiro:
 um metal que trabalhe anos sem cansar e sem corroer.
 Só que dentro do corpo.
 Foram bater na porta de quem entendia de metal.
-Então era só diminuir o parafuso da perna e colocar na boca.
+E do osso da perna para o da mandíbula foi um passo.
+Então era só levar o parafuso para a boca.
 Caso resolvido.
 
 Só que não.

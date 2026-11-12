@@ -86,7 +86,7 @@ Quando a Cochrane separou os estudos de água fluoretada feitos depois de 1975, 
 
 Por quê?
 
-Porque nessa época já tinha chegado um veículo que ninguém precisa distribuir: o creme dental com flúor.
+Porque nessa época já tinha chegado um veículo que pega carona num hábito diário: o creme dental com flúor.
 
 > 🎬 Linha do tempo: a barra de efeito da água encolhe depois de 1975. Entra um tubo de pasta ocupando a tela inteira.
 
@@ -94,7 +94,7 @@ Porque nessa época já tinha chegado um veículo que ninguém precisa distribui
 
 A lição que a tireoide deu à odontologia não era sobre iodo, nem sobre sal.
 
-Era sobre veículo: a prevenção que funciona é a que não depende de o paciente lembrar.
+Era sobre veículo: a prevenção que funciona pega carona num hábito que já existe.
 
 Portanto, o veículo que está na sua mão é o tubo de pasta.
 
@@ -136,7 +136,7 @@ por que a escova elétrica moderna começou como solução para quem tinha dific
 
 ---
 
-**Narração:** cerca de 470 palavras, perto de 2 min 50 s, com as pausas das quebras.
+**Narração:** cerca de 480 palavras, perto de 2 min 51 s, com as pausas das quebras.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (sem o nome de Eggenberger), MICROEPIFANIA, QUEBRA (só "Só que não. A dose era baixa demais."), QUESTIONAMENTO, VIRADA, SELO, FRASE e GANCHO. CURIOSIDADE, O QUE NINGUÉM TE CONTOU e O QUE MUDA AMANHÃ vão para a legenda e o carrossel.
 
@@ -145,7 +145,7 @@ por que a escova elétrica moderna começou como solução para quem tinha dific
 | Técnica | Onde está |
 | --- | --- |
 | Cavalo de troia | A pergunta é sobre tireoide; a aula é sobre veículo de prevenção, fluorose e ppm no creme dental |
-| Microepifania | "O truque não era o iodo. Era o sal." · "a prevenção que funciona é a que não depende de o paciente lembrar" |
+| Microepifania | "O truque não era o iodo. Era o sal." · "a prevenção que funciona pega carona num hábito que já existe" |
 | Falsa resolução | "Pronto. Cárie resolvida com um saleiro." |
 | Quebra de clímax | "Só que não." — a dose de 1955 era baixa demais |
 | Questionamento | "Então por que o Brasil não coloca flúor no sal?" |
@@ -355,12 +355,12 @@ Quando a Cochrane separou os estudos de água fluoretada feitos depois de mil no
 cerca de um quarto de dente de leite cariado a menos por criança.
 E o intervalo inclui nenhum efeito.
 Por quê?
-Porque nessa época já tinha chegado um veículo que ninguém precisa distribuir:
+Porque nessa época já tinha chegado um veículo que pega carona num hábito diário:
 o creme dental com flúor.
 
 A lição que a tireoide deu à odontologia não era sobre iodo, nem sobre sal.
 Era sobre veículo:
-a prevenção que funciona é a que não depende de o paciente lembrar.
+a prevenção que funciona pega carona num hábito que já existe.
 Portanto, o veículo que está na sua mão é o tubo de pasta.
 
 Aqui a ciência já testou:
