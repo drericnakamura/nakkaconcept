@@ -13,6 +13,19 @@ Nome provisório: **Qual é qual**. Sai do texto do site e diz exatamente o que 
 
 ---
 
+## As séries
+
+| Série | Pasta | Episódios | Ordem |
+| --- | --- | --- | --- |
+| **Qual é qual** — boca e corpo | esta pasta | 1 escrito ([ep01-figado.md](ep01-figado.md)); pauta abaixo | Encadeada: cada episódio termina em "No próximo episódio" |
+| **Boca e mente** — psiquiatria | [psiquiatria/](psiquiatria/README.md) | 11 | Independentes: "Em outro episódio" |
+| **Suíça** — descobertas que mudaram a odontologia | [suica/](suica/README.md) | 4 | Independentes |
+| **Portugal** — quando alguém questionou o protocolo | [portugal/](portugal/README.md) | 2 | Independentes |
+
+Todas usam o mesmo motor narrativo, o mesmo selo, a ROTA e o teleprompter no fim.
+
+---
+
 ## O padrão é o EP01
 
 **[ep01-figado.md](ep01-figado.md)** é o modelo de todos os episódios. Para
