@@ -1,7 +1,7 @@
 # Ansiedade e depressão são diferentes. Por que o remédio é o mesmo?
 
 **Selo:** ESTABELECIDO — os mesmos antidepressivos funcionam nas duas condições (ensaios randomizados e metanálises) · ASSOCIAÇÃO — o porquê (genes e circuitos compartilhados) vem de estudos observacionais
-**Duração:** ~2 min 50 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 52 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que atende paciente ansioso (inclusive com ansiedade odontológica) ou em uso de antidepressivo; médico que prescreve para ansiedade e depressão
 **Cavalo de troia:** o espectador entra por uma dúvida de farmacologia. Sai sabendo que ansiedade e depressão andam juntas na maioria dos pacientes, que o "antidepressivo" ganhou esse nome por acidente histórico, e o que o mesmo remédio muda na boca — bruxismo, boca seca, sangramento e vasoconstritor.
 **Em outro episódio (gancho):** o tratamento da ansiedade pode provocar bruxismo?
@@ -51,7 +51,7 @@ O "antidepressivo" tratava ansiedade desde o começo. O nome ficou por causa da 
 
 As duas andam juntas.
 
-Num estudo holandês, dois terços de quem tinha depressão tinham também um transtorno de ansiedade.
+Num estudo holandês, dois terços de quem tinha depressão tinham comorbidade com um transtorno de ansiedade.
 
 E, na maioria desses casos, a ansiedade veio primeiro.
 
@@ -65,7 +65,7 @@ Só que não.
 
 Um estudo com mais de mil pares de gêmeas separou genes e ambiente.
 
-Os genes eram os mesmos para as duas doenças.
+A carga genética era a mesma para as duas doenças.
 
 O ambiente, só em parte.
 
@@ -77,7 +77,7 @@ Mesma vulnerabilidade. Gatilhos diferentes. Não são a mesma doença: são pare
 
 E no cérebro?
 
-Juntando 193 estudos de imagem, de seis diagnósticos diferentes, a perda de volume aparecia nas mesmas regiões: o cíngulo anterior e as ínsulas.
+Juntando 193 estudos de imagem, de seis diagnósticos diferentes, a perda de substância cinzenta aparecia nas mesmas regiões: o cíngulo anterior e as ínsulas.
 
 Uma rede ligada ao controle da atenção e das decisões — o que chamamos de funções executivas. Doenças com nomes diferentes, um mesmo pedaço de cérebro.
 
@@ -89,23 +89,23 @@ Então o remédio age na doença inteira?
 
 Também não.
 
-O mesmo remédio não prova que é a mesma doença.
+O mesmo fármaco não prova que é a mesma doença.
 
-Prova que ele age em algo que as duas têm em comum.
+Prova que ele age num mecanismo que as duas compartilham.
 
-Klein já tinha visto isso: o remédio cortava a crise de pânico, mas o medo da próxima crise só ia embora depois.
+Klein já tinha visto isso: a imipramina cortava a crise de pânico, mas a ansiedade antecipatória só ia embora depois.
 
 > 🎬 Dois relógios: a crise de pânico (para logo) e o "medo da próxima crise" (vai diminuindo devagar, à medida que as crises não voltam). Lettering: **ANSIEDADE ANTECIPATÓRIA**.
 
 **[A VIRADA]**
 
-O nome "antidepressivo" conta a história do remédio, não o mecanismo.
+O nome "antidepressivo" conta a história do fármaco, não o mecanismo.
 
 > 🎬 A etiqueta "ANTIDEPRESSIVO" descola do frasco e revela embaixo: "age em circuitos de emoção".
 
 **[O PORTANTO]**
 
-Portanto, quando o paciente ansioso diz que toma antidepressivo, não tem erro de receita.
+Portanto, quando o paciente ansioso diz que toma antidepressivo, não tem erro de prescrição.
 
 E quando o paciente chega ansioso, vale lembrar: muitas vezes a depressão está junto.
 
@@ -113,13 +113,13 @@ E quando o paciente chega ansioso, vale lembrar: muitas vezes a depressão está
 
 **[O QUE NINGUÉM TE CONTOU]**
 
-E o mesmo remédio traz os mesmos efeitos na boca.
+E o mesmo fármaco traz os mesmos efeitos adversos na boca.
 
 Bruxismo nas primeiras semanas.
 
-Boca seca.
+Xerostomia, a boca seca.
 
-Mais sangramento se somar anti-inflamatório.
+Mais risco de sangramento se associar anti-inflamatório.
 
 E se for tricíclico, como a amitriptilina, atenção ao vasoconstritor do anestésico: o tricíclico potencializa a adrenalina.
 
@@ -137,11 +137,11 @@ Por que funciona nas duas: associação, ainda em estudo.
 
 Pergunte pela medicação, não só pelo diagnóstico.
 
-Antidepressivo? Pergunte por ranger de dentes e boca seca.
+Antidepressivo? Pergunte por bruxismo e xerostomia.
 
-Tricíclico? Vasoconstritor em dose baixa, aspirando e medindo a pressão.
+Tricíclico? Vasoconstritor em dose baixa, com aspiração prévia e aferição da pressão arterial.
 
-E se o paciente disser que não vê mais sentido em nada, encaminhe no mesmo dia.
+E se o paciente relatar desesperança, encaminhe no mesmo dia.
 
 > 🎬 Lista com as letras da ROTA no canto. Último item em destaque: **CVV 188 · SAMU 192**.
 
@@ -258,13 +258,13 @@ o tratamento da ansiedade pode provocar bruxismo?
 
 > Se ansiedade e depressão são tão diferentes, por que o remédio é o mesmo?
 >
-> Porque o nome "antidepressivo" conta a história do remédio, não o mecanismo. Nos anos 1950, na Suíça, a imipramina falhou na psicose e funcionou na depressão. Poucos anos depois, bloqueava crises de pânico. Hoje, 89 ensaios mostram que vários antidepressivos funcionam na ansiedade generalizada.
+> Porque o nome "antidepressivo" conta a história do fármaco, não o mecanismo. Nos anos 1950, na Suíça, a imipramina falhou na psicose e funcionou na depressão. Poucos anos depois, bloqueava crises de pânico. Hoje, 89 ensaios mostram que vários antidepressivos funcionam na ansiedade generalizada.
 >
-> E as duas andam juntas: dois terços de quem tem depressão também têm um transtorno de ansiedade. Gêmeas mostraram os mesmos genes por trás das duas — com ambientes só em parte iguais.
+> E as duas andam juntas: dois terços de quem tem depressão também têm um transtorno de ansiedade. Gêmeas mostraram a mesma carga genética por trás das duas — com ambientes só em parte iguais.
 >
 > Mesmo remédio não é mesma doença. É um remédio que age no que as duas compartilham.
 >
-> 🦷 Pergunte o nome do remédio, não só o diagnóstico
+> 🦷 Pergunte o nome do fármaco, não só o diagnóstico
 > 😬 Bruxismo novo nas primeiras semanas de antidepressivo? Avise o prescritor
 > 💉 Tricíclico? Vasoconstritor em dose baixa, aspirando e medindo a pressão
 > 🆘 "Não vejo mais sentido em nada" → encaminhe no mesmo dia. CVV 188
@@ -370,7 +370,7 @@ O nome ficou por causa da primeira doença em que ele foi testado.
 
 As duas andam juntas.
 Num estudo holandês,
-dois terços de quem tinha depressão tinham também um transtorno de ansiedade.
+dois terços de quem tinha depressão tinham comorbidade com um transtorno de ansiedade.
 E, na maioria desses casos, a ansiedade veio primeiro.
 Pronto: ansiedade e depressão são a mesma doença.
 Caso resolvido.
@@ -378,7 +378,7 @@ Caso resolvido.
 Só que não.
 
 Um estudo com mais de mil pares de gêmeas separou genes e ambiente.
-Os genes eram os mesmos para as duas doenças.
+A carga genética era a mesma para as duas doenças.
 O ambiente, só em parte.
 Mesma vulnerabilidade.
 Gatilhos diferentes.
@@ -386,7 +386,7 @@ Não são a mesma doença: são parentes.
 
 E no cérebro?
 Juntando cento e noventa e três estudos de imagem, de seis diagnósticos diferentes,
-a perda de volume aparecia nas mesmas regiões:
+a perda de substância cinzenta aparecia nas mesmas regiões:
 o cíngulo anterior e as ínsulas.
 Uma rede ligada ao controle da atenção e das decisões.
 O que chamamos de funções executivas.
@@ -394,21 +394,21 @@ Doenças com nomes diferentes, um mesmo pedaço de cérebro.
 
 Então o remédio age na doença inteira?
 Também não.
-O mesmo remédio não prova que é a mesma doença.
-Prova que ele age em algo que as duas têm em comum.
+O mesmo fármaco não prova que é a mesma doença.
+Prova que ele age num mecanismo que as duas compartilham.
 Klein já tinha visto isso.
-O remédio cortava a crise de pânico.
-Mas o medo da próxima crise só ia embora depois.
+A imipramina cortava a crise de pânico.
+Mas a ansiedade antecipatória só ia embora depois.
 
-O nome antidepressivo conta a história do remédio, não o mecanismo.
+O nome antidepressivo conta a história do fármaco, não o mecanismo.
 
-Portanto, quando o paciente ansioso diz que toma antidepressivo, não tem erro de receita.
+Portanto, quando o paciente ansioso diz que toma antidepressivo, não tem erro de prescrição.
 E quando o paciente chega ansioso, vale lembrar: muitas vezes a depressão está junto.
 
-E o mesmo remédio traz os mesmos efeitos na boca.
+E o mesmo fármaco traz os mesmos efeitos adversos na boca.
 Bruxismo nas primeiras semanas.
-Boca seca.
-Mais sangramento se somar anti-inflamatório.
+Xerostomia, a boca seca.
+Mais risco de sangramento se associar anti-inflamatório.
 E se for tricíclico, como a amitriptilina,
 atenção ao vasoconstritor do anestésico:
 o tricíclico potencializa a adrenalina.
@@ -418,10 +418,10 @@ Por que funciona nas duas: associação, ainda em estudo.
 
 Pergunte pela medicação, não só pelo diagnóstico.
 Antidepressivo?
-Pergunte por ranger de dentes e boca seca.
+Pergunte por bruxismo e xerostomia.
 Tricíclico?
-Vasoconstritor em dose baixa, aspirando e medindo a pressão.
-E se o paciente disser que não vê mais sentido em nada, encaminhe no mesmo dia.
+Vasoconstritor em dose baixa, com aspiração prévia e aferição da pressão arterial.
+E se o paciente relatar desesperança, encaminhe no mesmo dia.
 
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.

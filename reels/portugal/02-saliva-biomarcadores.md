@@ -3,7 +3,7 @@
 *Série: Portugal — Quando alguém questionou o protocolo*
 
 **Selo:** ESTABELECIDO para poucos testes (cortisol salivar noturno, teste rápido de HIV em fluido oral, PCR de SARS-CoV-2 na saliva) · HIPÓTESE para a maioria dos biomarcadores salivares ainda em pesquisa
-**Duração:** ~2 min 50 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 51 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que recebe ofertas de "teste de saliva"; endocrinologista, infectologista, clínico e médico de família
 **Cavalo de troia:** o espectador entra pela promessa do diagnóstico sem agulha. Sai sabendo as três perguntas que todo exame precisa responder, quais testes de saliva já passaram nelas e por que até um teste bom pede confirmação.
 **Em outro episódio (gancho):** se um paciente não tem osso suficiente para colocar implantes, por que não mudar a posição dos implantes?
@@ -42,7 +42,7 @@ A boca carrega um pedaço do sangue.
 
 Sem agulha.
 
-Pronto. Por que ainda furamos o braço?
+Pronto. Por que ainda fazemos punção venosa?
 
 > 🎬 Contador: **3.397 proteínas**. Um bloco de **1.929** se destaca com a etiqueta **PLASMA**. Carimbo vermelho: **CASO RESOLVIDO**.
 
@@ -66,11 +66,11 @@ Uma molécula interessante pode parar no primeiro degrau.
 
 E a saliva tem armadilhas próprias.
 
-Ela muda com a hora do dia, com o fluxo, com o que você comeu.
+Ela varia com o ritmo circadiano, com o fluxo salivar, com a dieta.
 
-E a boca pode sangrar dentro da amostra.
+E a amostra pode vir contaminada por sangue.
 
-Num estudo, escovar os dentes com força elevou a testosterona salivar por meia hora.
+Num estudo, a escovação vigorosa elevou a testosterona salivar por meia hora.
 
 O cortisol? Não mudou.
 
@@ -92,17 +92,17 @@ Alguns testes já subiram a escada inteira.
 
 O cortisol tem relógio.
 
-Ele deveria estar no ponto mais baixo perto da meia-noite.
+Ele atinge o nadir, o ponto mais baixo, perto da meia-noite.
 
-Na síndrome de Cushing — o excesso crônico de cortisol — esse relógio quebra.
+Na síndrome de Cushing — o hipercortisolismo — esse ritmo se perde.
 
 Por isso a saliva colhida em casa, tarde da noite, virou um dos exames de primeira linha.
 
-Somando mais de cento e trinta estudos, ela acerta mais de noventa por cento das vezes.
+Somando mais de cento e trinta estudos, ela tem sensibilidade e especificidade acima de noventa por cento.
 
 O teste rápido de HIV no fluido oral também chegou lá.
 
-E, na pandemia, o PCR da saliva teve desempenho parecido com o do cotonete no nariz.
+E, na pandemia, o RT-PCR na saliva teve desempenho parecido com o do swab nasofaríngeo.
 
 > 🎬 Relógio com o ponteiro do cortisol caindo até a meia-noite; na versão "Cushing", o ponteiro fica parado no alto. Lettering: **SÍNDROME DE CUSHING** · **CORTISOL SALIVAR NOTURNO**. Ícones de HIV e SARS-CoV-2 subindo a escada.
 
@@ -112,7 +112,7 @@ Mas até o teste bom tem letra miúda.
 
 O mesmo teste de HIV, numa população em que a infecção é rara:
 
-na saliva, de cada cem resultados positivos, uns onze são falsos.
+na saliva, de cada cem resultados positivos, uns onze são falsos-positivos.
 
 No sangue, uns dois.
 
@@ -168,7 +168,7 @@ se um paciente não tem osso suficiente para colocar implantes, por que não mud
 
 ---
 
-**Narração:** cerca de 470 palavras, perto de 2 min 50 s, com as pausas das quebras.
+**Narração:** cerca de 480 palavras, perto de 2 min 51 s, com as pausas das quebras.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (sem o nome da ferramenta), MICROEPIFANIA, QUEBRA (as três perguntas), QUESTIONAMENTO, CURIOSIDADE (só o cortisol), PORTANTO, FRASE e GANCHO. A SEGUNDA MICROEPIFANIA e O QUE NINGUÉM TE CONTOU vão para o carrossel.
 
@@ -351,7 +351,7 @@ E quase duas mil delas têm origem no plasma, o líquido do sangue.
 A boca carrega um pedaço do sangue.
 Sem agulha.
 Pronto.
-Por que ainda furamos o braço?
+Por que ainda fazemos punção venosa?
 
 Porque achar uma molécula não é o mesmo que ter um exame.
 Todo exame precisa responder três perguntas.
@@ -361,9 +361,9 @@ E muda alguma decisão para o paciente? Utilidade clínica.
 Uma molécula interessante pode parar no primeiro degrau.
 
 E a saliva tem armadilhas próprias.
-Ela muda com a hora do dia, com o fluxo, com o que você comeu.
-E a boca pode sangrar dentro da amostra.
-Num estudo, escovar os dentes com força elevou a testosterona salivar por meia hora.
+Ela varia com o ritmo circadiano, com o fluxo salivar, com a dieta.
+E a amostra pode vir contaminada por sangue.
+Num estudo, a escovação vigorosa elevou a testosterona salivar por meia hora.
 O cortisol? Não mudou.
 Cada molécula tem a sua armadilha.
 
@@ -372,16 +372,16 @@ Não.
 Alguns testes já subiram a escada inteira.
 
 O cortisol tem relógio.
-Ele deveria estar no ponto mais baixo perto da meia-noite.
-Na síndrome de Cushing, o excesso crônico de cortisol, esse relógio quebra.
+Ele atinge o nadir, o ponto mais baixo, perto da meia-noite.
+Na síndrome de Cushing, o hipercortisolismo, esse ritmo se perde.
 Por isso a saliva colhida em casa, tarde da noite, virou um dos exames de primeira linha.
-Somando mais de cento e trinta estudos, ela acerta mais de noventa por cento das vezes.
+Somando mais de cento e trinta estudos, ela tem sensibilidade e especificidade acima de noventa por cento.
 O teste rápido de HIV no fluido oral também chegou lá.
-E, na pandemia, o PCR da saliva teve desempenho parecido com o do cotonete no nariz.
+E, na pandemia, o RT-PCR na saliva teve desempenho parecido com o do swab nasofaríngeo.
 
 Mas até o teste bom tem letra miúda.
 O mesmo teste de HIV, numa população em que a infecção é rara:
-na saliva, de cada cem resultados positivos, uns onze são falsos.
+na saliva, de cada cem resultados positivos, uns onze são falsos-positivos.
 No sangue, uns dois.
 Positivo na saliva pede confirmação.
 

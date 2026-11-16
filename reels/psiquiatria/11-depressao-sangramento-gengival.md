@@ -1,7 +1,7 @@
 # Por que a gengiva de quem tem depressão sangra?
 
 **Selo:** ASSOCIAÇÃO FRACA — o estresse muda a inflamação da gengiva em experimento, e o antidepressivo mexe na plaqueta; mas a ligação depressão → periodontite é de baixa certeza, e o sangramento importante na cadeira é raro
-**Duração:** ~2 min 35 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 37 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que atende paciente com depressão ou ansiedade em uso de antidepressivo; psiquiatra, clínico e médico de família
 **Cavalo de troia:** o espectador entra para saber por que a gengiva sangra "sem motivo". Sai sabendo que sangramento à sondagem mede resposta e não só placa, como o ISRS mexe na plaqueta, onde está o risco real de sangramento (estômago, com anti-inflamatório) e por que o cigarro esconde gengivite.
 **Em outro episódio (gancho):** por que duas pessoas com o mesmo diagnóstico de depressão podem ter sintomas completamente diferentes?
@@ -19,15 +19,15 @@ Por que a gengiva de quem tem depressão pode sangrar mais — mesmo sem escovar
 
 **[A CURIOSIDADE]**
 
-Na Alemanha, estudantes de medicina aceitaram um experimento estranho.
+Na Alemanha, estudantes de medicina aceitaram um modelo de gengivite experimental.
 
 Durante vinte e oito dias, pararam de escovar dois quadrantes da boca.
 
 Metade estava em época de prova. Metade, não.
 
-Mesma placa. Mesmo tempo sem escova.
+Mesmo biofilme. Mesmo tempo sem higiene.
 
-Mas a gengiva de quem estava sob estresse respondeu diferente — mais interleucina-1 beta, um mensageiro da inflamação.
+Mas a gengiva de quem estava sob estresse respondeu diferente — mais interleucina-1 beta, uma citocina pró-inflamatória.
 
 E, nas mulheres, até o sangramento mudou.
 
@@ -35,11 +35,11 @@ E, nas mulheres, até o sangramento mudou.
 
 **[A MICROEPIFANIA]**
 
-O sangramento não mede só a sujeira.
+O sangramento não mede só o biofilme.
 
-Mede a resposta do corpo à sujeira.
+Mede a resposta do hospedeiro ao biofilme.
 
-E o estresse mexe nessa resposta, pelo eixo do cortisol — o eixo hipotálamo-hipófise-adrenal.
+E o estresse modula essa resposta, pelo eixo do cortisol — o eixo hipotálamo-hipófise-adrenal.
 
 Pronto. A depressão inflama a gengiva. Caso resolvido.
 
@@ -49,11 +49,11 @@ Pronto. A depressão inflama a gengiva. Caso resolvido.
 
 Só que não.
 
-Quando juntaram os estudos, quem tinha depressão tinha cerca de trinta por cento mais periodontite — mas com certeza baixa.
+Quando juntaram os estudos, quem tinha depressão tinha cerca de trinta por cento mais chance de periodontite — mas com certeza da evidência baixa.
 
 E uma metanálise brasileira de 2026 achou a seta ao contrário:
 
-a doença da gengiva aumentava a chance de depressão. A depressão não aumentava a de doença da gengiva.
+a doença periodontal aumentava a chance de depressão. A depressão não aumentava a de doença periodontal.
 
 > 🎬 O carimbo rasga. **+30%** com a etiqueta "certeza baixa". Seta DEPRESSÃO → GENGIVA se apaga; acende GENGIVA → DEPRESSÃO.
 
@@ -63,25 +63,25 @@ Então a seta está ao contrário?
 
 Talvez nos dois sentidos.
 
-E falta um personagem nessa história: o remédio.
+E falta um personagem nessa história: o medicamento.
 
 > 🎬 Cartela de antidepressivo entra em cena.
 
 **[A SEGUNDA MICROEPIFANIA]**
 
-A plaqueta carrega serotonina e usa essa serotonina para grudar e fechar o vaso.
+A plaqueta armazena serotonina e usa essa serotonina na agregação plaquetária — o tampão que fecha o vaso.
 
 Os antidepressivos mais usados, os ISRS, esvaziam esse estoque.
 
 Num ensaio, duas semanas de paroxetina derrubaram a serotonina dentro da plaqueta em oitenta e três por cento.
 
-E o tampão de plaquetas demorou trinta e um por cento mais para se formar.
+E o tampão plaquetário demorou trinta e um por cento mais para se formar.
 
 > 🎬 Plaqueta animada como uma mochila de serotonina sendo esvaziada. **−83%** · **+31% no tempo de fechamento**. Lettering: **ISRS**.
 
 **[O PORTANTO]**
 
-Portanto, existe um risco real de sangrar.
+Portanto, existe um risco real de sangramento.
 
 Mas onde?
 
@@ -89,7 +89,7 @@ No estômago.
 
 O ISRS sozinho mais que dobra o risco de hemorragia digestiva alta.
 
-Com anti-inflamatório junto, chega a seis vezes.
+Associado a um anti-inflamatório não esteroidal, o AINE, chega a seis vezes.
 
 > 🎬 Estômago com gota vermelha. **×2,4** com ISRS · **×6,3** com ISRS + anti-inflamatório.
 
@@ -107,21 +107,21 @@ O perigo não está na extração. Está na receita que você escreve depois del
 
 **[O SELO]**
 
-O estresse mexe na gengiva, e o remédio mexe na plaqueta.
+O estresse modula a inflamação gengival, e o medicamento altera a função plaquetária.
 
-Mas a ligação entre depressão e doença da gengiva ainda é fraca.
+Mas a associação entre depressão e doença periodontal ainda é fraca.
 
 > 🎬 Selo **ASSOCIAÇÃO FRACA**.
 
 **[O QUE MUDA AMANHÃ]**
 
-Gengiva sangrando com placa parecida com a de sempre? Pergunte do sono, do estresse, do humor — e da lista de remédios.
+Sangramento gengival desproporcional ao biofilme? Pergunte do sono, do estresse, do humor — e da lista de medicamentos.
 
 Não suspenda o antidepressivo para extrair.
 
-Anti-inflamatório em quem usa ISRS? Evite. Se precisar, menor dose pelo menor tempo.
+AINE em quem usa ISRS? Evite. Se precisar, menor dose pelo menor tempo.
 
-E lembre: o cigarro esconde o sangramento — a gengiva de quem fuma pode estar pior do que parece.
+E lembre: o tabagismo mascara o sangramento — a gengiva do fumante pode estar pior do que parece.
 
 > 🎬 Lista com as letras da ROTA. Ícones: lua, cérebro, lista de remédios, cartela com "não suspender", anti-inflamatório riscado, cigarro com gengiva "maquiada".
 
@@ -145,7 +145,7 @@ por que duas pessoas com o mesmo diagnóstico de depressão podem ter sintomas c
 
 ---
 
-**Narração:** cerca de 430 palavras, perto de 2 min 35 s.
+**Narração:** cerca de 440 palavras, perto de 2 min 37 s.
 
 **Corte de 90 s:** manter PERGUNTA, CURIOSIDADE (sem a frase das mulheres), MICROEPIFANIA, QUEBRA (só "cerca de trinta por cento, com certeza baixa"), SEGUNDA MICROEPIFANIA (só o "−83%"), PORTANTO, O QUE NINGUÉM TE CONTOU, SELO, FRASE e GANCHO. O QUE MUDA AMANHÃ vai para a legenda e o carrossel.
 
@@ -247,16 +247,16 @@ por que duas pessoas com o mesmo diagnóstico de depressão podem ter sintomas c
 
 > Por que a gengiva de quem tem depressão pode sangrar mais — mesmo sem escovar menos?
 >
-> Num experimento na Alemanha, estudantes de medicina pararam de escovar dois quadrantes por 28 dias. Os que estavam em época de prova tiveram mais inflamação com a mesma placa. O sangramento mede a resposta do corpo, não só a sujeira.
+> Num experimento na Alemanha, estudantes de medicina pararam de escovar dois quadrantes por 28 dias. Os que estavam em época de prova tiveram mais inflamação com a mesma placa. O sangramento mede a resposta do hospedeiro, não só o biofilme.
 >
 > Mas a ligação depressão → periodontite tem certeza baixa, e uma metanálise de 2026 achou a seta mais forte no sentido contrário.
 >
 > E o antidepressivo? O ISRS esvazia a serotonina da plaqueta (−83% em duas semanas de paroxetina). O risco real de sangramento está no estômago: ×2,4 com ISRS, ×6,3 com ISRS + anti-inflamatório. Na extração, foi quase nada.
 >
-> 🦷 Sangramento desproporcional à placa? Pergunte de sono, estresse, humor e remédios
+> 🦷 Sangramento desproporcional à placa? Pergunte de sono, estresse, humor e medicamentos
 > 🚫 Não suspenda o antidepressivo para extrair
-> 💊 Usa ISRS? Evite anti-inflamatório; se precisar, menor dose pelo menor tempo
-> 🚬 O cigarro esconde o sangramento
+> 💊 Usa ISRS? Evite AINE; se precisar, menor dose pelo menor tempo
+> 🚬 O tabagismo mascara o sangramento
 >
 > A boca faz parte da saúde do paciente. Mas a saúde do paciente não termina na boca.
 >
@@ -327,19 +327,19 @@ Só a narração, sem rótulos nem indicações de cena. Números por extenso, u
 ```text
 Por que a gengiva de quem tem depressão pode sangrar mais, mesmo sem escovar menos?
 
-Na Alemanha, estudantes de medicina aceitaram um experimento estranho.
+Na Alemanha, estudantes de medicina aceitaram um modelo de gengivite experimental.
 Durante vinte e oito dias, pararam de escovar dois quadrantes da boca.
 Metade estava em época de prova.
 Metade, não.
-Mesma placa.
-Mesmo tempo sem escova.
+Mesmo biofilme.
+Mesmo tempo sem higiene.
 Mas a gengiva de quem estava sob estresse respondeu diferente.
-Mais interleucina-um beta, um mensageiro da inflamação.
+Mais interleucina-um beta, uma citocina pró-inflamatória.
 E, nas mulheres, até o sangramento mudou.
 
-O sangramento não mede só a sujeira.
-Mede a resposta do corpo à sujeira.
-E o estresse mexe nessa resposta, pelo eixo do cortisol.
+O sangramento não mede só o biofilme.
+Mede a resposta do hospedeiro ao biofilme.
+E o estresse modula essa resposta, pelo eixo do cortisol.
 O eixo hipotálamo-hipófise-adrenal.
 Pronto.
 A depressão inflama a gengiva.
@@ -347,27 +347,27 @@ Caso resolvido.
 
 Só que não.
 
-Quando juntaram os estudos, quem tinha depressão tinha cerca de trinta por cento mais periodontite.
-Mas com certeza baixa.
-E uma metanálise brasileira deste ano achou a seta ao contrário:
-a doença da gengiva aumentava a chance de depressão.
-A depressão não aumentava a de doença da gengiva.
+Quando juntaram os estudos, quem tinha depressão tinha cerca de trinta por cento mais chance de periodontite.
+Mas com certeza da evidência baixa.
+E uma metanálise brasileira de dois mil e vinte e seis achou a seta ao contrário:
+a doença periodontal aumentava a chance de depressão.
+A depressão não aumentava a de doença periodontal.
 
 Então a seta está ao contrário?
 Talvez nos dois sentidos.
-E falta um personagem nessa história: o remédio.
+E falta um personagem nessa história: o medicamento.
 
-A plaqueta carrega serotonina.
-E usa essa serotonina para grudar e fechar o vaso.
+A plaqueta armazena serotonina.
+E usa essa serotonina na agregação plaquetária, o tampão que fecha o vaso.
 Os antidepressivos mais usados, os ISRS, esvaziam esse estoque.
 Num ensaio, duas semanas de paroxetina derrubaram a serotonina dentro da plaqueta em oitenta e três por cento.
-E o tampão de plaquetas demorou trinta e um por cento mais para se formar.
+E o tampão plaquetário demorou trinta e um por cento mais para se formar.
 
-Portanto, existe um risco real de sangrar.
+Portanto, existe um risco real de sangramento.
 Mas onde?
 No estômago.
 O ISRS sozinho mais que dobra o risco de hemorragia digestiva alta.
-Com anti-inflamatório junto, chega a seis vezes.
+Associado a um anti-inflamatório não esteroidal, o AINE, chega a seis vezes.
 
 E na cadeira do dentista?
 Num estudo com noventa e dois pacientes em uso de ISRS, e cento e sessenta e sete extrações, houve um retorno e um telefonema por sangramento.
@@ -375,18 +375,18 @@ Quase nada.
 O perigo não está na extração.
 Está na receita que você escreve depois dela.
 
-O estresse mexe na gengiva, e o remédio mexe na plaqueta.
-Mas a ligação entre depressão e doença da gengiva ainda é fraca.
+O estresse modula a inflamação gengival, e o medicamento altera a função plaquetária.
+Mas a associação entre depressão e doença periodontal ainda é fraca.
 
-Gengiva sangrando com placa parecida com a de sempre?
+Sangramento gengival desproporcional ao biofilme?
 Pergunte do sono, do estresse, do humor.
-E da lista de remédios.
+E da lista de medicamentos.
 Não suspenda o antidepressivo para extrair.
-Anti-inflamatório em quem usa ISRS?
+AINE em quem usa ISRS?
 Evite.
 Se precisar, menor dose pelo menor tempo.
-E lembre: o cigarro esconde o sangramento.
-A gengiva de quem fuma pode estar pior do que parece.
+E lembre: o tabagismo mascara o sangramento.
+A gengiva do fumante pode estar pior do que parece.
 
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.

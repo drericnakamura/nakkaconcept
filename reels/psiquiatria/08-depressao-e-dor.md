@@ -1,7 +1,7 @@
 # Por que a depressão dói?
 
 **Selo:** ESTABELECIDO — com ressalva: depressão e dor andam juntas de forma consistente e um mesmo remédio alivia as duas em ensaio clínico; o circuito exato ainda é modelo
-**Duração:** ~2 min 40 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 35 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que atende dor orofacial, DTM e dor "sem causa"; clínico, psiquiatra e médico de dor
 **Cavalo de troia:** o espectador entra para saber se a dor da depressão é "psicológica". Sai sabendo o que é modulação descendente, por que a dor de dentro e a dor da pele se comportam diferente, por que não escalar procedimento nem opioide e qual analgésico evitar em quem usa antidepressivo.
 **Em outro episódio (gancho):** o tratamento da ansiedade pode provocar bruxismo? ([09-ansiedade-bruxismo.md](09-ansiedade-bruxismo.md))
@@ -47,11 +47,11 @@ O cérebro também manda sinais para baixo.
 
 **[A SEGUNDA MICROEPIFANIA]**
 
-Existe um sistema que desce do tronco cerebral até a medula, como um botão de volume da dor.
+Existe uma via que desce do tronco encefálico até o corno dorsal da medula, como um botão de volume da dor.
 
 O nome técnico é modulação descendente.
 
-E ele trabalha com dois mensageiros: serotonina e noradrenalina — os mesmos em que os antidepressivos mexem.
+E ela usa dois neurotransmissores: serotonina e noradrenalina — os mesmos que os antidepressivos modulam.
 
 Pronto. A depressão abaixa o freio, a dor aumenta. Caso resolvido.
 
@@ -61,9 +61,9 @@ Pronto. A depressão abaixa o freio, a dor aumenta. Caso resolvido.
 
 Só que não.
 
-Quando pesquisadores testaram dor na pele de pessoas com depressão — calor, pressão — elas não sentiram mais dor.
+Quando pesquisadores testaram dor cutânea em pessoas com depressão — calor, pressão — o limiar de dor não caiu.
 
-Às vezes, até um pouco menos.
+Às vezes, até subiu.
 
 > 🎬 O carimbo rasga. Gráfico: limiar de dor na pele levemente **maior** no grupo com depressão (metanálise, 32 estudos).
 
@@ -73,7 +73,7 @@ Então a dor da depressão é imaginação?
 
 Também não.
 
-Na mesma análise, a dor de dentro — a dor isquêmica, de músculo sem oxigênio — doía mais.
+Na mesma análise, a dor profunda — a dor isquêmica, de músculo sem oxigênio — foi mais intensa.
 
 > 🎬 Pele em azul (dói menos) · músculo em vermelho (dói mais). Lettering: **DOR ISQUÊMICA**.
 
@@ -81,17 +81,17 @@ Na mesma análise, a dor de dentro — a dor isquêmica, de músculo sem oxigên
 
 A depressão não aumenta toda dor.
 
-Ela muda a dor que vem de dentro, a que demora, a que não tem lesão visível.
+Ela muda a dor profunda, persistente, sem lesão visível.
 
-E é muito parecida com a dor que chega ao consultório: músculo da mandíbula, ardência na língua, dente que dói sem cárie.
+E é muito parecida com a dor que chega ao consultório: disfunção temporomandibular, síndrome da ardência bucal, dor dentária sem causa odontogênica.
 
 > 🎬 Três ícones: masseter, língua em chamas, dente sem lesão. Lettering: **DISFUNÇÃO TEMPOROMANDIBULAR** · **SÍNDROME DA ARDÊNCIA BUCAL**.
 
 **[O PORTANTO]**
 
-Portanto, o remédio pode ser o mesmo.
+Portanto, o fármaco pode ser o mesmo.
 
-A duloxetina, um antidepressivo que mexe em serotonina e noradrenalina, reduziu dor em ensaios clínicos — inclusive a dor física da própria depressão.
+A duloxetina, um antidepressivo que age sobre serotonina e noradrenalina, reduziu dor em ensaios clínicos — inclusive a dor física da própria depressão.
 
 > 🎬 Primeira página da Cochrane 2014. **NNT 8** para dor na depressão.
 
@@ -99,13 +99,13 @@ A duloxetina, um antidepressivo que mexe em serotonina e noradrenalina, reduziu 
 
 E aqui mora o perigo.
 
-Quando um dente tratado de canal continua doendo, mais da metade das vezes a dor não vem do dente.
+Quando um dente com tratamento endodôntico continua doendo, mais da metade das vezes a dor não vem do dente.
 
 É dor não odontogênica.
 
-Abrir de novo, extrair, prescrever opioide — nada disso resolve.
+Retratar, extrair, prescrever opioide — nada disso resolve.
 
-E quem tem depressão recebe opioide por longo prazo três vezes mais.
+E quem tem depressão tem três vezes mais chance de uso prolongado de opioide.
 
 > 🎬 Dente tratado com seta "dor" saindo para fora dele. **56%** das dores persistentes não vêm do dente. Frasco de opioide com **3×**.
 
@@ -121,11 +121,11 @@ O circuito exato ainda é um modelo.
 
 Dor desproporcional ao que você vê? Antes de mais um procedimento, pergunte do sono, do humor e do estresse.
 
-Sono ruim dobrou o risco de dor na articulação da mandíbula.
+Má qualidade do sono dobrou o risco de disfunção temporomandibular dolorosa.
 
 Em quem usa antidepressivo, cuidado com tramadol: risco de síndrome serotoninérgica, o excesso de serotonina.
 
-E se o paciente falar em desesperança ou em morrer: CVV, um-oito-oito, e médico no mesmo dia.
+E se o paciente relatar desesperança ou ideação suicida: CVV, um-oito-oito, e médico no mesmo dia.
 
 > 🎬 Lista com as letras da ROTA. Ícones: lua (sono), cérebro (humor), tramadol riscado, telefone **CVV 188**.
 
@@ -149,7 +149,7 @@ o remédio da ansiedade pode fazer você ranger os dentes?
 
 ---
 
-**Narração:** cerca de 445 palavras, perto de 2 min 40 s em ritmo de explainer.
+**Narração:** cerca de 430 palavras, perto de 2 min 35 s.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (só "um em cada três" e "mais de quatro em cada cinco"), MICROEPIFANIA, QUEBRA, QUESTIONAMENTO, VIRADA, SELO, FRASE e GANCHO. A SEGUNDA MICROEPIFANIA vira só o lettering "MODULAÇÃO DESCENDENTE"; O PORTANTO, O QUE NINGUÉM TE CONTOU e O QUE MUDA AMANHÃ vão para a legenda e o carrossel.
 
@@ -249,13 +249,13 @@ o remédio da ansiedade pode fazer você ranger os dentes?
 >
 > Na Segunda Guerra, Henry Beecher viu soldados gravemente feridos que não pediam morfina. A ferida era grave; o significado era outro. O cérebro não só recebe a dor: ele regula o volume dela, num sistema chamado modulação descendente.
 >
-> Mas na pele, pessoas com depressão não sentem mais dor em laboratório. O que dói mais é a dor de dentro — muscular, isquêmica, sem lesão visível. Parecida com a que chega ao consultório: DTM, ardência bucal, dente que dói sem cárie.
+> Mas na pele, pessoas com depressão não sentem mais dor em laboratório. O que dói mais é a dor de dentro — muscular, isquêmica, sem lesão visível. Parecida com a que chega ao consultório: DTM, síndrome da ardência bucal, dor dentária sem causa odontogênica.
 >
-> 🦷 Dor persistente após canal: mais da metade não vem do dente
+> 🦷 Dor persistente após tratamento endodôntico: mais da metade não vem do dente
 > 🚫 Não escale procedimento nem opioide sem diagnóstico
 > 💊 Usa antidepressivo? Cuidado com tramadol (síndrome serotoninérgica)
 > 😴 Sono ruim dobrou o risco de DTM dolorosa
-> 📞 Desesperança ou ideia de morte: CVV 188, médico no mesmo dia
+> 📞 Desesperança ou ideação suicida: CVV 188, médico no mesmo dia
 >
 > A boca faz parte da saúde do paciente. Mas a saúde do paciente não termina na boca.
 >
@@ -343,50 +343,48 @@ Para o civil: minha vida parou.
 A dor não é só um sinal que sobe do corpo para o cérebro.
 O cérebro também manda sinais para baixo.
 
-Existe um sistema que desce do tronco cerebral até a medula, como um botão de volume da dor.
+Existe uma via que desce do tronco encefálico até o corno dorsal da medula, como um botão de volume da dor.
 O nome técnico é modulação descendente.
-E ele trabalha com dois mensageiros: serotonina e noradrenalina.
-Os mesmos em que os antidepressivos mexem.
+E ela usa dois neurotransmissores: serotonina e noradrenalina.
+Os mesmos que os antidepressivos modulam.
 Pronto.
 A depressão abaixa o freio, a dor aumenta.
 Caso resolvido.
 
 Só que não.
 
-Quando pesquisadores testaram dor na pele de pessoas com depressão, calor, pressão, elas não sentiram mais dor.
-Às vezes, até um pouco menos.
+Quando pesquisadores testaram dor cutânea em pessoas com depressão, calor, pressão, o limiar de dor não caiu.
+Às vezes, até subiu.
 
 Então a dor da depressão é imaginação?
 Também não.
-Na mesma análise, a dor de dentro, a dor isquêmica, de músculo sem oxigênio, doía mais.
+Na mesma análise, a dor profunda, a dor isquêmica, de músculo sem oxigênio, foi mais intensa.
 
 A depressão não aumenta toda dor.
-Ela muda a dor que vem de dentro.
-A que demora.
-A que não tem lesão visível.
+Ela muda a dor profunda, persistente, sem lesão visível.
 E é muito parecida com a dor que chega ao consultório:
-músculo da mandíbula, ardência na língua, dente que dói sem cárie.
+disfunção temporomandibular, síndrome da ardência bucal, dor dentária sem causa odontogênica.
 
-Portanto, o remédio pode ser o mesmo.
-A duloxetina, um antidepressivo que mexe em serotonina e noradrenalina, reduziu dor em ensaios clínicos.
+Portanto, o fármaco pode ser o mesmo.
+A duloxetina, um antidepressivo que age sobre serotonina e noradrenalina, reduziu dor em ensaios clínicos.
 Inclusive a dor física da própria depressão.
 
 E aqui mora o perigo.
-Quando um dente tratado de canal continua doendo, mais da metade das vezes a dor não vem do dente.
+Quando um dente com tratamento endodôntico continua doendo, mais da metade das vezes a dor não vem do dente.
 É dor não odontogênica.
-Abrir de novo, extrair, prescrever opioide.
+Retratar, extrair, prescrever opioide.
 Nada disso resolve.
-E quem tem depressão recebe opioide por longo prazo três vezes mais.
+E quem tem depressão tem três vezes mais chance de uso prolongado de opioide.
 
 A ligação é sólida, e o tratamento foi testado.
 O circuito exato ainda é um modelo.
 
 Dor desproporcional ao que você vê?
 Antes de mais um procedimento, pergunte do sono, do humor e do estresse.
-Sono ruim dobrou o risco de dor na articulação da mandíbula.
+Má qualidade do sono dobrou o risco de disfunção temporomandibular dolorosa.
 Em quem usa antidepressivo, cuidado com tramadol.
 Risco de síndrome serotoninérgica, o excesso de serotonina.
-E se o paciente falar em desesperança ou em morrer:
+E se o paciente relatar desesperança ou ideação suicida:
 CVV, um-oito-oito, e médico no mesmo dia.
 
 A boca faz parte da saúde do paciente.

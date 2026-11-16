@@ -1,7 +1,7 @@
 # O antidepressivo muda a boca — ou a depressão muda o microbioma?
 
 **Selo:** ESTABELECIDO para a boca seca causada pelo antidepressivo · HIPÓTESE para o antidepressivo mudando as bactérias da boca
-**Duração:** ~2 min 40 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 48 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que atende paciente em uso de psicofármaco; psiquiatra e clínico que prescrevem antidepressivo
 **Cavalo de troia:** o espectador entra por um dilema de "ovo ou galinha". Sai sabendo como a ciência separa o efeito do remédio do efeito da doença — e como o clínico pode pensar igual —, por que o tricíclico seca mais a boca que o ISRS, e quais interações mudam a anestesia e a analgesia.
 **Em outro episódio (gancho):** "Por que alguns antipsicóticos provocam boca seca e outros, saliva em excesso?"
@@ -27,17 +27,17 @@ E não é impressão.
 
 Juntando noventa e nove ensaios com mais de vinte mil pessoas, os antidepressivos modernos aumentaram a xerostomia — a sensação de boca seca.
 
-Os ISRS, como a sertralina, em sessenta e cinco por cento. Os IRSN, como a venlafaxina, em mais que o dobro.
+Os ISRS, como a sertralina, aumentaram o risco em sessenta e cinco por cento. Os IRSN, como a venlafaxina, mais que dobraram.
 
 > 🎬 Primeira página do *Prog Neuropsychopharmacol Biol Psychiatry* 2017. Contador: **99 ensaios · 20.868 pessoas**. Barras: ISRS **+65%** · IRSN **+124%**. Lettering: **XEROSTOMIA**.
 
 **[A MICROEPIFANIA]**
 
-E saliva é a defesa da boca: lava, neutraliza o ácido, carrega anticorpos.
+E a saliva é a defesa da boca: faz a depuração, tampona o ácido e carrega IgA secretora — anticorpos.
 
-Menos saliva, outro ambiente. Outro ambiente, outras bactérias.
+Hipossalivação muda o ambiente. Muda o ambiente, muda o microbioma.
 
-Pronto. É o remédio.
+Pronto. É o medicamento.
 
 Caso resolvido.
 
@@ -49,9 +49,9 @@ Só que não.
 
 Quem toma antidepressivo também tem depressão.
 
-E a depressão muda a escova, a comida, o cigarro, o sono.
+E a depressão muda a higiene, a dieta, o tabagismo, o sono.
 
-Então, como separar o remédio da doença?
+Então, como separar o efeito do fármaco do efeito da doença?
 
 > 🎬 O carimbo rasga. A caixa de remédio e a nuvem cinza se sobrepõem até virarem uma mancha só.
 
@@ -59,41 +59,41 @@ Então, como separar o remédio da doença?
 
 A história ajuda a desconfiar.
 
-O primeiro antidepressivo, a iproniazida, nasceu nos anos cinquenta como remédio contra tuberculose — um antimicrobiano.
+O primeiro antidepressivo, a iproniazida, nasceu nos anos cinquenta como tuberculostático — um antimicrobiano.
 
 Foi por acaso que se descobriu que ele agia no humor.
 
-E a recíproca vale: remédio feito para o corpo humano também mexe com bactérias.
+E a recíproca vale: fármaco feito para células humanas também age sobre bactérias.
 
-Num teste com mais de mil medicamentos, um em cada quatro remédios feitos para o corpo humano freou o crescimento de bactérias do intestino.
+Num rastreio com mais de mil medicamentos, um em cada quatro fármacos de alvo humano inibiu o crescimento de bactérias intestinais.
 
 > 🎬 Frasco de iproniazida em estilo anos 1950, ao lado de um raio-x de tórax com tuberculose. Lettering: **IPRONIAZIDA — 1950s**. Corte para placas de laboratório com remédios comuns: **1 em 4** inibindo bactérias. Rodapé: "*Nature*, 2018".
 
 **[A SEGUNDA MICROEPIFANIA]**
 
-Então como separar? Com um truque simples: dar o remédio para quem não tem a doença.
+Então como separar? Com um truque simples: dar o fármaco a voluntários sem a doença.
 
-Em mil novecentos e noventa e cinco, na Escócia, pesquisadores mediram a saliva de quem tomava antidepressivo.
+Em mil novecentos e noventa e cinco, na Escócia, pesquisadores mediram o fluxo salivar de quem tomava antidepressivo.
 
-Os tricíclicos, como a amitriptilina, cortaram o fluxo da parótida em cinquenta e oito por cento.
+Os tricíclicos, como a amitriptilina, reduziram o fluxo parotídeo em cinquenta e oito por cento.
 
-Depois, deram um tricíclico a pessoas sem depressão. A saliva caiu do mesmo jeito.
+Depois, deram um tricíclico a pessoas sem depressão. O fluxo caiu do mesmo jeito.
 
-Conclusão: a depressão em si contribuía pouco para a boca seca.
+Conclusão: a depressão em si contribuía pouco para a hipossalivação.
 
-Era o remédio — que bloqueia o receptor muscarínico, o interruptor que manda a glândula produzir saliva.
+Era o fármaco — efeito anticolinérgico: bloqueia o receptor muscarínico, o interruptor que manda a glândula produzir saliva.
 
 > 🎬 Duas filas: "com depressão + tricíclico" e "sem depressão + tricíclico". Os dois copinhos de saliva enchem igualmente pouco: **−58%**. Lettering: **RECEPTOR MUSCARÍNICO**, com um interruptor sendo desligado na glândula parótida.
 
 **[O QUESTIONAMENTO]**
 
-Então é sempre o remédio?
+Então é sempre o medicamento?
 
-Para a boca seca, quase sempre.
+Para a xerostomia, quase sempre.
 
-Para as bactérias, ninguém sabe ainda.
+Para o microbioma, ninguém sabe ainda.
 
-No intestino, num estudo com mais de mil pessoas, os medicamentos explicaram mais da variação das bactérias do que qualquer outro fator medido.
+No intestino, num estudo com mais de mil pessoas, os medicamentos explicaram mais da variação do microbioma do que qualquer outro fator medido.
 
 Na boca, ainda faltam estudos que separem bem uma coisa da outra.
 
@@ -101,23 +101,23 @@ Na boca, ainda faltam estudos que separem bem uma coisa da outra.
 
 **[O SELO]**
 
-Boca seca pelo antidepressivo: estabelecido.
+Xerostomia pelo antidepressivo: estabelecido.
 
-Antidepressivo mudando as bactérias da boca: hipótese.
+Antidepressivo alterando o microbioma oral: hipótese.
 
 > 🎬 Selo duplo entra no canto: **ESTABELECIDO** (boca seca) · **HIPÓTESE** (microbioma).
 
 **[O QUE MUDA AMANHÃ]**
 
-Boca seca em quem toma antidepressivo?
+Xerostomia em quem usa antidepressivo?
 
-Não mande parar o remédio. Avise o médico — às vezes dá para trocar por um que seca menos.
+Não suspenda o medicamento. Avise o médico — às vezes dá para trocar por um de menor efeito anticolinérgico.
 
-E proteja os dentes: com menos saliva, a cárie avança.
+E proteja os dentes: com hipossalivação, o risco de cárie sobe.
 
-Tricíclico na lista? Ele potencializa a adrenalina: vasoconstritor em dose pequena, aspirando, e sem fio retrator com adrenalina.
+Tricíclico? Ele potencializa a adrenalina: vasoconstritor em dose reduzida, com aspiração prévia, e sem fio retrator com adrenalina.
 
-Lítio na lista? O anti-inflamatório sobe o lítio no sangue: nada de anti-inflamatório sem falar com o psiquiatra.
+Lítio? O anti-inflamatório eleva a litemia — o nível de lítio no sangue: nada de anti-inflamatório sem falar com o psiquiatra.
 
 > 🎬 Lista com as letras da ROTA no canto. Caixa de remédio com ✓ "não suspender". Carpule com gota pequena. Fio retrator riscado. Frasco de lítio e comprimido de AINE separados por um ⚠️.
 
@@ -143,9 +143,9 @@ e outros fazem a saliva escorrer?
 
 ---
 
-**Narração:** cerca de 460 palavras, perto de 2 min 46 s, com as pausas das quebras.
+**Narração:** cerca de 470 palavras, perto de 2 min 48 s, com as pausas das quebras.
 
-**Corte de 90 s:** manter PERGUNTA, PISTA (só a última frase com os números), QUEBRA, SEGUNDA MICROEPIFANIA (do "truque simples" até "era o remédio"), QUESTIONAMENTO (só "Para a boca seca, quase sempre. Para as bactérias, ninguém sabe ainda"), SELO, FRASE e GANCHO. Mover a CURIOSIDADE e O QUE MUDA AMANHÃ para a legenda e o carrossel.
+**Corte de 90 s:** manter PERGUNTA, PISTA (só a última frase com os números), QUEBRA, SEGUNDA MICROEPIFANIA (do "truque simples" até "era o fármaco"), QUESTIONAMENTO (só "Para a xerostomia, quase sempre. Para o microbioma, ninguém sabe ainda"), SELO, FRASE e GANCHO. Mover a CURIOSIDADE e O QUE MUDA AMANHÃ para a legenda e o carrossel.
 
 ### O motor do episódio
 
@@ -235,16 +235,16 @@ e outros fazem a saliva escorrer?
 
 > O antidepressivo muda a boca — ou é a depressão?
 >
-> A boca seca é real: em 99 ensaios com mais de 20 mil pessoas, os ISRS aumentaram a xerostomia em 65% e os IRSN em mais que o dobro.
+> A xerostomia é real: em 99 ensaios com mais de 20 mil pessoas, os ISRS aumentaram a xerostomia em 65% e os IRSN em mais que o dobro.
 >
-> Mas quem toma antidepressivo também tem depressão. Como separar? Dando o remédio a quem não tem a doença. Na Escócia, os tricíclicos cortaram a saliva da parótida em 58% — inclusive em pessoas sem depressão. A boca seca era do remédio.
+> Mas quem toma antidepressivo também tem depressão. Como separar? Dando o remédio a quem não tem a doença. Na Escócia, os tricíclicos reduziram o fluxo parotídeo em 58% — inclusive em pessoas sem depressão. A hipossalivação era do fármaco.
 >
 > Já para as bactérias da boca, ninguém separou bem ainda. No intestino, os medicamentos explicam mais da variação do microbioma do que qualquer outro fator medido. Curiosidade: o primeiro antidepressivo nasceu como remédio contra tuberculose.
 >
-> 🚫 Não mande parar o antidepressivo — avise o médico
-> 🦷 Menos saliva = mais cárie: plano preventivo e retornos mais curtos
-> 💉 Tricíclico: vasoconstritor em dose pequena, sem fio retrator com adrenalina
-> ⚠️ Lítio: nada de anti-inflamatório sem o psiquiatra
+> 🚫 Não suspenda o antidepressivo — avise o médico
+> 🦷 Hipossalivação = mais risco de cárie: plano preventivo e retornos mais curtos
+> 💉 Tricíclico: vasoconstritor em dose reduzida, com aspiração, sem fio retrator com adrenalina
+> ⚠️ Lítio: AINE eleva a litemia — só com o psiquiatra
 >
 > A boca faz parte da saúde do paciente. Mas a saúde do paciente não termina na boca.
 >
@@ -332,70 +332,62 @@ Só a narração, sem rótulos nem indicações de cena. Números por extenso, u
 O antidepressivo muda a boca?
 Ou é a depressão que muda as bactérias da boca?
 
-A queixa aparece todo dia.
-Desde que comecei o remédio, minha boca vive seca.
+A queixa aparece todo dia: "Desde que comecei o remédio, minha boca vive seca."
 E não é impressão.
-Juntando noventa e nove ensaios com mais de vinte mil pessoas, os antidepressivos modernos aumentaram a xerostomia.
-A sensação de boca seca.
-Os ISRS, como a sertralina, em sessenta e cinco por cento.
-Os IRSN, como a venlafaxina, em mais que o dobro.
+Juntando noventa e nove ensaios com mais de vinte mil pessoas, os antidepressivos modernos aumentaram a xerostomia — a sensação de boca seca.
+Os ISRS, como a sertralina, aumentaram o risco em sessenta e cinco por cento.
+Os IRSN, como a venlafaxina, mais que dobraram.
 
-E saliva é a defesa da boca.
-Lava, neutraliza o ácido, carrega anticorpos.
-Menos saliva, outro ambiente.
-Outro ambiente, outras bactérias.
-Pronto. É o remédio.
+E a saliva é a defesa da boca: faz a depuração, tampona o ácido e carrega IgA secretora — anticorpos.
+Hipossalivação muda o ambiente.
+Muda o ambiente, muda o microbioma.
+Pronto.
+É o medicamento.
 Caso resolvido.
 
 Só que não.
-
 Quem toma antidepressivo também tem depressão.
-E a depressão muda a escova, a comida, o cigarro, o sono.
-Então, como separar o remédio da doença?
+E a depressão muda a higiene, a dieta, o tabagismo, o sono.
+Então, como separar o efeito do fármaco do efeito da doença?
 
 A história ajuda a desconfiar.
-O primeiro antidepressivo, a iproniazida, nasceu nos anos cinquenta como remédio contra tuberculose.
-Um antimicrobiano.
+O primeiro antidepressivo, a iproniazida, nasceu nos anos cinquenta como tuberculostático — um antimicrobiano.
 Foi por acaso que se descobriu que ele agia no humor.
-E a recíproca vale: remédio feito para o corpo humano também mexe com bactérias.
-Num teste com mais de mil medicamentos, um em cada quatro remédios feitos para o corpo humano freou o crescimento de bactérias do intestino.
+E a recíproca vale: fármaco feito para células humanas também age sobre bactérias.
+Num rastreio com mais de mil medicamentos, um em cada quatro fármacos de alvo humano inibiu o crescimento de bactérias intestinais.
 
 Então como separar?
-Com um truque simples: dar o remédio para quem não tem a doença.
-Em mil novecentos e noventa e cinco, na Escócia, pesquisadores mediram a saliva de quem tomava antidepressivo.
-Os tricíclicos, como a amitriptilina, cortaram o fluxo da parótida em cinquenta e oito por cento.
+Com um truque simples: dar o fármaco a voluntários sem a doença.
+Em mil novecentos e noventa e cinco, na Escócia, pesquisadores mediram o fluxo salivar de quem tomava antidepressivo.
+Os tricíclicos, como a amitriptilina, reduziram o fluxo parotídeo em cinquenta e oito por cento.
 Depois, deram um tricíclico a pessoas sem depressão.
-A saliva caiu do mesmo jeito.
-Conclusão: a depressão em si contribuía pouco para a boca seca.
-Era o remédio.
-Que bloqueia o receptor muscarínico, o interruptor que manda a glândula produzir saliva.
+O fluxo caiu do mesmo jeito.
+Conclusão: a depressão em si contribuía pouco para a hipossalivação.
+Era o fármaco — efeito anticolinérgico: bloqueia o receptor muscarínico, o interruptor que manda a glândula produzir saliva.
 
-Então é sempre o remédio?
-Para a boca seca, quase sempre.
-Para as bactérias, ninguém sabe ainda.
-No intestino, num estudo com mais de mil pessoas, os medicamentos explicaram mais da variação das bactérias do que qualquer outro fator medido.
+Então é sempre o medicamento?
+Para a xerostomia, quase sempre.
+Para o microbioma, ninguém sabe ainda.
+No intestino, num estudo com mais de mil pessoas, os medicamentos explicaram mais da variação do microbioma do que qualquer outro fator medido.
 Na boca, ainda faltam estudos que separem bem uma coisa da outra.
 
-Boca seca pelo antidepressivo: estabelecido.
-Antidepressivo mudando as bactérias da boca: hipótese.
+Xerostomia pelo antidepressivo: estabelecido.
+Antidepressivo alterando o microbioma oral: hipótese.
 
-Boca seca em quem toma antidepressivo?
-Não mande parar o remédio.
-Avise o médico.
-Às vezes dá para trocar por um que seca menos.
-E proteja os dentes: com menos saliva, a cárie avança.
-Tricíclico na lista?
-Ele potencializa a adrenalina.
-Vasoconstritor em dose pequena, aspirando, e sem fio retrator com adrenalina.
-Lítio na lista?
-O anti-inflamatório sobe o lítio no sangue.
-Nada de anti-inflamatório sem falar com o psiquiatra.
+Xerostomia em quem usa antidepressivo?
+Não suspenda o medicamento.
+Avise o médico — às vezes dá para trocar por um de menor efeito anticolinérgico.
+E proteja os dentes: com hipossalivação, o risco de cárie sobe.
+Tricíclico?
+Ele potencializa a adrenalina: vasoconstritor em dose reduzida, com aspiração prévia, e sem fio retrator com adrenalina.
+Lítio?
+O anti-inflamatório eleva a litemia — o nível de lítio no sangue: nada de anti-inflamatório sem falar com o psiquiatra.
 
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.
 Entre a odontologia e a medicina, nós.
 
 Em outro episódio:
-por que alguns antipsicóticos deixam a boca seca...
+por que alguns antipsicóticos deixam a boca seca…
 e outros fazem a saliva escorrer?
 ```

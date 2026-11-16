@@ -1,7 +1,7 @@
 # Por que alguns antipsicóticos secam a boca e outros fazem babar?
 
 **Selo:** ESTABELECIDO — o efeito na saliva · HIPÓTESE — o porquê da clozapina
-**Duração:** ~2 min 50 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 48 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que atende paciente psiquiátrico; psiquiatra, clínico e médico de família
 **Cavalo de troia:** o espectador entra por uma curiosidade — como um remédio pode secar a boca de um e encharcar o travesseiro de outro. Sai sabendo farmacologia muscarínica, a história da clozapina, o risco de agranulocitose e de pneumonia, e o que fazer na cadeira.
 **Em outro episódio (gancho):** se ansiedade e depressão são tão diferentes, por que o remédio é o mesmo?
@@ -23,11 +23,11 @@ e outros fazem o paciente acordar com o travesseiro molhado?
 
 A saliva tem um interruptor.
 
-O nervo manda acetilcolina para a glândula, e ela se encaixa em receptores chamados muscarínicos.
+O nervo libera acetilcolina na glândula, e ela se liga aos receptores muscarínicos.
 
-Muitos remédios psiquiátricos bloqueiam esses receptores — o que chamamos de efeito anticolinérgico.
+Muitos psicofármacos bloqueiam esses receptores — o efeito anticolinérgico.
 
-Interruptor desligado: boca seca. Xerostomia.
+Interruptor desligado: hipossalivação. E xerostomia, a sensação de boca seca.
 
 > 🎬 Glândula salivar com um interruptor na parede. Moléculas de acetilcolina chegando às fechaduras; um comprimido tapa as fechaduras. Lettering: **EFEITO ANTICOLINÉRGICO** e, depois, **XEROSTOMIA**.
 
@@ -35,11 +35,11 @@ Interruptor desligado: boca seca. Xerostomia.
 
 E sem saliva, a boca perde quem a lavava.
 
-Pessoas com transtorno mental grave têm mais de três vezes a chance de perder todos os dentes.
+Pessoas com transtorno mental grave têm mais de três vezes a chance de edentulismo, a perda de todos os dentes.
 
-Não é só o remédio. Mas a boca seca entra na conta.
+Não é só o medicamento. Mas a hipossalivação entra na conta.
 
-Pronto. Antipsicótico seca a boca. Caso resolvido.
+Pronto. Antipsicótico causa xerostomia. Caso resolvido.
 
 > 🎬 Primeira página do *Br J Psychiatry* 2011. Número: **3,4×** chance de edentulismo. Carimbo vermelho: **CASO RESOLVIDO**.
 
@@ -47,7 +47,7 @@ Pronto. Antipsicótico seca a boca. Caso resolvido.
 
 Só que não.
 
-A clozapina, o remédio mais eficaz na esquizofrenia resistente, bloqueia esses receptores com força.
+A clozapina, o antipsicótico mais eficaz na esquizofrenia resistente, tem forte ação anticolinérgica.
 
 E, mesmo assim, num estudo, noventa e dois por cento tinham saliva em excesso.
 
@@ -57,9 +57,9 @@ O que chamamos de sialorreia.
 
 **[A SEGUNDA MICROEPIFANIA]**
 
-Como um remédio que bloqueia a saliva faz babar?
+Como um anticolinérgico causa sialorreia?
 
-Em 1994, em células de laboratório, testaram a clozapina nos cinco receptores muscarínicos, um por um.
+Em 1994, in vitro, testaram a clozapina nos cinco subtipos de receptor muscarínico, um por um.
 
 Em quatro, ela bloqueou.
 
@@ -67,7 +67,7 @@ No quinto, o M4, ela fez o contrário: ligou.
 
 Virou agonista: acendeu o receptor em vez de apagar.
 
-Os autores: isso pode explicar, em parte, a saliva a mais.
+Os autores: isso pode explicar, em parte, a sialorreia.
 
 > 🎬 Cinco fechaduras numeradas M1 a M5. Quatro ganham um cadeado; a M4 acende em verde. Lettering: **AGONISTA M4**. Rodapé: "*in vitro*, 1994".
 
@@ -77,7 +77,7 @@ Em parte?
 
 Repare quando ela aparece: oitenta e cinco por cento à noite, contra quarenta e oito durante o dia.
 
-À noite, a gente engole menos. Talvez parte do problema seja engolir, não só produzir.
+À noite, a deglutição diminui. Talvez parte do problema seja deglutir, não só produzir.
 
 A conta não fechou.
 
@@ -87,15 +87,15 @@ A conta não fechou.
 
 E ela quase não chegou até aqui.
 
-Em 1975, na Finlândia, em seis meses de uso, dezessete pacientes tiveram queda grave dos glóbulos brancos. Oito morreram.
+Em 1975, na Finlândia, em seis meses de uso, dezessete pacientes tiveram queda grave dos neutrófilos. Oito morreram.
 
 O desenvolvimento travou por mais de uma década.
 
 Em 1988, um ensaio testou a clozapina em quem não tinha melhorado com três antipsicóticos.
 
-Responderam trinta por cento. Com o remédio antigo, quatro.
+Responderam trinta por cento. No grupo controle, quatro.
 
-A clozapina voltou. Com uma condição: exame de sangue toda semana.
+A clozapina voltou. Com uma condição: hemograma toda semana.
 
 > 🎬 Mapa da Finlândia, 1975: **17 casos · 8 mortes**. Calendário passando de 1975 a 1988. Primeira página do *Arch Gen Psychiatry* 1988: **30% × 4%**. Um tubo de hemograma com o selo **TODA SEMANA**.
 
@@ -103,11 +103,11 @@ A clozapina voltou. Com uma condição: exame de sangue toda semana.
 
 E aqui a boca volta à história.
 
-Essa queda dos glóbulos brancos — a agranulocitose — aparece em menos de um por cento no primeiro ano.
+Essa queda dos neutrófilos — a agranulocitose — aparece em menos de um por cento no primeiro ano.
 
 Mas ela se disfarça.
 
-De infecção comum — muitas vezes na boca: febre, garganta, ferida.
+De infecção comum — muitas vezes na boca: febre, faringite, úlcera oral.
 
 > 🎬 Lettering: **AGRANULOCITOSE** · **0,8% no 1º ano**. Uma "afta" comum que, ao zoom, mostra um alerta vermelho.
 
@@ -115,19 +115,19 @@ De infecção comum — muitas vezes na boca: febre, garganta, ferida.
 
 E o mesmo paciente pode pedir dois cuidados opostos.
 
-Boca seca: cárie.
+Xerostomia: cárie.
 
-Saliva demais: risco de aspirar. E a clozapina triplica o risco de pneumonia.
+Sialorreia: risco de aspiração. E a clozapina triplica o risco de pneumonia.
 
 > 🎬 Dente com cárie cervical de um lado; do outro, saliva escorrendo para a traqueia e um pulmão acendendo. Número: **3×** pneumonia.
 
 **[O QUE NINGUÉM TE CONTOU]**
 
-E entre os remédios que tratam essa baba nos ensaios…
+E entre os fármacos testados contra a sialorreia…
 
 vários são anticolinérgicos.
 
-O mesmo mecanismo que seca a boca dos outros.
+O mesmo mecanismo que causa xerostomia nos outros.
 
 Quem decide é o psiquiatra.
 
@@ -145,7 +145,7 @@ Por que a clozapina faz o contrário, ainda é hipótese.
 
 Pergunte qual antipsicótico o paciente usa.
 
-Boca seca: creme dental com flúor de alta concentração.
+Xerostomia: creme dental com alta concentração de flúor.
 
 Clozapina com qualquer infecção que pareça banal: hemograma no mesmo dia e aviso ao psiquiatra.
 
@@ -175,7 +175,7 @@ por que o remédio é o mesmo?
 
 ---
 
-**Narração:** cerca de 490 palavras, perto de 2 min 54 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
+**Narração:** cerca de 470 palavras, perto de 2 min 48 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA, QUEBRA, SEGUNDA MICROEPIFANIA (sem a frase dos autores), VIRADA, PORTANTO, O QUE MUDA AMANHÃ, FRASE e GANCHO. Condensar a CURIOSIDADE em duas linhas ("Em 1975, na Finlândia, oito mortes. Em 1988, voltou — com exame de sangue toda semana.") e mover MICROEPIFANIA, QUESTIONAMENTO e O QUE NINGUÉM TE CONTOU para a legenda e o carrossel.
 
@@ -290,10 +290,10 @@ por que o remédio é o mesmo?
 >
 > A saliva tem um interruptor: acetilcolina em receptores muscarínicos. Muitos psicotrópicos bloqueiam esses receptores — boca seca, xerostomia, cárie. Pessoas com transtorno mental grave têm 3,4× mais chance de perder todos os dentes.
 >
-> Mas a clozapina — o remédio mais eficaz na esquizofrenia resistente — causa saliva em excesso em 92% dos pacientes, principalmente à noite. Em células de laboratório, ela bloqueia quatro receptores muscarínicos e ativa o quinto, o M4. O mecanismo completo ainda é mal compreendido.
+> Mas a clozapina — o antipsicótico mais eficaz na esquizofrenia resistente — causa sialorreia em 92% dos pacientes, principalmente à noite. In vitro, ela bloqueia quatro receptores muscarínicos e ativa o quinto, o M4. O mecanismo completo ainda é mal compreendido.
 >
 > 🦷 Pergunte qual antipsicótico o paciente usa
-> 💧 Boca seca → creme dental de 5.000 ppm de flúor
+> 💧 Xerostomia → creme dental de 5.000 ppm de flúor
 > 🩸 Clozapina + infecção "banal" → hemograma no mesmo dia e aviso ao psiquiatra
 > 🫁 Clozapina triplica o risco de pneumonia
 > 🚫 Nunca suspenda o antipsicótico por conta própria
@@ -373,66 +373,66 @@ Por que alguns antipsicóticos secam a boca...
 e outros fazem o paciente acordar com o travesseiro molhado?
 
 A saliva tem um interruptor.
-O nervo manda acetilcolina para a glândula, e ela se encaixa em receptores chamados muscarínicos.
-Muitos remédios psiquiátricos bloqueiam esses receptores, o que chamamos de efeito anticolinérgico.
-Interruptor desligado: boca seca.
-Xerostomia.
+O nervo libera acetilcolina na glândula, e ela se liga aos receptores muscarínicos.
+Muitos psicofármacos bloqueiam esses receptores, o efeito anticolinérgico.
+Interruptor desligado: hipossalivação.
+E xerostomia, a sensação de boca seca.
 
 E sem saliva, a boca perde quem a lavava.
-Pessoas com transtorno mental grave têm mais de três vezes a chance de perder todos os dentes.
-Não é só o remédio.
-Mas a boca seca entra na conta.
+Pessoas com transtorno mental grave têm mais de três vezes a chance de edentulismo, a perda de todos os dentes.
+Não é só o medicamento.
+Mas a hipossalivação entra na conta.
 Pronto.
-Antipsicótico seca a boca.
+Antipsicótico causa xerostomia.
 Caso resolvido.
 
 Só que não.
-A clozapina, o remédio mais eficaz na esquizofrenia resistente, bloqueia esses receptores com força.
+A clozapina, o antipsicótico mais eficaz na esquizofrenia resistente, tem forte ação anticolinérgica.
 E, mesmo assim, num estudo, noventa e dois por cento tinham saliva em excesso.
 O que chamamos de sialorreia.
 
-Como um remédio que bloqueia a saliva faz babar?
-Em mil novecentos e noventa e quatro, em células de laboratório, testaram a clozapina nos cinco receptores muscarínicos, um por um.
+Como um anticolinérgico causa sialorreia?
+Em mil novecentos e noventa e quatro, in vitro, testaram a clozapina nos cinco subtipos de receptor muscarínico, um por um.
 Em quatro, ela bloqueou.
 No quinto, o M4, ela fez o contrário: ligou.
 Virou agonista: acendeu o receptor em vez de apagar.
-Os autores: isso pode explicar, em parte, a saliva a mais.
+Os autores: isso pode explicar, em parte, a sialorreia.
 
 Em parte?
 Repare quando ela aparece: oitenta e cinco por cento à noite, contra quarenta e oito durante o dia.
-À noite, a gente engole menos. Talvez parte do problema seja engolir, não só produzir.
+À noite, a deglutição diminui. Talvez parte do problema seja deglutir, não só produzir.
 A conta não fechou.
 
 E ela quase não chegou até aqui.
-Em mil novecentos e setenta e cinco, na Finlândia, em seis meses de uso, dezessete pacientes tiveram queda grave dos glóbulos brancos.
+Em mil novecentos e setenta e cinco, na Finlândia, em seis meses de uso, dezessete pacientes tiveram queda grave dos neutrófilos.
 Oito morreram.
 O desenvolvimento travou por mais de uma década.
 Em mil novecentos e oitenta e oito, um ensaio testou a clozapina em quem não tinha melhorado com três antipsicóticos.
 Responderam trinta por cento.
-Com o remédio antigo, quatro.
+No grupo controle, quatro.
 A clozapina voltou.
-Com uma condição: exame de sangue toda semana.
+Com uma condição: hemograma toda semana.
 
 E aqui a boca volta à história.
-Essa queda dos glóbulos brancos, a agranulocitose, aparece em menos de um por cento no primeiro ano.
+Essa queda dos neutrófilos, a agranulocitose, aparece em menos de um por cento no primeiro ano.
 Mas ela se disfarça.
-De infecção comum — muitas vezes na boca: febre, garganta, ferida.
+De infecção comum — muitas vezes na boca: febre, faringite, úlcera oral.
 
 E o mesmo paciente pode pedir dois cuidados opostos.
-Boca seca: cárie.
-Saliva demais: risco de aspirar.
+Xerostomia: cárie.
+Sialorreia: risco de aspiração.
 E a clozapina triplica o risco de pneumonia.
 
-E entre os remédios que tratam essa baba nos ensaios...
+E entre os fármacos testados contra a sialorreia...
 vários são anticolinérgicos.
-O mesmo mecanismo que seca a boca dos outros.
+O mesmo mecanismo que causa xerostomia nos outros.
 Quem decide é o psiquiatra.
 
 Que os antipsicóticos mexem na saliva, está estabelecido.
 Por que a clozapina faz o contrário, ainda é hipótese.
 
 Pergunte qual antipsicótico o paciente usa.
-Boca seca: creme dental com flúor de alta concentração.
+Xerostomia: creme dental com alta concentração de flúor.
 Clozapina com qualquer infecção que pareça banal: hemograma no mesmo dia e aviso ao psiquiatra.
 E nunca suspenda o antipsicótico por conta própria.
 

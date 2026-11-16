@@ -1,7 +1,7 @@
 # Por que uma empresa que estudava fraturas acabou na boca?
 
 **Selo:** ESTABELECIDO — o osso se integra ao titânio e o implante dura (cerca de 96% em 10 anos); quem perde mais é quem tem periodontite prévia, placa e falta de manutenção
-**Duração:** ~2 min 50 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 55 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que indica ou instala implante; médico que acompanha paciente que vai colocar ou já tem implante
 **Cavalo de troia:** o espectador entra pela história de um relojoeiro suíço. Sai sabendo que o implante hoje falha mais por biologia do que por metal, quem tem mais risco de peri-implantite e por que a manutenção faz parte do tratamento.
 **Em outro episódio (gancho):** o que uma doença da tireoide tem a ver com a prevenção da cárie ([02-sal-fluoretado.md](02-sal-fluoretado.md)).
@@ -30,13 +30,13 @@ Em 1954, ele abre ali um instituto de pesquisa em metais.
 
 Em 1958, cirurgiões suíços fundam a AO, um grupo para tratar fraturas com placas e parafusos — o que chamamos de osteossíntese.
 
-E eles tinham um problema de relojoeiro: um metal que trabalhe anos sem cansar e sem corroer.
+E eles tinham um problema de relojoeiro: um metal que trabalhe anos sem fadiga e sem corrosão.
 
 Só que dentro do corpo.
 
-Foram bater na porta de quem entendia de metal. E do osso da perna para o da mandíbula foi um passo.
+Foram bater na porta de quem entendia de metalurgia. E dos ossos longos para a mandíbula foi um passo.
 
-Então era só levar o parafuso para a boca. Caso resolvido.
+Então era só levar a osteossíntese para a boca. Caso resolvido.
 
 > 🎬 Lettering **AO · 1958**. Placa aparafusada numa tíbia. O parafuso encolhe e voa para uma mandíbula. Carimbo: **CASO RESOLVIDO**.
 
@@ -44,13 +44,13 @@ Então era só levar o parafuso para a boca. Caso resolvido.
 
 Só que não.
 
-O parafuso da perna fica fechado, embaixo da pele, num ambiente estéril.
+O material de osteossíntese fica fechado sob a pele, num ambiente estéril.
 
-O implante dentário atravessa a gengiva.
+O implante dentário é transmucoso: atravessa a gengiva.
 
-Vive numa boca com centenas de espécies de bactérias.
+Vive exposto a um biofilme com centenas de espécies bacterianas.
 
-E leva mordida todo dia.
+E recebe carga mastigatória todo dia.
 
 Engenharia sozinha não bastava. Faltava biologia.
 
@@ -62,11 +62,11 @@ Berna, anos 1970.
 
 O professor André Schroeder coloca cilindros de titânio, com a superfície rugosa de titânio aspergido a plasma, na mandíbula de macacos.
 
-Depois, corta o osso e olha no microscópio.
+Depois, analisa o osso na histologia.
 
-O osso tinha crescido colado no metal. Sem tecido mole no meio.
+O osso estava em contato direto com o metal. Sem tecido fibroso na interface.
 
-Ele chamou isso de anquilose. E ela se manteve com mastigação, por até dezesseis meses.
+Ele chamou isso de anquilose. E se manteve sob carga mastigatória por até dezesseis meses.
 
 Agora olha quem assina o artigo junto com ele: Fritz Straumann, o filho do relojoeiro.
 
@@ -88,9 +88,9 @@ O nome que ficou foi o dele.
 
 E o metal deixou de ser o problema.
 
-Em dez anos, cerca de noventa e seis em cada cem implantes continuam na boca.
+Em dez anos, a taxa de sobrevida é de cerca de noventa e seis por cento.
 
-Mas cerca de um em cada cinco pacientes desenvolve peri-implantite — a inflamação que destrói o osso em volta do implante.
+Mas cerca de um em cada cinco pacientes desenvolve peri-implantite — a inflamação que causa perda óssea ao redor do implante.
 
 > 🎬 Cem implantes em grade; quatro se apagam. Depois, um em cada cinco pacientes ganha um halo vermelho no osso. Lettering **PERI-IMPLANTITE**.
 
@@ -98,9 +98,9 @@ Mas cerca de um em cada cinco pacientes desenvolve peri-implantite — a inflama
 
 E quem perde o implante não é quem tem o metal errado.
 
-A evidência forte aponta três coisas: história de periodontite, placa que fica e falta de manutenção.
+A evidência forte aponta três coisas: história de periodontite, controle de placa deficiente e falta de manutenção.
 
-Cigarro e diabetes, que todo mundo cita? Para peri-implantite, os dados ainda são inconclusivos.
+Tabagismo e diabetes, que todo mundo cita? Para peri-implantite, os dados ainda são inconclusivos.
 
 > 🎬 Três cartões acendem: **PERIODONTITE PRÉVIA · PLACA · SEM MANUTENÇÃO**. Dois cartões ficam cinza com um "?": **CIGARRO · DIABETES**.
 
@@ -120,7 +120,7 @@ Aqui a ciência já testou: o osso integra ao titânio, e o implante dura em que
 
 Antes de implantar, trate a periodontite.
 
-Depois, sonde em volta do implante: o sangramento à sondagem é o primeiro sinal — o que chamamos de mucosite peri-implantar.
+Depois, sonde ao redor do implante: o sangramento à sondagem é o primeiro sinal — o que chamamos de mucosite peri-implantar.
 
 E diga ao paciente: implante não tem cárie. Mas tem gengiva.
 
@@ -146,7 +146,7 @@ o que uma doença da tireoide tem a ver com a prevenção da cárie?
 
 ---
 
-**Narração:** cerca de 480 palavras, perto de 2 min 53 s, com as pausas das quebras.
+**Narração:** cerca de 490 palavras, perto de 2 min 55 s, com as pausas das quebras.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (só "Waldenburg, Suíça. Uma cidade de relojoeiros." e 1954), MICROEPIFANIA, QUEBRA, CURIOSIDADE (sem a frase da mastigação), VIRADA, PORTANTO, FRASE e GANCHO. QUESTIONAMENTO, O QUE NINGUÉM TE CONTOU e O QUE MUDA AMANHÃ vão para a legenda e o carrossel.
 
@@ -247,15 +247,15 @@ o que uma doença da tireoide tem a ver com a prevenção da cárie?
 
 > Por que uma empresa que estudava fraturas acabou revolucionando a implantodontia?
 >
-> Waldenburg, Suíça. Um engenheiro de relógios, uma liga para a mola espiral e, em 1954, um instituto de metais. Em 1958, cirurgiões suíços fundam a AO para tratar fraturas com placas e parafusos — e precisam de metal que não canse nem corroa dentro do corpo.
+> Waldenburg, Suíça. Um engenheiro de relógios, uma liga para a mola espiral e, em 1954, um instituto de metais. Em 1958, cirurgiões suíços fundam a AO para tratar fraturas com placas e parafusos — e precisam de metal sem fadiga nem corrosão dentro do corpo.
 >
-> Mas o osso da perna fica fechado sob a pele. O implante dentário atravessa a gengiva, vive com bactérias e leva mordida. Em Berna, nos anos 1970, André Schroeder mostrou em macacos o osso crescendo colado no titânio. Entre os autores: Fritz Straumann. Na Suécia, Brånemark chamou o mesmo fenômeno de osseointegração.
+> Mas o material de osteossíntese fica fechado sob a pele. O implante dentário é transmucoso, vive exposto ao biofilme e recebe carga mastigatória. Em Berna, nos anos 1970, André Schroeder mostrou em macacos o contato direto entre osso e titânio. Entre os autores: Fritz Straumann. Na Suécia, Brånemark chamou o mesmo fenômeno de osseointegração.
 >
 > Hoje, o metal deixou de ser o problema:
-> 🦷 ~96% dos implantes continuam na boca em 10 anos
+> 🦷 Sobrevida de ~96% dos implantes em 10 anos
 > 🔥 ~1 em 5 pacientes desenvolve peri-implantite
-> ⚠️ Evidência forte de risco: periodontite prévia, placa e falta de manutenção
-> ❓ Cigarro e diabetes: inconclusivos para peri-implantite
+> ⚠️ Evidência forte de risco: periodontite prévia, controle de placa deficiente e falta de manutenção
+> ❓ Tabagismo e diabetes: inconclusivos para peri-implantite
 >
 > A pergunta deixou de ser "o implante é bom?". Virou "o paciente está pronto?".
 >
@@ -348,29 +348,29 @@ Em mil novecentos e cinquenta e oito, cirurgiões suíços fundam a AO.
 Um grupo para tratar fraturas com placas e parafusos.
 O que chamamos de osteossíntese.
 E eles tinham um problema de relojoeiro:
-um metal que trabalhe anos sem cansar e sem corroer.
+um metal que trabalhe anos sem fadiga e sem corrosão.
 Só que dentro do corpo.
-Foram bater na porta de quem entendia de metal.
-E do osso da perna para o da mandíbula foi um passo.
-Então era só levar o parafuso para a boca.
+Foram bater na porta de quem entendia de metalurgia.
+E dos ossos longos para a mandíbula foi um passo.
+Então era só levar a osteossíntese para a boca.
 Caso resolvido.
 
 Só que não.
 
-O parafuso da perna fica fechado, embaixo da pele, num ambiente estéril.
-O implante dentário atravessa a gengiva.
-Vive numa boca com centenas de espécies de bactérias.
-E leva mordida todo dia.
+O material de osteossíntese fica fechado sob a pele, num ambiente estéril.
+O implante dentário é transmucoso: atravessa a gengiva.
+Vive exposto a um biofilme com centenas de espécies bacterianas.
+E recebe carga mastigatória todo dia.
 Engenharia sozinha não bastava.
 Faltava biologia.
 
 Berna, anos setenta.
 O professor André Schroeder coloca cilindros de titânio, com a superfície rugosa de titânio aspergido a plasma, na mandíbula de macacos.
-Depois, corta o osso e olha no microscópio.
-O osso tinha crescido colado no metal.
-Sem tecido mole no meio.
+Depois, analisa o osso na histologia.
+O osso estava em contato direto com o metal.
+Sem tecido fibroso na interface.
 Ele chamou isso de anquilose.
-E ela se manteve com mastigação, por até dezesseis meses.
+E se manteve sob carga mastigatória por até dezesseis meses.
 Agora olha quem assina o artigo junto com ele:
 Fritz Straumann.
 O filho do relojoeiro.
@@ -382,16 +382,16 @@ osseointegração.
 O nome que ficou foi o dele.
 
 E o metal deixou de ser o problema.
-Em dez anos, cerca de noventa e seis em cada cem implantes continuam na boca.
+Em dez anos, a taxa de sobrevida é de cerca de noventa e seis por cento.
 Mas cerca de um em cada cinco pacientes desenvolve peri-implantite.
-A inflamação que destrói o osso em volta do implante.
+A inflamação que causa perda óssea ao redor do implante.
 
 E quem perde o implante não é quem tem o metal errado.
 A evidência forte aponta três coisas:
 história de periodontite,
-placa que fica,
+controle de placa deficiente,
 e falta de manutenção.
-Cigarro e diabetes, que todo mundo cita?
+Tabagismo e diabetes, que todo mundo cita?
 Para peri-implantite, os dados ainda são inconclusivos.
 
 Portanto, a pergunta deixou de ser:
@@ -404,7 +404,7 @@ o osso integra ao titânio,
 e o implante dura em quem é preparado e acompanhado.
 
 Antes de implantar, trate a periodontite.
-Depois, sonde em volta do implante.
+Depois, sonde ao redor do implante.
 O sangramento à sondagem é o primeiro sinal.
 O que chamamos de mucosite peri-implantar.
 E diga ao paciente:

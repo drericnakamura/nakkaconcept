@@ -1,7 +1,7 @@
 # A escova elétrica foi feita para quem não conseguia escovar?
 
 **Selo:** ESTABELECIDO — na população geral, a escova elétrica remove mais placa e reduz mais gengivite que a manual (certeza moderada) · EVIDÊNCIA FRACA de que o motor, por si, ajude quem tem limitação motora ou intelectual; adaptar a escova tem evidência melhor
-**Duração:** ~2 min 30 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 31 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista, reumatologista, neurologista, geriatra, fisioterapeuta e terapeuta ocupacional
 **Cavalo de troia:** o espectador entra pela história da primeira escova elétrica. Sai sabendo o que a Cochrane diz sobre elétrica × manual, por que o problema costuma ser a mão e não a escova, e como adaptar a higiene de quem perdeu destreza.
 **Em outro episódio (gancho):** por que a gengiva começa a sangrar antes de o paciente perceber que está doente ([04-sangramento-sulcular.md](04-sangramento-sulcular.md)).
@@ -22,7 +22,7 @@ Suíça, 1954. Philippe-Guy Woog lança a Broxodent, considerada a primeira esco
 
 Ligada na tomada. Pesada.
 
-E pensada para dois grupos: quem tinha pouca destreza nas mãos e quem usava aparelho ortodôntico.
+E pensada para dois grupos: quem tinha destreza manual reduzida e quem usava aparelho ortodôntico.
 
 > 🎬 Anúncio de época estilizado. Lettering **BROXODENT · 1954**. Dois ícones: mão trêmula e bráquetes.
 
@@ -30,9 +30,9 @@ E pensada para dois grupos: quem tinha pouca destreza nas mãos e quem usava apa
 
 E faz sentido.
 
-Escovar parece simples, mas é um movimento fino: punho, dedos, pressão, ângulo.
+Escovar parece simples, mas exige coordenação motora fina: punho, dedos, pressão, angulação.
 
-Artrite, tremor, sequela de AVC — tudo isso tira exatamente esse movimento.
+Artrite, tremor, sequela de AVC — tudo isso compromete exatamente essa coordenação.
 
 Se o motor faz o movimento, a mão só precisa segurar.
 
@@ -46,7 +46,7 @@ Só que não.
 
 Quando juntaram os estudos em crianças e adolescentes com deficiência intelectual e do desenvolvimento, a escova elétrica não mostrou benefício convincente.
 
-O que teve evidência melhor foi outra coisa: a escova adaptada para aquela pessoa.
+O que teve evidência melhor foi outra coisa: a escova adaptada às limitações daquela pessoa.
 
 > 🎬 O carimbo rasga. Escova elétrica com um "?" em cima; ao lado, uma escova com o cabo engrossado ganha um ✓.
 
@@ -56,17 +56,17 @@ Então a elétrica não serve?
 
 Serve. Só que o ganho aparece em outro lugar.
 
-Numa revisão Cochrane com cinquenta e seis ensaios, a elétrica tirou cerca de vinte e um por cento mais placa que a manual depois de três meses, e reduziu a gengivite em onze por cento.
+Numa revisão Cochrane com cinquenta e seis ensaios, a elétrica removeu cerca de vinte e um por cento mais biofilme que a manual depois de três meses, e reduziu a gengivite em onze por cento.
 
-A que tem mais estudos é a rotacional-oscilatória: a cabeça redonda que gira para um lado e para o outro.
+A que tem mais estudos é a oscilatório-rotatória: a cabeça redonda que gira para um lado e para o outro.
 
-> 🎬 Capa da revisão Cochrane. Barras: **placa −21%** · **gengivite −11%** (acima de 3 meses). Animação da cabeça redonda girando e voltando. Lettering **ROTACIONAL-OSCILATÓRIA**.
+> 🎬 Capa da revisão Cochrane. Barras: **biofilme −21%** · **gengivite −11%** (acima de 3 meses). Animação da cabeça redonda girando e voltando. Lettering **OSCILATÓRIO-ROTATÓRIA**.
 
 **[A CURIOSIDADE]**
 
 E tem um detalhe na própria história.
 
-A empresa que fabrica a Broxo até hoje conta outra origem: massagear a gengiva e tirar restos de comida.
+A empresa que fabrica a Broxo até hoje conta outra origem: massagem gengival e remoção de restos alimentares.
 
 As revisões científicas repetem a versão das mãos e do aparelho.
 
@@ -88,13 +88,13 @@ E a mão muda com o tempo. A escova que servia há seis meses pode não servir m
 
 Portanto, a pergunta não é "manual ou elétrica?".
 
-É "essa mão ainda consegue tirar a placa?".
+É "essa mão ainda consegue remover o biofilme?".
 
 **[O SELO]**
 
-Aqui a ciência já testou: a elétrica remove mais placa e reduz mais gengivite.
+Aqui a ciência já testou: a elétrica remove mais biofilme e reduz mais gengivite.
 
-Mas, para quem tem limitação, a evidência mais forte está em adaptar a escova e treinar quem escova.
+Mas, para quem tem limitação motora, a evidência mais forte está em adaptar a escova e treinar quem escova.
 
 > 🎬 Selo **ESTABELECIDO** no canto, com a etiqueta menor **limitação motora: adaptar > motor**.
 
@@ -102,9 +102,9 @@ Mas, para quem tem limitação, a evidência mais forte está em adaptar a escov
 
 Dentista: olhe a mão antes da boca. Peça para o paciente mostrar como segura a escova.
 
-Pouca força ou tremor? Engrosse o cabo, teste a elétrica se ela ficar mais fácil, e treine o cuidador.
+Força de preensão reduzida ou tremor? Engrosse o cabo, teste a elétrica se ela facilitar, e treine o cuidador.
 
-Médico: quando a mão do seu paciente muda, a escovação muda junto. Avise o dentista.
+Médico: quando a função da mão do seu paciente muda, a escovação muda junto. Avise o dentista.
 
 > 🎬 Lista com as letras da ROTA no canto. Paciente segurando a escova na cadeira; o dentista observa a preensão. Cabo de escova envolvido em espuma. Cuidador escovando por trás do paciente. Lettering **FORÇA DE PREENSÃO**.
 
@@ -128,7 +128,7 @@ por que a gengiva começa a sangrar antes de o paciente perceber que está doent
 
 ---
 
-**Narração:** cerca de 420 palavras, perto de 2 min 30 s, com as pausas das quebras.
+**Narração:** cerca de 420 palavras, perto de 2 min 31 s, com as pausas das quebras.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA, MICROEPIFANIA, QUEBRA, QUESTIONAMENTO (sem a frase da rotacional-oscilatória), VIRADA, PORTANTO, FRASE e GANCHO. CURIOSIDADE e O QUE MUDA AMANHÃ vão para a legenda e o carrossel.
 
@@ -227,12 +227,12 @@ por que a gengiva começa a sangrar antes de o paciente perceber que está doent
 >
 > Parece óbvio que o motor resolve. Mas, nos estudos com crianças e adolescentes com deficiência intelectual e do desenvolvimento, a elétrica não mostrou benefício convincente — adaptar a escova teve evidência melhor.
 >
-> Na população geral, a Cochrane (56 ensaios) mostra que a elétrica tira ~21% mais placa e reduz ~11% mais gengivite depois de 3 meses.
+> Na população geral, a Cochrane (56 ensaios) mostra que a elétrica remove ~21% mais biofilme e reduz ~11% mais gengivite depois de 3 meses.
 >
 > O problema nunca foi a escova. Era a mão.
 >
 > ✋ Olhe a mão antes da boca: peça para o paciente mostrar como segura
-> 🧽 Pouca força ou tremor: engrosse o cabo, teste a elétrica, treine o cuidador
+> 🧽 Força de preensão reduzida ou tremor: engrosse o cabo, teste a elétrica, treine o cuidador
 > 🩺 Médico: quando a preensão cai, a escovação cai junto — avise o dentista
 >
 > A boca faz parte da saúde do paciente. Mas a saúde do paciente não termina na boca.
@@ -306,14 +306,14 @@ Philippe-Guy Woog lança a Broxodent, considerada a primeira escova elétrica do
 Ligada na tomada.
 Pesada.
 E pensada para dois grupos:
-quem tinha pouca destreza nas mãos,
+quem tinha destreza manual reduzida,
 e quem usava aparelho ortodôntico.
 
 E faz sentido.
-Escovar parece simples, mas é um movimento fino:
-punho, dedos, pressão, ângulo.
+Escovar parece simples, mas exige coordenação motora fina:
+punho, dedos, pressão, angulação.
 Artrite, tremor, sequela de AVC.
-Tudo isso tira exatamente esse movimento.
+Tudo isso compromete exatamente essa coordenação.
 Se o motor faz o movimento, a mão só precisa segurar.
 Pronto.
 Problema resolvido.
@@ -322,19 +322,19 @@ Só que não.
 
 Quando juntaram os estudos em crianças e adolescentes com deficiência intelectual e do desenvolvimento, a escova elétrica não mostrou benefício convincente.
 O que teve evidência melhor foi outra coisa:
-a escova adaptada para aquela pessoa.
+a escova adaptada às limitações daquela pessoa.
 
 Então a elétrica não serve?
 Serve.
 Só que o ganho aparece em outro lugar.
-Numa revisão Cochrane com cinquenta e seis ensaios, a elétrica tirou cerca de vinte e um por cento mais placa que a manual depois de três meses.
+Numa revisão Cochrane com cinquenta e seis ensaios, a elétrica removeu cerca de vinte e um por cento mais biofilme que a manual depois de três meses.
 E reduziu a gengivite em onze por cento.
-A que tem mais estudos é a rotacional-oscilatória:
+A que tem mais estudos é a oscilatório-rotatória:
 a cabeça redonda que gira para um lado e para o outro.
 
 E tem um detalhe na própria história.
 A empresa que fabrica a Broxo até hoje conta outra origem:
-massagear a gengiva e tirar restos de comida.
+massagem gengival e remoção de restos alimentares.
 As revisões científicas repetem a versão das mãos e do aparelho.
 Provavelmente eram as duas coisas.
 
@@ -347,19 +347,19 @@ A escova que servia há seis meses pode não servir mais.
 Portanto, a pergunta não é:
 manual ou elétrica?
 É:
-essa mão ainda consegue tirar a placa?
+essa mão ainda consegue remover o biofilme?
 
 Aqui a ciência já testou:
-a elétrica remove mais placa e reduz mais gengivite.
-Mas, para quem tem limitação, a evidência mais forte está em adaptar a escova e treinar quem escova.
+a elétrica remove mais biofilme e reduz mais gengivite.
+Mas, para quem tem limitação motora, a evidência mais forte está em adaptar a escova e treinar quem escova.
 
 Dentista:
 olhe a mão antes da boca.
 Peça para o paciente mostrar como segura a escova.
-Pouca força ou tremor?
-Engrosse o cabo, teste a elétrica se ela ficar mais fácil, e treine o cuidador.
+Força de preensão reduzida ou tremor?
+Engrosse o cabo, teste a elétrica se ela facilitar, e treine o cuidador.
 Médico:
-quando a mão do seu paciente muda, a escovação muda junto.
+quando a função da mão do seu paciente muda, a escovação muda junto.
 Avise o dentista.
 
 A boca faz parte da saúde do paciente.

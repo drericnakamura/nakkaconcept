@@ -3,7 +3,7 @@
 *Série: Portugal — Quando alguém questionou o protocolo*
 
 **Selo:** ESTABELECIDO NA PRÁTICA, FRÁGIL NO MÉTODO — sobrevida alta em séries de casos de até 18 anos; nenhum ensaio randomizado contra o enxerto; complicações frequentes
-**Duração:** ~2 min 50 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 49 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que indica ou executa reabilitação total sobre implantes; médico que acompanha idoso edêntulo, diabético, fumante ou com perda de destreza manual
 **Cavalo de troia:** o espectador entra pela história de um dentista de Lisboa que mudou o ângulo do implante. Sai sabendo que o resultado de longo prazo não depende do ângulo: depende de bruxismo, cigarro, condição sistêmica e manutenção.
 **Em outro episódio (gancho):** por que continuamos procurando doenças no sangue, quando a saliva também carrega informação?
@@ -24,9 +24,9 @@ por que não mudar a posição dos implantes?
 
 Lisboa, anos noventa.
 
-O paciente sem dentes e com o osso reabsorvido ouvia quase sempre a mesma resposta: primeiro, enxerto.
+O paciente edêntulo, com reabsorção óssea avançada, ouvia quase sempre a mesma resposta: primeiro, enxerto.
 
-Levantar o seio maxilar e esperar meses.
+Elevação do seio maxilar e meses de espera.
 
 Paulo Maló, um dentista português, olhou o problema do outro lado.
 
@@ -34,15 +34,15 @@ Paulo Maló, um dentista português, olhou o problema do outro lado.
 
 **[A MICROEPIFANIA]**
 
-O osso que falta está atrás.
+O osso que falta está na região posterior.
 
 Lá ficam o seio maxilar, em cima, e o nervo alveolar inferior, embaixo.
 
-Mas na frente, quase sempre, ainda tem osso.
+Mas na região anterior, quase sempre, ainda tem osso.
 
-Então, em vez de colocar o implante de trás em pé, você o inclina.
+Então, em vez de instalar o implante posterior na vertical, você o inclina.
 
-Ele passa rente ao seio, ou à frente do nervo, e sai lá atrás.
+Ele passa rente à parede anterior do seio, ou à frente do forame mentual, e emerge mais posterior.
 
 Como uma mão-francesa segurando uma prateleira.
 
@@ -52,11 +52,11 @@ Como uma mão-francesa segurando uma prateleira.
 
 Isso resolve um problema de engenharia.
 
-A prótese ganha apoio mais para trás, e o pedaço que fica sem apoio — o cantiléver — encolhe.
+A prótese ganha apoio mais posterior, e o segmento em balanço — o cantiléver — encolhe.
 
 Inclinar o implante pode dar quase um centímetro a mais de apoio na maxila.
 
-Quatro implantes. Prótese fixa no mesmo dia. Sem enxerto.
+Quatro implantes. Prótese fixa em carga imediata. Sem enxerto.
 
 O nome pegou: All-on-4.
 
@@ -76,11 +76,11 @@ Só que o tempo cobra a conta.
 
 O próprio grupo de Maló acompanhou quase quinhentos pacientes por até dezoito anos.
 
-Os implantes resistiram: noventa e três por cento.
+Sobrevida dos implantes: noventa e três por cento.
 
-Mas mais de um terço teve complicação mecânica — prótese que quebra, parafuso que solta.
+Mas mais de um terço teve complicação mecânica — fratura da prótese, afrouxamento do parafuso protético.
 
-E quase um em cada três pacientes sumiu do acompanhamento.
+E quase um em cada três pacientes foi perdido no seguimento.
 
 > 🎬 O carimbo rasga. Lettering: **471 pacientes · 10 a 18 anos**. Três números entrando um por vez: **93% implantes** · **36,7% complicação mecânica** · **31,6% perdidos no seguimento**.
 
@@ -90,9 +90,9 @@ Então a técnica falha?
 
 Não exatamente.
 
-Quem complica mais tem perfil: quem range os dentes — o bruxismo — e quem fuma.
+Quem complica mais tem perfil: bruxismo e tabagismo.
 
-Quem fumava teve quase três vezes mais chance de perder osso em volta do implante.
+Tabagistas tiveram quase três vezes mais chance de perda óssea peri-implantar.
 
 O parafuso é o mesmo. O paciente, não.
 
@@ -118,7 +118,7 @@ Foi trocar a pergunta "onde falta osso?" por "onde ainda tem?".
 
 Mas o resultado de longo prazo não depende do ângulo.
 
-Depende de força, de inflamação e de manutenção.
+Depende de carga oclusal, de inflamação e de manutenção.
 
 > 🎬 A pergunta "ONDE FALTA OSSO?" é riscada e reescrita: "ONDE AINDA TEM?". Três ícones: martelo (força), chama (inflamação), calendário (manutenção).
 
@@ -140,11 +140,11 @@ Estabelecido na prática. Frágil no método.
 
 **[O QUE MUDA AMANHÃ]**
 
-Antes de indicar, pergunte: range os dentes? Fuma? Tem diabetes?
+Antes de indicar, investigue: bruxismo? Tabagismo? Diabetes?
 
-Explique que o implante quase sempre fica. O que dá trabalho é a prótese e a gengiva em volta dela.
+Explique que o implante quase sempre fica. O que dá trabalho é a prótese e o tecido peri-implantar.
 
-Desenhe a prótese para ser limpa.
+Desenhe a prótese para permitir higienização.
 
 E coloque a manutenção no plano, não no "se der".
 
@@ -170,7 +170,7 @@ por que continuamos procurando doenças no sangue, quando a saliva também carre
 
 ---
 
-**Narração:** cerca de 480 palavras, perto de 2 min 50 s, com as pausas das quebras.
+**Narração:** cerca de 470 palavras, perto de 2 min 49 s, com as pausas das quebras.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA, MICROEPIFANIA, QUEBRA, QUESTIONAMENTO, SELO, FRASE e GANCHO. Condensar a SEGUNDA MICROEPIFANIA em uma linha ("quatro implantes, prótese no mesmo dia, sem enxerto") e mover CURIOSIDADE e O QUE NINGUÉM TE CONTOU para o carrossel.
 
@@ -362,22 +362,22 @@ Se o paciente não tem osso suficiente para colocar implantes...
 por que não mudar a posição dos implantes?
 
 Lisboa, anos noventa.
-O paciente sem dentes e com o osso reabsorvido ouvia quase sempre a mesma resposta: primeiro, enxerto.
-Levantar o seio maxilar e esperar meses.
+O paciente edêntulo, com reabsorção óssea avançada, ouvia quase sempre a mesma resposta: primeiro, enxerto.
+Elevação do seio maxilar e meses de espera.
 Paulo Maló, um dentista português, olhou o problema do outro lado.
 
-O osso que falta está atrás.
+O osso que falta está na região posterior.
 Lá ficam o seio maxilar, em cima, e o nervo alveolar inferior, embaixo.
-Mas na frente, quase sempre, ainda tem osso.
-Então, em vez de colocar o implante de trás em pé, você o inclina.
-Ele passa rente ao seio, ou à frente do nervo, e sai lá atrás.
+Mas na região anterior, quase sempre, ainda tem osso.
+Então, em vez de instalar o implante posterior na vertical, você o inclina.
+Ele passa rente à parede anterior do seio, ou à frente do forame mentual, e emerge mais posterior.
 Como uma mão-francesa segurando uma prateleira.
 
 Isso resolve um problema de engenharia.
-A prótese ganha apoio mais para trás, e o pedaço que fica sem apoio, o cantiléver, encolhe.
+A prótese ganha apoio mais posterior, e o segmento em balanço, o cantiléver, encolhe.
 Inclinar o implante pode dar quase um centímetro a mais de apoio na maxila.
 Quatro implantes.
-Prótese fixa no mesmo dia.
+Prótese fixa em carga imediata.
 Sem enxerto.
 O nome pegou: All-on-4.
 
@@ -387,15 +387,15 @@ Virou protocolo. Virou marca.
 Só que o tempo cobra a conta.
 
 O próprio grupo de Maló acompanhou quase quinhentos pacientes por até dezoito anos.
-Os implantes resistiram: noventa e três por cento.
+Sobrevida dos implantes: noventa e três por cento.
 Mas mais de um terço teve complicação mecânica.
-Prótese que quebra, parafuso que solta.
-E quase um em cada três pacientes sumiu do acompanhamento.
+Fratura da prótese, afrouxamento do parafuso protético.
+E quase um em cada três pacientes foi perdido no seguimento.
 
 Então a técnica falha?
 Não exatamente.
-Quem complica mais tem perfil: quem range os dentes, o bruxismo, e quem fuma.
-Quem fumava teve quase três vezes mais chance de perder osso em volta do implante.
+Quem complica mais tem perfil: bruxismo e tabagismo.
+Tabagistas tiveram quase três vezes mais chance de perda óssea peri-implantar.
 O parafuso é o mesmo.
 O paciente, não.
 
@@ -407,7 +407,7 @@ Portugal fez da ideia um protocolo.
 Portanto, a grande virada não foi o parafuso.
 Foi trocar a pergunta onde falta osso, por onde ainda tem.
 Mas o resultado de longo prazo não depende do ângulo.
-Depende de força, de inflamação e de manutenção.
+Depende de carga oclusal, de inflamação e de manutenção.
 
 Não existe ensaio randomizado comparando o All-on-4 com o enxerto.
 Quase tudo vem de séries de casos, muitas da própria clínica que criou a técnica.
@@ -416,10 +416,10 @@ E cerca de um em cada cinco pacientes com implante desenvolve peri-implantite: a
 Estabelecido na prática.
 Frágil no método.
 
-Antes de indicar, pergunte: range os dentes? Fuma? Tem diabetes?
+Antes de indicar, investigue: bruxismo? Tabagismo? Diabetes?
 Explique que o implante quase sempre fica.
-O que dá trabalho é a prótese e a gengiva em volta dela.
-Desenhe a prótese para ser limpa.
+O que dá trabalho é a prótese e o tecido peri-implantar.
+Desenhe a prótese para permitir higienização.
 E coloque a manutenção no plano, não no se der.
 
 A boca faz parte da saúde do paciente.

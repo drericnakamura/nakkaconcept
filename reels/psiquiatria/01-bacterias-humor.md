@@ -1,7 +1,7 @@
 # As bactérias da sua boca podem influenciar seu humor?
 
 **Selo:** HIPÓTESE — a inflamação muda o humor (isso está provado em gente); a gengiva fazer isso, não
-**Duração:** ~2 min 40 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 55 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que atende adulto com periodontite; psiquiatra, neurologista e clínico que acompanham depressão
 **Cavalo de troia:** o espectador entra querendo saber se a boca deprime. Sai sabendo o que é a "depressão inflamatória", por que um remédio de hepatite deprimia um em cada quatro pacientes, como rastrear depressão com duas perguntas e por que o anti-inflamatório da extração preocupa em quem toma antidepressivo.
 **Em outro episódio (gancho):** "Se quase toda a serotonina do corpo é produzida no intestino, por que a depressão é tratada no cérebro?"
@@ -23,7 +23,7 @@ Pesquisadores chineses injetaram na gengiva de camundongos o LPS — um pedaço 
 
 Em três semanas, os animais tinham periodontite.
 
-E algo mais: passaram a se comportar como camundongos deprimidos.
+E algo mais: passaram a ter comportamento do tipo depressivo.
 
 > 🎬 Camundongo animado explorando uma caixa; depois parado num canto. Lettering: **LPS — lipopolissacarídeo**. Rodapé: "*Int Immunopharmacol*, 2023".
 
@@ -31,9 +31,9 @@ E algo mais: passaram a se comportar como camundongos deprimidos.
 
 E faz sentido.
 
-A gengiva inflamada solta no sangue os mensageiros da inflamação — as citocinas, como a interleucina-6.
+A gengiva inflamada libera na circulação os mediadores da inflamação — as citocinas, como a interleucina-6.
 
-E o cérebro escuta esses mensageiros — é por isso que, gripado, você fica sem energia e sem vontade de nada. No cérebro daqueles camundongos, o hipocampo estava inflamado.
+E o cérebro responde a esses mediadores — é por isso que, gripado, você fica sem energia e sem vontade de nada: o comportamento de doença. No hipocampo daqueles camundongos, havia neuroinflamação.
 
 Pronto. A boca deprime.
 
@@ -47,17 +47,17 @@ Só que não.
 
 Camundongo não é gente.
 
-Quando uma metanálise juntou os estudos em pessoas, quem tinha doença periodontal não teve mais depressão de forma significativa.
+Quando uma metanálise juntou os estudos em humanos, a doença periodontal não aumentou de forma significativa o risco de depressão.
 
-O aumento ficou em sete por cento — dentro da margem do acaso.
+O aumento de risco ficou em sete por cento — sem significância estatística.
 
 > 🎬 O carimbo rasga. Barra que sobe e para em **+7%**, com uma faixa cinza de incerteza cruzando o zero. Lettering: **METANÁLISE**.
 
 **[O QUESTIONAMENTO]**
 
-Então a inflamação não mexe com o humor?
+Então a inflamação não interfere no humor?
 
-Mexe. E isso já foi provado em gente.
+Interfere. E isso já foi demonstrado em humanos.
 
 > 🎬 Tela escura. A pergunta aparece e é respondida por um único "MEXE." em lettering grande.
 
@@ -65,15 +65,15 @@ Mexe. E isso já foi provado em gente.
 
 Durante anos, a hepatite C foi tratada com interferon-alfa — uma injeção que imita o sinal de alarme de uma infecção.
 
-E os médicos notaram um efeito colateral estranho: um em cada quatro pacientes desenvolvia depressão maior.
+E os médicos notaram um efeito adverso inesperado: um em cada quatro pacientes desenvolvia depressão maior.
 
 Em 2009, em Londres, pesquisadores testaram isso de propósito.
 
-Dezesseis voluntários saudáveis tomaram vacina de febre tifoide ou placebo, sem saber qual.
+Dezesseis voluntários saudáveis receberam vacina de febre tifoide ou placebo, de forma cega.
 
 Com a vacina, a interleucina-6 subiu — e em três horas o humor caiu.
 
-A ressonância mostrou mais atividade numa região ligada à depressão: o cíngulo subgenual.
+A ressonância funcional mostrou mais atividade numa região ligada à depressão: o cíngulo subgenual.
 
 > 🎬 Frasco de interferon dos anos 2000; **1 em 4** pacientes acendendo. Corte para Londres: seringa, relógio avançando 3 horas, curva de humor descendo. Ressonância com o cíngulo subgenual iluminado. Lettering: **CÍNGULO SUBGENUAL**. Rodapé: "*Biol Psychiatry*, 2009 — ensaio duplo-cego cruzado".
 
@@ -81,13 +81,13 @@ A ressonância mostrou mais atividade numa região ligada à depressão: o cíng
 
 Portanto, a inflamação é uma das portas de entrada da depressão.
 
-E não é uma porta rara: um em cada quatro pacientes deprimidos tem inflamação de baixo grau no sangue — proteína C-reativa acima de três.
+E não é uma porta rara: um em cada quatro pacientes deprimidos tem inflamação sistêmica de baixo grau — proteína C-reativa acima de três miligramas por litro.
 
 Mas a periodontite produz inflamação suficiente para abrir essa porta?
 
 Ninguém mostrou ainda.
 
-E não encontramos nenhum ensaio que tenha testado se tratar a gengiva melhora a depressão.
+E não encontramos nenhum ensaio clínico que tenha testado se o tratamento periodontal melhora a depressão.
 
 > 🎬 Uma porta entreaberta com a etiqueta **INFLAMAÇÃO**. Fila de quatro pessoas; uma acende: **27% com PCR > 3 mg/L**. A gengiva aparece ao lado da porta com um ponto de interrogação.
 
@@ -95,17 +95,17 @@ E não encontramos nenhum ensaio que tenha testado se tratar a gengiva melhora a
 
 E se o problema é inflamação, a tentação na cadeira é o anti-inflamatório. Cuidado.
 
-O antidepressivo, sozinho, quase não faz a extração sangrar.
+O antidepressivo, sozinho, quase não aumenta o sangramento na exodontia.
 
-O problema é o anti-inflamatório que a gente prescreve depois.
+O problema é o anti-inflamatório não esteroidal que a gente prescreve depois.
 
-Junto com um antidepressivo do tipo ISRS, o risco de sangramento no estômago fica quatro vezes maior.
+Junto com um ISRS — inibidor seletivo da recaptação de serotonina —, o risco de hemorragia digestiva alta fica quatro vezes maior.
 
 > 🎬 Alvéolo pós-extração com coágulo estável. Depois, dois comprimidos se juntando — **ISRS + AINE** — e um estômago acendendo: **4×**. Lettering: **ISRS — inibidor seletivo da recaptação de serotonina**.
 
 **[O SELO]**
 
-Inflamação mudando o humor: provado.
+Inflamação alterando o humor: demonstrado.
 
 A gengiva causando depressão: ainda não.
 
@@ -117,13 +117,13 @@ Trate a periodontite pelo que ela é — e não prometa melhora do humor.
 
 Mas pergunte. Duas perguntas bastam: nas últimas duas semanas, você se sentiu para baixo? Perdeu o prazer nas coisas?
 
-É o PHQ-2, um rastreio de dois itens.
+É o PHQ-2, um instrumento de rastreio de dois itens.
 
-Pontuou alto? Médico.
+Rastreio positivo? Encaminhe ao médico.
 
-Falou em não querer viver? No mesmo dia. CVV, cento e oitenta e oito.
+Ideação suicida? Encaminhamento no mesmo dia. CVV, cento e oitenta e oito.
 
-E em quem toma antidepressivo, prefira o paracetamol ao anti-inflamatório.
+E em quem usa antidepressivo, prefira paracetamol ao AINE.
 
 > 🎬 Lista com as letras da ROTA no canto. Lettering **PHQ-2** com as duas perguntas. Cartão de alerta: **CVV 188 · SAMU 192**. Comprimidos: paracetamol com ✓, AINE com ⚠️.
 
@@ -149,7 +149,7 @@ por que a depressão é tratada no cérebro?
 
 ---
 
-**Narração:** cerca de 480 palavras, perto de 2 min 50 s, com as pausas das quebras.
+**Narração:** cerca de 490 palavras, perto de 2 min 55 s, com as pausas das quebras.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (só a primeira e a última linha), QUEBRA, QUESTIONAMENTO, CURIOSIDADE (só o interferon: "um em cada quatro"), VIRADA (até "PCR acima de três"), SELO, FRASE e GANCHO. Mover O QUE NINGUÉM TE CONTOU e O QUE MUDA AMANHÃ para a legenda e o carrossel.
 
@@ -245,16 +245,16 @@ Cada classe muda uma conduta odontológica — ver abaixo.
 
 > As bactérias da sua boca podem mexer com o seu humor?
 >
-> Em camundongos, um pedaço da bactéria da periodontite injetado na gengiva deixou os animais com comportamento depressivo. Caso resolvido? Não: em humanos, a metanálise não achou aumento significativo de depressão em quem tem doença periodontal.
+> Em camundongos, um pedaço da bactéria da periodontite injetado na gengiva induziu comportamento do tipo depressivo. Caso resolvido? Não: em humanos, a metanálise não achou aumento significativo do risco de depressão na doença periodontal.
 >
-> Mas a inflamação mexe com o humor, sim. O interferon usado contra hepatite C deprimia 1 em cada 4 pacientes. E 1 em cada 4 pessoas com depressão tem inflamação de baixo grau no sangue.
+> Mas a inflamação mexe com o humor, sim. O interferon usado contra hepatite C deprimia 1 em cada 4 pacientes. E 1 em cada 4 pessoas com depressão tem inflamação sistêmica de baixo grau (PCR > 3 mg/L).
 >
 > A pergunta que ainda está aberta: a gengiva inflama o suficiente para isso?
 >
 > 🦷 Trate a periodontite pelo que ela é — sem prometer melhora do humor
 > 🗣️ Duas perguntas (PHQ-2): nas últimas 2 semanas, se sentiu para baixo? Perdeu o prazer nas coisas?
-> 🚨 Fala de não querer viver → mesmo dia. CVV 188 · SAMU 192
-> 💊 ISRS + anti-inflamatório = 4× mais risco de sangramento digestivo → prefira paracetamol
+> 🚨 Ideação suicida → encaminhamento no mesmo dia. CVV 188 · SAMU 192
+> 💊 ISRS + AINE = 4× mais risco de hemorragia digestiva alta → prefira paracetamol
 >
 > A boca faz parte da saúde do paciente. Mas a saúde do paciente não termina na boca.
 >
@@ -344,75 +344,66 @@ Só a narração, sem rótulos nem indicações de cena. Números por extenso, u
 ```text
 As bactérias da sua boca podem influenciar o seu humor?
 
-Pesquisadores chineses injetaram na gengiva de camundongos o LPS.
-Um pedaço da parede da Porphyromonas gingivalis, a bactéria símbolo da periodontite.
+Pesquisadores chineses injetaram na gengiva de camundongos o LPS — um pedaço da parede da Porphyromonas gingivalis, a bactéria símbolo da periodontite.
 Em três semanas, os animais tinham periodontite.
-E algo mais: passaram a se comportar como camundongos deprimidos.
+E algo mais: passaram a ter comportamento do tipo depressivo.
 
 E faz sentido.
-A gengiva inflamada solta no sangue os mensageiros da inflamação.
-As citocinas, como a interleucina-seis.
-E o cérebro escuta esses mensageiros.
-É por isso que, gripado, você fica sem energia e sem vontade de nada.
-No cérebro daqueles camundongos, o hipocampo estava inflamado.
-Pronto. A boca deprime.
+A gengiva inflamada libera na circulação os mediadores da inflamação — as citocinas, como a interleucina-6.
+E o cérebro responde a esses mediadores — é por isso que, gripado, você fica sem energia e sem vontade de nada: o comportamento de doença.
+No hipocampo daqueles camundongos, havia neuroinflamação.
+Pronto.
+A boca deprime.
 Caso resolvido.
 
 Só que não.
-
 Camundongo não é gente.
-Quando uma metanálise juntou os estudos em pessoas, quem tinha doença periodontal não teve mais depressão de forma significativa.
-O aumento ficou em sete por cento.
-Dentro da margem do acaso.
+Quando uma metanálise juntou os estudos em humanos, a doença periodontal não aumentou de forma significativa o risco de depressão.
+O aumento de risco ficou em sete por cento — sem significância estatística.
 
-Então a inflamação não mexe com o humor?
-Mexe.
-E isso já foi provado em gente.
+Então a inflamação não interfere no humor?
+Interfere.
+E isso já foi demonstrado em humanos.
 
-Durante anos, a hepatite C foi tratada com interferon-alfa.
-Uma injeção que imita o sinal de alarme de uma infecção.
-E os médicos notaram um efeito colateral estranho:
-um em cada quatro pacientes desenvolvia depressão maior.
+Durante anos, a hepatite C foi tratada com interferon-alfa — uma injeção que imita o sinal de alarme de uma infecção.
+E os médicos notaram um efeito adverso inesperado: um em cada quatro pacientes desenvolvia depressão maior.
 Em dois mil e nove, em Londres, pesquisadores testaram isso de propósito.
-Dezesseis voluntários saudáveis tomaram vacina de febre tifoide ou placebo, sem saber qual.
-Com a vacina, a interleucina-seis subiu.
-E em três horas, o humor caiu.
-A ressonância mostrou mais atividade numa região ligada à depressão: o cíngulo subgenual.
+Dezesseis voluntários saudáveis receberam vacina de febre tifoide ou placebo, de forma cega.
+Com a vacina, a interleucina-6 subiu — e em três horas o humor caiu.
+A ressonância funcional mostrou mais atividade numa região ligada à depressão: o cíngulo subgenual.
 
 Portanto, a inflamação é uma das portas de entrada da depressão.
-E não é uma porta rara.
-Um em cada quatro pacientes deprimidos tem inflamação de baixo grau no sangue.
-Proteína C-reativa acima de três.
+E não é uma porta rara: um em cada quatro pacientes deprimidos tem inflamação sistêmica de baixo grau — proteína C-reativa acima de três miligramas por litro.
 Mas a periodontite produz inflamação suficiente para abrir essa porta?
 Ninguém mostrou ainda.
-E não encontramos nenhum ensaio que tenha testado se tratar a gengiva melhora a depressão.
+E não encontramos nenhum ensaio clínico que tenha testado se o tratamento periodontal melhora a depressão.
 
 E se o problema é inflamação, a tentação na cadeira é o anti-inflamatório.
 Cuidado.
-O antidepressivo, sozinho, quase não faz a extração sangrar.
-O problema é o anti-inflamatório que a gente prescreve depois.
-Junto com um antidepressivo do tipo ISRS, o risco de sangramento no estômago fica quatro vezes maior.
+O antidepressivo, sozinho, quase não aumenta o sangramento na exodontia.
+O problema é o anti-inflamatório não esteroidal que a gente prescreve depois.
+Junto com um ISRS — inibidor seletivo da recaptação de serotonina —, o risco de hemorragia digestiva alta fica quatro vezes maior.
 
-Inflamação mudando o humor: provado.
+Inflamação alterando o humor: demonstrado.
 A gengiva causando depressão: ainda não.
 
-Trate a periodontite pelo que ela é.
-E não prometa melhora do humor.
+Trate a periodontite pelo que ela é — e não prometa melhora do humor.
 Mas pergunte.
-Duas perguntas bastam.
-Nas últimas duas semanas, você se sentiu para baixo?
+Duas perguntas bastam: nas últimas duas semanas, você se sentiu para baixo?
 Perdeu o prazer nas coisas?
-É o PHQ-dois, um rastreio de dois itens.
-Pontuou alto? Médico.
-Falou em não querer viver? No mesmo dia.
+É o PHQ-2, um instrumento de rastreio de dois itens.
+Rastreio positivo?
+Encaminhe ao médico.
+Ideação suicida?
+Encaminhamento no mesmo dia.
 CVV, cento e oitenta e oito.
-E em quem toma antidepressivo, prefira o paracetamol ao anti-inflamatório.
+E em quem usa antidepressivo, prefira paracetamol ao AINE.
 
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.
 Entre a odontologia e a medicina, nós.
 
 Em outro episódio:
-se quase toda a serotonina do corpo é produzida no intestino...
+se quase toda a serotonina do corpo é produzida no intestino…
 por que a depressão é tratada no cérebro?
 ```

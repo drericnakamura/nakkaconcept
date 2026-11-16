@@ -1,7 +1,7 @@
 # Por que pessoas com depressão têm bactérias diferentes na boca?
 
 **Selo:** ASSOCIAÇÃO — depressão e boca andam juntas; o caminho mais provável passa pelo terreno que a depressão cria, não por uma "bactéria da tristeza"
-**Duração:** ~2 min 52 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 50 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que acompanha pacientes por anos; psiquiatra, clínico e médico de família
 **Cavalo de troia:** o espectador entra pela curiosidade microbiológica. Sai sabendo que a boca funciona como um diário do comportamento, que depressão se associa a mais cárie, periodontite e perda dentária, que o paciente deprimido responde pior à raspagem e como ajustar o plano de cuidado.
 **Em outro episódio (gancho):** "Por que pacientes com depressão podem apresentar sangramento gengival mesmo sem escovar menos os dentes?"
@@ -21,9 +21,9 @@ Por que pessoas com depressão têm bactérias diferentes na boca?
 
 Em 2021, pesquisadores sequenciaram a saliva de jovens com e sem depressão.
 
-Quarenta tipos de bactéria apareciam em quantidade diferente.
+Quarenta tipos de bactéria apareciam em abundância diferente.
 
-Nos Estados Unidos, em mais de seis mil pessoas, quanto menos variada a comunidade de bactérias da boca, mais depressão.
+Nos Estados Unidos, em mais de seis mil pessoas, quanto menor a diversidade do microbioma oral, maior a chance de depressão.
 
 > 🎬 Primeira página da *Scientific Reports* 2021. Lettering: **Irlanda do Norte · 40 jovens com depressão × 43 sem**. Barras de bactérias subindo e descendo: **21 ↑ · 19 ↓**. Mapa dos EUA: **6.212 pessoas**. Lettering: **MICROBIOMA ORAL — a comunidade de bactérias da boca**.
 
@@ -41,21 +41,21 @@ Pronto. Caso resolvido.
 
 Só que não.
 
-Uma comunidade de bactérias não muda sozinha.
+Um microbioma não muda sozinho.
 
-Ela muda quando muda o lugar onde ela vive.
+Ele muda quando muda o ambiente onde vive.
 
-Na boca, esse lugar é feito de três coisas: a escova que passa, o açúcar que chega e a defesa da gengiva.
+Na boca, esse ambiente depende de três fatores: a higiene, o açúcar da dieta e a resposta imune da gengiva.
 
-Mexeu numa delas, outras bactérias levam vantagem — o que chamamos de hipótese ecológica da placa.
+Mexeu num deles, outras bactérias levam vantagem — é a hipótese ecológica da placa.
 
-E a depressão mexe nas três.
+E a depressão mexe nos três.
 
-> 🎬 O carimbo rasga. A placa de Petri vira uma paisagem — um ecossistema — com três controles deslizantes: **ESCOVA · AÇÚCAR · DEFESA**. A cada controle que se move, a paisagem muda de cor. Lettering: **HIPÓTESE ECOLÓGICA DA PLACA** (Marsh, 1994).
+> 🎬 O carimbo rasga. A placa de Petri vira uma paisagem — um ecossistema — com três controles deslizantes: **HIGIENE · AÇÚCAR · RESPOSTA IMUNE**. A cada controle que se move, a paisagem muda de cor. Lettering: **HIPÓTESE ECOLÓGICA DA PLACA** (Marsh, 1994).
 
 **[A CURIOSIDADE]**
 
-Na Primeira Guerra Mundial, uma doença de gengiva ficou tão comum entre os soldados que ganhou o apelido de boca de trincheira.
+Na Primeira Guerra Mundial, uma doença periodontal ficou tão comum entre os soldados que ganhou o apelido de boca de trincheira.
 
 O nome técnico é gengivite ulcerativa necrosante.
 
@@ -65,9 +65,9 @@ O que eles tinham em comum?
 
 Não era uma bactéria nova.
 
-Era estresse, cansaço, cigarro, comida ruim e pouca higiene.
+Era estresse, privação de sono, tabagismo, desnutrição e higiene precária.
 
-As bactérias já moravam ali. O que mudou foi o dono da boca.
+As bactérias já moravam ali. O que mudou foi o hospedeiro — o dono da boca.
 
 > 🎬 Foto de arquivo de trincheira da Primeira Guerra, em sépia. Lettering: **GENGIVITE ULCERATIVA NECROSANTE**. Corte para um alojamento militar e um campus universitário. Cinco ícones entram em fila: relógio, bateria vazia, cigarro, prato, escova parada.
 
@@ -83,13 +83,13 @@ Não é "que bactéria a depressão traz".
 
 **[O TERRENO]**
 
-A escova: a energia some, e escovar fica para depois.
+A higiene: a energia some, e a escovação fica para depois.
 
-O açúcar: em quase dezoito mil adolescentes, parte da ligação entre depressão e cárie passou pelo açúcar e pela escova.
+O açúcar: em quase dezoito mil adolescentes, parte da associação entre depressão e cárie foi mediada pelo açúcar e pela escovação.
 
-A defesa: o cigarro entra — e cigarro e depressão se puxam nos dois sentidos.
+A resposta imune: entra o tabagismo — e tabagismo e depressão se retroalimentam.
 
-E o estresse crônico pesa sobre ela: em mais de mil e quatrocentos adultos, aperto financeiro sem estratégia para enfrentar se associou a mais perda de osso ao redor dos dentes.
+E o estresse crônico pesa sobre ela: em mais de mil e quatrocentos adultos, estresse financeiro com enfrentamento inadequado se associou a mais perda óssea alveolar.
 
 > 🎬 Quatro quadros, um por linha: escova parada no copo (**+37% de chance de escovar menos**); doces se acumulando; cigarro com setas nos dois sentidos para uma nuvem cinza; boleto com radiografia de perda óssea. Lettering no último: **ENFRENTAMENTO — a forma de lidar com o problema**.
 
@@ -99,7 +99,7 @@ Então as bactérias diferentes são só consequência?
 
 Em boa parte, provavelmente.
 
-Mas é uma consequência que cobra preço: quem tem depressão tem cerca de trinta por cento mais periodontite, mais cárie e mais perda de todos os dentes.
+Mas é uma consequência que cobra preço: a depressão se associa a cerca de trinta por cento mais periodontite, mais cárie e mais edentulismo.
 
 > 🎬 Três barras lado a lado: periodontite **+30%** · cárie **+32%** · edentulismo **+26%**. Lettering: **EDENTULISMO — perder todos os dentes**.
 
@@ -107,11 +107,11 @@ Mas é uma consequência que cobra preço: quem tem depressão tem cerca de trin
 
 Pouca gente sabe:
 
-pacientes sob estresse crônico respondem pior à raspagem.
+pacientes sob estresse crônico respondem pior à raspagem e alisamento radicular.
 
 Mesma técnica.
 
-E quase oito décimos de milímetro a menos de ganho de inserção.
+E quase oito décimos de milímetro a menos de ganho de inserção clínica.
 
 > 🎬 Duas sondas periodontais lado a lado, antes e depois. Uma recua menos. **−0,78 mm**. Lettering: **NÍVEL DE INSERÇÃO CLÍNICA**.
 
@@ -129,11 +129,11 @@ Higiene que piorou de repente não é preguiça. Pode ser sintoma.
 
 Pergunte pelo humor: nas últimas duas semanas, se sentiu para baixo? Perdeu o prazer nas coisas?
 
-Sim às duas? Médico.
+Sim às duas? Encaminhe ao médico.
 
-Falou em não querer viver? Hoje. CVV, cento e oitenta e oito.
+Ideação suicida? Encaminhamento hoje. CVV, cento e oitenta e oito.
 
-E adapte o plano: retornos mais curtos, rotina mais simples, menos açúcar.
+E adapte o plano: manutenção periodontal mais frequente, rotina de higiene simplificada, menos açúcar.
 
 > 🎬 Lista com as letras da ROTA no canto. Escova com um ponto de interrogação vira um balão de conversa. Cartão de alerta: **CVV 188 · SAMU 192**. Calendário com retornos mais próximos.
 
@@ -159,7 +159,7 @@ mesmo sem escovar menos os dentes?
 
 ---
 
-**Narração:** cerca de 480 palavras, perto de 2 min 52 s, com as pausas das quebras.
+**Narração:** cerca de 480 palavras, perto de 2 min 50 s, com as pausas das quebras.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (só a Irlanda do Norte), MICROEPIFANIA, QUEBRA, CURIOSIDADE (condensada: "boca de trincheira — as bactérias já moravam ali; o que mudou foi o dono da boca"), VIRADA, SELO, FRASE e GANCHO. Mover O TERRENO, O QUESTIONAMENTO, O QUE NINGUÉM TE CONTOU e O QUE MUDA AMANHÃ para a legenda e o carrossel.
 
@@ -251,16 +251,16 @@ mesmo sem escovar menos os dentes?
 
 > Por que pessoas com depressão têm bactérias diferentes na boca?
 >
-> Em jovens com depressão, 40 tipos de bactéria apareceram em quantidade diferente na saliva. Em mais de 6 mil adultos, menos variedade de bactérias se associou a mais depressão. Um exame de saliva para depressão? Ainda não.
+> Em jovens com depressão, 40 tipos de bactéria apareceram em abundância diferente na saliva. Em mais de 6 mil adultos, menor diversidade do microbioma oral se associou a mais depressão. Um exame de saliva para depressão? Ainda não.
 >
-> Uma comunidade de bactérias muda quando muda o lugar onde ela vive. E a depressão muda tudo: escova, comida, cigarro, estresse. Na Primeira Guerra, a "boca de trincheira" mostrou isso — as bactérias já moravam ali; o que mudou foi o dono da boca.
+> Um microbioma muda quando muda o ambiente onde vive. E a depressão muda tudo: higiene, dieta, tabagismo, estresse. Na Primeira Guerra, a "boca de trincheira" mostrou isso — as bactérias já moravam ali; o que mudou foi o dono da boca.
 >
-> O preço é real: depressão se associa a ~30% mais periodontite, mais cárie e mais perda de todos os dentes. E paciente sob estresse responde pior à raspagem.
+> O preço é real: depressão se associa a ~30% mais periodontite, mais cárie e mais edentulismo. E paciente sob estresse crônico responde pior à raspagem e alisamento radicular.
 >
 > 🪥 Higiene que piorou de repente não é preguiça. Pode ser sintoma
 > 🗣️ Duas perguntas: nas últimas 2 semanas, se sentiu para baixo? Perdeu o prazer nas coisas?
-> 🚨 Fala de não querer viver → hoje. CVV 188 · SAMU 192
-> 📅 Retornos mais curtos, rotina mais simples, menos açúcar
+> 🚨 Ideação suicida → encaminhamento hoje. CVV 188 · SAMU 192
+> 📅 Manutenção periodontal mais frequente, rotina de higiene simplificada, menos açúcar
 >
 > A boca faz parte da saúde do paciente. Mas a saúde do paciente não termina na boca.
 >
@@ -349,73 +349,67 @@ Só a narração, sem rótulos nem indicações de cena. Números por extenso, u
 Por que pessoas com depressão têm bactérias diferentes na boca?
 
 Em dois mil e vinte e um, pesquisadores sequenciaram a saliva de jovens com e sem depressão.
-Quarenta tipos de bactéria apareciam em quantidade diferente.
-Nos Estados Unidos, em mais de seis mil pessoas, quanto menos variada a comunidade de bactérias da boca, mais depressão.
+Quarenta tipos de bactéria apareciam em abundância diferente.
+Nos Estados Unidos, em mais de seis mil pessoas, quanto menor a diversidade do microbioma oral, maior a chance de depressão.
 
 Então a depressão deixa uma assinatura na boca.
 Um dia, um exame de saliva vai diagnosticar depressão.
-Pronto. Caso resolvido.
+Pronto.
+Caso resolvido.
 
 Só que não.
+Um microbioma não muda sozinho.
+Ele muda quando muda o ambiente onde vive.
+Na boca, esse ambiente depende de três fatores: a higiene, o açúcar da dieta e a resposta imune da gengiva.
+Mexeu num deles, outras bactérias levam vantagem — é a hipótese ecológica da placa.
+E a depressão mexe nos três.
 
-Uma comunidade de bactérias não muda sozinha.
-Ela muda quando muda o lugar onde ela vive.
-Na boca, esse lugar é feito de três coisas:
-a escova que passa, o açúcar que chega e a defesa da gengiva.
-Mexeu numa delas, outras bactérias levam vantagem.
-O que chamamos de hipótese ecológica da placa.
-E a depressão mexe nas três.
-
-Na Primeira Guerra Mundial, uma doença de gengiva ficou tão comum entre os soldados que ganhou o apelido de boca de trincheira.
+Na Primeira Guerra Mundial, uma doença periodontal ficou tão comum entre os soldados que ganhou o apelido de boca de trincheira.
 O nome técnico é gengivite ulcerativa necrosante.
-Décadas depois, reapareceu em recrutas e universitários.
-Jovens no auge da saúde.
+Décadas depois, reapareceu em recrutas e universitários — jovens no auge da saúde.
 O que eles tinham em comum?
 Não era uma bactéria nova.
-Era estresse, cansaço, cigarro, comida ruim e pouca higiene.
+Era estresse, privação de sono, tabagismo, desnutrição e higiene precária.
 As bactérias já moravam ali.
-O que mudou foi o dono da boca.
+O que mudou foi o hospedeiro — o dono da boca.
 
 Portanto, a pergunta muda.
-Não é que bactéria a depressão traz.
-É o que a depressão faz com a vida de quem tem.
+Não é "que bactéria a depressão traz".
+É "o que a depressão faz com a vida de quem tem".
 
-A escova: a energia some, e escovar fica para depois.
-O açúcar: em quase dezoito mil adolescentes, parte da ligação entre depressão e cárie passou pelo açúcar e pela escova.
-A defesa: o cigarro entra.
-E cigarro e depressão se puxam nos dois sentidos.
-E o estresse crônico pesa sobre ela.
-Em mais de mil e quatrocentos adultos, aperto financeiro sem estratégia para enfrentar se associou a mais perda de osso ao redor dos dentes.
+A higiene: a energia some, e a escovação fica para depois.
+O açúcar: em quase dezoito mil adolescentes, parte da associação entre depressão e cárie foi mediada pelo açúcar e pela escovação.
+A resposta imune: entra o tabagismo — e tabagismo e depressão se retroalimentam.
+E o estresse crônico pesa sobre ela: em mais de mil e quatrocentos adultos, estresse financeiro com enfrentamento inadequado se associou a mais perda óssea alveolar.
 
 Então as bactérias diferentes são só consequência?
 Em boa parte, provavelmente.
-Mas é uma consequência que cobra preço.
-Quem tem depressão tem cerca de trinta por cento mais periodontite, mais cárie e mais perda de todos os dentes.
+Mas é uma consequência que cobra preço: a depressão se associa a cerca de trinta por cento mais periodontite, mais cárie e mais edentulismo.
 
 Pouca gente sabe:
-pacientes sob estresse crônico respondem pior à raspagem.
+pacientes sob estresse crônico respondem pior à raspagem e alisamento radicular.
 Mesma técnica.
-E quase oito décimos de milímetro a menos de ganho de inserção.
+E quase oito décimos de milímetro a menos de ganho de inserção clínica.
 
 Depressão e boca andam juntas.
-O caminho mais provável passa pelo comportamento.
-Não por uma bactéria da tristeza.
+O caminho mais provável passa pelo comportamento — não por uma bactéria da tristeza.
 
 Higiene que piorou de repente não é preguiça.
 Pode ser sintoma.
-Pergunte pelo humor.
-Nas últimas duas semanas, se sentiu para baixo?
+Pergunte pelo humor: nas últimas duas semanas, se sentiu para baixo?
 Perdeu o prazer nas coisas?
-Sim às duas? Médico.
-Falou em não querer viver? Hoje.
+Sim às duas?
+Encaminhe ao médico.
+Ideação suicida?
+Encaminhamento hoje.
 CVV, cento e oitenta e oito.
-E adapte o plano: retornos mais curtos, rotina mais simples, menos açúcar.
+E adapte o plano: manutenção periodontal mais frequente, rotina de higiene simplificada, menos açúcar.
 
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.
 Entre a odontologia e a medicina, nós.
 
 Em outro episódio:
-por que pacientes com depressão podem ter sangramento gengival...
+por que pacientes com depressão podem ter sangramento gengival…
 mesmo sem escovar menos os dentes?
 ```

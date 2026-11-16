@@ -3,7 +3,7 @@
 *Série: Suíça — Descobertas que mudaram a odontologia*
 
 **Selo:** ESTABELECIDO — como sinal clínico: o sangramento à sondagem define gengivite na classificação de 2017, e a ausência dele prevê estabilidade. Sozinho, o sangramento prevê mal quem vai piorar.
-**Duração:** ~2 min 45 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 54 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista clínico e periodontista; médico que recebe o paciente com "gengiva que sangra" (clínico, hematologista, quem prescreve anticoagulante)
 **Cavalo de troia:** o espectador entra por um artigo suíço de 1971. Sai sabendo medir e ler o sangramento à sondagem, por que a falta de sangramento é a melhor notícia da periodontia, por que o fumante engana o teste e quando o sangramento é assunto do médico.
 **Em outro episódio (gancho):** por que a escova elétrica moderna começou como uma solução para pessoas com dificuldade motora.
@@ -30,13 +30,13 @@ Hans Mühlemann — o professor suíço ligado a um creme dental com flúor que 
 
 **[A MICROEPIFANIA]**
 
-Até ali, gengivite se diagnosticava com o olho: vermelhidão, inchaço.
+Até ali, gengivite se diagnosticava na inspeção visual: eritema, edema.
 
 Mühlemann propôs outra coisa.
 
 Passar a sonda com delicadeza no sulco — o espaço raso entre o dente e a gengiva — e esperar.
 
-Se sangrou, tem inflamação. Mesmo quando a gengiva ainda parece normal.
+Sangrou à sondagem, tem inflamação. Mesmo com a gengiva clinicamente normal.
 
 O sangue chega antes da cor.
 
@@ -48,7 +48,7 @@ Por quê?
 
 Porque a inflamação começa por baixo, no fundo do sulco, onde o olho não alcança.
 
-Biópsias mostraram: o ponto que sangra tem o tecido conjuntivo cheio de células de defesa e pobre em colágeno.
+Biópsias mostraram: o sítio que sangra tem o tecido conjuntivo com infiltrado inflamatório e pobre em colágeno.
 
 A superfície ainda está bonita. O andar de baixo, não.
 
@@ -64,13 +64,13 @@ Pronto. Sangrou, é placa. Basta olhar a placa.
 
 Só que não.
 
-Na Itália, noventa e seis voluntários pararam de limpar uma parte da boca por vinte e um dias.
+Na Itália, noventa e seis voluntários suspenderam a higiene de uma parte da boca por vinte e um dias: o modelo de gengivite experimental.
 
-Mesma quantidade de placa.
+Mesmo acúmulo de biofilme.
 
-E gengivas que inflamaram de forma completamente diferente.
+E respostas inflamatórias completamente diferentes.
 
-Medir a placa diz quanto biofilme tem. Medir o sangramento diz como aquele corpo responde a ele.
+Medir a placa diz quanto biofilme tem. Medir o sangramento diz como aquele hospedeiro responde a ele.
 
 > 🎬 O carimbo rasga. Duas bocas lado a lado com a mesma placa evidenciada; uma acende muito mais vermelho. Lettering: **ALTO RESPONDEDOR · BAIXO RESPONDEDOR**.
 
@@ -80,23 +80,23 @@ Então sangrou, vai piorar?
 
 Também não.
 
-Berna, 1990. Niklaus Lang acompanhou pacientes tratados por dois anos e meio.
+Berna, 1990. Niklaus Lang acompanhou pacientes em manutenção periodontal por dois anos e meio.
 
-Dos pontos que sangravam com frequência, só seis por cento perderam inserção.
+Dos sítios que sangravam com frequência, só seis por cento tiveram perda de inserção.
 
 Dos que não sangravam, noventa e oito por cento ficaram estáveis.
 
-O sangramento é um alarme sensível demais.
+Ou seja: valor preditivo positivo baixo.
 
-A melhor notícia da periodontia é a falta dele.
+Mas a ausência dele, valor preditivo negativo alto, é a melhor notícia da periodontia.
 
-> 🎬 Dois contadores: **6%** pioraram (sangrava) · **98%** estáveis (não sangrava). Lettering: **AUSÊNCIA DE SANGRAMENTO**.
+> 🎬 Dois contadores: **6%** pioraram (sangrava) · **98%** estáveis (não sangrava). Lettering: **AUSÊNCIA DE SANGRAMENTO** · **VPP baixo, VPN alto**.
 
 **[O PORTANTO]**
 
-Portanto, quando a classificação mundial de 2017 precisou definir gengivite, escolheu o sangue.
+Portanto, quando a classificação mundial de 2017 precisou definir gengivite, escolheu o sangramento à sondagem.
 
-Dez por cento dos pontos sangrando, ou mais: gengivite. Acima de trinta por cento: generalizada.
+Dez por cento ou mais dos sítios com sangramento: gengivite. Acima de trinta por cento: generalizada.
 
 A doença passou a ser definida pela resposta do tecido.
 
@@ -108,7 +108,7 @@ E tem um paciente que engana esse teste.
 
 O fumante.
 
-Num levantamento com mais de doze mil americanos, quem fumava mais de dez cigarros por dia tinha uma chance quarenta e quatro por cento menor de sangrar num ponto saudável.
+Num levantamento com mais de doze mil americanos, quem fumava mais de dez cigarros por dia tinha uma chance quarenta e quatro por cento menor de sangrar num sítio saudável.
 
 O cigarro não cura a gengiva. Esconde a inflamação.
 
@@ -118,17 +118,17 @@ O cigarro não cura a gengiva. Esconde a inflamação.
 
 O sangramento é o melhor sinal que temos de inflamação gengival.
 
-Mas, sozinho, prevê mal quem vai perder osso.
+Mas, sozinho, prevê mal quem vai ter perda de inserção.
 
 > 🎬 Selo **ESTABELECIDO — COMO SINAL** entra no canto.
 
 **[O QUE MUDA AMANHÃ]**
 
-Anote a porcentagem de sangramento em toda consulta — e mostre o número caindo para o paciente.
+Registre o percentual de sangramento à sondagem em toda consulta — e mostre o número caindo para o paciente.
 
 Gengiva que não sangra em fumante não é gengiva saudável.
 
-Sangramento desproporcional à placa, com manchas roxas na pele ou cansaço? Hemograma — e médico.
+Sangramento desproporcional à placa, com equimoses ou fadiga? Hemograma — e médico.
 
 E para o paciente: sangrar não é sinal de que escovou forte demais. É sinal de inflamação. A escova e o fio são o tratamento.
 
@@ -154,7 +154,7 @@ por que a escova elétrica moderna começou como uma solução para pessoas com 
 
 ---
 
-**Narração:** cerca de 460 palavras, perto de 2 min 45 s, com as pausas das quebras.
+**Narração:** cerca de 490 palavras, perto de 2 min 54 s, com as pausas das quebras.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (sem o aposto do creme dental), MICROEPIFANIA, QUEBRA (só "mesma placa, gengivas diferentes"), QUESTIONAMENTO, O QUE NINGUÉM TE CONTOU, FRASE e GANCHO. A SEGUNDA MICROEPIFANIA e o PORTANTO vão para o carrossel.
 
@@ -342,16 +342,16 @@ Zurique, mil novecentos e setenta e um.
 Hans Mühlemann, o professor suíço ligado a um creme dental com flúor que talvez esteja no seu banheiro, publica, com o colega Son, um artigo de título curioso:
 Sangramento do sulco gengival: o sintoma-guia da gengivite inicial.
 
-Até ali, gengivite se diagnosticava com o olho: vermelhidão, inchaço.
+Até ali, gengivite se diagnosticava na inspeção visual: eritema, edema.
 Mühlemann propôs outra coisa.
 Passar a sonda com delicadeza no sulco, o espaço raso entre o dente e a gengiva, e esperar.
-Se sangrou, tem inflamação.
-Mesmo quando a gengiva ainda parece normal.
+Sangrou à sondagem, tem inflamação.
+Mesmo com a gengiva clinicamente normal.
 O sangue chega antes da cor.
 
 Por quê?
 Porque a inflamação começa por baixo, no fundo do sulco, onde o olho não alcança.
-Biópsias mostraram: o ponto que sangra tem o tecido conjuntivo cheio de células de defesa e pobre em colágeno.
+Biópsias mostraram: o sítio que sangra tem o tecido conjuntivo com infiltrado inflamatório e pobre em colágeno.
 A superfície ainda está bonita.
 O andar de baixo, não.
 
@@ -360,38 +360,38 @@ Basta olhar a placa.
 
 Só que não.
 
-Na Itália, noventa e seis voluntários pararam de limpar uma parte da boca por vinte e um dias.
-Mesma quantidade de placa.
-E gengivas que inflamaram de forma completamente diferente.
+Na Itália, noventa e seis voluntários suspenderam a higiene de uma parte da boca por vinte e um dias: o modelo de gengivite experimental.
+Mesmo acúmulo de biofilme.
+E respostas inflamatórias completamente diferentes.
 Medir a placa diz quanto biofilme tem.
-Medir o sangramento diz como aquele corpo responde a ele.
+Medir o sangramento diz como aquele hospedeiro responde a ele.
 
 Então sangrou, vai piorar?
 Também não.
 Berna, mil novecentos e noventa.
-Niklaus Lang acompanhou pacientes tratados por dois anos e meio.
-Dos pontos que sangravam com frequência, só seis por cento perderam inserção.
+Niklaus Lang acompanhou pacientes em manutenção periodontal por dois anos e meio.
+Dos sítios que sangravam com frequência, só seis por cento tiveram perda de inserção.
 Dos que não sangravam, noventa e oito por cento ficaram estáveis.
-O sangramento é um alarme sensível demais.
-A melhor notícia da periodontia é a falta dele.
+Ou seja: valor preditivo positivo baixo.
+Mas a ausência dele, valor preditivo negativo alto, é a melhor notícia da periodontia.
 
-Portanto, quando a classificação mundial de dois mil e dezessete precisou definir gengivite, escolheu o sangue.
-Dez por cento dos pontos sangrando, ou mais: gengivite.
+Portanto, quando a classificação mundial de dois mil e dezessete precisou definir gengivite, escolheu o sangramento à sondagem.
+Dez por cento ou mais dos sítios com sangramento: gengivite.
 Acima de trinta por cento: generalizada.
 A doença passou a ser definida pela resposta do tecido.
 
 E tem um paciente que engana esse teste.
 O fumante.
-Num levantamento com mais de doze mil americanos, quem fumava mais de dez cigarros por dia tinha uma chance quarenta e quatro por cento menor de sangrar num ponto saudável.
+Num levantamento com mais de doze mil americanos, quem fumava mais de dez cigarros por dia tinha uma chance quarenta e quatro por cento menor de sangrar num sítio saudável.
 O cigarro não cura a gengiva.
 Esconde a inflamação.
 
 O sangramento é o melhor sinal que temos de inflamação gengival.
-Mas, sozinho, prevê mal quem vai perder osso.
+Mas, sozinho, prevê mal quem vai ter perda de inserção.
 
-Anote a porcentagem de sangramento em toda consulta, e mostre o número caindo para o paciente.
+Registre o percentual de sangramento à sondagem em toda consulta, e mostre o número caindo para o paciente.
 Gengiva que não sangra em fumante não é gengiva saudável.
-Sangramento desproporcional à placa, com manchas roxas na pele ou cansaço?
+Sangramento desproporcional à placa, com equimoses ou fadiga?
 Hemograma, e médico.
 E para o paciente: sangrar não é sinal de que escovou forte demais.
 É sinal de inflamação.

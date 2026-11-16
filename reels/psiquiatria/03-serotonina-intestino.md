@@ -1,7 +1,7 @@
 # A serotonina mora no intestino. Por que a depressão é tratada no cérebro?
 
 **Selo:** HIPÓTESE — para a "falta de serotonina" como causa da depressão · ESTABELECIDO — para a eficácia dos antidepressivos e para a separação entre a serotonina do intestino e a do cérebro
-**Duração:** ~2 min 50 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 52 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que atende paciente em uso de antidepressivo; médico que prescreve ISRS
 **Cavalo de troia:** o espectador entra por uma curiosidade de fisiologia. Sai sabendo por que o antidepressivo mexe com as plaquetas, o que isso muda na extração e na escolha do analgésico, e por que "desequilíbrio químico" é uma explicação simplista.
 **Em outro episódio (gancho):** por que pacientes com depressão podem ter sangramento gengival mesmo sem escovar menos os dentes?
@@ -31,9 +31,9 @@ Quem fabrica são as células enterocromafins, sensores na parede do intestino.
 
 A serotonina foi descoberta duas vezes.
 
-Em 1937, o italiano Vittorio Erspamer achou no intestino uma substância e chamou de enteramina.
+Em 1937, o italiano Vittorio Erspamer isolou no intestino uma substância e chamou de enteramina.
 
-Em 1948, americanos acharam no sangue uma substância que contraía os vasos: serotonina — soro mais tônus.
+Em 1948, americanos isolaram no sangue uma substância vasoconstritora: serotonina — soro mais tônus.
 
 Só depois perceberam que era a mesma molécula.
 
@@ -59,7 +59,7 @@ Entre o sangue e o cérebro existe um filtro — a barreira hematoencefálica.
 
 E a serotonina não atravessa esse filtro com facilidade.
 
-São duas fábricas, com enzimas diferentes: uma no intestino, outra no tronco cerebral.
+São duas sínteses independentes, com enzimas diferentes: uma no intestino, outra nos núcleos da rafe, no tronco cerebral.
 
 Dois estoques que não se misturam.
 
@@ -71,7 +71,7 @@ A serotonina do intestino não é a serotonina do humor.
 
 E para onde vai a serotonina do intestino?
 
-Boa parte vai parar dentro das plaquetas — as células que fecham o sangramento.
+Boa parte é captada pelas plaquetas — as células da hemostasia primária.
 
 Guarde essa informação.
 
@@ -81,13 +81,13 @@ Guarde essa informação.
 
 Então a depressão é falta de serotonina no cérebro, certo? O famoso desequilíbrio químico.
 
-Em 2022, uma grande revisão não achou evidência consistente de que a depressão seja causada por serotonina baixa.
+Em 2022, uma revisão guarda-chuva não achou evidência consistente de que a depressão seja causada por serotonina baixa.
 
 Então o antidepressivo é placebo?
 
 Também não.
 
-Numa metanálise com mais de cem mil pacientes, os 21 antidepressivos testados funcionaram melhor que o placebo.
+Numa metanálise em rede com mais de cem mil pacientes, os 21 antidepressivos testados foram superiores ao placebo.
 
 > 🎬 Manchete "DESEQUILÍBRIO QUÍMICO" se rachando. Depois, gráfico de floresta com 21 barras, todas do lado do remédio. Rodapé: "Mol Psychiatry 2022 (17 revisões e grandes estudos) · Lancet 2018 (522 ensaios)".
 
@@ -107,7 +107,7 @@ Porque ele não enche um tanque vazio. Ele muda, aos poucos, a forma como o cér
 
 Portanto, a depressão é tratada no cérebro porque a serotonina do humor é fabricada no cérebro.
 
-O intestino conversa com o cérebro. Mas não mandando serotonina pelo sangue.
+O eixo intestino-cérebro existe. Mas não passa por serotonina circulando no sangue.
 
 > 🎬 Eixo intestino–cérebro desenhado com nervos e sinais; a serotonina do intestino fica parada do lado de fora do muro.
 
@@ -115,11 +115,11 @@ O intestino conversa com o cérebro. Mas não mandando serotonina pelo sangue.
 
 Lembra das plaquetas?
 
-O antidepressivo bloqueia a recaptação — o reaproveitamento — de serotonina no cérebro — e também na plaqueta. Ela fica com menos serotonina e agrega pior.
+O antidepressivo bloqueia a recaptação — o reaproveitamento — de serotonina no cérebro — e também na plaqueta. Ela fica com menos serotonina, e a agregação plaquetária cai.
 
 Sozinho, o efeito é pequeno.
 
-Mas antidepressivo somado a anti-inflamatório multiplicou por quatro o risco de sangramento digestivo.
+Mas antidepressivo somado a anti-inflamatório não esteroidal multiplicou por quatro o risco de hemorragia digestiva.
 
 É aqui que o dentista entra.
 
@@ -135,11 +135,11 @@ A eficácia do antidepressivo é estabelecida.
 
 **[O QUE MUDA AMANHÃ]**
 
-Vai extrair? Não suspenda o antidepressivo: nos estudos, o sangramento na boca foi raro. Capriche na hemostasia local.
+Vai fazer exodontia? Não suspenda o antidepressivo: nos estudos, o sangramento pós-operatório foi raro. Capriche na hemostasia local.
 
-Anti-inflamatório? Só combinado com o médico.
+AINE? Só combinado com o médico.
 
-Tramadol junto com antidepressivo pode causar síndrome serotoninérgica — um excesso perigoso de serotonina.
+Tramadol associado a antidepressivo pode causar síndrome serotoninérgica — toxicidade por excesso de serotonina.
 
 > 🎬 Lista com as letras da ROTA no canto. Ícones: frasco de ISRS com ✓ "não suspender" · gaze e sutura · AINE com ⚠️ · tramadol + ISRS com ⚠️ · dente rangendo com calendário "3–4 semanas".
 
@@ -163,7 +163,7 @@ por que pacientes com depressão podem ter sangramento gengival mesmo sem escova
 
 ---
 
-**Narração:** cerca de 480 palavras, perto de 2 min 50 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
+**Narração:** cerca de 480 palavras, perto de 2 min 52 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (só "a maior parte está fora do cérebro" e "células enterocromafins"), MICROEPIFANIA, QUEBRA, QUESTIONAMENTO (sem o número de ensaios), O QUE NINGUÉM TE CONTOU, SELO, FRASE e GANCHO. A CURIOSIDADE vira uma linha de lettering ("descoberta no intestino em 1937, no cérebro só em 1953") e O QUE MUDA AMANHÃ vai para a legenda e o carrossel.
 
@@ -259,14 +259,14 @@ por que pacientes com depressão podem ter sangramento gengival mesmo sem escova
 >
 > Porque a serotonina do intestino não chega lá. Ela não atravessa bem a barreira hematoencefálica: o corpo tem duas fábricas, com enzimas diferentes, e dois estoques que não se misturam.
 >
-> E a teoria do "desequilíbrio químico"? Uma revisão de 2022 não achou evidência consistente de que a depressão seja causada por serotonina baixa. Mas o remédio funciona: 522 ensaios, 21 antidepressivos, todos melhores que o placebo. Ele não enche um tanque — ajuda o cérebro a se reorganizar, e por isso demora semanas.
+> E a teoria do "desequilíbrio químico"? Uma revisão de 2022 não achou evidência consistente de que a depressão seja causada por serotonina baixa. Mas o medicamento funciona: 522 ensaios, 21 antidepressivos, todos melhores que o placebo. Ele não enche um tanque — ajuda o cérebro a se reorganizar, e por isso demora semanas.
 >
 > E a parte que importa na cadeira: a serotonina do intestino vai para as plaquetas. O antidepressivo esvazia esse estoque.
 >
-> 🦷 Usa antidepressivo e vai extrair? Não suspenda. Hemostasia local.
-> 💊 Antidepressivo + anti-inflamatório: 4× mais sangramento digestivo
+> 🦷 Em uso de antidepressivo e vai fazer exodontia? Não suspenda. Hemostasia local.
+> 💊 Antidepressivo + AINE: 4× mais risco de hemorragia digestiva
 > ⚠️ Tramadol + antidepressivo: risco de síndrome serotoninérgica
-> 😬 Bruxismo novo nas primeiras semanas do remédio? Avise o psiquiatra
+> 😬 Bruxismo de início recente após iniciar o antidepressivo? Avise o psiquiatra
 >
 > A boca faz parte da saúde do paciente. Mas a saúde do paciente não termina na boca.
 >
@@ -355,64 +355,61 @@ A maior parte da serotonina do corpo está fora do cérebro.
 Quem fabrica são as células enterocromafins, sensores na parede do intestino.
 
 A serotonina foi descoberta duas vezes.
-Em mil novecentos e trinta e sete, o italiano Vittorio Erspamer achou no intestino uma substância e chamou de enteramina.
-Em mil novecentos e quarenta e oito, americanos acharam no sangue uma substância que contraía os vasos.
-Serotonina: soro mais tônus.
+Em mil novecentos e trinta e sete, o italiano Vittorio Erspamer isolou no intestino uma substância e chamou de enteramina.
+Em mil novecentos e quarenta e oito, americanos isolaram no sangue uma substância vasoconstritora: serotonina — soro mais tônus.
 Só depois perceberam que era a mesma molécula.
 E no cérebro?
 Só foi encontrada em mil novecentos e cinquenta e três.
 A molécula do humor nasceu como molécula do intestino e do vaso.
 
 Então é só cuidar do intestino que o humor melhora.
-Pronto. Caso resolvido.
+Pronto.
+Caso resolvido.
 
 Só que não.
-
-Entre o sangue e o cérebro existe um filtro: a barreira hematoencefálica.
+Entre o sangue e o cérebro existe um filtro — a barreira hematoencefálica.
 E a serotonina não atravessa esse filtro com facilidade.
-São duas fábricas, com enzimas diferentes.
-Uma no intestino, outra no tronco cerebral.
+São duas sínteses independentes, com enzimas diferentes: uma no intestino, outra nos núcleos da rafe, no tronco cerebral.
 Dois estoques que não se misturam.
 A serotonina do intestino não é a serotonina do humor.
 
 E para onde vai a serotonina do intestino?
-Boa parte vai parar dentro das plaquetas, as células que fecham o sangramento.
+Boa parte é captada pelas plaquetas — as células da hemostasia primária.
 Guarde essa informação.
 
 Então a depressão é falta de serotonina no cérebro, certo?
 O famoso desequilíbrio químico.
-Em dois mil e vinte e dois, uma grande revisão não achou evidência consistente de que a depressão seja causada por serotonina baixa.
+Em dois mil e vinte e dois, uma revisão guarda-chuva não achou evidência consistente de que a depressão seja causada por serotonina baixa.
 Então o antidepressivo é placebo?
 Também não.
-Numa metanálise com mais de cem mil pacientes,
-os vinte e um antidepressivos testados funcionaram melhor que o placebo.
+Numa metanálise em rede com mais de cem mil pacientes, os vinte e um antidepressivos testados foram superiores ao placebo.
 
 O detalhe que resolve o paradoxo é o tempo.
 O antidepressivo demora semanas para fazer efeito.
 Se fosse só repor serotonina, por que a demora?
 Porque ele não enche um tanque vazio.
-Ele muda, aos poucos, a forma como o cérebro processa emoção.
-O que chamamos de neuroplasticidade.
+Ele muda, aos poucos, a forma como o cérebro processa emoção — o que chamamos de neuroplasticidade.
 
 Portanto, a depressão é tratada no cérebro porque a serotonina do humor é fabricada no cérebro.
-O intestino conversa com o cérebro.
-Mas não mandando serotonina pelo sangue.
+O eixo intestino-cérebro existe.
+Mas não passa por serotonina circulando no sangue.
 
 Lembra das plaquetas?
-O antidepressivo bloqueia a recaptação — o reaproveitamento — de serotonina no cérebro, e também na plaqueta.
-Ela fica com menos serotonina e agrega pior.
+O antidepressivo bloqueia a recaptação — o reaproveitamento — de serotonina no cérebro — e também na plaqueta.
+Ela fica com menos serotonina, e a agregação plaquetária cai.
 Sozinho, o efeito é pequeno.
-Mas antidepressivo somado a anti-inflamatório multiplicou por quatro o risco de sangramento digestivo.
+Mas antidepressivo somado a anti-inflamatório não esteroidal multiplicou por quatro o risco de hemorragia digestiva.
 É aqui que o dentista entra.
 
-A teoria da falta de serotonina é uma hipótese.
+A teoria da "falta de serotonina" é uma hipótese.
 A eficácia do antidepressivo é estabelecida.
 
-Vai extrair?
-Não suspenda o antidepressivo: nos estudos, o sangramento na boca foi raro.
+Vai fazer exodontia?
+Não suspenda o antidepressivo: nos estudos, o sangramento pós-operatório foi raro.
 Capriche na hemostasia local.
-Anti-inflamatório? Só combinado com o médico.
-Tramadol junto com antidepressivo pode causar síndrome serotoninérgica — um excesso perigoso de serotonina.
+AINE?
+Só combinado com o médico.
+Tramadol associado a antidepressivo pode causar síndrome serotoninérgica — toxicidade por excesso de serotonina.
 
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.

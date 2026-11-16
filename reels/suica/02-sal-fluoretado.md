@@ -1,7 +1,7 @@
 # O que uma doença da tireoide tem a ver com a cárie?
 
 **Selo:** ESTABELECIDO — creme dental com pelo menos 1.000 ppm de flúor previne cárie (evidência alta a moderada) · o sal como veículo funciona, mas os estudos são de qualidade baixa
-**Duração:** ~2 min 50 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 52 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista, odontopediatra, pediatra e médico de família
 **Cavalo de troia:** o espectador entra pela história do bócio nos Alpes. Sai entendendo o que é um veículo de prevenção, por que o Brasil fluoreta a água e não o sal, o que é fluorose e qual concentração de flúor o creme dental precisa ter.
 **Em outro episódio (gancho):** por que a escova elétrica começou como solução para quem tinha dificuldade de mover as mãos ([03-escova-eletrica.md](03-escova-eletrica.md)).
@@ -14,13 +14,13 @@
 
 O que uma doença da tireoide tem a ver com a prevenção da cárie?
 
-> 🎬 Gravura antiga de um pescoço com bócio. Corte seco para um dente com cárie.
+> 🎬 Gravura antiga de um pescoço com bócio. Lettering: **BÓCIO ENDÊMICO — aumento da tireoide por falta de iodo**. Corte seco para um dente com cárie.
 
 **[A PISTA]**
 
 Suíça, começo do século vinte.
 
-Nos vales dos Alpes, o bócio — o aumento da tireoide — era comum. A causa: falta de iodo na alimentação.
+Nos vales dos Alpes, o bócio era endêmico. A causa: deficiência de iodo na dieta.
 
 Em 1922, um cirurgião de Herisau, Hans Eggenberger, consegue liberar o sal com iodo. Em um ano, já estava em dezessete cantões.
 
@@ -48,7 +48,7 @@ Pronto. Cárie resolvida com um saleiro.
 
 Só que não.
 
-A dose era baixa demais: noventa miligramas de flúor por quilo de sal. Protegia pouco.
+A concentração era baixa demais: noventa miligramas de flúor por quilo de sal. O efeito preventivo era pequeno.
 
 O sal com flúor passou quase trinta anos patinando.
 
@@ -72,9 +72,9 @@ Então por que o Brasil não coloca flúor no sal?
 
 Porque escolheu outro veículo.
 
-Desde 1974, a lei obriga a fluoretar a água onde existe estação de tratamento.
+Desde 1974, a lei obriga a fluoretação da água de abastecimento onde existe estação de tratamento.
 
-E com flúor, dose é tudo: na infância, o excesso mancha o esmalte. O que chamamos de fluorose.
+E com flúor, dose é tudo: na infância, o excesso causa fluorose dentária — manchas no esmalte.
 
 > 🎬 Torneira pingando. Lettering **LEI 6.050/1974**. Close de esmalte com manchas brancas e o lettering **FLUOROSE**.
 
@@ -82,7 +82,7 @@ E com flúor, dose é tudo: na infância, o excesso mancha o esmalte. O que cham
 
 Agora, o detalhe que muda a história.
 
-Quando a Cochrane separou os estudos de água fluoretada feitos depois de 1975, o efeito encolheu: cerca de um quarto de dente de leite cariado a menos por criança. E o intervalo inclui nenhum efeito.
+Quando a Cochrane separou os estudos de água fluoretada feitos depois de 1975, o efeito encolheu: cerca de um quarto de dente decíduo cariado a menos por criança. E o intervalo de confiança inclui ausência de efeito.
 
 Por quê?
 
@@ -96,13 +96,13 @@ A lição que a tireoide deu à odontologia não era sobre iodo, nem sobre sal.
 
 Era sobre veículo: a prevenção que funciona pega carona num hábito que já existe.
 
-Portanto, o veículo que está na sua mão é o tubo de pasta.
+Portanto, o veículo que está na sua mão é o creme dental fluoretado.
 
 > 🎬 Sal, água e pasta lado a lado. Os dois primeiros saem; a pasta fica.
 
 **[O SELO]**
 
-Aqui a ciência já testou: creme dental com pelo menos mil ppm de flúor previne cárie. O sal funciona, mas os estudos são fracos.
+Aqui a ciência já testou: creme dental com pelo menos mil ppm de flúor previne cárie. O sal funciona, mas a qualidade da evidência é baixa.
 
 > 🎬 Selo **ESTABELECIDO** no canto, com a etiqueta menor **sal: estudos de qualidade baixa**.
 
@@ -112,7 +112,7 @@ Mande o paciente olhar o tubo: pelo menos mil ppm de flúor — mil partes por m
 
 Creme dental sem flúor não previne cárie.
 
-E para o médico: na consulta da criança, pergunte qual pasta ela usa. Leva dez segundos.
+E para o médico: na consulta da criança, pergunte qual creme dental ela usa. Leva dez segundos.
 
 > 🎬 Lista com as letras da ROTA no canto. Close do verso de um tubo, marca-texto em **1.450 ppm F**. Lettering **PPM = PARTES POR MILHÃO**. Números na tela: **1.000–1.500 ppm** · **água fluoretada: fluorose estética em ~12%**.
 
@@ -136,7 +136,7 @@ por que a escova elétrica moderna começou como solução para quem tinha dific
 
 ---
 
-**Narração:** cerca de 480 palavras, perto de 2 min 51 s, com as pausas das quebras.
+**Narração:** cerca de 480 palavras, perto de 2 min 52 s, com as pausas das quebras.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (sem o nome de Eggenberger), MICROEPIFANIA, QUEBRA (só "Só que não. A dose era baixa demais."), QUESTIONAMENTO, VIRADA, SELO, FRASE e GANCHO. CURIOSIDADE, O QUE NINGUÉM TE CONTOU e O QUE MUDA AMANHÃ vão para a legenda e o carrossel.
 
@@ -231,9 +231,9 @@ por que a escova elétrica moderna começou como solução para quem tinha dific
 > O Brasil escolheu outro veículo: a água (Lei 6.050/1974). E depois de 1975, o efeito da água encolheu — porque já tinha chegado o creme dental com flúor.
 >
 > 🔎 Vire o tubo: pelo menos 1.000 ppm de flúor
-> 🚫 Pasta sem flúor não previne cárie
+> 🚫 Creme dental sem flúor não previne cárie
 > 💧 Dose é tudo: excesso na infância = fluorose
-> 👶 Médico: pergunte qual pasta a criança usa
+> 👶 Médico: pergunte qual creme dental a criança usa
 >
 > A boca faz parte da saúde do paciente. Mas a saúde do paciente não termina na boca.
 >
@@ -311,8 +311,8 @@ Só a narração, sem rótulos nem indicações de cena. Números por extenso, u
 O que uma doença da tireoide tem a ver com a prevenção da cárie?
 
 Suíça, começo do século vinte.
-Nos vales dos Alpes, o bócio, o aumento da tireoide, era comum.
-A causa: falta de iodo na alimentação.
+Nos vales dos Alpes, o bócio era endêmico.
+A causa: deficiência de iodo na dieta.
 Em mil novecentos e vinte e dois, um cirurgião de Herisau, Hans Eggenberger, consegue liberar o sal com iodo.
 Em um ano, já estava em dezessete cantões.
 O bócio praticamente desapareceu.
@@ -331,9 +331,9 @@ Cárie resolvida com um saleiro.
 
 Só que não.
 
-A dose era baixa demais:
+A concentração era baixa demais:
 noventa miligramas de flúor por quilo de sal.
-Protegia pouco.
+O efeito preventivo era pequeno.
 O sal com flúor passou quase trinta anos patinando.
 Só em mil novecentos e oitenta e três a concentração subiu para duzentos e cinquenta.
 Em dois mil e quatro, quase nove em cada dez quilos de sal vendidos na Suíça tinham flúor.
@@ -345,15 +345,15 @@ Custo: alguns centavos de euro por pessoa, por ano.
 
 Então por que o Brasil não coloca flúor no sal?
 Porque escolheu outro veículo.
-Desde mil novecentos e setenta e quatro, a lei obriga a fluoretar a água onde existe estação de tratamento.
+Desde mil novecentos e setenta e quatro, a lei obriga a fluoretação da água de abastecimento onde existe estação de tratamento.
 E com flúor, dose é tudo.
-Na infância, o excesso mancha o esmalte.
-O que chamamos de fluorose.
+Na infância, o excesso causa fluorose dentária.
+Manchas no esmalte.
 
 Agora, o detalhe que muda a história.
 Quando a Cochrane separou os estudos de água fluoretada feitos depois de mil novecentos e setenta e cinco, o efeito encolheu:
-cerca de um quarto de dente de leite cariado a menos por criança.
-E o intervalo inclui nenhum efeito.
+cerca de um quarto de dente decíduo cariado a menos por criança.
+E o intervalo de confiança inclui ausência de efeito.
 Por quê?
 Porque nessa época já tinha chegado um veículo que pega carona num hábito diário:
 o creme dental com flúor.
@@ -361,18 +361,18 @@ o creme dental com flúor.
 A lição que a tireoide deu à odontologia não era sobre iodo, nem sobre sal.
 Era sobre veículo:
 a prevenção que funciona pega carona num hábito que já existe.
-Portanto, o veículo que está na sua mão é o tubo de pasta.
+Portanto, o veículo que está na sua mão é o creme dental fluoretado.
 
 Aqui a ciência já testou:
 creme dental com pelo menos mil ppm de flúor previne cárie.
-O sal funciona, mas os estudos são fracos.
+O sal funciona, mas a qualidade da evidência é baixa.
 
 Mande o paciente olhar o tubo:
 pelo menos mil ppm de flúor.
 Mil partes por milhão.
 Creme dental sem flúor não previne cárie.
 E para o médico:
-na consulta da criança, pergunte qual pasta ela usa.
+na consulta da criança, pergunte qual creme dental ela usa.
 Leva dez segundos.
 
 A boca faz parte da saúde do paciente.

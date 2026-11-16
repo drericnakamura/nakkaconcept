@@ -23,21 +23,21 @@ Nas festas de música eletrônica dos anos noventa, um acessório estranho virou
 
 Não era moda.
 
-Era o ecstasy, uma droga que faz o cérebro liberar serotonina em massa — e que trava e faz ranger a mandíbula.
+Era o ecstasy, uma droga que provoca liberação maciça de serotonina — e causa apertamento e bruxismo.
 
 > 🎬 Ilustração estilizada de pista de dança com luz estroboscópica; uma chupeta neon em primeiro plano. Rodapé: "bruxismo é efeito oral descrito do MDMA (*Br Dent J*, 2008)".
 
 **[A MICROEPIFANIA]**
 
-Agora pense nos remédios mais usados para ansiedade e depressão: os inibidores seletivos da recaptação — o reaproveitamento — de serotonina, os ISRS.
+Agora pense nos medicamentos mais usados para ansiedade e depressão: os inibidores seletivos da recaptação — o reaproveitamento — de serotonina, os ISRS.
 
 Fluoxetina. Sertralina. Escitalopram.
 
 Eles também aumentam a serotonina.
 
-E há relatos publicados de gente que começou a ranger os dentes semanas depois de começar o remédio.
+E há relatos de caso de pacientes que desenvolveram bruxismo semanas depois de iniciar o medicamento.
 
-Pronto. Serotonina faz ranger. Caso resolvido.
+Pronto. Serotonina causa bruxismo. Caso resolvido.
 
 > 🎬 Seta: SEROTONINA ↑ → MANDÍBULA TRAVADA. Lettering: **ISRS**. Carimbo: **CASO RESOLVIDO**.
 
@@ -49,7 +49,7 @@ Quando juntaram os estudos com pacientes, fluoxetina, sertralina e escitalopram 
 
 Quem apareceu foram paroxetina, venlafaxina e duloxetina.
 
-E uma análise no banco mundial de efeitos adversos da Organização Mundial da Saúde — a farmacovigilância — achou uma pista inesperada:
+E uma análise no banco mundial de reações adversas da Organização Mundial da Saúde — a farmacovigilância — achou uma pista inesperada:
 
 o risco acompanhava mais a noradrenalina do que a serotonina.
 
@@ -63,17 +63,17 @@ Também não.
 
 Num estudo com quinhentas pessoas em uso de antidepressivo, catorze por cento desenvolveram bruxismo depois de começar.
 
-E, entre os efeitos de movimento desses remédios, o bruxismo é o sinal mais forte no banco da OMS.
+E, entre os efeitos motores desses fármacos, o bruxismo é o sinal mais forte no banco da OMS.
 
 > 🎬 Contador: **14%**. Ranking de efeitos de movimento com o bruxismo no topo.
 
 **[A VIRADA]**
 
-Talvez a pergunta não seja qual mensageiro do cérebro.
+Talvez a pergunta não seja qual neurotransmissor.
 
-O bruxismo não é uma doença em si. É um comportamento: atividade repetida do músculo da mastigação, dormindo ou acordado.
+O bruxismo não é uma doença em si. É um comportamento: atividade repetitiva dos músculos mastigatórios, no sono ou em vigília.
 
-E comportamento muda com café, álcool, cigarro, estresse — e com remédio.
+E comportamento muda com cafeína, álcool, tabagismo, estresse — e com medicamento.
 
 O antidepressivo é mais um botão nesse painel.
 
@@ -83,9 +83,9 @@ O antidepressivo é mais um botão nesse painel.
 
 Portanto, mais útil que o mecanismo é o relógio.
 
-Nos relatos, o bruxismo começa três a quatro semanas depois de iniciar o remédio.
+Nos relatos, o bruxismo começa três a quatro semanas depois de iniciar o medicamento.
 
-E costuma melhorar três a quatro semanas depois de um ajuste: baixar a dose, trocar de remédio ou acrescentar buspirona, um ansiolítico de outra família.
+E costuma melhorar três a quatro semanas depois de um ajuste: reduzir a dose, trocar o fármaco ou associar buspirona, um ansiolítico de outra família.
 
 > 🎬 Linha do tempo: **início do remédio → 3–4 semanas → bruxismo → ajuste → 3–4 semanas → melhora**.
 
@@ -109,9 +109,9 @@ Mas nenhum ensaio mediu, de verdade, com que frequência isso acontece.
 
 **[O QUE MUDA AMANHÃ]**
 
-Desgaste novo, dor na mandíbula ao acordar, restauração que quebrou? Pergunte se começou ou aumentou algum remédio nas últimas semanas.
+Desgaste dental novo, dor muscular ao acordar, fratura de restauração? Pergunte se algum medicamento foi iniciado ou teve a dose aumentada nas últimas semanas.
 
-Proteja os dentes com placa de mordida.
+Proteja os dentes com placa oclusal.
 
 E fale com quem prescreveu. Nunca suspenda você.
 
@@ -137,7 +137,7 @@ por que alguns antipsicóticos secam a boca — e outros fazem a saliva escorrer
 
 ---
 
-**Narração:** cerca de 430 palavras, perto de 2 min 32 s.
+**Narração:** cerca de 420 palavras, perto de 2 min 30 s.
 
 **Corte de 90 s:** manter PERGUNTA, CURIOSIDADE, MICROEPIFANIA (sem a lista de nomes), QUEBRA (só "fluoxetina, sertralina e escitalopram não aumentaram" e a pista da noradrenalina), QUESTIONAMENTO, PORTANTO, SELO, FRASE e GANCHO. A VIRADA e O QUE NINGUÉM TE CONTOU vão para a legenda e o carrossel.
 
@@ -240,11 +240,11 @@ por que alguns antipsicóticos secam a boca — e outros fazem a saliva escorrer
 >
 > Mas não é "qualquer ISRS": em estudos transversais, paroxetina, venlafaxina e duloxetina aparecem mais; fluoxetina e sertralina, não. E no banco da OMS, o risco acompanhou mais a noradrenalina do que a serotonina.
 >
-> 🦷 Desgaste novo, dor ao acordar, restauração quebrada? Pergunte do remédio e da data de início
-> 🛡️ Placa para proteger
+> 🦷 Desgaste dental novo, dor muscular ao acordar, fratura de restauração? Pergunte do medicamento e da data de início
+> 🛡️ Placa oclusal para proteger
 > ✉️ Carta para quem prescreveu — nunca suspenda você
 > ⚠️ Parar antidepressivo de uma vez: ~1 em 6 tem sintomas de descontinuação
-> ☕ Café, álcool e cigarro também apertam a mandíbula
+> ☕ Cafeína, álcool e tabagismo também aumentam o bruxismo
 >
 > A boca faz parte da saúde do paciente. Mas a saúde do paciente não termina na boca.
 >
@@ -322,42 +322,42 @@ O remédio da ansiedade pode fazer você ranger os dentes?
 Nas festas de música eletrônica dos anos noventa, um acessório estranho virou comum: chupeta.
 Não era moda.
 Era o ecstasy.
-Uma droga que faz o cérebro liberar serotonina em massa.
-E que trava e faz ranger a mandíbula.
+Uma droga que provoca liberação maciça de serotonina.
+E causa apertamento e bruxismo.
 
-Agora pense nos remédios mais usados para ansiedade e depressão.
+Agora pense nos medicamentos mais usados para ansiedade e depressão.
 Os inibidores seletivos da recaptação, o reaproveitamento, de serotonina. Os ISRS.
 Fluoxetina. Sertralina. Escitalopram.
 Eles também aumentam a serotonina.
-E há relatos publicados de gente que começou a ranger os dentes semanas depois de começar o remédio.
+E há relatos de caso de pacientes que desenvolveram bruxismo semanas depois de iniciar o medicamento.
 Pronto.
-Serotonina faz ranger.
+Serotonina causa bruxismo.
 Caso resolvido.
 
 Só que não.
 
 Quando juntaram os estudos com pacientes, fluoxetina, sertralina e escitalopram não aumentaram o bruxismo do sono.
 Quem apareceu foram paroxetina, venlafaxina e duloxetina.
-E uma análise no banco mundial de efeitos adversos da Organização Mundial da Saúde, a farmacovigilância, achou uma pista inesperada:
+E uma análise no banco mundial de reações adversas da Organização Mundial da Saúde, a farmacovigilância, achou uma pista inesperada:
 o risco acompanhava mais a noradrenalina do que a serotonina.
 
 Então é mito?
 Também não.
 Num estudo com quinhentas pessoas em uso de antidepressivo, catorze por cento desenvolveram bruxismo depois de começar.
-E, entre os efeitos de movimento desses remédios, o bruxismo é o sinal mais forte no banco da OMS.
+E, entre os efeitos motores desses fármacos, o bruxismo é o sinal mais forte no banco da OMS.
 
-Talvez a pergunta não seja qual mensageiro do cérebro.
+Talvez a pergunta não seja qual neurotransmissor.
 O bruxismo não é uma doença em si.
 É um comportamento.
-Atividade repetida do músculo da mastigação, dormindo ou acordado.
-E comportamento muda com café, álcool, cigarro, estresse.
-E com remédio.
+Atividade repetitiva dos músculos mastigatórios, no sono ou em vigília.
+E comportamento muda com cafeína, álcool, tabagismo, estresse.
+E com medicamento.
 O antidepressivo é mais um botão nesse painel.
 
 Portanto, mais útil que o mecanismo é o relógio.
-Nos relatos, o bruxismo começa três a quatro semanas depois de iniciar o remédio.
+Nos relatos, o bruxismo começa três a quatro semanas depois de iniciar o medicamento.
 E costuma melhorar três a quatro semanas depois de um ajuste:
-baixar a dose, trocar de remédio ou acrescentar buspirona, um ansiolítico de outra família.
+reduzir a dose, trocar o fármaco ou associar buspirona, um ansiolítico de outra família.
 
 E o maior risco não é o dente.
 É o paciente ouvir: o remédio está estragando seus dentes.
@@ -368,9 +368,9 @@ E a doença pode voltar.
 O sinal é consistente nos relatos.
 Mas nenhum ensaio mediu, de verdade, com que frequência isso acontece.
 
-Desgaste novo, dor na mandíbula ao acordar, restauração que quebrou?
-Pergunte se começou ou aumentou algum remédio nas últimas semanas.
-Proteja os dentes com placa de mordida.
+Desgaste dental novo, dor muscular ao acordar, fratura de restauração?
+Pergunte se algum medicamento foi iniciado ou teve a dose aumentada nas últimas semanas.
+Proteja os dentes com placa oclusal.
 E fale com quem prescreveu.
 Nunca suspenda você.
 

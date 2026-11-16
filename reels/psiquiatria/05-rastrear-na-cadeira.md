@@ -1,7 +1,7 @@
 # Dá para rastrear doença mental na cadeira do dentista?
 
 **Selo:** ESTABELECIDO NA ATENÇÃO PRIMÁRIA · POUCO TESTADO NA CADEIRA — os questionários foram validados em milhares de pacientes; no consultório odontológico, só há estudos pequenos de aceitação
-**Duração:** ~2 min 50 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 55 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** todo dentista; médico de família, clínico e psiquiatra
 **Cavalo de troia:** o espectador entra querendo saber se a boca denuncia transtorno mental. Sai sabendo a diferença entre rastreio e diagnóstico, as duas perguntas do PHQ-2, e o que fazer quando a resposta é "sim" — inclusive sobre suicídio.
 **Em outro episódio (gancho):** por que uma pessoa com depressão pode sentir mais dor, mesmo sem uma lesão maior?
@@ -21,15 +21,15 @@ Dá para rastrear doença mental na cadeira do dentista?
 
 Às vezes, a boca entrega antes da pessoa.
 
-Olhe a face dos dentes superiores virada para o céu da boca.
+Olhe a face palatina dos dentes superiores — a que fica virada para o céu da boca.
 
 Lisa. Polida. Sem brilho.
 
 É esmalte dissolvido por ácido — o que chamamos de erosão dentária.
 
-O ácido do copo bate mais na frente dos dentes.
+O ácido da dieta bate mais na face vestibular, a da frente.
 
-Desse lado de dentro, ele pode ter vindo do estômago.
+Na face palatina, ele pode ter vindo do estômago.
 
 > 🎬 Espelho clínico mostrando a face palatina dos incisivos superiores com erosão. Lettering: **EROSÃO DENTÁRIA**. Seta vinda "de dentro", do esôfago para a boca.
 
@@ -39,7 +39,7 @@ Uma metanálise juntou dez estudos.
 
 Quem tinha transtorno alimentar tinha cinco vezes mais chance de erosão.
 
-Quem provocava o vômito, sete.
+Com vômito autoinduzido, sete.
 
 Os autores escreveram: o dentista pode ser o primeiro a suspeitar.
 
@@ -65,9 +65,9 @@ Então, em vez de só olhar: pergunte.
 
 Em 1997, pesquisadores de San Francisco testaram duas perguntas.
 
-Uma sobre o humor para baixo. Outra sobre perder o prazer nas coisas.
+Uma sobre humor deprimido. Outra sobre anedonia, a perda do prazer nas coisas.
 
-Acharam noventa e seis por cento de quem tinha depressão maior.
+A sensibilidade foi de noventa e seis por cento para depressão maior.
 
 Hoje isso tem nome: PHQ-2, o Questionário de Saúde do Paciente.
 
@@ -81,7 +81,7 @@ Então o dentista diagnostica depressão?
 
 Não.
 
-E as perguntas também disparam alarme falso em mais de quatro de cada dez pessoas sem depressão.
+Mas a especificidade é menor: alarme falso em mais de quatro de cada dez pessoas sem depressão.
 
 Isso é rastreio. Rastreio levanta a mão.
 
@@ -91,13 +91,13 @@ Quem fecha o diagnóstico é o médico.
 
 **[A CURIOSIDADE]**
 
-Em 1979, o psiquiatra Gerald Russell descreveu trinta pacientes que comiam compulsivamente e depois provocavam o vômito.
+Em 1979, o psiquiatra Gerald Russell descreveu trinta pacientes com compulsão alimentar seguida de vômito autoinduzido.
 
 Chamou o quadro de bulimia nervosa.
 
 Hoje, um sinal leva o nome dele.
 
-Calos no dorso da mão, onde os incisivos raspam durante o vômito.
+Calosidades no dorso da mão, onde os incisivos raspam durante o vômito.
 
 Os dentes deixam marca na mão.
 
@@ -109,7 +109,7 @@ E o ácido deixa marca nos dentes.
 
 Mas quase ninguém chega com um sinal tão claro.
 
-Quem tem depressão ou ansiedade chega com mais cárie e mais dentes perdidos.
+Quem tem depressão ou ansiedade chega com mais cárie e mais perda dentária.
 
 E a gente pergunta da escovação… e nunca pergunta como a pessoa está.
 
@@ -119,7 +119,7 @@ E a gente pergunta da escovação… e nunca pergunta como a pessoa está.
 
 E o medo de sempre: perguntar sobre suicídio planta a ideia?
 
-Os estudos não encontraram aumento de pensamentos suicidas. Falar pode até aliviar.
+Os estudos não encontraram aumento de ideação suicida. Falar pode até aliviar.
 
 E quase metade de quem morreu por suicídio tinha passado por um médico da atenção primária no mês anterior.
 
@@ -143,7 +143,7 @@ Coloque as duas perguntas na anamnese.
 
 Deu positivo? Não rotule: encaminhe ao médico.
 
-Se aparecer ideia de morte, pergunte direto: "Você tem pensado em tirar a própria vida?"
+Se aparecer ideação suicida, pergunte direto: "Você tem pensado em tirar a própria vida?"
 
 Risco imediato: SAMU, cento e noventa e dois.
 
@@ -173,7 +173,7 @@ mesmo sem uma lesão maior?
 
 ---
 
-**Narração:** cerca de 480 palavras, perto de 2 min 53 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
+**Narração:** cerca de 490 palavras, perto de 2 min 55 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA (só "a boca entrega antes da pessoa" e "é esmalte dissolvido por ácido"), QUEBRA, SEGUNDA MICROEPIFANIA, QUESTIONAMENTO, O QUE NINGUÉM TE CONTOU (só a pergunta sobre suicídio e a resposta), O QUE MUDA AMANHÃ, FRASE e GANCHO. A CURIOSIDADE e a MICROEPIFANIA vão para a legenda e o carrossel.
 
@@ -270,15 +270,15 @@ mesmo sem uma lesão maior?
 
 > Dá para rastrear doença mental na cadeira do dentista?
 >
-> A boca às vezes entrega antes da pessoa: erosão na face de dentro dos dentes superiores pode ser ácido que veio do estômago. Transtorno alimentar: 5× mais chance de erosão; com vômito autoinduzido, 7×. Mas erosão também é refluxo, dieta ácida. A boca dá pista, não diagnóstico.
+> A boca às vezes entrega antes da pessoa: erosão na face palatina dos dentes superiores pode ser ácido que veio do estômago. Transtorno alimentar: 5× mais chance de erosão; com vômito autoinduzido, 7×. Mas erosão também é refluxo, dieta ácida. A boca dá pista, não diagnóstico.
 >
-> A ferramenta mais forte é outra: perguntar. Duas perguntas — humor para baixo e perda de prazer — encontraram 96% de quem tinha depressão maior. Também erram para mais: é rastreio, não diagnóstico. Quem fecha o diagnóstico é o médico.
+> A ferramenta mais forte é outra: perguntar. Duas perguntas — humor deprimido e anedonia — tiveram sensibilidade de 96% para depressão maior. A especificidade é menor: é rastreio, não diagnóstico. Quem fecha o diagnóstico é o médico.
 >
 > E perguntar sobre suicídio não planta a ideia.
 >
 > 📝 PHQ-2 + GAD-2 na anamnese
 > 🩺 Positivo → não rotule, encaminhe ao médico
-> 🗣️ Ideia de morte → pergunte direto, encaminhe no mesmo dia
+> 🗣️ Ideação suicida → pergunte direto, encaminhe no mesmo dia
 > 🚑 Risco imediato: SAMU 192
 > 📞 Para conversar: CVV 188
 >
@@ -359,17 +359,17 @@ Só a narração, sem rótulos nem indicações de cena. Números por extenso, u
 Dá para rastrear doença mental na cadeira do dentista?
 
 Às vezes, a boca entrega antes da pessoa.
-Olhe a face dos dentes superiores virada para o céu da boca.
+Olhe a face palatina dos dentes superiores, a que fica virada para o céu da boca.
 Lisa.
 Polida.
 Sem brilho.
 É esmalte dissolvido por ácido, o que chamamos de erosão dentária.
-O ácido do copo bate mais na frente dos dentes.
-Desse lado de dentro, ele pode ter vindo do estômago.
+O ácido da dieta bate mais na face vestibular, a da frente.
+Na face palatina, ele pode ter vindo do estômago.
 
 Uma metanálise juntou dez estudos.
 Quem tinha transtorno alimentar tinha cinco vezes mais chance de erosão.
-Quem provocava o vômito, sete.
+Com vômito autoinduzido, sete.
 Os autores escreveram: o dentista pode ser o primeiro a suspeitar.
 Pronto.
 Erosão no palato é bulimia.
@@ -383,32 +383,32 @@ Não dá o diagnóstico.
 
 Então, em vez de só olhar: pergunte.
 Em mil novecentos e noventa e sete, pesquisadores de San Francisco testaram duas perguntas.
-Uma sobre o humor para baixo.
-Outra sobre perder o prazer nas coisas.
-Acharam noventa e seis por cento de quem tinha depressão maior.
+Uma sobre humor deprimido.
+Outra sobre anedonia, a perda do prazer nas coisas.
+A sensibilidade foi de noventa e seis por cento para depressão maior.
 Hoje isso tem nome: PHQ-2, o Questionário de Saúde do Paciente.
 Para ansiedade, existe o GAD-2.
 
 Então o dentista diagnostica depressão?
 Não.
-E as perguntas também disparam alarme falso em mais de quatro de cada dez pessoas sem depressão.
+Mas a especificidade é menor: alarme falso em mais de quatro de cada dez pessoas sem depressão.
 Isso é rastreio.
 Rastreio levanta a mão.
 Quem fecha o diagnóstico é o médico.
 
-Em mil novecentos e setenta e nove, o psiquiatra Gerald Russell descreveu trinta pacientes que comiam compulsivamente e depois provocavam o vômito.
+Em mil novecentos e setenta e nove, o psiquiatra Gerald Russell descreveu trinta pacientes com compulsão alimentar seguida de vômito autoinduzido.
 Chamou o quadro de bulimia nervosa.
 Hoje, um sinal leva o nome dele.
-Calos no dorso da mão, onde os incisivos raspam durante o vômito.
+Calosidades no dorso da mão, onde os incisivos raspam durante o vômito.
 Os dentes deixam marca na mão.
 E o ácido deixa marca nos dentes.
 
 Mas quase ninguém chega com um sinal tão claro.
-Quem tem depressão ou ansiedade chega com mais cárie e mais dentes perdidos.
+Quem tem depressão ou ansiedade chega com mais cárie e mais perda dentária.
 E a gente pergunta da escovação... e nunca pergunta como a pessoa está.
 
 E o medo de sempre: perguntar sobre suicídio planta a ideia?
-Os estudos não encontraram aumento de pensamentos suicidas.
+Os estudos não encontraram aumento de ideação suicida.
 Falar pode até aliviar.
 E quase metade de quem morreu por suicídio tinha passado por um médico da atenção primária no mês anterior.
 Quantas passaram pelo dentista?
@@ -420,7 +420,7 @@ Na cadeira do dentista, os estudos ainda são pequenos, mas os pacientes acharam
 Coloque as duas perguntas na anamnese.
 Deu positivo?
 Não rotule: encaminhe ao médico.
-Se aparecer ideia de morte, pergunte direto: Você tem pensado em tirar a própria vida?
+Se aparecer ideação suicida, pergunte direto: Você tem pensado em tirar a própria vida?
 Risco imediato: SAMU, cento e noventa e dois.
 Para conversar, a qualquer hora: CVV, cento e oitenta e oito.
 

@@ -1,7 +1,7 @@
 # Mesma depressão, sintomas diferentes?
 
 **Selo:** ESTABELECIDO — a depressão varia enormemente de pessoa para pessoa (medido em milhares de pacientes) · ASSOCIAÇÃO — a biologia própria de cada subtipo
-**Duração:** ~2 min 45 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 50 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que atende adulto (todo dentista); médico de família, clínico e psiquiatra
 **Cavalo de troia:** o espectador entra por uma curiosidade de diagnóstico. Sai sabendo que sono, apetite e perda de prazer mudam o plano odontológico, que a depressão vem com mais cárie e perda dentária, e quais três perguntas fazer na cadeira.
 **Em outro episódio (gancho):** por que uma pessoa com depressão pode sentir mais dor, mesmo sem uma lesão maior?
@@ -19,9 +19,9 @@ Por que duas pessoas com o mesmo diagnóstico de depressão podem ter sintomas c
 
 **[A PISTA]**
 
-Para diagnosticar depressão, o manual lista nove sintomas.
+Para diagnosticar depressão maior, o DSM, o manual da psiquiatria, lista nove sintomas.
 
-Precisa ter cinco — e um deles tem que ser tristeza ou perda de prazer, o que chamamos de anedonia.
+Precisa ter cinco — e um deles tem que ser humor deprimido ou perda de prazer, o que chamamos de anedonia.
 
 Faça a conta: são 227 combinações possíveis.
 
@@ -35,7 +35,7 @@ Cinco mais cinco dá dez. A lista só tem nove.
 
 Então duas pessoas podem ter depressão e dividir um único sintoma.
 
-E tem sintomas que vão nos dois sentidos: insônia ou sono demais, perder ou ganhar apetite, agitação ou lentidão.
+E tem sintomas que vão nos dois sentidos: insônia ou hipersonia, perda ou ganho de apetite, agitação ou lentificação psicomotora.
 
 Duas pessoas com o mesmo diagnóstico podem ser opostas.
 
@@ -53,7 +53,7 @@ Pronto. Caso resolvido.
 
 Só que não.
 
-Num grande estudo americano, os pesquisadores contaram os perfis de sintomas de 3.703 pacientes deprimidos.
+No STAR*D, um grande ensaio americano, os pesquisadores contaram os perfis de sintomas de 3.703 pacientes deprimidos.
 
 Acharam 1.030 perfis diferentes.
 
@@ -91,11 +91,11 @@ Ela existe. O que não existe é uma depressão só.
 
 E os subtipos têm biologia diferente.
 
-Na depressão melancólica — sem apetite, acordando de madrugada — o cortisol, o hormônio do estresse, fica mais alto.
+Na depressão melancólica — inapetência, despertar precoce — o cortisol, o hormônio do estresse, fica mais alto.
 
-Na depressão atípica — fome e sono aumentados — aparecem mais inflamação, mais cintura e mais triglicérides.
+Na depressão atípica — hiperfagia e hipersonia — aparecem mais inflamação, mais circunferência abdominal e mais triglicérides.
 
-E respondem diferente ao remédio: num ensaio, a atípica respondeu mais a um antidepressivo antigo, um IMAO — que impede a quebra da serotonina e da noradrenalina — do que à imipramina.
+E respondem diferente ao tratamento: num ensaio, a atípica respondeu mais a um antidepressivo antigo, um IMAO — que impede a quebra da serotonina e da noradrenalina — do que à imipramina.
 
 > 🎬 Tela dividida: MELANCÓLICA (curva de cortisol subindo) × ATÍPICA (fita métrica, gota de gordura, chama de inflamação). Barras: **71%** IMAO · **50%** imipramina · **28%** placebo. Lettering: **IMAO — inibidor da monoaminoxidase**.
 
@@ -111,9 +111,9 @@ Mas é o sintoma que diz o que muda no seu consultório.
 
 E a boca mostra qual depressão está ali.
 
-Quem tem mais fome tem mais refeições passando pelo dente.
+Na hiperfagia, a frequência de ingestão sobe — e o desafio cariogênico também.
 
-Quem perdeu o prazer em tudo para de cuidar de si — e falta às consultas.
+Na anedonia, o autocuidado cai — e as faltas às consultas aumentam.
 
 Numa revisão com mais de trezentas mil pessoas, depressão e ansiedade vieram com mais cárie e mais perda dentária.
 
@@ -133,9 +133,9 @@ Não pergunte só "você tem depressão?".
 
 Pergunte: como está o sono? E o apetite? Ainda sente prazer nas coisas?
 
-A resposta muda o plano: flúor e dieta para quem come mais, retornos mais curtos para quem perdeu a energia.
+A resposta muda o plano: flúor e orientação de dieta na hiperfagia, retornos mais curtos quando há fadiga.
 
-E se aparecer falta de esperança ou ideia de morte, encaminhe no mesmo dia.
+E se aparecer desesperança ou ideação suicida, encaminhe no mesmo dia.
 
 > 🎬 Lista com as letras da ROTA no canto. As três perguntas em lettering grande. Último item em destaque: **CVV 188 · SAMU 192**.
 
@@ -264,7 +264,7 @@ por que uma pessoa com depressão pode sentir mais dor, mesmo sem uma lesão mai
 > 🙂 Ainda sente prazer nas coisas?
 >
 > 🦷 Depressão e ansiedade vêm com mais cárie e mais perda dentária
-> 🆘 Falta de esperança ou ideia de morte → encaminhe no mesmo dia. CVV 188
+> 🆘 Desesperança ou ideação suicida → encaminhe no mesmo dia. CVV 188
 >
 > A boca faz parte da saúde do paciente. Mas a saúde do paciente não termina na boca.
 >
@@ -337,9 +337,9 @@ Só a narração, sem rótulos nem indicações de cena. Números por extenso, u
 ```text
 Por que duas pessoas com o mesmo diagnóstico de depressão podem ter sintomas completamente diferentes?
 
-Para diagnosticar depressão, o manual lista nove sintomas.
+Para diagnosticar depressão maior, o DSM, o manual da psiquiatria, lista nove sintomas.
 Precisa ter cinco.
-E um deles tem que ser tristeza ou perda de prazer, o que chamamos de anedonia.
+E um deles tem que ser humor deprimido ou perda de prazer, o que chamamos de anedonia.
 Faça a conta: são duzentas e vinte e sete combinações possíveis.
 
 Agora o detalhe que quase ninguém percebe.
@@ -347,7 +347,7 @@ Cinco mais cinco dá dez.
 A lista só tem nove.
 Então duas pessoas podem ter depressão e dividir um único sintoma.
 E tem sintomas que vão nos dois sentidos:
-insônia ou sono demais, perder ou ganhar apetite, agitação ou lentidão.
+insônia ou hipersonia, perda ou ganho de apetite, agitação ou lentificação psicomotora.
 Duas pessoas com o mesmo diagnóstico podem ser opostas.
 
 Mas isso é matemática de manual.
@@ -356,7 +356,7 @@ Pronto. Caso resolvido.
 
 Só que não.
 
-Num grande estudo americano, os pesquisadores contaram os perfis de sintomas de três mil setecentos e três pacientes deprimidos.
+No STAR*D, um grande ensaio americano, os pesquisadores contaram os perfis de sintomas de três mil setecentos e três pacientes deprimidos.
 Acharam mil e trinta perfis diferentes.
 O mais comum?
 Só um vírgula oito por cento dos pacientes.
@@ -375,19 +375,19 @@ Ela existe.
 O que não existe é uma depressão só.
 
 E os subtipos têm biologia diferente.
-Na depressão melancólica, sem apetite, acordando de madrugada,
+Na depressão melancólica, com inapetência e despertar precoce,
 o cortisol, o hormônio do estresse, fica mais alto.
-Na depressão atípica, com fome e sono aumentados,
-aparecem mais inflamação, mais cintura e mais triglicérides.
-E respondem diferente ao remédio.
+Na depressão atípica, com hiperfagia e hipersonia,
+aparecem mais inflamação, mais circunferência abdominal e mais triglicérides.
+E respondem diferente ao tratamento.
 Num ensaio, a atípica respondeu mais a um antidepressivo antigo, um IMAO — que impede a quebra da serotonina e da noradrenalina — do que à imipramina.
 
 Portanto, o diagnóstico diz depressão.
 Mas é o sintoma que diz o que muda no seu consultório.
 
 E a boca mostra qual depressão está ali.
-Quem tem mais fome tem mais refeições passando pelo dente.
-Quem perdeu o prazer em tudo para de cuidar de si, e falta às consultas.
+Na hiperfagia, a frequência de ingestão sobe — e o desafio cariogênico também.
+Na anedonia, o autocuidado cai, e as faltas às consultas aumentam.
 Numa revisão com mais de trezentas mil pessoas,
 depressão e ansiedade vieram com mais cárie e mais perda dentária.
 
@@ -399,9 +399,9 @@ Pergunte: como está o sono?
 E o apetite?
 Ainda sente prazer nas coisas?
 A resposta muda o plano.
-Flúor e dieta para quem come mais.
-Retornos mais curtos para quem perdeu a energia.
-E se aparecer falta de esperança ou ideia de morte, encaminhe no mesmo dia.
+Flúor e orientação de dieta na hiperfagia.
+Retornos mais curtos quando há fadiga.
+E se aparecer desesperança ou ideação suicida, encaminhe no mesmo dia.
 
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.

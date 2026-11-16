@@ -79,31 +79,31 @@ Só que não.
 
 TOMADA 3
 (o questionamento)
-Então a inflamação não mexe com o humor?
-Mexe. E isso já foi provado em gente.
+Então a inflamação não interfere no humor?
+Interfere. E isso já foi demonstrado em humanos.
 
 TOMADA 4
 (a virada)
 Portanto, a inflamação é uma das portas de entrada da depressão.
-E não é uma porta rara: um em cada quatro pacientes deprimidos tem inflamação de baixo grau no sangue — proteína C-reativa acima de três.
+E não é uma porta rara: um em cada quatro pacientes deprimidos tem inflamação sistêmica de baixo grau — proteína C-reativa acima de três miligramas por litro.
 Mas a periodontite produz inflamação suficiente para abrir essa porta?
 Ninguém mostrou ainda.
-E não encontramos nenhum ensaio que tenha testado se tratar a gengiva melhora a depressão.
+E não encontramos nenhum ensaio clínico que tenha testado se o tratamento periodontal melhora a depressão.
 (o que ninguém te contou)
 E se o problema é inflamação, a tentação na cadeira é o anti-inflamatório. Cuidado.
-O antidepressivo, sozinho, quase não faz a extração sangrar.
-O problema é o anti-inflamatório que a gente prescreve depois.
-Junto com um antidepressivo do tipo ISRS, o risco de sangramento no estômago fica quatro vezes maior.
+O antidepressivo, sozinho, quase não aumenta o sangramento na exodontia.
+O problema é o anti-inflamatório não esteroidal que a gente prescreve depois.
+Junto com um ISRS — inibidor seletivo da recaptação de serotonina —, o risco de hemorragia digestiva alta fica quatro vezes maior.
 (o selo)
-Inflamação mudando o humor: provado.
+Inflamação alterando o humor: demonstrado.
 A gengiva causando depressão: ainda não.
 (o que muda amanhã)
 Trate a periodontite pelo que ela é — e não prometa melhora do humor.
 Mas pergunte. Duas perguntas bastam: nas últimas duas semanas, você se sentiu para baixo? Perdeu o prazer nas coisas?
-É o PHQ-2, um rastreio de dois itens.
-Pontuou alto? Médico.
-Falou em não querer viver? No mesmo dia. CVV, cento e oitenta e oito.
-E em quem toma antidepressivo, prefira o paracetamol ao anti-inflamatório.
+É o PHQ-2, um instrumento de rastreio de dois itens.
+Rastreio positivo? Encaminhe ao médico.
+Ideação suicida? Encaminhamento no mesmo dia. CVV, cento e oitenta e oito.
+E em quem usa antidepressivo, prefira paracetamol ao AINE.
 (a frase)
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.
@@ -138,21 +138,21 @@ TOMADA 4
 (o questionamento)
 Então as bactérias diferentes são só consequência?
 Em boa parte, provavelmente.
-Mas é uma consequência que cobra preço: quem tem depressão tem cerca de trinta por cento mais periodontite, mais cárie e mais perda de todos os dentes.
+Mas é uma consequência que cobra preço: a depressão se associa a cerca de trinta por cento mais periodontite, mais cárie e mais edentulismo.
 (o que ninguém te contou)
 Pouca gente sabe:
-pacientes sob estresse crônico respondem pior à raspagem.
+pacientes sob estresse crônico respondem pior à raspagem e alisamento radicular.
 Mesma técnica.
-E quase oito décimos de milímetro a menos de ganho de inserção.
+E quase oito décimos de milímetro a menos de ganho de inserção clínica.
 (o selo)
 Depressão e boca andam juntas.
 O caminho mais provável passa pelo comportamento — não por uma bactéria da tristeza.
 (o que muda amanhã)
 Higiene que piorou de repente não é preguiça. Pode ser sintoma.
 Pergunte pelo humor: nas últimas duas semanas, se sentiu para baixo? Perdeu o prazer nas coisas?
-Sim às duas? Médico.
-Falou em não querer viver? Hoje. CVV, cento e oitenta e oito.
-E adapte o plano: retornos mais curtos, rotina mais simples, menos açúcar.
+Sim às duas? Encaminhe ao médico.
+Ideação suicida? Encaminhamento hoje. CVV, cento e oitenta e oito.
+E adapte o plano: manutenção periodontal mais frequente, rotina de higiene simplificada, menos açúcar.
 (a frase)
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.
@@ -180,10 +180,10 @@ Só que não.
 TOMADA 3
 (o questionamento)
 Então a depressão é falta de serotonina no cérebro, certo? O famoso desequilíbrio químico.
-Em 2022, uma grande revisão não achou evidência consistente de que a depressão seja causada por serotonina baixa.
+Em 2022, uma revisão guarda-chuva não achou evidência consistente de que a depressão seja causada por serotonina baixa.
 Então o antidepressivo é placebo?
 Também não.
-Numa metanálise com mais de cem mil pacientes, os 21 antidepressivos testados funcionaram melhor que o placebo.
+Numa metanálise em rede com mais de cem mil pacientes, os 21 antidepressivos testados foram superiores ao placebo.
 (a virada)
 O detalhe que resolve o paradoxo é o tempo.
 O antidepressivo demora semanas para fazer efeito.
@@ -191,20 +191,20 @@ Se fosse só repor serotonina, por que a demora?
 Porque ele não enche um tanque vazio. Ele muda, aos poucos, a forma como o cérebro processa emoção — o que chamamos de neuroplasticidade.
 (o portanto)
 Portanto, a depressão é tratada no cérebro porque a serotonina do humor é fabricada no cérebro.
-O intestino conversa com o cérebro. Mas não mandando serotonina pelo sangue.
+O eixo intestino-cérebro existe. Mas não passa por serotonina circulando no sangue.
 (o que ninguém te contou)
 Lembra das plaquetas?
-O antidepressivo bloqueia a recaptação — o reaproveitamento — de serotonina no cérebro — e também na plaqueta. Ela fica com menos serotonina e agrega pior.
+O antidepressivo bloqueia a recaptação — o reaproveitamento — de serotonina no cérebro — e também na plaqueta. Ela fica com menos serotonina, e a agregação plaquetária cai.
 Sozinho, o efeito é pequeno.
-Mas antidepressivo somado a anti-inflamatório multiplicou por quatro o risco de sangramento digestivo.
+Mas antidepressivo somado a anti-inflamatório não esteroidal multiplicou por quatro o risco de hemorragia digestiva.
 É aqui que o dentista entra.
 (o selo)
 A teoria da "falta de serotonina" é uma hipótese.
 A eficácia do antidepressivo é estabelecida.
 (o que muda amanhã)
-Vai extrair? Não suspenda o antidepressivo: nos estudos, o sangramento na boca foi raro. Capriche na hemostasia local.
-Anti-inflamatório? Só combinado com o médico.
-Tramadol junto com antidepressivo pode causar síndrome serotoninérgica — um excesso perigoso de serotonina.
+Vai fazer exodontia? Não suspenda o antidepressivo: nos estudos, o sangramento pós-operatório foi raro. Capriche na hemostasia local.
+AINE? Só combinado com o médico.
+Tramadol associado a antidepressivo pode causar síndrome serotoninérgica — toxicidade por excesso de serotonina.
 (a frase)
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.
@@ -225,27 +225,27 @@ Ou é a depressão que muda as bactérias da boca?
 
 TOMADA 2
 (a microepifania)
-Pronto. É o remédio.
+Pronto. É o medicamento.
 Caso resolvido.
 (a quebra)
 Só que não.
 
 TOMADA 3
 (o questionamento)
-Então é sempre o remédio?
-Para a boca seca, quase sempre.
-Para as bactérias, ninguém sabe ainda.
-No intestino, num estudo com mais de mil pessoas, os medicamentos explicaram mais da variação das bactérias do que qualquer outro fator medido.
+Então é sempre o medicamento?
+Para a xerostomia, quase sempre.
+Para o microbioma, ninguém sabe ainda.
+No intestino, num estudo com mais de mil pessoas, os medicamentos explicaram mais da variação do microbioma do que qualquer outro fator medido.
 Na boca, ainda faltam estudos que separem bem uma coisa da outra.
 (o selo)
-Boca seca pelo antidepressivo: estabelecido.
-Antidepressivo mudando as bactérias da boca: hipótese.
+Xerostomia pelo antidepressivo: estabelecido.
+Antidepressivo alterando o microbioma oral: hipótese.
 (o que muda amanhã)
-Boca seca em quem toma antidepressivo?
-Não mande parar o remédio. Avise o médico — às vezes dá para trocar por um que seca menos.
-E proteja os dentes: com menos saliva, a cárie avança.
-Tricíclico na lista? Ele potencializa a adrenalina: vasoconstritor em dose pequena, aspirando, e sem fio retrator com adrenalina.
-Lítio na lista? O anti-inflamatório sobe o lítio no sangue: nada de anti-inflamatório sem falar com o psiquiatra.
+Xerostomia em quem usa antidepressivo?
+Não suspenda o medicamento. Avise o médico — às vezes dá para trocar por um de menor efeito anticolinérgico.
+E proteja os dentes: com hipossalivação, o risco de cárie sobe.
+Tricíclico? Ele potencializa a adrenalina: vasoconstritor em dose reduzida, com aspiração prévia, e sem fio retrator com adrenalina.
+Lítio? O anti-inflamatório eleva a litemia — o nível de lítio no sangue: nada de anti-inflamatório sem falar com o psiquiatra.
 (a frase)
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.
@@ -274,18 +274,18 @@ TOMADA 3
 (o questionamento)
 Então o dentista diagnostica depressão?
 Não.
-E as perguntas também disparam alarme falso em mais de quatro de cada dez pessoas sem depressão.
+Mas a especificidade é menor: alarme falso em mais de quatro de cada dez pessoas sem depressão.
 Isso é rastreio. Rastreio levanta a mão.
 Quem fecha o diagnóstico é o médico.
 
 TOMADA 4
 (a virada)
 Mas quase ninguém chega com um sinal tão claro.
-Quem tem depressão ou ansiedade chega com mais cárie e mais dentes perdidos.
+Quem tem depressão ou ansiedade chega com mais cárie e mais perda dentária.
 E a gente pergunta da escovação… e nunca pergunta como a pessoa está.
 (o que ninguém te contou)
 E o medo de sempre: perguntar sobre suicídio planta a ideia?
-Os estudos não encontraram aumento de pensamentos suicidas. Falar pode até aliviar.
+Os estudos não encontraram aumento de ideação suicida. Falar pode até aliviar.
 E quase metade de quem morreu por suicídio tinha passado por um médico da atenção primária no mês anterior.
 Quantas passaram pelo dentista?
 Não encontramos estudo que tenha medido.
@@ -295,7 +295,7 @@ Na cadeira do dentista, os estudos ainda são pequenos — mas os pacientes acha
 (o que muda amanhã)
 Coloque as duas perguntas na anamnese.
 Deu positivo? Não rotule: encaminhe ao médico.
-Se aparecer ideia de morte, pergunte direto: "Você tem pensado em tirar a própria vida?"
+Se aparecer ideação suicida, pergunte direto: "Você tem pensado em tirar a própria vida?"
 Risco imediato: SAMU, cento e noventa e dois.
 Para conversar, a qualquer hora: CVV, cento e oitenta e oito.
 (a frase)
@@ -326,28 +326,28 @@ TOMADA 3
 (o questionamento)
 Então o remédio age na doença inteira?
 Também não.
-O mesmo remédio não prova que é a mesma doença.
-Prova que ele age em algo que as duas têm em comum.
-Klein já tinha visto isso: o remédio cortava a crise de pânico, mas o medo da próxima crise só ia embora depois.
+O mesmo fármaco não prova que é a mesma doença.
+Prova que ele age num mecanismo que as duas compartilham.
+Klein já tinha visto isso: a imipramina cortava a crise de pânico, mas a ansiedade antecipatória só ia embora depois.
 (a virada)
-O nome "antidepressivo" conta a história do remédio, não o mecanismo.
+O nome "antidepressivo" conta a história do fármaco, não o mecanismo.
 (o portanto)
-Portanto, quando o paciente ansioso diz que toma antidepressivo, não tem erro de receita.
+Portanto, quando o paciente ansioso diz que toma antidepressivo, não tem erro de prescrição.
 E quando o paciente chega ansioso, vale lembrar: muitas vezes a depressão está junto.
 (o que ninguém te contou)
-E o mesmo remédio traz os mesmos efeitos na boca.
+E o mesmo fármaco traz os mesmos efeitos adversos na boca.
 Bruxismo nas primeiras semanas.
-Boca seca.
-Mais sangramento se somar anti-inflamatório.
+Xerostomia, a boca seca.
+Mais risco de sangramento se associar anti-inflamatório.
 E se for tricíclico, como a amitriptilina, atenção ao vasoconstritor do anestésico: o tricíclico potencializa a adrenalina.
 (o selo)
 Que funciona nas duas: estabelecido, em ensaios randomizados.
 Por que funciona nas duas: associação, ainda em estudo.
 (o que muda amanhã)
 Pergunte pela medicação, não só pelo diagnóstico.
-Antidepressivo? Pergunte por ranger de dentes e boca seca.
-Tricíclico? Vasoconstritor em dose baixa, aspirando e medindo a pressão.
-E se o paciente disser que não vê mais sentido em nada, encaminhe no mesmo dia.
+Antidepressivo? Pergunte por bruxismo e xerostomia.
+Tricíclico? Vasoconstritor em dose baixa, com aspiração prévia e aferição da pressão arterial.
+E se o paciente relatar desesperança, encaminhe no mesmo dia.
 (a frase)
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.
@@ -379,16 +379,16 @@ Também não.
 Ela existe. O que não existe é uma depressão só.
 (a virada)
 E os subtipos têm biologia diferente.
-Na depressão melancólica — sem apetite, acordando de madrugada — o cortisol, o hormônio do estresse, fica mais alto.
-Na depressão atípica — fome e sono aumentados — aparecem mais inflamação, mais cintura e mais triglicérides.
-E respondem diferente ao remédio: num ensaio, a atípica respondeu mais a um antidepressivo antigo, um IMAO — que impede a quebra da serotonina e da noradrenalina — do que à imipramina.
+Na depressão melancólica — inapetência, despertar precoce — o cortisol, o hormônio do estresse, fica mais alto.
+Na depressão atípica — hiperfagia e hipersonia — aparecem mais inflamação, mais circunferência abdominal e mais triglicérides.
+E respondem diferente ao tratamento: num ensaio, a atípica respondeu mais a um antidepressivo antigo, um IMAO — que impede a quebra da serotonina e da noradrenalina — do que à imipramina.
 (o portanto)
 Portanto, o diagnóstico diz "depressão".
 Mas é o sintoma que diz o que muda no seu consultório.
 (o que ninguém te contou)
 E a boca mostra qual depressão está ali.
-Quem tem mais fome tem mais refeições passando pelo dente.
-Quem perdeu o prazer em tudo para de cuidar de si — e falta às consultas.
+Na hiperfagia, a frequência de ingestão sobe — e o desafio cariogênico também.
+Na anedonia, o autocuidado cai — e as faltas às consultas aumentam.
 Numa revisão com mais de trezentas mil pessoas, depressão e ansiedade vieram com mais cárie e mais perda dentária.
 (o selo)
 Que a depressão varia muito de pessoa para pessoa: estabelecido.
@@ -396,8 +396,8 @@ Que cada subtipo tem uma causa própria: associação, ainda em estudo.
 (o que muda amanhã)
 Não pergunte só "você tem depressão?".
 Pergunte: como está o sono? E o apetite? Ainda sente prazer nas coisas?
-A resposta muda o plano: flúor e dieta para quem come mais, retornos mais curtos para quem perdeu a energia.
-E se aparecer falta de esperança ou ideia de morte, encaminhe no mesmo dia.
+A resposta muda o plano: flúor e orientação de dieta na hiperfagia, retornos mais curtos quando há fadiga.
+E se aparecer desesperança ou ideação suicida, encaminhe no mesmo dia.
 (a frase)
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.
@@ -425,28 +425,28 @@ TOMADA 3
 (o questionamento)
 Então a dor da depressão é imaginação?
 Também não.
-Na mesma análise, a dor de dentro — a dor isquêmica, de músculo sem oxigênio — doía mais.
+Na mesma análise, a dor profunda — a dor isquêmica, de músculo sem oxigênio — foi mais intensa.
 (a virada)
 A depressão não aumenta toda dor.
-Ela muda a dor que vem de dentro, a que demora, a que não tem lesão visível.
-E é muito parecida com a dor que chega ao consultório: músculo da mandíbula, ardência na língua, dente que dói sem cárie.
+Ela muda a dor profunda, persistente, sem lesão visível.
+E é muito parecida com a dor que chega ao consultório: disfunção temporomandibular, síndrome da ardência bucal, dor dentária sem causa odontogênica.
 (o portanto)
-Portanto, o remédio pode ser o mesmo.
-A duloxetina, um antidepressivo que mexe em serotonina e noradrenalina, reduziu dor em ensaios clínicos — inclusive a dor física da própria depressão.
+Portanto, o fármaco pode ser o mesmo.
+A duloxetina, um antidepressivo que age sobre serotonina e noradrenalina, reduziu dor em ensaios clínicos — inclusive a dor física da própria depressão.
 (o que ninguém te contou)
 E aqui mora o perigo.
-Quando um dente tratado de canal continua doendo, mais da metade das vezes a dor não vem do dente.
+Quando um dente com tratamento endodôntico continua doendo, mais da metade das vezes a dor não vem do dente.
 É dor não odontogênica.
-Abrir de novo, extrair, prescrever opioide — nada disso resolve.
-E quem tem depressão recebe opioide por longo prazo três vezes mais.
+Retratar, extrair, prescrever opioide — nada disso resolve.
+E quem tem depressão tem três vezes mais chance de uso prolongado de opioide.
 (o selo)
 A ligação é sólida, e o tratamento foi testado.
 O circuito exato ainda é um modelo.
 (o que muda amanhã)
 Dor desproporcional ao que você vê? Antes de mais um procedimento, pergunte do sono, do humor e do estresse.
-Sono ruim dobrou o risco de dor na articulação da mandíbula.
+Má qualidade do sono dobrou o risco de disfunção temporomandibular dolorosa.
 Em quem usa antidepressivo, cuidado com tramadol: risco de síndrome serotoninérgica, o excesso de serotonina.
-E se o paciente falar em desesperança ou em morrer: CVV, um-oito-oito, e médico no mesmo dia.
+E se o paciente relatar desesperança ou ideação suicida: CVV, um-oito-oito, e médico no mesmo dia.
 (a frase)
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.
@@ -466,7 +466,7 @@ O remédio da ansiedade pode fazer você ranger os dentes?
 
 TOMADA 2
 (a microepifania)
-Pronto. Serotonina faz ranger. Caso resolvido.
+Pronto. Serotonina causa bruxismo. Caso resolvido.
 (a quebra)
 Só que não.
 
@@ -475,16 +475,16 @@ TOMADA 3
 Então é mito?
 Também não.
 Num estudo com quinhentas pessoas em uso de antidepressivo, catorze por cento desenvolveram bruxismo depois de começar.
-E, entre os efeitos de movimento desses remédios, o bruxismo é o sinal mais forte no banco da OMS.
+E, entre os efeitos motores desses fármacos, o bruxismo é o sinal mais forte no banco da OMS.
 (a virada)
-Talvez a pergunta não seja qual mensageiro do cérebro.
-O bruxismo não é uma doença em si. É um comportamento: atividade repetida do músculo da mastigação, dormindo ou acordado.
-E comportamento muda com café, álcool, cigarro, estresse — e com remédio.
+Talvez a pergunta não seja qual neurotransmissor.
+O bruxismo não é uma doença em si. É um comportamento: atividade repetitiva dos músculos mastigatórios, no sono ou em vigília.
+E comportamento muda com cafeína, álcool, tabagismo, estresse — e com medicamento.
 O antidepressivo é mais um botão nesse painel.
 (o portanto)
 Portanto, mais útil que o mecanismo é o relógio.
-Nos relatos, o bruxismo começa três a quatro semanas depois de iniciar o remédio.
-E costuma melhorar três a quatro semanas depois de um ajuste: baixar a dose, trocar de remédio ou acrescentar buspirona, um ansiolítico de outra família.
+Nos relatos, o bruxismo começa três a quatro semanas depois de iniciar o medicamento.
+E costuma melhorar três a quatro semanas depois de um ajuste: reduzir a dose, trocar o fármaco ou associar buspirona, um ansiolítico de outra família.
 (o que ninguém te contou)
 E o maior risco não é o dente.
 É o paciente ouvir "o remédio está estragando seus dentes" e parar sozinho.
@@ -493,8 +493,8 @@ Cerca de um em cada seis que interrompem um antidepressivo tem sintomas de desco
 O sinal é consistente nos relatos.
 Mas nenhum ensaio mediu, de verdade, com que frequência isso acontece.
 (o que muda amanhã)
-Desgaste novo, dor na mandíbula ao acordar, restauração que quebrou? Pergunte se começou ou aumentou algum remédio nas últimas semanas.
-Proteja os dentes com placa de mordida.
+Desgaste dental novo, dor muscular ao acordar, fratura de restauração? Pergunte se algum medicamento foi iniciado ou teve a dose aumentada nas últimas semanas.
+Proteja os dentes com placa oclusal.
 E fale com quem prescreveu. Nunca suspenda você.
 (a frase)
 A boca faz parte da saúde do paciente.
@@ -516,7 +516,7 @@ e outros fazem o paciente acordar com o travesseiro molhado?
 
 TOMADA 2
 (a microepifania)
-Pronto. Antipsicótico seca a boca. Caso resolvido.
+Pronto. Antipsicótico causa xerostomia. Caso resolvido.
 (a quebra)
 Só que não.
 
@@ -524,30 +524,30 @@ TOMADA 3
 (o questionamento)
 Em parte?
 Repare quando ela aparece: oitenta e cinco por cento à noite, contra quarenta e oito durante o dia.
-À noite, a gente engole menos. Talvez parte do problema seja engolir, não só produzir.
+À noite, a deglutição diminui. Talvez parte do problema seja deglutir, não só produzir.
 A conta não fechou.
 
 TOMADA 4
 (a virada)
 E aqui a boca volta à história.
-Essa queda dos glóbulos brancos — a agranulocitose — aparece em menos de um por cento no primeiro ano.
+Essa queda dos neutrófilos — a agranulocitose — aparece em menos de um por cento no primeiro ano.
 Mas ela se disfarça.
-De infecção comum — muitas vezes na boca: febre, garganta, ferida.
+De infecção comum — muitas vezes na boca: febre, faringite, úlcera oral.
 (o portanto)
 E o mesmo paciente pode pedir dois cuidados opostos.
-Boca seca: cárie.
-Saliva demais: risco de aspirar. E a clozapina triplica o risco de pneumonia.
+Xerostomia: cárie.
+Sialorreia: risco de aspiração. E a clozapina triplica o risco de pneumonia.
 (o que ninguém te contou)
-E entre os remédios que tratam essa baba nos ensaios…
+E entre os fármacos testados contra a sialorreia…
 vários são anticolinérgicos.
-O mesmo mecanismo que seca a boca dos outros.
+O mesmo mecanismo que causa xerostomia nos outros.
 Quem decide é o psiquiatra.
 (o selo)
 Que os antipsicóticos mexem na saliva, está estabelecido.
 Por que a clozapina faz o contrário, ainda é hipótese.
 (o que muda amanhã)
 Pergunte qual antipsicótico o paciente usa.
-Boca seca: creme dental com flúor de alta concentração.
+Xerostomia: creme dental com alta concentração de flúor.
 Clozapina com qualquer infecção que pareça banal: hemograma no mesmo dia e aviso ao psiquiatra.
 E nunca suspenda o antipsicótico por conta própria.
 (a frase)
@@ -578,28 +578,28 @@ TOMADA 3
 (o questionamento)
 Então a seta está ao contrário?
 Talvez nos dois sentidos.
-E falta um personagem nessa história: o remédio.
+E falta um personagem nessa história: o medicamento.
 
 TOMADA 4
 (o portanto)
-Portanto, existe um risco real de sangrar.
+Portanto, existe um risco real de sangramento.
 Mas onde?
 No estômago.
 O ISRS sozinho mais que dobra o risco de hemorragia digestiva alta.
-Com anti-inflamatório junto, chega a seis vezes.
+Associado a um anti-inflamatório não esteroidal, o AINE, chega a seis vezes.
 (o que ninguém te contou)
 E na cadeira do dentista?
 Num estudo com noventa e dois pacientes em uso de ISRS, e cento e sessenta e sete extrações, houve um retorno e um telefonema por sangramento.
 Quase nada.
 O perigo não está na extração. Está na receita que você escreve depois dela.
 (o selo)
-O estresse mexe na gengiva, e o remédio mexe na plaqueta.
-Mas a ligação entre depressão e doença da gengiva ainda é fraca.
+O estresse modula a inflamação gengival, e o medicamento altera a função plaquetária.
+Mas a associação entre depressão e doença periodontal ainda é fraca.
 (o que muda amanhã)
-Gengiva sangrando com placa parecida com a de sempre? Pergunte do sono, do estresse, do humor — e da lista de remédios.
+Sangramento gengival desproporcional ao biofilme? Pergunte do sono, do estresse, do humor — e da lista de medicamentos.
 Não suspenda o antidepressivo para extrair.
-Anti-inflamatório em quem usa ISRS? Evite. Se precisar, menor dose pelo menor tempo.
-E lembre: o cigarro esconde o sangramento — a gengiva de quem fuma pode estar pior do que parece.
+AINE em quem usa ISRS? Evite. Se precisar, menor dose pelo menor tempo.
+E lembre: o tabagismo mascara o sangramento — a gengiva do fumante pode estar pior do que parece.
 (a frase)
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.
@@ -629,12 +629,12 @@ Na mesma época, na Suécia, Brånemark descrevia o mesmo fenômeno com outro no
 O nome que ficou foi o dele.
 (a virada)
 E o metal deixou de ser o problema.
-Em dez anos, cerca de noventa e seis em cada cem implantes continuam na boca.
-Mas cerca de um em cada cinco pacientes desenvolve peri-implantite — a inflamação que destrói o osso em volta do implante.
+Em dez anos, a taxa de sobrevida é de cerca de noventa e seis por cento.
+Mas cerca de um em cada cinco pacientes desenvolve peri-implantite — a inflamação que causa perda óssea ao redor do implante.
 (o que ninguém te contou)
 E quem perde o implante não é quem tem o metal errado.
-A evidência forte aponta três coisas: história de periodontite, placa que fica e falta de manutenção.
-Cigarro e diabetes, que todo mundo cita? Para peri-implantite, os dados ainda são inconclusivos.
+A evidência forte aponta três coisas: história de periodontite, controle de placa deficiente e falta de manutenção.
+Tabagismo e diabetes, que todo mundo cita? Para peri-implantite, os dados ainda são inconclusivos.
 (o portanto)
 Portanto, a pergunta deixou de ser "esse implante é bom?".
 Virou "esse paciente está pronto para o implante?".
@@ -642,7 +642,7 @@ Virou "esse paciente está pronto para o implante?".
 Aqui a ciência já testou: o osso integra ao titânio, e o implante dura em quem é preparado e acompanhado.
 (o que muda amanhã)
 Antes de implantar, trate a periodontite.
-Depois, sonde em volta do implante: o sangramento à sondagem é o primeiro sinal — o que chamamos de mucosite peri-implantar.
+Depois, sonde ao redor do implante: o sangramento à sondagem é o primeiro sinal — o que chamamos de mucosite peri-implantar.
 E diga ao paciente: implante não tem cárie. Mas tem gengiva.
 (a frase)
 A boca faz parte da saúde do paciente.
@@ -671,23 +671,23 @@ TOMADA 3
 (o questionamento)
 Então por que o Brasil não coloca flúor no sal?
 Porque escolheu outro veículo.
-Desde 1974, a lei obriga a fluoretar a água onde existe estação de tratamento.
-E com flúor, dose é tudo: na infância, o excesso mancha o esmalte. O que chamamos de fluorose.
+Desde 1974, a lei obriga a fluoretação da água de abastecimento onde existe estação de tratamento.
+E com flúor, dose é tudo: na infância, o excesso causa fluorose dentária — manchas no esmalte.
 (o que ninguém te contou)
 Agora, o detalhe que muda a história.
-Quando a Cochrane separou os estudos de água fluoretada feitos depois de 1975, o efeito encolheu: cerca de um quarto de dente de leite cariado a menos por criança. E o intervalo inclui nenhum efeito.
+Quando a Cochrane separou os estudos de água fluoretada feitos depois de 1975, o efeito encolheu: cerca de um quarto de dente decíduo cariado a menos por criança. E o intervalo de confiança inclui ausência de efeito.
 Por quê?
 Porque nessa época já tinha chegado um veículo que pega carona num hábito diário: o creme dental com flúor.
 (a virada)
 A lição que a tireoide deu à odontologia não era sobre iodo, nem sobre sal.
 Era sobre veículo: a prevenção que funciona pega carona num hábito que já existe.
-Portanto, o veículo que está na sua mão é o tubo de pasta.
+Portanto, o veículo que está na sua mão é o creme dental fluoretado.
 (o selo)
-Aqui a ciência já testou: creme dental com pelo menos mil ppm de flúor previne cárie. O sal funciona, mas os estudos são fracos.
+Aqui a ciência já testou: creme dental com pelo menos mil ppm de flúor previne cárie. O sal funciona, mas a qualidade da evidência é baixa.
 (o que muda amanhã)
 Mande o paciente olhar o tubo: pelo menos mil ppm de flúor — mil partes por milhão.
 Creme dental sem flúor não previne cárie.
-E para o médico: na consulta da criança, pergunte qual pasta ela usa. Leva dez segundos.
+E para o médico: na consulta da criança, pergunte qual creme dental ela usa. Leva dez segundos.
 (a frase)
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.
@@ -715,8 +715,8 @@ TOMADA 3
 (o questionamento)
 Então a elétrica não serve?
 Serve. Só que o ganho aparece em outro lugar.
-Numa revisão Cochrane com cinquenta e seis ensaios, a elétrica tirou cerca de vinte e um por cento mais placa que a manual depois de três meses, e reduziu a gengivite em onze por cento.
-A que tem mais estudos é a rotacional-oscilatória: a cabeça redonda que gira para um lado e para o outro.
+Numa revisão Cochrane com cinquenta e seis ensaios, a elétrica removeu cerca de vinte e um por cento mais biofilme que a manual depois de três meses, e reduziu a gengivite em onze por cento.
+A que tem mais estudos é a oscilatório-rotatória: a cabeça redonda que gira para um lado e para o outro.
 
 TOMADA 4
 (a virada)
@@ -725,14 +725,14 @@ O problema nunca foi a escova. Era a mão.
 E a mão muda com o tempo. A escova que servia há seis meses pode não servir mais.
 (o portanto)
 Portanto, a pergunta não é "manual ou elétrica?".
-É "essa mão ainda consegue tirar a placa?".
+É "essa mão ainda consegue remover o biofilme?".
 (o selo)
-Aqui a ciência já testou: a elétrica remove mais placa e reduz mais gengivite.
-Mas, para quem tem limitação, a evidência mais forte está em adaptar a escova e treinar quem escova.
+Aqui a ciência já testou: a elétrica remove mais biofilme e reduz mais gengivite.
+Mas, para quem tem limitação motora, a evidência mais forte está em adaptar a escova e treinar quem escova.
 (o que muda amanhã)
 Dentista: olhe a mão antes da boca. Peça para o paciente mostrar como segura a escova.
-Pouca força ou tremor? Engrosse o cabo, teste a elétrica se ela ficar mais fácil, e treine o cuidador.
-Médico: quando a mão do seu paciente muda, a escovação muda junto. Avise o dentista.
+Força de preensão reduzida ou tremor? Engrosse o cabo, teste a elétrica se ela facilitar, e treine o cuidador.
+Médico: quando a função da mão do seu paciente muda, a escovação muda junto. Avise o dentista.
 (a frase)
 A boca faz parte da saúde do paciente.
 Mas a saúde do paciente não termina na boca.
@@ -760,27 +760,27 @@ TOMADA 3
 (o questionamento)
 Então sangrou, vai piorar?
 Também não.
-Berna, 1990. Niklaus Lang acompanhou pacientes tratados por dois anos e meio.
-Dos pontos que sangravam com frequência, só seis por cento perderam inserção.
+Berna, 1990. Niklaus Lang acompanhou pacientes em manutenção periodontal por dois anos e meio.
+Dos sítios que sangravam com frequência, só seis por cento tiveram perda de inserção.
 Dos que não sangravam, noventa e oito por cento ficaram estáveis.
-O sangramento é um alarme sensível demais.
-A melhor notícia da periodontia é a falta dele.
+Ou seja: valor preditivo positivo baixo.
+Mas a ausência dele, valor preditivo negativo alto, é a melhor notícia da periodontia.
 (o portanto)
-Portanto, quando a classificação mundial de 2017 precisou definir gengivite, escolheu o sangue.
-Dez por cento dos pontos sangrando, ou mais: gengivite. Acima de trinta por cento: generalizada.
+Portanto, quando a classificação mundial de 2017 precisou definir gengivite, escolheu o sangramento à sondagem.
+Dez por cento ou mais dos sítios com sangramento: gengivite. Acima de trinta por cento: generalizada.
 A doença passou a ser definida pela resposta do tecido.
 (o que ninguém te contou)
 E tem um paciente que engana esse teste.
 O fumante.
-Num levantamento com mais de doze mil americanos, quem fumava mais de dez cigarros por dia tinha uma chance quarenta e quatro por cento menor de sangrar num ponto saudável.
+Num levantamento com mais de doze mil americanos, quem fumava mais de dez cigarros por dia tinha uma chance quarenta e quatro por cento menor de sangrar num sítio saudável.
 O cigarro não cura a gengiva. Esconde a inflamação.
 (o selo)
 O sangramento é o melhor sinal que temos de inflamação gengival.
-Mas, sozinho, prevê mal quem vai perder osso.
+Mas, sozinho, prevê mal quem vai ter perda de inserção.
 (o que muda amanhã)
-Anote a porcentagem de sangramento em toda consulta — e mostre o número caindo para o paciente.
+Registre o percentual de sangramento à sondagem em toda consulta — e mostre o número caindo para o paciente.
 Gengiva que não sangra em fumante não é gengiva saudável.
-Sangramento desproporcional à placa, com manchas roxas na pele ou cansaço? Hemograma — e médico.
+Sangramento desproporcional à placa, com equimoses ou fadiga? Hemograma — e médico.
 E para o paciente: sangrar não é sinal de que escovou forte demais. É sinal de inflamação. A escova e o fio são o tratamento.
 (a frase)
 A boca faz parte da saúde do paciente.
@@ -811,8 +811,8 @@ TOMADA 3
 (o questionamento)
 Então a técnica falha?
 Não exatamente.
-Quem complica mais tem perfil: quem range os dentes — o bruxismo — e quem fuma.
-Quem fumava teve quase três vezes mais chance de perder osso em volta do implante.
+Quem complica mais tem perfil: bruxismo e tabagismo.
+Tabagistas tiveram quase três vezes mais chance de perda óssea peri-implantar.
 O parafuso é o mesmo. O paciente, não.
 
 TOMADA 4
@@ -820,7 +820,7 @@ TOMADA 4
 Portanto, a grande virada não foi o parafuso.
 Foi trocar a pergunta "onde falta osso?" por "onde ainda tem?".
 Mas o resultado de longo prazo não depende do ângulo.
-Depende de força, de inflamação e de manutenção.
+Depende de carga oclusal, de inflamação e de manutenção.
 (o que ninguém te contou)
 Não existe ensaio randomizado comparando o All-on-4 com o enxerto.
 Quase tudo vem de séries de casos — muitas da própria clínica que criou a técnica.
@@ -828,9 +828,9 @@ E cerca de um em cada cinco pacientes com implante desenvolve peri-implantite: a
 (o selo)
 Estabelecido na prática. Frágil no método.
 (o que muda amanhã)
-Antes de indicar, pergunte: range os dentes? Fuma? Tem diabetes?
-Explique que o implante quase sempre fica. O que dá trabalho é a prótese e a gengiva em volta dela.
-Desenhe a prótese para ser limpa.
+Antes de indicar, investigue: bruxismo? Tabagismo? Diabetes?
+Explique que o implante quase sempre fica. O que dá trabalho é a prótese e o tecido peri-implantar.
+Desenhe a prótese para permitir higienização.
 E coloque a manutenção no plano, não no "se der".
 (a frase)
 A boca faz parte da saúde do paciente.
@@ -851,7 +851,7 @@ Por que continuamos procurando doenças no sangue, quando muita coisa também ap
 
 TOMADA 2
 (a microepifania)
-Pronto. Por que ainda furamos o braço?
+Pronto. Por que ainda fazemos punção venosa?
 
 TOMADA 3
 (o questionamento)
@@ -863,7 +863,7 @@ TOMADA 4
 (o que ninguém te contou)
 Mas até o teste bom tem letra miúda.
 O mesmo teste de HIV, numa população em que a infecção é rara:
-na saliva, de cada cem resultados positivos, uns onze são falsos.
+na saliva, de cada cem resultados positivos, uns onze são falsos-positivos.
 No sangue, uns dois.
 Positivo na saliva pede confirmação.
 (o portanto)
