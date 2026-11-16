@@ -1,7 +1,7 @@
 # O fígado escuta a gengiva?
 
 **Selo:** ASSOCIAÇÃO FRACA — aparece em estudos enormes, some em outros, e ninguém testou se tratar previne
-**Duração:** ~2 min 50 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
+**Duração:** ~2 min 52 s (versão longa) · ~90 s (corte indicado no fim do roteiro)
 **Para quem:** dentista que atende adulto com obesidade, diabetes ou álcool; médico que acompanha esteatose
 **Cavalo de troia:** o espectador entra para saber se a gengiva causa câncer de fígado. Sai sabendo o que é MASLD, por que o câncer da gordura escapa do rastreio e o que dizer ao paciente.
 **Próximo episódio (gancho):** a bactéria da gengiva dentro do tumor de intestino (colorretal — a escrever).
@@ -20,7 +20,7 @@ Gengiva que sangra pode ter alguma coisa a ver com câncer de fígado?
 
 Uma coorte sueca acompanhou quase seis milhões de pessoas:
 
-quem tinha periodontite teve 25% mais câncer de fígado.
+quem tinha periodontite teve 25% mais risco de câncer de fígado.
 
 > 🎬 Primeira página do *J Clin Periodontol*. Contador subindo até **5.893.325**. Número: **+25%**.
 
@@ -42,7 +42,7 @@ Só que não.
 
 Um estudo sozinho pode enganar. Por isso existe a metanálise: juntar vários.
 
-Dezenove estudos, dezesseis milhões de pessoas: o aumento não era de 25%.
+Dezenove estudos, dezesseis milhões de pessoas: o aumento de risco não era de 25%.
 
 Era de 9%.
 
@@ -52,15 +52,15 @@ Era de 9%.
 
 Aí entra um estudo mais esperto.
 
-Tem gente que nasce com genes que facilitam a periodontite.
+Tem gente que nasce com variantes genéticas que aumentam a suscetibilidade à periodontite.
 
-Ninguém escolhe esses genes. Eles são sorteados na concepção.
+Ninguém escolhe essas variantes. Elas são sorteadas na concepção.
 
-E não têm nada a ver com cigarro, álcool ou comida.
+E não dependem de tabagismo, álcool ou dieta.
 
 Esse desenho se chama randomização mendeliana. E permite perguntar:
 
-quem tirou os genes da periodontite no sorteio tem mais câncer de fígado?
+quem tirou essas variantes no sorteio tem mais câncer de fígado?
 
 Se a gengiva causasse o câncer, deveria ter.
 
@@ -100,15 +100,15 @@ Mas a frase sobreviveu. E explica este caso.
 
 **[A VIRADA]**
 
-E se a gengiva e o fígado não estiverem conversando entre si…
+Mas e se a gengiva e o fígado estivessem mais conectados do que parece…
 
-mas respondendo ao mesmo terreno?
+não um causando o outro, mas os dois respondendo ao mesmo terreno?
 
-Cigarro. Álcool. Glicemia alta. Gordura abdominal.
+Tabagismo. Álcool. Hiperglicemia. Obesidade abdominal.
 
 Os quatro inflamam a gengiva.
 
-Os quatro adoecem o fígado.
+E os quatro também impactam o fígado.
 
 > 🎬 Quatro ícones no centro, com setas para as duas pontas: GENGIVA e FÍGADO. A seta direta entre gengiva e fígado fica tracejada.
 
@@ -118,9 +118,9 @@ Portanto, a gengiva talvez não seja a causa.
 
 Mas pode ser a janela.
 
-Do outro lado dela, a causa de câncer de fígado que mais cresce no mundo: gordura no fígado — a doença hepática esteatótica metabólica, a MASLD.
+Do outro lado dela, a causa de câncer de fígado que mais cresce no mundo: a esteatose hepática — hoje chamada de MASLD.
 
-Já são quase um em cada três adultos.
+A prevalência já chega a quase um em cada três adultos.
 
 > 🎬 Uma janela se abre na gengiva e mostra um fígado amarelado. Lettering: **MASLD — doença hepática esteatótica associada à disfunção metabólica** (o antigo "esteatose"). **~1 em 3** · **44% na América Latina**.
 
@@ -128,7 +128,7 @@ Já são quase um em cada três adultos.
 
 E esse câncer — o carcinoma hepatocelular — nem sempre espera a cirrose: quase quatro em cada dez aparecem sem ela.
 
-Só um em cada três estava em rastreamento.
+Só um em cada três estava em rastreamento antes do diagnóstico.
 
 É o paciente que ninguém está olhando.
 
@@ -146,11 +146,11 @@ Ninguém provou que tratar a gengiva previne câncer de fígado.
 
 **[O QUE MUDA AMANHÃ]**
 
-Periodontite com obesidade abdominal, glicemia alta ou álcool? Pergunte: "Já olhou o seu fígado?"
+Periodontite com obesidade abdominal, hiperglicemia ou consumo de álcool? Pergunte: "Já olhou o seu fígado?"
 
-Perda de peso involuntária. Olho amarelado — o que chamamos de icterícia. Abdome crescendo, que pode ser ascite. Qualquer um desses: gastroenterologista.
+Perda de peso involuntária, icterícia, ascite: gastroenterologista.
 
-Para o paciente: se mexer, perder peso, beber menos. E vacina de hepatite B em dia — a primeira da história a prevenir um câncer.
+Para o paciente: atividade física, perda de peso, menos álcool. E vacina de hepatite B em dia — a primeira da história a prevenir um câncer.
 
 > 🎬 Lista com as letras da ROTA no canto. Sinais de alarme com o termo técnico em destaque: **PERDA DE PESO INVOLUNTÁRIA** · **ICTERÍCIA** (esclera amarelada) · **ASCITE** (abdome crescendo). Depois, ícones com o número ao lado: tênis **−27% (observacional)** · balança **−10% do peso → esteato-hepatite resolvida em 9 de 10** · copo riscado **álcool pesado = 2× o risco** · seringa **hepatite B: −69% de CHC nos vacinados**.
 
@@ -176,7 +176,7 @@ E ela viaja com o câncer.
 
 ---
 
-**Narração:** cerca de 480 palavras, perto de 2 min 50 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
+**Narração:** cerca de 480 palavras, perto de 2 min 52 s, com as pausas das quebras. Os números do "o que muda amanhã" ficam na tela, não na fala.
 
 **Corte de 90 s:** manter PERGUNTA, PISTA, MICROEPIFANIA, QUEBRA, SEGUNDA MICROEPIFANIA (só as três últimas linhas: a pergunta do sorteio, "deveria ter", "não tem"), QUESTIONAMENTO, VIRADA, SELO, FRASE e GANCHO. Condensar a CURIOSIDADE em duas linhas ("Pasteur dizia: o micróbio. Bernard: o terreno.") e mover O QUE NINGUÉM TE CONTOU e O QUE MUDA AMANHÃ para a legenda e o carrossel.
 
@@ -283,12 +283,12 @@ E ela viaja com o câncer.
 >
 > Um estudo sueco com quase 6 milhões de pessoas viu 25% mais câncer de fígado em quem tinha periodontite. Caso resolvido? Não: juntando 19 estudos, o aumento cai para ~9%. E nos estudos genéticos — que comparam quem nasceu com genes que favorecem a periodontite, sorteados ao acaso e sem relação com cigarro ou álcool — nenhum efeito sobre o fígado.
 >
-> Talvez a pergunta esteja errada. Gengiva e fígado podem estar respondendo ao mesmo terreno — cigarro, álcool, açúcar, barriga. A gengiva não é a causa. É a janela.
+> Talvez a pergunta esteja errada. Gengiva e fígado podem estar respondendo ao mesmo terreno — tabagismo, álcool, hiperglicemia, obesidade abdominal. A gengiva não é a causa. É a janela.
 >
 > E do outro lado da janela está a gordura no fígado (MASLD): ~1 em 3 adultos no mundo, 44% na América Latina. O câncer de fígado da gordura aparece sem cirrose em quase 4 de cada 10 — e só 1 em 3 estava sendo rastreado.
 >
-> 🔎 Periodontite + barriga, glicemia alta ou álcool → "já olhou o seu fígado?"
-> 🚩 Emagrecimento sem dieta, icterícia, abdome crescendo → gastroenterologista
+> 🔎 Periodontite + obesidade abdominal, hiperglicemia ou álcool → "já olhou o seu fígado?"
+> 🚩 Perda de peso involuntária, icterícia, ascite → gastroenterologista
 > 🩸 Hepatopata vai extrair? Plaquetas e INR antes
 > 🏃 Mexer o corpo: ~27% menos câncer de fígado (observacional)
 > ⚖️ Perder 10% do peso: esteato-hepatite resolvida em 9 de 10
@@ -394,7 +394,7 @@ Só a narração, sem rótulos nem indicações de cena. Números por extenso, u
 Gengiva que sangra pode ter alguma coisa a ver com câncer de fígado?
 
 Uma coorte sueca acompanhou quase seis milhões de pessoas.
-Quem tinha periodontite teve vinte e cinco por cento mais câncer de fígado.
+Quem tinha periodontite teve vinte e cinco por cento mais risco de câncer de fígado.
 
 E faz sentido.
 Tudo o que o intestino absorve passa primeiro pelo fígado, pela veia porta.
@@ -406,17 +406,17 @@ Só que não.
 Um estudo sozinho pode enganar.
 Por isso existe a metanálise: juntar vários.
 Dezenove estudos, dezesseis milhões de pessoas.
-O aumento não era de vinte e cinco por cento.
+O aumento de risco não era de vinte e cinco por cento.
 Era de nove.
 
 Aí entra um estudo mais esperto.
-Tem gente que nasce com genes que facilitam a periodontite.
-Ninguém escolhe esses genes.
-Eles são sorteados na concepção.
-E não têm nada a ver com cigarro, álcool ou comida.
+Tem gente que nasce com variantes genéticas que aumentam a suscetibilidade à periodontite.
+Ninguém escolhe essas variantes.
+Elas são sorteadas na concepção.
+E não dependem de tabagismo, álcool ou dieta.
 Esse desenho se chama randomização mendeliana.
 E permite perguntar:
-quem tirou os genes da periodontite no sorteio tem mais câncer de fígado?
+quem tirou essas variantes no sorteio tem mais câncer de fígado?
 Se a gengiva causasse o câncer, deveria ter.
 Não tem.
 
@@ -437,22 +437,22 @@ Provavelmente ele nunca disse isso.
 Mas a frase sobreviveu.
 E explica este caso.
 
-E se a gengiva e o fígado não estiverem conversando entre si...
-mas respondendo ao mesmo terreno?
-Cigarro. Álcool. Glicemia alta. Gordura abdominal.
+Mas e se a gengiva e o fígado estivessem mais conectados do que parece...
+não um causando o outro, mas os dois respondendo ao mesmo terreno?
+Tabagismo. Álcool. Hiperglicemia. Obesidade abdominal.
 Os quatro inflamam a gengiva.
-Os quatro adoecem o fígado.
+E os quatro também impactam o fígado.
 
 Portanto, a gengiva talvez não seja a causa.
 Mas pode ser a janela.
 Do outro lado dela, a causa de câncer de fígado que mais cresce no mundo:
-gordura no fígado.
-A doença hepática esteatótica metabólica. A MASLD.
-Já são quase um em cada três adultos.
+a esteatose hepática.
+Hoje chamada de MASLD.
+A prevalência já chega a quase um em cada três adultos.
 
 E esse câncer, o carcinoma hepatocelular, nem sempre espera a cirrose.
 Quase quatro em cada dez aparecem sem ela.
-Só um em cada três estava em rastreamento.
+Só um em cada três estava em rastreamento antes do diagnóstico.
 É o paciente que ninguém está olhando.
 Talvez ele esteja na sua cadeira.
 Com a gengiva sangrando.
@@ -460,13 +460,10 @@ Com a gengiva sangrando.
 Às vezes, andam juntas.
 Ninguém provou que tratar a gengiva previne câncer de fígado.
 
-Periodontite com obesidade abdominal, glicemia alta ou álcool?
+Periodontite com obesidade abdominal, hiperglicemia ou consumo de álcool?
 Pergunte: já olhou o seu fígado?
-Perda de peso involuntária.
-Olho amarelado, o que chamamos de icterícia.
-Abdome crescendo, que pode ser ascite.
-Qualquer um desses: gastroenterologista.
-Para o paciente: se mexer, perder peso, beber menos.
+Perda de peso involuntária, icterícia, ascite: gastroenterologista.
+Para o paciente: atividade física, perda de peso, menos álcool.
 E vacina de hepatite B em dia.
 A primeira da história a prevenir um câncer.
 

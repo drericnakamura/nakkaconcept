@@ -20,7 +20,7 @@
 
 ## Qual é qual · EP01 — O fígado escuta a gengiva?
 
-Duração: ~2 min 50 s · 59% da fala no rosto
+Duração: ~2 min 52 s · 58% da fala no rosto
 
 🎥 **ROSTO** · a pergunta
 
@@ -29,7 +29,7 @@ Gengiva que sangra pode ter alguma coisa a ver com câncer de fígado?
 🎙️ **OFF** · a pista
 
 Uma coorte sueca acompanhou quase seis milhões de pessoas:  
-quem tinha periodontite teve 25% mais câncer de fígado.  
+quem tinha periodontite teve 25% mais risco de câncer de fígado.  
 
 🎙️ **OFF** · a microepifania
 
@@ -48,17 +48,17 @@ Só que não.
 🎙️ **OFF** · a quebra
 
 Um estudo sozinho pode enganar. Por isso existe a metanálise: juntar vários.  
-Dezenove estudos, dezesseis milhões de pessoas: o aumento não era de 25%.  
+Dezenove estudos, dezesseis milhões de pessoas: o aumento de risco não era de 25%.  
 Era de 9%.  
 
 🎙️ **OFF** · a segunda microepifania
 
 Aí entra um estudo mais esperto.  
-Tem gente que nasce com genes que facilitam a periodontite.  
-Ninguém escolhe esses genes. Eles são sorteados na concepção.  
-E não têm nada a ver com cigarro, álcool ou comida.  
+Tem gente que nasce com variantes genéticas que aumentam a suscetibilidade à periodontite.  
+Ninguém escolhe essas variantes. Elas são sorteadas na concepção.  
+E não dependem de tabagismo, álcool ou dieta.  
 Esse desenho se chama randomização mendeliana. E permite perguntar:  
-quem tirou os genes da periodontite no sorteio tem mais câncer de fígado?  
+quem tirou essas variantes no sorteio tem mais câncer de fígado?  
 Se a gengiva causasse o câncer, deveria ter.  
 Não tem.  
 
@@ -81,23 +81,23 @@ Mas a frase sobreviveu. E explica este caso.
 
 🎥 **ROSTO** · a virada
 
-E se a gengiva e o fígado não estiverem conversando entre si…  
-mas respondendo ao mesmo terreno?  
-Cigarro. Álcool. Glicemia alta. Gordura abdominal.  
+Mas e se a gengiva e o fígado estivessem mais conectados do que parece…  
+não um causando o outro, mas os dois respondendo ao mesmo terreno?  
+Tabagismo. Álcool. Hiperglicemia. Obesidade abdominal.  
 Os quatro inflamam a gengiva.  
-Os quatro adoecem o fígado.  
+E os quatro também impactam o fígado.  
 
 🎥 **ROSTO** · o portanto
 
 Portanto, a gengiva talvez não seja a causa.  
 Mas pode ser a janela.  
-Do outro lado dela, a causa de câncer de fígado que mais cresce no mundo: gordura no fígado — a doença hepática esteatótica metabólica, a MASLD.  
-Já são quase um em cada três adultos.  
+Do outro lado dela, a causa de câncer de fígado que mais cresce no mundo: a esteatose hepática — hoje chamada de MASLD.  
+A prevalência já chega a quase um em cada três adultos.  
 
 🎥 **ROSTO** · o que ninguém te contou
 
 E esse câncer — o carcinoma hepatocelular — nem sempre espera a cirrose: quase quatro em cada dez aparecem sem ela.  
-Só um em cada três estava em rastreamento.  
+Só um em cada três estava em rastreamento antes do diagnóstico.  
 É o paciente que ninguém está olhando.  
 Talvez ele esteja na sua cadeira. Com a gengiva sangrando.  
 
@@ -108,9 +108,9 @@ Ninguém provou que tratar a gengiva previne câncer de fígado.
 
 🎥 **ROSTO** · o que muda amanhã
 
-Periodontite com obesidade abdominal, glicemia alta ou álcool? Pergunte: "Já olhou o seu fígado?"  
-Perda de peso involuntária. Olho amarelado — o que chamamos de icterícia. Abdome crescendo, que pode ser ascite. Qualquer um desses: gastroenterologista.  
-Para o paciente: se mexer, perder peso, beber menos. E vacina de hepatite B em dia — a primeira da história a prevenir um câncer.  
+Periodontite com obesidade abdominal, hiperglicemia ou consumo de álcool? Pergunte: "Já olhou o seu fígado?"  
+Perda de peso involuntária, icterícia, ascite: gastroenterologista.  
+Para o paciente: atividade física, perda de peso, menos álcool. E vacina de hepatite B em dia — a primeira da história a prevenir um câncer.  
 
 🎥 **ROSTO** · a frase
 

@@ -145,7 +145,8 @@ conferidos) está no histórico do git, no commit `bd5fdb3`.
 8. **Número sem fonte não entra.** Todo número da narração e da tela está nas fontes no fim do arquivo, com PMID ou o documento oficial de onde saiu.
 9. **Termo técnico entra — sempre com a tradução do lado.** "Olho amarelado — o que chamamos de icterícia." "Abdome crescendo, que pode ser ascite." "Juntar vários estudos — o que chamamos de metanálise." O leigo entende, o especialista reconhece o vocabulário e a série ganha credibilidade. Alterne a ordem (termo → tradução, tradução → termo), use no máximo um termo novo por batida e repita o termo em lettering na tela.
 10. **Termos atualizados.** DHGNA/NASH agora é MASLD/MASH (nomenclatura de 2023). Usar o termo novo e dizer o antigo uma vez.
-11. **Um conceito por vez.** Se a batida precisa explicar dois tipos de estudo, ela vira duas batidas. Três dados numa linha confundem (lição da QUEBRA do EP01).
+11. **Tom amigável, vocabulário clínico.** O jeito de falar é de conversa entre colegas, mas a palavra é a do prontuário: hiperglicemia (não "glicemia alta"), tabagismo, obesidade abdominal, risco, prevalência, variantes genéticas, rastreamento, icterícia, ascite. A tradução leiga vai para o lettering da tela, e só entra na fala quando o termo é pouco conhecido fora da área (randomização mendeliana, recaptação).
+12. **Um conceito por vez.** Se a batida precisa explicar dois tipos de estudo, ela vira duas batidas. Três dados numa linha confundem (lição da QUEBRA do EP01).
 
 ---
 

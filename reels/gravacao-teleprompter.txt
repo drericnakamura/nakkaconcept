@@ -5,7 +5,7 @@ Gengiva que sangra pode ter alguma coisa a ver com câncer de fígado?
 
 [OFF]
 Uma coorte sueca acompanhou quase seis milhões de pessoas:
-quem tinha periodontite teve 25% mais câncer de fígado.
+quem tinha periodontite teve 25% mais risco de câncer de fígado.
 
 [OFF]
 E faz sentido.
@@ -20,16 +20,16 @@ Só que não.
 
 [OFF]
 Um estudo sozinho pode enganar. Por isso existe a metanálise: juntar vários.
-Dezenove estudos, dezesseis milhões de pessoas: o aumento não era de 25%.
+Dezenove estudos, dezesseis milhões de pessoas: o aumento de risco não era de 25%.
 Era de 9%.
 
 [OFF]
 Aí entra um estudo mais esperto.
-Tem gente que nasce com genes que facilitam a periodontite.
-Ninguém escolhe esses genes. Eles são sorteados na concepção.
-E não têm nada a ver com cigarro, álcool ou comida.
+Tem gente que nasce com variantes genéticas que aumentam a suscetibilidade à periodontite.
+Ninguém escolhe essas variantes. Elas são sorteadas na concepção.
+E não dependem de tabagismo, álcool ou dieta.
 Esse desenho se chama randomização mendeliana. E permite perguntar:
-quem tirou os genes da periodontite no sorteio tem mais câncer de fígado?
+quem tirou essas variantes no sorteio tem mais câncer de fígado?
 Se a gengiva causasse o câncer, deveria ter.
 Não tem.
 
@@ -49,21 +49,21 @@ Provavelmente ele nunca disse isso.
 Mas a frase sobreviveu. E explica este caso.
 
 [ROSTO]
-E se a gengiva e o fígado não estiverem conversando entre si…
-mas respondendo ao mesmo terreno?
-Cigarro. Álcool. Glicemia alta. Gordura abdominal.
+Mas e se a gengiva e o fígado estivessem mais conectados do que parece…
+não um causando o outro, mas os dois respondendo ao mesmo terreno?
+Tabagismo. Álcool. Hiperglicemia. Obesidade abdominal.
 Os quatro inflamam a gengiva.
-Os quatro adoecem o fígado.
+E os quatro também impactam o fígado.
 
 [ROSTO]
 Portanto, a gengiva talvez não seja a causa.
 Mas pode ser a janela.
-Do outro lado dela, a causa de câncer de fígado que mais cresce no mundo: gordura no fígado — a doença hepática esteatótica metabólica, a MASLD.
-Já são quase um em cada três adultos.
+Do outro lado dela, a causa de câncer de fígado que mais cresce no mundo: a esteatose hepática — hoje chamada de MASLD.
+A prevalência já chega a quase um em cada três adultos.
 
 [ROSTO]
 E esse câncer — o carcinoma hepatocelular — nem sempre espera a cirrose: quase quatro em cada dez aparecem sem ela.
-Só um em cada três estava em rastreamento.
+Só um em cada três estava em rastreamento antes do diagnóstico.
 É o paciente que ninguém está olhando.
 Talvez ele esteja na sua cadeira. Com a gengiva sangrando.
 
@@ -72,9 +72,9 @@ Talvez ele esteja na sua cadeira. Com a gengiva sangrando.
 Ninguém provou que tratar a gengiva previne câncer de fígado.
 
 [ROSTO]
-Periodontite com obesidade abdominal, glicemia alta ou álcool? Pergunte: "Já olhou o seu fígado?"
-Perda de peso involuntária. Olho amarelado — o que chamamos de icterícia. Abdome crescendo, que pode ser ascite. Qualquer um desses: gastroenterologista.
-Para o paciente: se mexer, perder peso, beber menos. E vacina de hepatite B em dia — a primeira da história a prevenir um câncer.
+Periodontite com obesidade abdominal, hiperglicemia ou consumo de álcool? Pergunte: "Já olhou o seu fígado?"
+Perda de peso involuntária, icterícia, ascite: gastroenterologista.
+Para o paciente: atividade física, perda de peso, menos álcool. E vacina de hepatite B em dia — a primeira da história a prevenir um câncer.
 
 [ROSTO]
 A boca faz parte da saúde do paciente.
