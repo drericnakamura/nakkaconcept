@@ -1,0 +1,425 @@
+{
+ "version": "v3 — abre enquanto escova",
+ "steps": [
+  {
+   "t": "0–5 s",
+   "teeth": "Dentes de trás (molares)",
+   "face": "Por fora — lado da bochecha",
+   "move": "Bolinhas",
+   "cue": "Start with the big back teeth — outside!"
+  },
+  {
+   "t": "5–10 s",
+   "teeth": "Dentes da frente",
+   "face": "Por fora",
+   "move": "Bolinhas",
+   "cue": "Now the front teeth — little circles!"
+  },
+  {
+   "t": "10–15 s",
+   "teeth": "Dentes de trás",
+   "face": "Por dentro — lado da língua (em cima: céu da boca)",
+   "move": "Bolinhas",
+   "cue": "Now the back side — inside!"
+  },
+  {
+   "t": "15–20 s",
+   "teeth": "Dentes da frente",
+   "face": "Por dentro",
+   "move": "Escova em pé, sobe e desce",
+   "cue": "Inside the front teeth — up and down!"
+  },
+  {
+   "t": "20–25 s",
+   "teeth": "Molares",
+   "face": "Em cima — onde mastiga",
+   "move": "Vai e vem",
+   "cue": "Now the chewing tops — scrub, scrub!"
+  },
+  {
+   "t": "25–30 s",
+   "teeth": "Todo o quadrante",
+   "face": "Acabamento",
+   "move": "Bolinhas leves + 3-2-1",
+   "cue": "Sparkle finish… 3, 2, 1!"
+  }
+ ],
+ "fairies": [
+  {
+   "id": "bravi",
+   "name": "Bravi",
+   "story": "The Castle of Courage",
+   "device": "Cada missão é algo preso que vai se soltando enquanto a criança escova: a cada 5 s dá um salto visível, com som, e entre os saltos o próximo pedaço treme e a luz cresce.",
+   "quadrants": [
+    {
+     "q": "TOP · RIGHT",
+     "time": "0:00–0:30",
+     "title": "A porta escondida",
+     "img": "bravi_12.jpg",
+     "beats": [
+      {
+       "at": "0:00",
+       "see": "O castelo aparece, a Bravi chega voando e a câmera fecha na porta da torre direita, presa por 5 cadeados-coração.",
+       "vo": "Four magic doors are locked! Help Bravi — start with the big back teeth, outside!"
+      },
+      {
+       "at": "0:05",
+       "see": "Cadeado 1 salta. A porta abre uma fresta e escapa luz.",
+       "vo": "One lock! Now the front teeth — little circles!"
+      },
+      {
+       "at": "0:10",
+       "see": "Cadeado 2. A fresta aumenta.",
+       "vo": "Now the back side — inside, by the roof of your mouth!"
+      },
+      {
+       "at": "0:15",
+       "see": "Cadeado 3. A luz já ilumina a sacada.",
+       "vo": "Inside the front teeth — up and down!"
+      },
+      {
+       "at": "0:20",
+       "see": "Cadeado 4. A porta range e treme.",
+       "vo": "Now the chewing tops — scrub, scrub!"
+      },
+      {
+       "at": "0:25",
+       "see": "Cadeado 5. A porta está quase aberta. Contagem 3-2-1.",
+       "vo": "Sparkle finish… 3, 2, 1!"
+      }
+     ],
+     "payoff": "0:30 — a porta escancara e sai uma chave dourada.",
+     "mechanic": "A porta da torre está presa por 5 cadeados-coração. A cada 5 s um cadeado salta e a porta abre mais uma fresta, com mais luz vazando.",
+     "strip": "strip_bravi_q1.jpg"
+    },
+    {
+     "q": "TOP · LEFT",
+     "time": "0:30–1:00",
+     "title": "A chave dourada",
+     "img": "bravi_45.jpg",
+     "beats": [
+      {
+       "at": "0:30",
+       "see": "A chave voa até a torre esquerda e a Bravi vai atrás. A porta está coberta de cipós.",
+       "vo": "A golden key! Follow it to the other side — back teeth, outside!"
+      },
+      {
+       "at": "0:35",
+       "see": "Cipó 1 se solta e vira flor.",
+       "vo": "The vines let go! Front teeth now."
+      },
+      {
+       "at": "0:40",
+       "see": "Cipó 2 se solta.",
+       "vo": "The back side — inside!"
+      },
+      {
+       "at": "0:45",
+       "see": "Cipó 3; a porta começa a aparecer.",
+       "vo": "Inside the front teeth — up and down!"
+      },
+      {
+       "at": "0:50",
+       "see": "Cipó 4.",
+       "vo": "Chewing tops — scrub like a hero!"
+      },
+      {
+       "at": "0:55",
+       "see": "O último cipó cai; a chave entra na fechadura e começa a girar. Contagem 3-2-1.",
+       "vo": "Turn the key… 3, 2, 1!"
+      }
+     ],
+     "payoff": "1:00 — a porta abre e aparece o Escudo da Coragem, preso numa crosta de pedra.",
+     "mechanic": "A porta da torre esquerda está presa por cipós encantados. A cada 5 s um cipó se solta e vira flor.",
+     "strip": "strip_bravi_q2.jpg"
+    },
+    {
+     "q": "BOTTOM · LEFT",
+     "time": "1:00–1:30",
+     "title": "O Escudo da Coragem",
+     "img": "bravi_75.jpg",
+     "beats": [
+      {
+       "at": "1:00",
+       "see": "O escudo desce até o portão da esquerda, todo coberto de pedra e dormindo (“zzz”).",
+       "vo": "The Courage Shield is stuck in stone! Bottom teeth now — back teeth, outside."
+      },
+      {
+       "at": "1:05",
+       "see": "Aparecem rachaduras e caem os 2 primeiros pedaços.",
+       "vo": "Shiny! Now the front teeth."
+      },
+      {
+       "at": "1:10",
+       "see": "Mais 2 pedaços caem; as asinhas douradas aparecem.",
+       "vo": "Now the back side — inside, by your tongue!"
+      },
+      {
+       "at": "1:15",
+       "see": "Aparece o coração do escudo.",
+       "vo": "Inside the front teeth — up and down!"
+      },
+      {
+       "at": "1:20",
+       "see": "O “zzz” para: o escudo acordou.",
+       "vo": "Chewing tops — scrub, scrub!"
+      },
+      {
+       "at": "1:25",
+       "see": "Restam os últimos pedacinhos; tudo treme. Contagem 3-2-1.",
+       "vo": "Break free, shield… 3, 2, 1!"
+      }
+     ],
+     "payoff": "1:30 — a crosta quebra inteira, o escudo brilha e o raio de luz abre o portão.",
+     "mechanic": "O escudo está preso numa crosta de pedra. A cada 5 s racha e cai um pedaço, e o dourado aparece por baixo.",
+     "strip": "strip_bravi_q3.jpg"
+    },
+    {
+     "q": "BOTTOM · RIGHT",
+     "time": "1:30–2:00",
+     "title": "A última porta",
+     "img": "bravi_105.jpg",
+     "beats": [
+      {
+       "at": "1:30",
+       "see": "A Bravi voa até o último portão, fechado por uma grade; o escudo ilumina de cima.",
+       "vo": "Just one door left! The other side — back teeth, outside!"
+      },
+      {
+       "at": "1:35",
+       "see": "A grade sobe um degrau; acendem as janelas da torre esquerda.",
+       "vo": "The castle is waking up! Front teeth now."
+      },
+      {
+       "at": "1:40",
+       "see": "Mais um degrau; janelas da torre direita.",
+       "vo": "The back side — inside!"
+      },
+      {
+       "at": "1:45",
+       "see": "Mais um; janelas do meio, os passarinhos cantam.",
+       "vo": "Inside the front teeth — up and down!"
+      },
+      {
+       "at": "1:50",
+       "see": "Mais um; a luz do portão já aparece por baixo.",
+       "vo": "Last part — the chewing tops!"
+      },
+      {
+       "at": "1:55",
+       "see": "A grade está quase toda em cima. Contagem 3-2-1.",
+       "vo": "You're doing amazing… 3, 2, 1!"
+      }
+     ],
+     "payoff": "2:00 — começa a recompensa: a grade sobe de vez, o portão abre e o castelo acende.",
+     "mechanic": "O último portão tem uma grade. A cada 5 s ela sobe um degrau, a luz aparece por baixo e acendem mais janelas do castelo.",
+     "strip": "strip_bravi_q4.jpg"
+    }
+   ],
+   "reward": {
+    "img": "bravi_123_6.jpg",
+    "see": "O último portão abre, o castelo acende inteiro, fogos suaves. O Selo da Coragem carimba na tela e a Bravi comemora.",
+    "vo": "You did it! Being brave means trying, even when something feels new!"
+   }
+  },
+  {
+   "id": "lumi",
+   "name": "Lumi",
+   "story": "The Four Lost Stars",
+   "device": "Cada estrela está presa ou escondida e vai se libertando enquanto a criança escova: a cada 5 s um pedaço se abre ou quebra, com som, e entre os saltos a estrela brilha cada vez mais.",
+   "quadrants": [
+    {
+     "q": "TOP · RIGHT",
+     "time": "0:00–0:30",
+     "title": "As estrelas perdidas",
+     "img": "lumi_12.jpg",
+     "beats": [
+      {
+       "at": "0:00",
+       "see": "Céu noturno; a Lumi chega. A constelação em forma de dente tem 4 buracos e uma nuvenzinha brilha por dentro.",
+       "vo": "Oh no — four stars are lost! Let's find the first one: big back teeth, outside!"
+      },
+      {
+       "at": "0:05",
+       "see": "O tufo de cima sai voando; aparece a ponta da estrela.",
+       "vo": "A twinkle! Now the front teeth."
+      },
+      {
+       "at": "0:10",
+       "see": "Outro tufo; aparecem duas pontas.",
+       "vo": "Now the back side — inside, by the roof of your mouth!"
+      },
+      {
+       "at": "0:15",
+       "see": "O tufo da esquerda sai; a estrela abre os olhos.",
+       "vo": "Inside the front teeth — up and down!"
+      },
+      {
+       "at": "0:20",
+       "see": "O tufo da direita sai; o rostinho aparece inteiro.",
+       "vo": "Now the chewing tops — scrub, scrub!"
+      },
+      {
+       "at": "0:25",
+       "see": "O tufo do meio sai; ela está quase livre. Contagem 3-2-1.",
+       "vo": "Here it comes… 3, 2, 1!"
+      }
+     ],
+     "payoff": "0:30 — os últimos tufos se desfazem e a estrela 1 volta ao seu lugar.",
+     "mechanic": "A estrela está escondida numa nuvenzinha. A cada 5 s um tufo sai voando e a estrela aparece mais.",
+     "strip": "strip_lumi_q1.jpg"
+    },
+    {
+     "q": "TOP · LEFT",
+     "time": "0:30–1:00",
+     "title": "O rastro brilhante",
+     "img": "lumi_45.jpg",
+     "beats": [
+      {
+       "at": "0:30",
+       "see": "A estrela 1 deixa um rastro que se desenha até um cristal de gelo; a Lumi segue.",
+       "vo": "One star is home! Follow the trail to the other side — back teeth, outside!"
+      },
+      {
+       "at": "0:35",
+       "see": "Primeira rachadura, com faíscas de gelo.",
+       "vo": "A crack! Front teeth now."
+      },
+      {
+       "at": "0:40",
+       "see": "Segunda rachadura.",
+       "vo": "The back side — inside!"
+      },
+      {
+       "at": "0:45",
+       "see": "Terceira; a estrela lá dentro acorda.",
+       "vo": "Inside the front teeth — up and down!"
+      },
+      {
+       "at": "0:50",
+       "see": "Quarta; o cristal brilha por dentro.",
+       "vo": "Chewing tops — scrub, scrub!"
+      },
+      {
+       "at": "0:55",
+       "see": "Quinta; o cristal treme inteiro. Contagem 3-2-1.",
+       "vo": "The ice is breaking… 3, 2, 1!"
+      }
+     ],
+     "payoff": "1:00 — o cristal estoura em pedaços e a estrela 2 voa para o seu lugar.",
+     "mechanic": "A segunda estrela está congelada num cristal de gelo no fim do rastro. A cada 5 s aparece uma rachadura nova.",
+     "strip": "strip_lumi_q2.jpg"
+    },
+    {
+     "q": "BOTTOM · LEFT",
+     "time": "1:00–1:30",
+     "title": "O segredo da lua",
+     "img": "lumi_75.jpg",
+     "beats": [
+      {
+       "at": "1:00",
+       "see": "A Lumi desce até a lua, que está dormindo. Lá embaixo, uma nuvem-flor fechada.",
+       "vo": "Two stars! The moon has a secret… Bottom teeth — back teeth, outside."
+      },
+      {
+       "at": "1:05",
+       "see": "A lua boceja e acorda; abre a 1ª pétala.",
+       "vo": "The moon is waking up! Front teeth now."
+      },
+      {
+       "at": "1:10",
+       "see": "A lua cochicha o segredo para a Lumi; 2ª pétala.",
+       "vo": "The back side — inside, by your tongue!"
+      },
+      {
+       "at": "1:15",
+       "see": "A lua aponta com o luar para a flor; 3ª pétala.",
+       "vo": "Inside the front teeth — up and down!"
+      },
+      {
+       "at": "1:20",
+       "see": "4ª pétala; a estrela aparece lá dentro.",
+       "vo": "A petal opens! Chewing tops — scrub, scrub!"
+      },
+      {
+       "at": "1:25",
+       "see": "Última pétala. Contagem 3-2-1.",
+       "vo": "The flower is opening… 3, 2, 1!"
+      }
+     ],
+     "payoff": "1:30 — a flor abre inteira e a estrela 3 sobe para o seu lugar.",
+     "mechanic": "Debaixo da lua há uma nuvem-flor fechada. A cada 5 s abre uma pétala.",
+     "strip": "strip_lumi_q3.jpg"
+    },
+    {
+     "q": "BOTTOM · RIGHT",
+     "time": "1:30–2:00",
+     "title": "A constelação mágica",
+     "img": "lumi_105.jpg",
+     "beats": [
+      {
+       "at": "1:30",
+       "see": "Três estrelas brilham; no espaço vazio acende um miolo de luz.",
+       "vo": "Just one more star! The other side — back teeth, outside!"
+      },
+      {
+       "at": "1:35",
+       "see": "O 1º vaga-lume encaixa a 1ª ponta.",
+       "vo": "A piece of light! Front teeth now."
+      },
+      {
+       "at": "1:40",
+       "see": "2ª ponta.",
+       "vo": "The back side — inside!"
+      },
+      {
+       "at": "1:45",
+       "see": "3ª ponta.",
+       "vo": "Inside the front teeth — up and down!"
+      },
+      {
+       "at": "1:50",
+       "see": "4ª ponta.",
+       "vo": "Last part — the chewing tops!"
+      },
+      {
+       "at": "1:55",
+       "see": "5ª ponta: a estrela está montada. Contagem 3-2-1.",
+       "vo": "The sky is almost ready… 3, 2, 1!"
+      }
+     ],
+     "payoff": "2:00 — começa a recompensa: a estrela acende e a constelação se liga.",
+     "mechanic": "A última estrela é montada ponta por ponta. A cada 5 s um vaga-lume traz uma ponta, e dá para vê-lo chegando.",
+     "strip": "strip_lumi_q4.jpg"
+    }
+   ],
+   "reward": {
+    "img": "lumi_123_6.jpg",
+    "see": "A última estrela acende, as linhas da constelação se ligam e o céu cintila. O Selo da Luz das Estrelas carimba na tela e a Lumi comemora.",
+    "vo": "Wonderful! You helped Lumi bring every star home. Your smile is shining bright!"
+   }
+  }
+ ],
+ "decisions": [
+  {
+   "q": "As mecânicas",
+   "a": "Bravi: cadeados que saltam, cipós que soltam, pedra que quebra, grade que sobe. Lumi: nuvem que abre, gelo que racha, flor que abre, estrela montada. Dá para trocar qualquer uma, ou usar a mesma ideia nas quatro missões."
+  },
+  {
+   "q": "Ritmo",
+   "a": "Um salto a cada 5 s (6 por quadrante), com o próximo pedaço tremendo e a luz crescendo entre um salto e outro."
+  },
+  {
+   "q": "Ordem dentro do quadrante",
+   "a": "De trás para a frente: molares por fora → frente por fora → molares por dentro → frente por dentro → em cima dos molares → acabamento."
+  },
+  {
+   "q": "Quanto a narradora fala",
+   "a": "Uma fala curta (até ~3 s) em cada passo. Alternativa mais calma: falar só nos passos 1, 3 e 5."
+  },
+  {
+   "q": "Voz",
+   "a": "Continua provisória (Kokoro) até haver créditos na ElevenLabs."
+  }
+ ]
+}

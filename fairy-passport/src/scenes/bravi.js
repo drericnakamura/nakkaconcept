@@ -4,6 +4,7 @@
 'use strict';
 const L = require('../lib');
 const F = require('../fairy');
+const PR = require('../progress');
 const { TAU, clamp, lerp, inv, ease, rgba, glow, sparkle, hash, rng } = L;
 const { W, H, BRUSH } = require('../timeline');
 
@@ -339,21 +340,26 @@ function drawDoor(ctx, d, t, active, progress) {
   const openU = ease.outBack(clamp((t - d.open) / 1.0));
   const opened = t >= d.open;
   const since = t - d.open;
+  const tp = t - (d.open - 30);
+  // top-right door creaks open a little more at every step (one heart-lock pops each time)
+  const ajar = d.id === 'UR' ? (opened ? 5 : (tp > 0 ? PR.level(tp, 0.8, ease.out) : 0)) / 5 : 0;
+  const kAjar = 1 - 0.36 * ajar + (d.id === 'UR' && !opened ? Math.sin(t * 9) * 0.006 * ajar : 0);
   ctx.save();
-  // warm interior once open
-  if (opened) {
+  // warm interior once open (or peeking through the gap)
+  const inner = opened ? clamp(since / 0.3) : ajar * 0.9;
+  if (inner > 0) {
     archPath(ctx, d.x, d.by, d.w, d.h);
     const g = ctx.createLinearGradient(0, d.by - d.h, 0, d.by);
     g.addColorStop(0, '#FFF6D8'); g.addColorStop(1, '#FFC25A');
-    ctx.fillStyle = g; ctx.globalAlpha = clamp(since / 0.3); ctx.fill(); ctx.globalAlpha = 1;
-    glow(ctx, d.x, d.by - d.h * 0.45, d.h * 1.25, '#FFD76E', 0.55 * clamp(since / 0.4));
+    ctx.fillStyle = g; ctx.globalAlpha = inner; ctx.fill(); ctx.globalAlpha = 1;
+    glow(ctx, d.x, d.by - d.h * 0.45, d.h * 1.25, '#FFD76E', 0.55 * (opened ? clamp(since / 0.4) : ajar * 0.8));
   }
   // door leaves
   const leaves = d.double ? [{ hinge: d.x - d.w / 2, w: d.w / 2, dir: 1 }, { hinge: d.x + d.w / 2, w: d.w / 2, dir: -1 }] : [{ hinge: d.x - d.w / 2, w: d.w, dir: 1 }];
   ctx.save();
   archPath(ctx, d.x, d.by, d.w, d.h); ctx.clip();
   for (const lf of leaves) {
-    const k = opened ? clamp(1 - openU * 0.86, 0.08, 1) : 1;  // visible width fraction
+    const k = opened ? clamp(lerp(kAjar, 0.14, openU), 0.08, 1) : kAjar;  // visible width fraction
     const lw = lf.w * k;
     const x0 = lf.dir > 0 ? lf.hinge : lf.hinge - lw;
     const g = ctx.createLinearGradient(x0, 0, x0 + lw, 0);
@@ -411,27 +417,127 @@ function drawDoor(ctx, d, t, active, progress) {
     L.heartPath(ctx, lk.x, lk.y - 2 * s, 8 * s); ctx.fillStyle = '#5A2E2A'; ctx.fill();
     ctx.restore();
   }
-  // progress: golden light tracing the arch as the child brushes
-  if (active && !opened) {
-    const len = archLen(d);
+  if (d.id === 'UR') drawHeartLocks(ctx, d, t, tp, kAjar, opened, since);
+  if (d.id === 'UL') drawVines(ctx, d, t, tp, opened, since);
+  if (d.id === 'LR') drawPortcullis(ctx, d, t);
+  ctx.restore();
+}
+
+
+// ----- mission mechanics: something opens a little more at every step -----
+// 1 · five little heart-locks on the edge of the top-right door; one pops off every 5 s
+function drawHeartLocks(ctx, d, t, tp, kAjar, opened, since) {
+  if (opened && since > 1) return;
+  const edge = d.x - d.w / 2 + d.w * kAjar;
+  for (let i = 0; i < 5; i++) {
+    const y = d.by - d.h * (0.62 - i * 0.12);
+    const j = tp > 0 ? PR.jump(tp, i, 1.0, ease.out) : 0;
+    const an = tp > 0 ? PR.antic(tp, i) : 0;
+    const shake = Math.sin(t * 38 + i) * 2.5 * an;
+    const fly = opened ? 1 : j;
+    if (fly >= 1 && (tp - (i + 1) * 5) > 1.0 && !opened) continue;
+    const x = edge + shake + fly * 46, yy = y - fly * 70 + fly * fly * 40;
     ctx.save();
-    ctx.lineCap = 'round';
-    const pathAround = () => { ctx.beginPath(); ctx.moveTo(d.x - d.w / 2 - 8, d.by); ctx.lineTo(d.x - d.w / 2 - 8, d.by - d.h + d.w / 2); ctx.arc(d.x, d.by - d.h + d.w / 2, d.w / 2 + 8, Math.PI, 0); ctx.lineTo(d.x + d.w / 2 + 8, d.by); };
-    pathAround(); ctx.setLineDash([]); ctx.lineWidth = 9; ctx.strokeStyle = 'rgba(255,255,255,0.35)'; ctx.stroke();
-    pathAround(); ctx.setLineDash([len * 1.1 * progress, len * 2]); ctx.lineWidth = 13; ctx.strokeStyle = '#FFC93C'; ctx.stroke();
-    ctx.lineWidth = 5; ctx.strokeStyle = '#FFFBEA'; ctx.stroke();
+    ctx.globalAlpha = 1 - fly;
+    ctx.translate(x, yy); ctx.rotate(fly * 2.2 + shake * 0.02);
+    ctx.beginPath(); ctx.arc(0, -10, 7, Math.PI, 0); ctx.lineWidth = 3.5; ctx.strokeStyle = '#B98A2E'; ctx.stroke();
+    L.heartPath(ctx, 0, 1, 10); ctx.fillStyle = '#F7C548'; ctx.fill(); ctx.lineWidth = 2; ctx.strokeStyle = '#A8742A'; ctx.stroke();
+    ctx.beginPath(); ctx.arc(0, 0, 2.4, 0, TAU); ctx.fillStyle = '#7A4A20'; ctx.fill();
     ctx.restore();
-    for (let i = 0; i <= 12; i++) {             // little lights collected along the arch
-      const u = i / 12;
-      if (u > progress) break;
-      const q = pointOnArch(d, u);
-      glow(ctx, q.x, q.y, 26, '#FFD45C', 0.55 + 0.25 * Math.sin(t * 4 + i));
+    if (j > 0 && j < 1) for (let k = 0; k < 8; k++) { const a = (k / 8) * TAU; sparkle(ctx, edge + Math.cos(a) * (12 + j * 40), y + Math.sin(a) * (12 + j * 40), 8 * (1 - j), a, '#FFE08A', 1 - j); }
+    if (an > 0) glow(ctx, edge, y, 26, '#FFE08A', 0.6 * an);
+  }
+  // light leaking through the gap
+  if (tp > 0 && !opened) {
+    const aj = PR.level(tp, 0.8, ease.out) / 5;
+    if (aj > 0) glow(ctx, edge + 4, d.by - d.h * 0.45, 70 + aj * 60, '#FFE6A0', 0.35 + 0.4 * aj);
+  }
+}
+
+// 2 · flowering vines hold the top-left door; one strand lets go every 5 s
+const VINES = [
+  { a: [-1, 0.16], b: [1, 0.58], c: [0, 0.1] },
+  { a: [1, 0.12], b: [-1, 0.64], c: [0, 0.24] },
+  { a: [-1, 0.46], b: [1, 0.86], c: [0.1, 0.5] },
+  { a: [1, 0.42], b: [-1, 0.92], c: [-0.1, 0.46] },
+  { a: [-0.2, 1.08], b: [0.15, 0.04], c: [0.5, 0.55] },
+];
+function vinePoint(d, v, u, t, i, shake) {
+  const P = (q) => ({ x: d.x + q[0] * (d.w / 2 + 16), y: d.by - q[1] * d.h });
+  const A = P(v.a), B = P(v.b), Cc = P(v.c);
+  Cc.x += Math.sin(t * 1.6 + i) * 6 + shake; Cc.y += Math.cos(t * 1.3 + i) * 4;
+  const m = 1 - u;
+  return { x: m * m * A.x + 2 * m * u * Cc.x + u * u * B.x, y: m * m * A.y + 2 * m * u * Cc.y + u * u * B.y };
+}
+function drawVines(ctx, d, t, tp, opened, since) {
+  if (opened && since > 0.8) return;
+  const fade = opened ? 1 - since / 0.8 : 1;
+  VINES.forEach((v, i) => {
+    const j = tp > 0 ? PR.jump(tp, i, 1.1, ease.inOut) : 0;
+    const an = tp > 0 ? PR.antic(tp, i) : 0;
+    const shake = Math.sin(t * 30 + i) * 5 * an;
+    const vis = 1 - j;
+    ctx.save(); ctx.globalAlpha = fade;
+    if (vis > 0.01) {
+      const N = 24;
+      ctx.beginPath();
+      for (let k = 0; k <= N; k++) { const q = vinePoint(d, v, (k / N) * vis, t, i, shake); k ? ctx.lineTo(q.x, q.y) : ctx.moveTo(q.x, q.y); }
+      ctx.lineCap = 'round'; ctx.lineJoin = 'round';
+      ctx.lineWidth = 10; ctx.strokeStyle = '#3F7D45'; ctx.stroke();
+      ctx.lineWidth = 6; ctx.strokeStyle = '#6DB866'; ctx.stroke();
+      for (let k = 1; k < 9; k++) {
+        const u = k / 9;
+        if (u > vis) break;
+        const q = vinePoint(d, v, u, t, i, shake), q2 = vinePoint(d, v, u + 0.01, t, i, shake);
+        const ang = Math.atan2(q2.y - q.y, q2.x - q.x) + (k % 2 ? 1.2 : -1.2);
+        ctx.save(); ctx.translate(q.x, q.y); ctx.rotate(ang);
+        ctx.beginPath(); ctx.ellipse(9, 0, 10, 5, 0, 0, TAU); ctx.fillStyle = k % 3 ? '#7FCB72' : '#5FAE5A'; ctx.fill();
+        ctx.restore();
+        if (k % 3 === 1) { ctx.beginPath(); ctx.arc(q.x, q.y, 4, 0, TAU); ctx.fillStyle = '#E58BA8'; ctx.fill(); }
+      }
     }
-    // head of the trail
-    const pt = pointOnArch(d, progress);
-    sparkle(ctx, pt.x, pt.y, 16 + 4 * Math.sin(t * 9), t * 3, '#FFE38A', 1);
+    // when a strand lets go, a flower blooms where it was anchored
+    if (j > 0) {
+      const q = vinePoint(d, v, 0, t, i, 0);
+      const s = ease.outBack(clamp(j * 1.3));
+      ctx.translate(q.x, q.y); ctx.scale(s, s);
+      for (let k = 0; k < 5; k++) { const a = (k / 5) * TAU + i; ctx.beginPath(); ctx.ellipse(Math.cos(a) * 8, Math.sin(a) * 8, 8, 5.5, a, 0, TAU); ctx.fillStyle = '#FF9FB8'; ctx.fill(); }
+      ctx.beginPath(); ctx.arc(0, 0, 5, 0, TAU); ctx.fillStyle = '#FFD15C'; ctx.fill();
+    }
+    ctx.restore();
+    if (j > 0 && j < 1) { const q = vinePoint(d, v, vis, t, i, 0); sparkle(ctx, q.x, q.y, 14 * (1 - j), t, '#C8FFB0', 1 - j); }
+  });
+}
+
+// 4 · the portcullis of the last gate rises a notch every 5 s
+function drawPortcullis(ctx, d, t) {
+  const tp = t - 90;
+  const lv = tp > 0 ? PR.level(tp, 0.8, ease.outBack) : 0;
+  let up = 0.15 * lv;
+  if (t >= 120) up = lerp(0.75, 1.08, ease.inOut(clamp((t - 120) / 0.6)));
+  if (t < 120 && lv > 0) glow(ctx, d.x, d.by - d.h * 0.35, 70 + lv * 22, '#FFE6A0', 0.1 * lv);
+  const an = tp > 0 && t < 120 ? Math.max(...[0, 1, 2, 3, 4].map((i) => PR.antic(tp, i))) : 0;
+  const shake = Math.sin(t * 40) * 1.5 * an;
+  const off = up * d.h + shake;
+  ctx.save();
+  archPath(ctx, d.x, d.by, d.w + 12, d.h + 8); ctx.clip();
+  ctx.translate(0, -off);
+  ctx.strokeStyle = '#6B5547'; ctx.lineCap = 'round';
+  for (let x = d.x - d.w / 2; x <= d.x + d.w / 2 + 1; x += d.w / 6) {
+    ctx.lineWidth = 8; ctx.beginPath(); ctx.moveTo(x, d.by - d.h - 10); ctx.lineTo(x, d.by - 6); ctx.stroke();
+    ctx.beginPath(); ctx.moveTo(x - 5, d.by - 10); ctx.lineTo(x, d.by + 6); ctx.lineTo(x + 5, d.by - 10); ctx.fillStyle = '#E8B04A'; ctx.fill();
+  }
+  for (let y = d.by - 20; y > d.by - d.h - 10; y -= d.h / 5) {
+    ctx.lineWidth = 7; ctx.beginPath(); ctx.moveTo(d.x - d.w / 2 - 4, y); ctx.lineTo(d.x + d.w / 2 + 4, y); ctx.stroke();
+    for (let x = d.x - d.w / 2; x <= d.x + d.w / 2 + 1; x += d.w / 6) { ctx.beginPath(); ctx.arc(x, y, 3.2, 0, TAU); ctx.fillStyle = '#E8B04A'; ctx.fill(); }
   }
   ctx.restore();
+  // a puff of sparkles under the bars at every notch
+  if (tp > 0) for (let i = 0; i < 5; i++) {
+    const j = PR.jump(tp, i, 0.8, ease.out);
+    if (j <= 0 || j >= 1) continue;
+    for (let k = 0; k < 6; k++) sparkle(ctx, d.x - d.w / 2 + (k + 0.5) * d.w / 6, d.by - off + 6 - j * 20, 7 * (1 - j), k, '#FFE08A', 1 - j);
+  }
 }
 
 function pointOnArch(d, u) {
@@ -490,6 +596,9 @@ function braviState(t) {
     else if (tp > 21 && tp < 23) { expr = 'determined'; arms.r = 'reach'; }
     else if (tp > 26.6) { expr = 'wow'; arms.r = 'reach'; }
   }
+  // a little celebration every time a step completes (every 5 s)
+  const sb = tp % 5;
+  if (!flying && tp > 4.9 && sb < 0.9 && !(k > 0 && tp < 1.6)) { expr = 'joy'; arms = { l: 'hold', r: 'cheer' }; }
   if (t >= BRUSH) { expr = 'joy'; arms = { l: 'up', r: 'cheer' }; }
   // look toward the active target (in local space facing handles the flip)
   if (look.x !== 0) look = { x: (target.x > p.x ? 1 : -1) * facing * 0.9, y: target.y > p.y + 40 ? 0.6 : 0 };
@@ -532,46 +641,80 @@ const SHIELD_PATH = [
   { t: 120.0, x: 540, y: 1232 },
   { t: 121.2, x: 540, y: 1000 },
 ];
+// The Courage Shield is trapped in a stone crust; every 5 s a piece cracks off
+const CRUST = (() => {
+  const tl = PR.tiles(907, -78, -92, 156, 186, 3, 4, 0.6);
+  const order = tl.map((c, i) => i).sort((a, b) => tl[a].r - tl[b].r);
+  order.forEach((ci, n) => { tl[ci].fall = n < 10 ? 60 + 5 * (Math.floor(n / 2) + 1) : 90; });
+  return tl;
+})();
+function crustFill(ctx, c) {
+  const g = ctx.createLinearGradient(c.cx - 40, c.cy - 40, c.cx + 40, c.cy + 40);
+  g.addColorStop(0, '#C2B6AC'); g.addColorStop(1, '#8F837A');
+  ctx.fillStyle = g; ctx.fill();
+  const R = rng(Math.floor(c.r * 1e6));
+  for (let k = 0; k < 7; k++) { ctx.beginPath(); ctx.arc(c.cx + (R() - 0.5) * 40, c.cy + (R() - 0.5) * 40, 1.5 + R() * 3, 0, TAU); ctx.fillStyle = 'rgba(90,75,65,0.35)'; ctx.fill(); }
+}
 function drawCourageShield(ctx, t) {
   if (t < 60.3) return;
   const p = L.pathAt(SHIELD_PATH, t);
   const appear = ease.outBack(clamp((t - 60.3) / 1.1));
-  const wake = t < 60 ? 0 : t < 90 ? ease.sine(clamp((t - 60) / 30)) : 1;
+  const tp = t - 60;
+  const lv = t < 90 ? PR.level(tp, 0.9, ease.out) : 5;
+  const wake = t < 90 ? lv / 5 * 0.7 : 0.7 + 0.3 * clamp((t - 90) / 0.6);
   const sleep = 1 - wake;
   const hover = Math.sin(t * 1.9) * 9;
   const s = appear;
-  // sparkle dust gathering on the shield while it wakes
-  if (t > 64 && t < 90) {
-    for (let i = 0; i < 18; i++) {
-      const life = ((t * 0.55 + hash(i) ) % 1);
-      const a = hash(i * 7) * TAU;
-      const r = (1 - life) * 170;
-      sparkle(ctx, p.x + Math.cos(a) * r, p.y + hover + Math.sin(a) * r * 0.8, 6 + 6 * life, a, '#FFE08A', life * 0.9 * (0.4 + wake));
-    }
-  }
+  const cx = p.x, cy = p.y + hover;
   const burst = t >= 90 ? clamp(1 - (t - 90) / 1.6) : 0;
   if (burst > 0) {
-    glow(ctx, p.x, p.y, 420, '#FFE08A', 0.9 * burst);
+    glow(ctx, cx, cy, 420, '#FFE08A', 0.9 * burst);
     for (let i = 0; i < 16; i++) {
       const a = (i / 16) * TAU, r = 60 + (1 - burst) * 260;
-      sparkle(ctx, p.x + Math.cos(a) * r, p.y + Math.sin(a) * r, 14 * burst, a, '#FFE08A', burst);
+      sparkle(ctx, cx + Math.cos(a) * r, cy + Math.sin(a) * r, 14 * burst, a, '#FFE08A', burst);
     }
-    // beam to the gate lock
     const lk = DOORS[2].lock;
     ctx.save(); ctx.globalCompositeOperation = 'lighter'; ctx.globalAlpha = burst;
     ctx.lineCap = 'round'; ctx.lineWidth = 26; ctx.strokeStyle = 'rgba(255,220,120,0.5)';
-    ctx.beginPath(); ctx.moveTo(p.x, p.y + 60); ctx.lineTo(lk.x, lk.y); ctx.stroke();
+    ctx.beginPath(); ctx.moveTo(cx, cy + 60); ctx.lineTo(lk.x, lk.y); ctx.stroke();
     ctx.lineWidth = 8; ctx.strokeStyle = 'rgba(255,255,255,0.9)'; ctx.stroke();
     ctx.restore();
   }
-  // gentle zzz while still asleep
-  if (sleep > 0.4 && t > 61.5) {
+  // gentle zzz until it is mostly free
+  if (lv < 3.5 && t > 61.5) {
     for (let i = 0; i < 3; i++) {
       const life = ((t * 0.35 + i / 3) % 1);
-      L.text(ctx, 'z', p.x + 70 + life * 40 + i * 6, p.y - 70 - life * 70, { size: 26 + i * 6, weight: 700, color: `rgba(140,150,210,${(1 - life) * (sleep - 0.4) * 1.6})` });
+      L.text(ctx, 'z', cx + 70 + life * 40 + i * 6, cy - 70 - life * 70, { size: 26 + i * 6, weight: 700, color: `rgba(140,150,210,${(1 - life) * (1 - lv / 3.5)})` });
     }
   }
-  F.drawShield(ctx, p.x, p.y + hover, 150 * s, 172 * s, { ornate: true, sleep, glow: 0.2 + wake * 0.9, shine: wake > 0.5 ? ((t * 0.35) % 1.6) : undefined });
+  // the shield underneath gets brighter as the crust comes off
+  if (lv > 0) glow(ctx, cx, cy, 160 + lv * 20, '#FFE08A', 0.12 * lv);
+  F.drawShield(ctx, cx, cy, 150 * s, 172 * s, { ornate: true, sleep, glow: 0.15 + wake * 0.9, shine: t > 90 ? ((t * 0.35) % 1.6) : undefined });
+  // crust pieces: crack lines appear first, then the piece breaks off and falls
+  const shake = (() => { let a = 0; for (let i = 0; i < 5; i++) a = Math.max(a, PR.antic(tp, i)); return t < 90 ? Math.max(a, clamp((tp - 28.4) / 1.6)) : 0; })();
+  ctx.save();
+  ctx.translate(cx + Math.sin(t * 41) * 2.2 * shake, cy);
+  ctx.scale(s, s);
+  for (const c of CRUST) {
+    const since = t - c.fall;
+    if (since >= 1.2) continue;
+    const u = clamp(since / 1.2);
+    ctx.save();
+    if (u <= 0) { L.shieldPath(ctx, 0, 0, 158, 180); ctx.clip(); }
+    const dx = (c.cx) * 0.6 * u, dy = 260 * u * u;
+    ctx.translate(c.cx + dx, c.cy + dy); ctx.rotate((c.r - 0.5) * 2.4 * u); ctx.translate(-c.cx, -c.cy);
+    ctx.globalAlpha = 1 - u;
+    PR.polyPath(ctx, c.poly);
+    if (u > 0) { ctx.save(); L.shieldPath(ctx, 0, 0, 158, 180); ctx.clip(); PR.polyPath(ctx, c.poly); crustFill(ctx, c); ctx.restore(); }
+    else crustFill(ctx, c);
+    const crackA = clamp((t - (c.fall - 4)) / 3);
+    PR.polyPath(ctx, c.poly);
+    ctx.lineWidth = 2 + crackA * 2.5; ctx.strokeStyle = `rgba(70,55,48,${0.25 + 0.6 * crackA})`; ctx.stroke();
+    if (crackA > 0 && u <= 0) { ctx.lineWidth = 1.5; ctx.strokeStyle = `rgba(255,230,150,${0.6 * crackA})`; ctx.stroke(); }
+    ctx.restore();
+    if (u > 0 && u < 0.6) for (let k = 0; k < 6; k++) { const a = (k / 6) * TAU + c.r * 5; sparkle(ctx, c.cx + Math.cos(a) * (10 + u * 60), c.cy + Math.sin(a) * (10 + u * 60), 9 * (1 - u / 0.6), a, '#FFE08A', 1 - u / 0.6); }
+  }
+  ctx.restore();
 }
 
 // the magic toothbrush = the child's brushing inside the story
@@ -641,7 +784,8 @@ function draw(ctx, t) {
   flag(ctx, TOWER_L.apex, t, '#FF7F7A'); flag(ctx, TOWER_R.apex, t + 0.7, '#FFC14D'); flag(ctx, CTOWER.apex, t + 1.3, '#7FD3C4');
   ctx.drawImage(C.castle, 0, 0, W, H);
   // windows light up during the final mission, then all at once at 2:00
-  const lit = (i) => clamp((t - (94 + i * 3.4)) / 0.8);
+  const LIT = [95, 100, 95, 100, 105, 105, 110];
+  const lit = (i) => clamp((t - LIT[i]) / 0.6);
   WINDOWS.forEach((w, i) => {
     const a = Math.max(lit(i), clamp((t - 120.2) / 0.5));
     if (a <= 0) return;

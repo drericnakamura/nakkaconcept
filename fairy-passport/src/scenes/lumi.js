@@ -6,6 +6,7 @@
 const L = require('../lib');
 const F = require('../fairy');
 const B = require('../badge');
+const PR = require('../progress');
 const { TAU, clamp, lerp, inv, ease, rgba, glow, sparkle, hash, rng } = L;
 const { W, H, BRUSH } = require('../timeline');
 
@@ -107,8 +108,9 @@ function init() {
 
 function drawMoon(ctx, t) {
   const { x, y, r } = MOON;
-  const phase3 = t >= 60 && t < 92;
-  const talk = phase3 && ((t > 61.5 && t < 66) || (t > 74 && t < 76.5)) ;
+  const phase3 = t >= 65 && t < 92;
+  const yawn = t > 65 && t < 66.6;
+  const talk = (t > 70 && t < 74.6);
   glow(ctx, x, y, r * 3.2, '#FFF1C9', 0.45);
   ctx.save();
   ctx.beginPath(); ctx.arc(x, y, r, 0, TAU);
@@ -121,7 +123,7 @@ function drawMoon(ctx, t) {
   });
   ctx.restore();
   // face
-  const lookX = phase3 ? (t < 66 ? 0.7 : 0.15) : 0, lookY = phase3 && t >= 66 ? 0.6 : 0;
+  const lookX = phase3 ? (t < 75 ? 0.7 : 0.15) : 0, lookY = phase3 && t >= 75 ? 0.6 : 0;
   ctx.strokeStyle = '#7A5A35'; ctx.fillStyle = '#7A5A35'; ctx.lineCap = 'round'; ctx.lineWidth = 6;
   const awake = phase3 || (t > 90 && t < 93);
   for (const s of [-1, 1]) {
@@ -135,7 +137,10 @@ function drawMoon(ctx, t) {
   }
   glow(ctx, x - r * 0.48, y + r * 0.22, 26, '#FF9AA8', 0.5, 'source-over');
   glow(ctx, x + r * 0.48, y + r * 0.22, 26, '#FF9AA8', 0.5, 'source-over');
-  if (talk) {
+  if (yawn) {
+    const m = Math.sin(clamp((t - 65) / 1.6) * Math.PI);
+    ctx.beginPath(); ctx.ellipse(x, y + r * 0.32, 12 + 6 * m, 6 + 20 * m, 0, 0, TAU); ctx.fillStyle = '#9A4B4B'; ctx.fill();
+  } else if (talk) {
     const m = 0.5 + 0.5 * Math.abs(Math.sin(t * 9));
     ctx.beginPath(); ctx.ellipse(x + lookX * 6, y + r * 0.3, 8, 6 + m * 6, 0, 0, TAU); ctx.fillStyle = '#9A4B4B'; ctx.fill();
   } else {
@@ -143,19 +148,19 @@ function drawMoon(ctx, t) {
   }
   ctx.restore();
   // whisper bubble with a secret sparkle
-  if (phase3 && t > 61.6 && t < 70) {
-    const a = clamp((t - 61.6) / 0.4) * clamp((70 - t) / 0.6);
+  if (t > 70 && t < 75.2) {
+    const a = clamp((t - 70) / 0.4) * clamp((75.2 - t) / 0.6);
     const bx = x + r * 0.95, by = y - r * 0.95;
     ctx.save(); ctx.globalAlpha = a;
-    ctx.translate(bx, by); const sc = ease.outBack(clamp((t - 61.6) / 0.5)); ctx.scale(sc, sc);
+    ctx.translate(bx, by); const sc = ease.outBack(clamp((t - 70) / 0.5)); ctx.scale(sc, sc);
     L.roundRect(ctx, -58, -40, 116, 72, 36); ctx.fillStyle = 'rgba(255,255,255,0.95)'; ctx.fill();
     ctx.beginPath(); ctx.moveTo(-30, 26); ctx.lineTo(-52, 52); ctx.lineTo(-6, 30); ctx.fill();
     for (let i = 0; i < 3; i++) { ctx.beginPath(); ctx.arc(-26 + i * 26, -4 + Math.sin(t * 6 + i) * 3, 7, 0, TAU); ctx.fillStyle = '#8C7BF0'; ctx.fill(); }
     ctx.restore();
   }
   // moonbeam pointing to the glowing cloud
-  if (t > 65 && t < 91) {
-    const a = clamp((t - 65) / 1.5) * clamp((91 - t) / 0.8);
+  if (t > 75 && t < 91) {
+    const a = clamp((t - 75) / 1.2) * clamp((91 - t) / 0.8);
     ctx.save(); ctx.globalCompositeOperation = 'lighter';
     ctx.beginPath(); ctx.moveTo(x + 30, y + r * 0.8); ctx.lineTo(HIDE[2].x - 140, HIDE[2].y + 10); ctx.lineTo(HIDE[2].x + 160, HIDE[2].y + 10); ctx.lineTo(x + 70, y + r * 0.7); ctx.closePath();
     const bg = ctx.createLinearGradient(0, y, 0, HIDE[2].y);
@@ -171,8 +176,8 @@ const CAM = [
   { t: 2.4, x: 560, y: 900, z: 1.05 },
   { t: 5.4, x: 760, y: 640, z: 1.6 },
   { t: 31.0, x: 740, y: 640, z: 1.6 },
-  { t: 58.0, x: 330, y: 660, z: 1.6 },
-  { t: 61.3, x: 330, y: 680, z: 1.6 },
+  { t: 35.6, x: 300, y: 620, z: 1.7 },
+  { t: 61.3, x: 300, y: 640, z: 1.7 },
   { t: 64.4, x: 360, y: 1280, z: 1.5 },
   { t: 91.0, x: 360, y: 1280, z: 1.5 },
   { t: 94.2, x: 612, y: 800, z: 1.6 },
@@ -185,7 +190,7 @@ function trailPoint(u) {
   const a = { x: SLOT[0].x - 30, y: SLOT[0].y - 40 }, b = HIDE[1];
   return { x: lerp(a.x, b.x, u), y: lerp(a.y, b.y, u) - Math.sin(u * Math.PI) * 130 + Math.sin(u * TAU * 1.5) * 30 };
 }
-const trailU = (t) => ease.sine(clamp((t - 31.2) / 28.4));
+const trailU = (t) => ease.sine(clamp((t - 30.8) / 4.2));   // the trail draws itself in ~4 s
 
 const LUMI_PATH = [
   { t: 0, x: -150, y: 1500 },
@@ -197,12 +202,12 @@ function lumiPos(t) {
   if (t < 60.4) { // follow the head of the trail
     const h = trailPoint(trailU(t));
     const settle = clamp((t - 31.2) / 2.2);
-    const target = { x: h.x + 120, y: h.y + 150 };
+    const target = { x: h.x + 165, y: h.y + 150 };
     const start = { x: 610, y: 860 };
     const e = ease.inOut(settle);
     return { x: lerp(start.x, target.x, e), y: lerp(start.y, target.y, e) };
   }
-  const end2 = { x: trailPoint(1).x + 120, y: trailPoint(1).y + 150 };
+  const end2 = { x: trailPoint(1).x + 165, y: trailPoint(1).y + 150 };
   const P = [
     { t: 60.4, x: end2.x, y: end2.y },
     { t: 61.4, x: end2.x, y: end2.y },
@@ -233,10 +238,12 @@ function lumiState(t) {
     else if (tp > 21 && tp < 23.5) { arms.r = 'point'; }
     else if (tp > 26.6) { expr = 'wow'; arms.r = 'point'; }
   }
-  if (k === 2 && tp > 1.6 && tp < 8) { look = { x: 1, y: 0 }; expr = tp < 6 ? 'wow' : expr; } // listening to the moon
+  if (k === 2 && tp > 10 && tp < 14.8) { look = { x: 1, y: 0 }; expr = 'wow'; } // listening to the moon's secret
+  const sb = tp % 5;
+  if (!flying && tp > 4.9 && sb < 0.9 && !(k > 0 && tp < 1.6)) { expr = 'joy'; arms = { l: 'wave', r: 'up' }; }
   if (t >= BRUSH) { expr = 'joy'; arms = { l: 'up', r: 'up' }; }
   if (look.x !== 0) {
-    const tgt = k === 2 ? (tp < 6 ? MOON : HIDE[2]) : k === 1 ? trailPoint(trailU(t)) : k === 3 ? SLOT[3] : HIDE[0];
+    const tgt = k === 2 ? (tp < 15 ? MOON : HIDE[2]) : k === 1 ? trailPoint(trailU(t)) : k === 3 ? SLOT[3] : HIDE[0];
     look = { x: (tgt.x > p.x ? 1 : -1) * facing * 0.9, y: tgt.y > p.y + 40 ? 0.7 : tgt.y < p.y - 80 ? -0.5 : 0 };
   }
   return { x: p.x, y: p.y, s: 0.8, t, facing, expr, arms, look, tilt, itemGlow: 1 };
@@ -260,11 +267,11 @@ const BRUSH_PATH = [
 function brushPos(t) {
   if (t < 30.4) return L.pathAt(BRUSH_PATH, t);
   if (t < 31.4) { const a = L.pathAt(BRUSH_PATH, 30.4), h = trailPoint(0); const u = ease.inOut(clamp((t - 30.4) / 1)); return { x: lerp(a.x, h.x - 40, u), y: lerp(a.y, h.y + 40, u) }; }
-  if (t < 60.6) { const h = trailPoint(trailU(t)); return { x: h.x - 40, y: h.y + 40 }; }
+  if (t < 60.6) { const h = trailPoint(trailU(t)); const u = clamp((t - 33) / 2); return { x: h.x + lerp(-40, 92, u), y: h.y + lerp(40, 104, u) }; }
   const P = [
-    { t: 60.6, x: trailPoint(1).x - 40, y: trailPoint(1).y + 40 },
-    { t: 64.6, x: HIDE[2].x + 170, y: HIDE[2].y + 40, via: { x: 120, y: 1100 } },
-    { t: 90.4, x: HIDE[2].x + 170, y: HIDE[2].y + 40 },
+    { t: 60.6, x: trailPoint(1).x + 92, y: trailPoint(1).y + 104 },
+    { t: 64.6, x: HIDE[2].x + 150, y: HIDE[2].y + 20, via: { x: 120, y: 1100 } },
+    { t: 90.4, x: HIDE[2].x + 150, y: HIDE[2].y + 20 },
     { t: 93.0, x: SLOT[3].x + 110, y: SLOT[3].y + 70, via: { x: 560, y: 1300 } },
     { t: 120.0, x: SLOT[3].x + 110, y: SLOT[3].y + 70 },
     { t: 121.0, x: 1250, y: 700 },
@@ -276,7 +283,7 @@ function drawMagicBrush(ctx, t) {
   if (t < 3.4 || t > 121) return;
   const p = brushPos(t);
   const k = Math.min(3, Math.floor(t / 30)), tp = t - k * 30;
-  const painting = k === 1 && t > 31.4 && t < 60;
+  const painting = k === 1 && t > 31.4 && t < 35;
   const settled = painting || !(t < 5.2 || (tp < 3 && k > 0) || t > 120);
   const scrub = settled ? Math.sin(t * TAU * 2.2) * 14 : 0;
   const tgt = k === 0 ? HIDE[0] : k === 2 ? HIDE[2] : k === 3 ? SLOT[3] : trailPoint(trailU(t));
@@ -295,6 +302,181 @@ function drawMagicBrush(ctx, t) {
   ctx.rotate(-0.4);
   F.drawToothbrush(ctx, 0, 0, 0.95, 0, '#8C7BF0', t);
   ctx.restore();
+}
+
+
+// ---------- missions that open while you brush ----------
+// 1 · the little cloud parts, one puff every 5 s
+const PUFFS = [
+  { dx: -24, dy: -50, r: 46, a: -2.2, step: 0 }, { dx: 40, dy: -42, r: 44, a: -0.8, step: 1 },
+  { dx: -64, dy: 10, r: 50, a: Math.PI, step: 2 }, { dx: 60, dy: 20, r: 48, a: 0.1, step: 3 },
+  { dx: 0, dy: 14, r: 42, a: -1.6, step: 4 }, { dx: -34, dy: 54, r: 46, a: 2.3, step: 5 }, { dx: 32, dy: 58, r: 42, a: 0.9, step: 5 },
+];
+function drawCloudPuffs(ctx, t) {
+  const S = { x: HIDE[0].x + 20, y: HIDE[0].y - 20 };
+  const lv = PR.level(t, 0.9, ease.out);
+  if (t < 30) {
+    glow(ctx, S.x, S.y, 80 + lv * 30, '#FFE7A0', 0.25 + 0.13 * lv);
+    F.drawStarFace(ctx, S.x, S.y + Math.sin(t * 2) * 4, 42, { rot: Math.sin(t) * 0.2, sleepy: lv < 3.5, glow: 0.3 + lv * 0.14, alpha: 0.45 + 0.11 * lv });
+  }
+  for (const p of PUFFS) {
+    const leave = p.step < 5 ? PR.jump(t, p.step, 1.3, ease.out) : ease.out(clamp((t - 30) / 1.3));
+    if (leave >= 1) continue;
+    const an = p.step < 5 ? PR.antic(t, p.step) : clamp((t - 28.4) / 1.6);
+    const wob = Math.sin(t * 1.3 + p.dx) * 4 + Math.sin(t * 34 + p.dy) * 3 * an;
+    const x = S.x + p.dx + Math.cos(p.a) * 150 * leave + wob, y = S.y + p.dy + Math.sin(p.a) * 150 * leave;
+    const r = p.r * (1 + 0.35 * leave);
+    ctx.save(); ctx.globalAlpha = 1 - leave;
+    const g = ctx.createRadialGradient(x - r * 0.3, y - r * 0.4, r * 0.1, x, y, r);
+    g.addColorStop(0, '#F7F3FF'); g.addColorStop(0.7, '#D9D0F7'); g.addColorStop(1, '#A898E0');
+    ctx.fillStyle = g;
+    ctx.beginPath(); ctx.arc(x, y, r, 0, TAU); ctx.arc(x + r * 0.55, y + r * 0.2, r * 0.6, 0, TAU); ctx.arc(x - r * 0.55, y + r * 0.25, r * 0.55, 0, TAU); ctx.fill();
+    ctx.restore();
+    if (leave > 0 && leave < 0.7) for (let k = 0; k < 5; k++) { ctx.beginPath(); ctx.arc(x + Math.sin(k * 2 + t) * r, y + Math.cos(k * 3) * r * 0.6 - leave * 40, 4 + k % 3 * 2, 0, TAU); ctx.fillStyle = `rgba(220,240,255,${0.8 * (1 - leave / 0.7)})`; ctx.fill(); }
+  }
+}
+
+// 2 · the second star is frozen in an ice crystal; one crack every 5 s
+const CRYSTAL = { rx: 66, ry: 82 };
+const CRACKS = [0, 1, 2, 3, 4].map((i) => {
+  const a = -Math.PI / 2 + (i * TAU) / 5 + 0.3;
+  return PR.crack(400 + i * 13, Math.cos(a) * 58, Math.sin(a) * 70, a + Math.PI, 58, 2);
+});
+function crystalPath(ctx, x, y, s = 1) {
+  ctx.beginPath();
+  for (let i = 0; i < 6; i++) { const a = -Math.PI / 2 + (i * TAU) / 6; const px = x + Math.cos(a) * CRYSTAL.rx * s, py = y + Math.sin(a) * CRYSTAL.ry * s; i ? ctx.lineTo(px, py) : ctx.moveTo(px, py); }
+  ctx.closePath();
+}
+function drawCrystal(ctx, t) {
+  const c = HIDE[1];
+  const tp = t - 30;
+  const appear = ease.outBack(clamp((t - 33.2) / 0.8));
+  if (appear <= 0) return;
+  const lv = PR.level(tp, 0.6, ease.out);
+  const shatter = clamp((t - 60) / 1.2);
+  let shake = 0; for (let i = 0; i < 5; i++) shake = Math.max(shake, PR.antic(tp, i));
+  shake = Math.max(shake, clamp((tp - 28.4) / 1.6));
+  const x = c.x + Math.sin(t * 40) * 2.5 * shake * (t < 60 ? 1 : 0), y = c.y + Math.sin(t * 1.4) * 5;
+  glow(ctx, x, y, (90 + lv * 26) * appear, '#FFE7A0', 0.2 + 0.12 * lv);
+  if (t < 60) F.drawStarFace(ctx, x, y, 32 * appear, { sleepy: lv < 3.5, glow: 0.3 + lv * 0.14, alpha: 0.55 + 0.09 * lv });
+  if (shatter <= 0) {
+    ctx.save(); ctx.translate(x, y); ctx.scale(appear, appear); ctx.translate(-x, -y);
+    crystalPath(ctx, x, y);
+    const g = ctx.createLinearGradient(x - 60, y - 80, x + 60, y + 80);
+    g.addColorStop(0, 'rgba(225,245,255,0.62)'); g.addColorStop(0.5, 'rgba(170,215,255,0.38)'); g.addColorStop(1, 'rgba(150,170,255,0.55)');
+    ctx.fillStyle = g; ctx.fill();
+    ctx.lineWidth = 4; ctx.strokeStyle = 'rgba(235,250,255,0.95)'; ctx.stroke();
+    // facets
+    ctx.lineWidth = 2; ctx.strokeStyle = 'rgba(255,255,255,0.45)';
+    for (let i = 0; i < 6; i++) { const a = -Math.PI / 2 + (i * TAU) / 6; ctx.beginPath(); ctx.moveTo(x + Math.cos(a) * CRYSTAL.rx, y + Math.sin(a) * CRYSTAL.ry); ctx.lineTo(x + Math.cos(a) * 28, y + Math.sin(a) * 34); ctx.stroke(); }
+    ctx.fillStyle = 'rgba(255,255,255,0.5)'; ctx.beginPath(); ctx.ellipse(x - 26, y - 40, 9, 22, 0.5, 0, TAU); ctx.fill();
+    // cracks grow at every step
+    ctx.save(); ctx.translate(x, y);
+    CRACKS.forEach((lines, i) => {
+      const u = PR.jump(tp, i, 0.5, ease.out);
+      if (u <= 0) return;
+      ctx.lineCap = 'round'; ctx.lineJoin = 'round';
+      ctx.lineWidth = 5; ctx.strokeStyle = 'rgba(90,120,190,0.5)'; PR.strokePartial(ctx, lines, u);
+      ctx.lineWidth = 2.2; ctx.strokeStyle = 'rgba(255,255,255,0.95)'; PR.strokePartial(ctx, lines, u);
+      const fresh = tp - (i + 1) * 5;
+      if (fresh >= 0 && fresh < 0.8) {
+        const p0 = lines[lines.length - 1][0];
+        for (let k = 0; k < 7; k++) { const a = (k / 7) * TAU; sparkle(ctx, p0.x + Math.cos(a) * (8 + fresh * 70), p0.y + Math.sin(a) * (8 + fresh * 70), 8 * (1 - fresh / 0.8), a, '#CFF3FF', 1 - fresh / 0.8); }
+      }
+    });
+    ctx.restore();
+    ctx.restore();
+  } else {
+    // shatter: six shards fly away
+    for (let i = 0; i < 6; i++) {
+      const a0 = -Math.PI / 2 + (i * TAU) / 6, a1 = a0 + TAU / 6, am = (a0 + a1) / 2;
+      const d = ease.out(shatter) * 160;
+      ctx.save(); ctx.globalAlpha = 1 - shatter;
+      ctx.translate(x + Math.cos(am) * d, y + Math.sin(am) * d); ctx.rotate(shatter * (i % 2 ? 2 : -2));
+      ctx.beginPath(); ctx.moveTo(0, 0); ctx.lineTo(Math.cos(a0) * CRYSTAL.rx, Math.sin(a0) * CRYSTAL.ry); ctx.lineTo(Math.cos(a1) * CRYSTAL.rx, Math.sin(a1) * CRYSTAL.ry); ctx.closePath();
+      ctx.fillStyle = 'rgba(200,235,255,0.6)'; ctx.fill(); ctx.lineWidth = 3; ctx.strokeStyle = 'rgba(240,252,255,0.95)'; ctx.stroke();
+      ctx.restore();
+    }
+  }
+}
+
+// 3 · a cloud-flower under the moon opens one petal every 5 s
+const PETALS = [{ a: -2.45, step: 0 }, { a: -0.7, step: 1 }, { a: -2.0, step: 2 }, { a: -1.15, step: 3 }, { a: -1.57, step: 4 }];
+function drawCloudFlower(ctx, t) {
+  const h = HIDE[2];
+  const tp = t - 60;
+  const lv = t < 60 ? 0 : PR.level(tp, 1.0, ease.outBack);
+  const free = t >= 90;
+  const after = t > 90 ? clamp(1 - (t - 92) / 2) : 1;
+  const base = { x: h.x, y: h.y + 46 };
+  glow(ctx, h.x, h.y - 10, 120 + lv * 34, '#FFE7A0', (0.15 + 0.14 * lv) * after);
+  if (t < 90) F.drawStarFace(ctx, h.x, h.y - 40 + Math.sin(t * 2) * 4, 40, { sleepy: lv < 3.5, glow: 0.3 + lv * 0.14, alpha: 0.45 + 0.11 * lv });
+  ctx.save(); ctx.globalAlpha = Math.max(0.4, after);
+  // cloud cushion
+  const g0 = ctx.createLinearGradient(0, base.y - 30, 0, base.y + 40); g0.addColorStop(0, '#FFE9F4'); g0.addColorStop(1, '#C9A0E0');
+  ctx.fillStyle = g0;
+  ctx.beginPath(); ctx.ellipse(base.x, base.y + 16, 190, 48, 0, 0, TAU); ctx.arc(base.x - 115, base.y, 56, 0, TAU); ctx.arc(base.x + 115, base.y, 56, 0, TAU); ctx.arc(base.x, base.y - 4, 62, 0, TAU); ctx.fill();
+  let shake = 0; for (let i = 0; i < 5; i++) shake = Math.max(shake, PR.antic(tp, i));
+  for (const p of PETALS) {
+    const open = free ? 1 : (t < 60 ? 0 : PR.jump(tp, p.step, 1.0, ease.outBack));
+    const closedA = -Math.PI / 2 + (p.a + Math.PI / 2) * 0.28;
+    const openA = p.a + (p.a < -1.57 ? -0.55 : p.a > -1.57 ? 0.55 : 0);
+    let a = lerp(closedA, openA, open) + Math.sin(t * 36 + p.a * 5) * 0.03 * shake;
+    const len = lerp(112, 96, open);
+    const dropC = p.step === 4 ? open : 0; // the middle petal folds down
+    if (p.step === 4) a = -Math.PI / 2;
+    ctx.save(); ctx.translate(base.x, base.y - 10); ctx.rotate(a + Math.PI / 2);
+    if (p.step === 4) { const sh = 1 - 0.75 * open; ctx.scale(sh, sh); }
+    ctx.globalAlpha = Math.max(0.4, after) * (1 - 0.85 * dropC);
+    const g = ctx.createLinearGradient(0, 0, 0, -len * 1.3); g.addColorStop(0, '#D9A6EC'); g.addColorStop(0.6, '#F6D8F2'); g.addColorStop(1, '#FFF4FB');
+    ctx.beginPath(); ctx.ellipse(0, -len * 0.62, 48, len * 0.66, 0, 0, TAU); ctx.fillStyle = g; ctx.fill();
+    ctx.lineWidth = 3.5; ctx.strokeStyle = '#B57ACB'; ctx.stroke();
+    ctx.beginPath(); ctx.moveTo(0, -len * 0.15); ctx.quadraticCurveTo(6, -len * 0.6, 0, -len * 1.1); ctx.lineWidth = 2; ctx.strokeStyle = 'rgba(181,122,203,0.5)'; ctx.stroke();
+    ctx.restore();
+    const fresh = tp - (p.step + 1) * 5;
+    if (fresh >= 0 && fresh < 0.8 && t < 90) { const tipx = base.x + Math.cos(a) * len * 1.1, tipy = base.y - 10 + Math.sin(a) * len * 1.1; for (let k = 0; k < 6; k++) { const aa = (k / 6) * TAU; sparkle(ctx, tipx + Math.cos(aa) * (8 + fresh * 50), tipy + Math.sin(aa) * (8 + fresh * 50), 7 * (1 - fresh / 0.8), aa, '#FFE7A0', 1 - fresh / 0.8); } }
+  }
+  ctx.restore();
+}
+
+// 4 · the last star is built point by point; a firefly brings one every 5 s
+const PIECE_FROM = [0, 1, 2, 3, 4].map((i) => { const a = -2.6 + i * 1.25 + L.hash(i) * 0.4; return { x: SLOT[3].x + Math.cos(a) * 340, y: SLOT[3].y + Math.sin(a) * 300 }; });
+function starPoint(ctx, x, y, i, s = 1, alpha = 1) {
+  const a = -Math.PI / 2 + (i * TAU) / 5;
+  ctx.save(); ctx.globalAlpha = alpha; ctx.translate(x, y); ctx.rotate(a); ctx.scale(s, s);
+  ctx.beginPath(); ctx.moveTo(40, 0); ctx.lineTo(14, -13); ctx.lineTo(14, 13); ctx.closePath();
+  ctx.lineJoin = 'round'; ctx.lineWidth = 9; ctx.strokeStyle = '#FFE68C'; ctx.stroke(); ctx.fillStyle = '#FFE68C'; ctx.fill();
+  ctx.restore();
+}
+function drawStarPieces(ctx, t) {
+  const S = SLOT[3];
+  const tp = t - 90;
+  const fadeOut = clamp(1 - (t - 120.05) / 0.3);
+  if (fadeOut <= 0) return;
+  // core
+  const core = ease.outBack(clamp((t - 91) / 0.8));
+  glow(ctx, S.x, S.y, (60 + PR.level(tp) * 20) * core, '#FFE7A0', 0.5 * core * fadeOut);
+  ctx.save(); ctx.globalAlpha = fadeOut; ctx.beginPath(); ctx.arc(S.x, S.y, 17 * core, 0, TAU); ctx.fillStyle = '#FFE68C'; ctx.fill(); ctx.restore();
+  for (let i = 0; i < 5; i++) {
+    const arrive = 95 + i * 5;
+    const u = clamp((t - (arrive - 3.6)) / 3.6);
+    if (u <= 0) continue;
+    const a = -Math.PI / 2 + (i * TAU) / 5;
+    const dest = { x: S.x, y: S.y };
+    if (u < 1) {
+      const e = ease.inOut(u), f = PIECE_FROM[i];
+      const x = lerp(f.x, dest.x, e) + Math.sin(u * 9 + i) * 26 * (1 - u), y = lerp(f.y, dest.y, e) - Math.sin(u * Math.PI) * 60;
+      // firefly carrying the piece
+      for (let j = 1; j < 8; j++) { const uu = clamp(u - j * 0.02); const ee = ease.inOut(uu); sparkle(ctx, lerp(f.x, dest.x, ee) + Math.sin(uu * 9 + i) * 26 * (1 - uu), lerp(f.y, dest.y, ee) - Math.sin(uu * Math.PI) * 60, 6 * (1 - j / 8), j, '#FFF3C4', 1 - j / 8); }
+      glow(ctx, x, y, 50, '#FFF3C4', 0.8);
+      starPoint(ctx, x, y, i, 0.7);
+    } else {
+      const pop = 1 + 0.4 * (1 - ease.out(clamp((t - arrive) / 0.4)));
+      starPoint(ctx, dest.x, dest.y, i, pop, fadeOut);
+      const fresh = t - arrive;
+      if (fresh < 0.8) for (let k = 0; k < 7; k++) { const aa = (k / 7) * TAU; sparkle(ctx, dest.x + Math.cos(a) * 30 + Math.cos(aa) * (6 + fresh * 50), dest.y + Math.sin(a) * 30 + Math.sin(aa) * (6 + fresh * 50), 7 * (1 - fresh / 0.8), aa, '#FFE7A0', 1 - fresh / 0.8); }
+    }
+  }
 }
 
 function draw(ctx, t) {
@@ -352,31 +534,8 @@ function draw(ctx, t) {
     ctx.restore();
     if (cur) glow(ctx, s.x, s.y, 90, '#FFE7A0', 0.25 + 0.25 * pulse);
   });
-  // phase 4: star dust gathers into the last empty place
-  if (t > 90 && t < 120) {
-    const pr = clamp((t - 90) / 30);
-    const n = Math.floor(lerp(8, 36, pr));
-    for (let i = 0; i < n; i++) {
-      const life = (t * 0.5 + hash(i * 17)) % 1;
-      const a = hash(i * 5) * TAU, r = (1 - life) * (220 + hash(i) * 120);
-      sparkle(ctx, SLOT[3].x + Math.cos(a) * r, SLOT[3].y + Math.sin(a) * r, 5 + 6 * life, a, '#FFE7A0', life);
-    }
-    glow(ctx, SLOT[3].x, SLOT[3].y, 70 + pr * 90, '#FFE7A0', 0.2 + 0.6 * pr);
-  }
-  // hiding spot 1: little cloud with a star peeking from behind
-  if (t < 33) {
-    const pr = clamp(t / 30);
-    const h = HIDE[0];
-    if (t < 30) {
-      glow(ctx, h.x + 20, h.y - 20, 80 + pr * 110, '#FFE7A0', 0.25 + 0.65 * pr);
-      F.drawStarFace(ctx, h.x + 44, h.y - 40 + Math.sin(t * 2) * 4, 42, { rot: Math.sin(t) * 0.2, sleepy: pr < 0.6, glow: pr, alpha: 0.4 + 0.6 * pr });
-    }
-    const a = t < 30 ? 1 : clamp(1 - (t - 30) / 2.5);
-    ctx.save(); ctx.globalAlpha = a;
-    ctx.drawImage(C.hideCloud, h.x - 165 + Math.sin(t * 0.6) * 10 + (t > 30 ? (t - 30) * 60 : 0), h.y - 64, 330, 143);
-    ctx.restore();
-  }
-  // phase 2: the sparkling trail and the nebula
+  if (t > 90 && t < 121) drawStarPieces(ctx, t);
+  if (t < 33) drawCloudPuffs(ctx, t);
   if (t > 30.5 && t < 63) {
     const head = trailU(t);
     const fade = t > 60 ? clamp(1 - (t - 60) / 3) : 1;
@@ -384,30 +543,19 @@ function draw(ctx, t) {
     const nebA = clamp((t - 31) / 3) * fade;
     for (let j = 0; j < 6; j++) {
       const a = (j / 6) * TAU + t * 0.25;
-      glow(ctx, neb.x + Math.cos(a) * 44, neb.y + Math.sin(a) * 28, 110, j % 2 ? '#FF9FD0' : '#B9A6FF', 0.25 * nebA * (0.6 + 0.4 * head));
+      glow(ctx, neb.x + Math.cos(a) * 54, neb.y + Math.sin(a) * 34, 120, j % 2 ? '#FF9FD0' : '#B9A6FF', 0.22 * nebA);
     }
-    if (t < 60) F.drawStarFace(ctx, neb.x, neb.y, 30, { alpha: 0.25 + 0.6 * head, sleepy: head < 0.85, glow: head, rot: Math.sin(t * 0.8) * 0.3 });
-    const N = 70;
+    const N = 60;
     for (let i = 0; i < N; i++) {
       const u = (i / N) * head;
       const p = trailPoint(u);
       const tw = 0.5 + 0.5 * Math.sin(t * 4 + i * 1.3);
       sparkle(ctx, p.x + Math.sin(i * 2.7) * 8, p.y + Math.cos(i * 1.9) * 8, (4 + tw * 5), i, '#FFE7A0', (0.45 + 0.5 * tw) * fade);
     }
-    if (t < 60) { const hp = trailPoint(head); glow(ctx, hp.x, hp.y, 70, '#FFF3C4', 0.8); sparkle(ctx, hp.x, hp.y, 18 + 4 * Math.sin(t * 8), t * 2, '#FFE7A0', 1); }
+    if (head < 1) { const hp = trailPoint(head); glow(ctx, hp.x, hp.y, 70, '#FFF3C4', 0.8); sparkle(ctx, hp.x, hp.y, 18 + 4 * Math.sin(t * 8), t * 2, '#FFE7A0', 1); }
   }
-  // phase 3: glowing cloud under the moon
-  if (t > 55) {
-    const h = HIDE[2];
-    const pr = clamp((t - 60) / 30);
-    const after = t > 90 ? clamp(1 - (t - 90) / 3) : 1;
-    glow(ctx, h.x, h.y, 140 + pr * 160, '#FFE7A0', (0.15 + 0.7 * pr) * after);
-    if (t < 90) F.drawStarFace(ctx, h.x + 10, h.y - 30 + Math.sin(t * 2) * 5, 32, { alpha: 0.2 + 0.7 * pr, sleepy: pr < 0.7, glow: pr });
-    ctx.save(); ctx.globalAlpha = Math.max(0.55, after);
-    ctx.drawImage(C.glowCloud, h.x - 180 + Math.sin(t * 0.5) * 8, h.y - 70, 360, 156);
-    ctx.restore();
-    glow(ctx, h.x, h.y + 10, 160, '#FFD6EC', 0.35 * pr * after);
-  }
+  if (t > 30.5 && t < 61.5) drawCrystal(ctx, t);
+  if (t > 55 && t < 94) drawCloudFlower(ctx, t);
   // found stars: fly home, then twinkle in their place
   for (let i = 0; i < 4; i++) {
     if (t < FOUND[i]) continue;

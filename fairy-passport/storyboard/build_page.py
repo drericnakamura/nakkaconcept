@@ -1,11 +1,13 @@
 """Builds the storyboard review page from storyboard_v2.json.
 
     python3 storyboard/build_page.py <out_dir>     # writes <out_dir>/index.html (images in <out_dir>/img)
+
+Reads storyboard_v3.json (v2 kept for history).
 """
 import html, json, os, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-data = json.load(open(os.path.join(HERE, 'storyboard_v2.json'), encoding='utf-8'))
+data = json.load(open(os.path.join(HERE, 'storyboard_v3.json'), encoding='utf-8'))
 out = sys.argv[1] if len(sys.argv) > 1 else HERE
 e = html.escape
 
@@ -54,7 +56,11 @@ section { padding-block: 36px 8px; display: grid; gap: 18px }
 .fairy-head { border-radius: 24px; padding: 22px 22px; display: grid; gap: 6px }
 .bravi .fairy-head { background: var(--bravi-soft) } .lumi .fairy-head { background: var(--lumi-soft) }
 .bravi .accent { color: var(--bravi) } .lumi .accent { color: var(--lumi) }
-.quad { display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 20px; background: var(--surface); border: 1px solid var(--line); border-radius: 22px; padding: 18px }
+.quad { display: grid; gap: 14px; background: var(--surface); border: 1px solid var(--line); border-radius: 22px; padding: 18px }
+.strip { overflow-x: auto; border-radius: 14px; background: #fff }
+.strip img { display: block; width: 100%; min-width: 640px; height: auto }
+.mech { font-size: 1.02rem; max-width: 75ch }
+.mech b { font-family: var(--display); font-weight: 600 }
 .quad figure { margin: 0; display: grid; gap: 6px; align-content: start }
 .quad figure img { width: 100%; height: auto; aspect-ratio: 9 / 16; border-radius: 14px; display: block; object-fit: cover }
 .quad figcaption { font-size: .78rem; color: var(--muted) }
@@ -95,12 +101,12 @@ parts.append('<link rel="stylesheet" href="https://fonts.googleapis.com/css2?fam
 parts.append(f'<style>{CSS}</style>')
 parts.append('<div class="wrap">')
 parts.append('''<header class="top">
-<span class="eyebrow">Fairy Passport · Bravi &amp; Lumi · storyboard v2</span>
-<h1>Um passo a cada 5 segundos</h1>
-<p class="lede">Na primeira versão, depois da fala de abertura, cada quadrante ficava 20 segundos quase parado. Nesta versão os 30 segundos viram seis passos de 5 s: a narradora diz onde escovar, o guia na tela mostra o movimento e a história avança um pedacinho a cada passo.</p>
+<span class="eyebrow">Fairy Passport · Bravi &amp; Lumi · storyboard v3</span>
+<h1>Abre enquanto escova</h1>
+<p class="lede">Cada missão agora é algo preso que vai se soltando enquanto a criança escova: a porta abre uma fresta, a nuvem perde um tufo, a pedra racha, o gelo quebra. A cada 5 s há um salto visível com som, e entre um salto e outro o próximo pedaço treme e a luz cresce. A narradora diz onde escovar e o guia na tela mostra o movimento.</p>
 <span class="pill">Aguardando aprovação antes de renderizar</span>
 <div class="changes">
-<div><b>Algo acontece a cada 5 s</b>Uma gema acende, uma nuvem se abre, a lua acorda. A cada passo há um som, um brilho e um avanço na história.</div>
+<div><b>Abre ou quebra aos poucos</b>O obstáculo de cada missão se solta em 5 etapas, uma a cada 5 s; na 6ª, ao fim dos 30 s, a fada é libertada ou a porta abre.</div>
 <div><b>A narradora guia o movimento</b>“Agora os dentes de trás, por fora”, “agora a parte de dentro”, “agora em cima dos molares”.</div>
 <div><b>O guia mostra onde e como</b>Os dentes do passo acendem na boca, um dente-treinador mostra a escova do lado da bochecha, da língua ou em cima, e o anel do timer tem 6 gemas.</div>
 </div>
@@ -122,12 +128,13 @@ for n, f in enumerate(data['fairies'], 1):
     parts.append(f'<section id="{f["id"]}" class="{f["id"]}">')
     parts.append(f'''<div class="fairy-head"><span class="eyebrow">Aventura {n} · 2 min</span><h2><span class="accent">{e(f['name'])}</span> — {e(f['story'])}</h2><p>{e(f['device'])}</p></div>''')
     for q in f['quadrants']:
-        parts.append(f'''<article class="quad"><figure><img src="img/{q['img']}" alt="{e(f['name'])}, {e(q['title'])}" loading="lazy"><figcaption>Cenário atual com o guia novo. Os eventos de 5 s ainda não estão desenhados.</figcaption></figure>
-<div><div class="qhead"><span class="where">{e(q['q'])}</span><h3>{e(q['title'])}</h3><span class="clock">{e(q['time'])}</span></div>
+        parts.append(f'''<article class="quad"><div class="qhead"><span class="where">{e(q['q'])}</span><h3>{e(q['title'])}</h3><span class="clock">{e(q['time'])}</span></div>
+<p class="mech"><b>Como abre:</b> {e(q['mechanic'])}</p>
+<div class="strip"><img src="img/{q['strip']}" alt="{e(f['name'])}, {e(q['title'])}: sequência de quadros a cada 5 segundos" loading="lazy"></div>
 <div class="colhead"><span>Tempo</span><span>Na tela</span><span>Locução (inglês)</span></div><ol class="beats">''')
         for b in q['beats']:
             parts.append(f'<li><span class="at">{e(b["at"])}</span><span>{e(b["see"])}</span><span class="vo">{e(b["vo"])}</span></li>')
-        parts.append(f'</ol><p class="payoff">{e(q["payoff"])}</p></div></article>')
+        parts.append(f'</ol><p class="payoff">{e(q["payoff"])}</p></article>')
     r = f['reward']
     parts.append(f'''<article class="reward"><img src="img/{r['img']}" alt="Recompensa de {e(f['name'])}" loading="lazy"><div style="display:grid;gap:8px"><span class="eyebrow">2:00–2:05 · vídeo de recompensa separado</span><h3>Recompensa</h3><p>{e(r['see'])}</p><p class="cue">“{e(r['vo'])}”</p></div></article>''')
     parts.append('</section>')
@@ -135,7 +142,7 @@ for n, f in enumerate(data['fairies'], 1):
 parts.append('<section id="decidir"><span class="eyebrow">Antes de renderizar</span><h2>Para decidir</h2><div class="decisions">')
 for d in data['decisions']:
     parts.append(f'<div><span><b>{e(d["q"])}.</b> {e(d["a"])}</span></div>')
-parts.append('</div><p class="note">O timer continua exato: 120 s de escovação, quatro quadrantes de 30 s, recompensa separada de 5 s. Depois da aprovação, os eventos de cada passo são desenhados e os dois vídeos são renderizados de novo.</p></section>')
+parts.append('</div><p class="note">As sequências acima já são quadros reais do vídeo (sem a locução nova). O timer continua exato: 120 s de escovação, quatro quadrantes de 30 s, recompensa separada de 5 s. Com a aprovação, gravo as falas novas e renderizo os dois vídeos.</p></section>')
 parts.append('</div>')
 
 os.makedirs(out, exist_ok=True)
