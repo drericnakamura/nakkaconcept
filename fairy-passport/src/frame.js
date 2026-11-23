@@ -1,7 +1,7 @@
 // Compose one frame: story layer → HUD layer → reward layer → film finish.
 'use strict';
 const L = require('./lib');
-const { drawHUD } = require('./hud');
+const { drawHUD } = process.env.FP_HUD === 'v2' ? require('./hud_v2') : require('./hud');
 const { BRUSH } = require('./timeline');
 const SCENES = { bravi: require('./scenes/bravi'), lumi: null };
 let reward = null;

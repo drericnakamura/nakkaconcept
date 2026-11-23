@@ -332,4 +332,4 @@ function drawHUD(ctx, themeId, t) {
   ctx.restore();
 }
 
-module.exports = { drawHUD, THEMES, TIMER };
+module.exports = { drawHUD, THEMES, TIMER, CARD, MOUTH, MID, base, drawTooth, pipIcon, TEETH, qIndex, quadCentre };

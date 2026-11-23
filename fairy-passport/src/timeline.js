@@ -20,6 +20,17 @@ const QUADS = [
 ];
 const SURFACES = ['OUTSIDE', 'INSIDE', 'TOPS'];  // 10 s each inside every 30 s phase
 
+// v2: six 5-second coaching steps inside every 30 s quadrant
+const STEP = 5;
+const STEPS = [
+  { teeth: 'back', surf: 'outside', motion: 'circles', label: 'BACK TEETH · OUTSIDE' },
+  { teeth: 'front', surf: 'outside', motion: 'circles', label: 'FRONT TEETH · OUTSIDE' },
+  { teeth: 'back', surf: 'inside', motion: 'circles', label: 'BACK TEETH · INSIDE' },
+  { teeth: 'front', surf: 'inside', motion: 'updown', label: 'FRONT TEETH · INSIDE' },
+  { teeth: 'back', surf: 'top', motion: 'scrub', label: 'CHEWING TOPS' },
+  { teeth: 'all', surf: 'all', motion: 'circles', label: 'SPARKLE FINISH' },
+];
+
 function phaseInfo(t) {
   if (t >= BRUSH) {
     return { k: 4, done: true, tp: t - BRUSH, remain: 0, secs: 0, surf: -1, frac: 1 };
@@ -30,7 +41,8 @@ function phaseInfo(t) {
   // ceil: shows 30 for the first second, 1 for the last; never pauses or jumps
   const secs = Math.min(30, Math.max(1, Math.ceil(remain - 1e-6)));
   const surf = Math.min(2, Math.floor(tp / 10 + 1e-9));
-  return { k, done: false, tp, remain, secs, surf, frac: tp / PHASE };
+  const step = Math.min(5, Math.floor(tp / STEP + 1e-9));
+  return { k, done: false, tp, remain, secs, surf, frac: tp / PHASE, step, ts: tp - step * STEP };
 }
 
-module.exports = { FPS, PHASE, BRUSH, REWARD, TOTAL, W, H, QUADS, SURFACES, phaseInfo };
+module.exports = { FPS, PHASE, BRUSH, REWARD, TOTAL, W, H, QUADS, SURFACES, STEP, STEPS, phaseInfo };
