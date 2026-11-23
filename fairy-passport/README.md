@@ -11,6 +11,9 @@ Tudo aqui é original e gerado por código: personagens, cenários, trilha, efei
 A narração sai de um modelo de voz aberto (Kokoro, Apache-2.0) e pode ser
 trocada por uma voz de estúdio sem mexer no resto.
 
+Versão atual: **v3, "abre enquanto escova"**, aprovada a partir do storyboard
+em `storyboard/storyboard_v3.json`.
+
 ## Entregáveis (`out/`)
 
 Para cada fada:
@@ -22,44 +25,59 @@ Para cada fada:
 | `*_full_125s.mp4` | As duas coisas emendadas, para tocar direto (fora do git por ser cópia das outras duas; `node src/build.js` gera, ou `ffmpeg -f concat` dos dois MP4) |
 | `*.en.srt` | Legendas em inglês (também embutidas no MP4 como faixa desligada por padrão) |
 
-Conferido nos arquivos finais com `ffprobe`: escovação = 3.600 quadros e
-120,000 s de áudio; recompensa = 150 quadros e 5,000 s; completo = 3.750
-quadros e 125,000 s. O quadro 899 mostra "1" e o quadro 900 mostra "30" com
-MISSION 2/4; o carrilhão de missão cumprida cai em 30,002 s no áudio.
-
 E em `out/assets/`: personagem em PNG transparente, selo em PNG transparente e
 a animação do selo com canal alfa (`*_badge_unlock.webm`) para o passaporte
 digital ou impresso.
 
-## As três camadas
+## O ritmo: um passo a cada 5 segundos
 
-Como recomendado, o vídeo é montado em camadas independentes — o que garante
-que nenhuma animação consiga mexer na contagem:
+Cada quadrante de 30 s tem seis passos de 5 s, iguais nas sete fadas:
 
-1. **Timer** (`src/timeline.js`, `src/hud.js`) — calculado só a partir do
-   número do quadro. Quadro *f* = *f*/30 s. O anel e o número nunca pausam,
-   nunca reiniciam fora de hora, nunca aceleram. 30 aparece no primeiro
-   segundo de cada quadrante, 1 no último.
-2. **História** (`src/scenes/*.js`) — câmera, fada, objetos e recompensas
-   progressivas. Também é função pura do tempo.
-3. **Áudio** (`audio/`) — narração, trilha e efeitos, mixados e cortados em
-   120,000 s + 5,000 s.
+| Passo | Tempo | Onde | Movimento |
+| --- | --- | --- | --- |
+| 1 | 0–5 s | Dentes de trás, por fora (lado da bochecha) | Bolinhas |
+| 2 | 5–10 s | Dentes da frente, por fora | Bolinhas |
+| 3 | 10–15 s | Dentes de trás, por dentro (língua / céu da boca) | Bolinhas |
+| 4 | 15–20 s | Dentes da frente, por dentro | Escova em pé, sobe e desce |
+| 5 | 20–25 s | Em cima dos molares | Vai e vem |
+| 6 | 25–30 s | Acabamento | Bolinhas leves + "three, two, one" |
 
-## O que a criança vê
+Em cada passo acontecem quatro coisas ao mesmo tempo:
 
-No canto superior direito, o **cronômetro circular** (30 → 1) com o anel
-esvaziando. Ao lado, **"MISSION 1/4 → 4/4"** com os ícones da missão (portas
-para a Bravi, estrelas para a Lumi). À esquerda, **a boca** com o quadrante da
-vez aceso e uma escovinha esfregando.
+- **a narradora diz onde escovar** numa fala curta (até ~4,5 s), e nos
+  últimos 3 s conta "Three! Two! One!" junto com os tiques;
+- **o guia na tela mostra** os dentes do passo acesos na boca e um
+  dente-treinador com a escova do lado certo e a seta do movimento;
+- **o anel do timer** acende uma gema (coração para a Bravi, estrela para a
+  Lumi) no fim de cada passo;
+- **a missão se solta um pouco mais**, com um som próprio, e a fada comemora.
 
-Dentro de cada quadrante há três pílulas — **OUTSIDE → INSIDE → TOPS**, 10 s
-cada — para lembrar das faces vestibular, lingual/palatina e oclusal. Cada
-troca de face toca um "tim" suave.
+## As missões: abre ou quebra enquanto escova
 
-Nos últimos 3 s de cada quadrante: o anel pulsa, os dentes do próximo
-quadrante piscam no diagrama e tocam três tiques suaves (3-2-1). Na virada,
-toca o carrilhão de missão cumprida e a escovinha desliza para o novo
-quadrante.
+Cada missão é algo preso que se solta em 5 etapas, uma por passo. Entre um
+salto e outro, o próximo pedaço treme e a luz cresce. Aos 30 s, a coisa se
+liberta de vez. As quatro missões ficam no mesmo lugar do quadrante
+correspondente, para a cena reforçar o diagrama.
+
+**Bravi**
+
+| Quadrante | Missão | Como abre |
+| --- | --- | --- |
+| Em cima, direita | A porta escondida | 5 cadeados-coração saltam um a um; a porta abre uma fresta a cada salto, com luz vazando. 0:30 sai a chave dourada. |
+| Em cima, esquerda | A chave dourada | Cipós encantados se soltam um a um e viram flor. 0:55 a chave entra; 1:00 a porta abre e aparece o escudo. |
+| Embaixo, esquerda | O Escudo da Coragem | A crosta de pedra racha e cai em pedaços; o dourado aparece. 1:30 a pedra quebra toda e o raio abre o portão. |
+| Embaixo, direita | A última porta | A grade sobe um degrau por passo e as janelas do castelo acendem. 2:00 o portão abre e o castelo se ilumina. |
+
+**Lumi**
+
+| Quadrante | Missão | Como abre |
+| --- | --- | --- |
+| Em cima, direita | As estrelas perdidas | A nuvenzinha perde um tufo por passo e a estrela aparece. 0:30 ela volta ao lugar. |
+| Em cima, esquerda | O rastro brilhante | O rastro leva a um cristal de gelo que racha a cada passo. 1:00 o cristal estoura. |
+| Embaixo, esquerda | O segredo da lua | A lua acorda, cochicha e aponta; a nuvem-flor abre uma pétala por passo. 1:30 a estrela sobe. |
+| Embaixo, direita | A constelação mágica | Vaga-lumes trazem uma ponta da estrela por passo. 2:00 a constelação se completa. |
+
+Sem medo, sem cárie, sem bactéria: só coragem, esforço e constância.
 
 ### Uma decisão que vale conferir: o diagrama é em *visão-espelho*
 
@@ -68,38 +86,37 @@ esquerdo, inferior esquerdo, inferior direito, do lado **da criança**). O
 diagrama mostra a boca como a criança vê a própria boca no espelho: o lado
 direito dela aparece no lado direito da tela. É o oposto da convenção do
 odontograma (visão do examinador), e foi de propósito — quem olha a tela é
-quem escova. Se preferir a visão do examinador, basta inverter o sinal em
-`TEETH` em `src/hud.js` e as falas "on this side / on the other side"
-continuam valendo.
+quem escova. Para a visão do examinador, inverta o sinal em `TEETH` em
+`src/hud.js`.
 
-## As histórias
+## As três camadas
 
-As quatro missões ficam *no mesmo lugar* do quadrante correspondente, para a
-cena reforçar o diagrama:
+O vídeo é montado em camadas independentes, o que garante que nenhuma
+animação consiga mexer na contagem:
 
-- **Bravi** — o castelo tem quatro portas: duas nas torres (em cima) e dois
-  portões (embaixo). Quem destranca é a escovinha mágica — o avatar da
-  escovação da criança — e um traço dourado vai contornando a porta ao longo
-  dos 30 s. 0:30 abre a porta da torre direita e sai a chave dourada; 1:00 a
-  chave gira na fechadura da torre esquerda e aparece o Escudo da Coragem,
-  apagado; de 1:00 a 1:30 a escovinha esfrega o escudo até a cor voltar e às
-  1:30 ele brilha e abre o portão esquerdo; na última missão as janelas vão
-  acendendo uma a uma, e às 2:00 o portão direito abre e o castelo inteiro se
-  ilumina.
-- **Lumi** — a constelação tem forma de dente, com as quatro estrelas grandes
-  nos quatro quadrantes. 0:30 a estrela escondida atrás da nuvenzinha volta;
-  de 0:30 a 1:00 a escovinha vai pintando o rastro brilhante até a nebulosa;
-  a lua acorda, cochicha e aponta com o luar para a nuvem que brilha cada vez
-  mais; na última missão a poeira de estrelas se junta no espaço vazio e às
-  2:00 a constelação se completa.
+1. **Timer** (`src/timeline.js`, `src/hud_v2.js`) — calculado só a partir do
+   número do quadro. Quadro *f* = *f*/30 s. O anel e o número nunca pausam,
+   nunca reiniciam fora de hora, nunca aceleram. 30 aparece no primeiro
+   segundo de cada quadrante, 1 no último.
+2. **História** (`src/scenes/*.js`, `src/progress.js`) — câmera, fada e as
+   missões que abrem por etapas. Também é função pura do tempo.
+3. **Áudio** (`audio/`) — narração, trilha e efeitos, mixados e cortados em
+   120,000 s + 5,000 s.
 
-Sem medo, sem cárie, sem bactéria: só coragem, esforço e constância.
+## Storyboard → falas
+
+`storyboard/storyboard_v3.json` é a fonte: o que aparece em cada passo e a
+fala em inglês. `storyboard/build_page.py` gera a página de revisão e
+`audio/make_script.py` gera `audio/script.json` com o horário e a duração
+máxima de cada fala. Para mudar uma fala, edite o storyboard e rode de novo a
+partir de `make_script.py`.
 
 ## Narração
 
-Texto em `audio/script.json` (uma fala no começo de cada quadrante, o resto
-fica livre para escovar). Voz `af_heart` do Kokoro-82M, rodando local. "Bravi"
-está pronunciado *BRAH-vee* (ajuste em `NAMES`, `audio/tts.py`).
+Voz `af_heart` do Kokoro-82M, rodando local. Cada fala é sintetizada e, se
+passar da janela do passo, acelerada um pouco (a abertura de cada vídeo ficou
+em 1,11×; as outras, no ritmo normal). "Bravi" está pronunciado *BRAH-vee*
+(ajuste em `NAMES`, `audio/tts.py`).
 
 A conta ElevenLabs conectada estava com 63 créditos — uma fala custa ~206 —,
 então nada foi gerado lá. Para trocar pela voz de estúdio (sugestão: *Clara —
@@ -112,14 +129,17 @@ seguido de `python3 audio/music.py` e `node src/build.js`. O tempo de cada fala
 
 Composição original, sintetizada nota a nota (`audio/music.py`). Cada compasso
 tem exatamente 2,5 s — Bravi em 4/4 a 96 BPM, Lumi em 3/4 a 72 BPM —, então
-cada quadrante tem 12 compassos e as frases musicais viram junto com o
-quadrante. A cada missão entra uma camada nova (caixinha de música → celesta e
-harpa → flauta e chocalho → tudo junto), e a última frase sobe para a
-recompensa.
+cada passo tem 2 compassos, cada quadrante 12, e as frases musicais viram junto
+com o quadrante. A cada missão entra uma camada nova, e a última frase sobe
+para a recompensa.
 
-Mixagem: voz a −16 LUFS, trilha ~7 dB abaixo e mais ~8 dB abaixo enquanto o
-narrador fala, final em −17 LUFS integrados com pico abaixo de −1 dBFS. Os
-stems (voz, música, efeitos) ficam em `build/audio/` para reedição.
+Efeitos: um "tim" de gema a cada passo, o som da missão (cadeado, cipó, pedra,
+grade, nuvem, gelo, pétala, vaga-lume), tiques no 3-2-1 e o carrilhão de missão
+cumprida a cada 30 s.
+
+Mixagem: voz a −16 LUFS, trilha bem abaixo e mais baixa ainda enquanto o
+narrador fala, final em cerca de −17 LUFS integrados com pico abaixo de
+−1 dBFS. Os stems (voz, música, efeitos) ficam em `build/audio/` para reedição.
 
 ## Rodando
 
@@ -129,6 +149,7 @@ pip install kokoro-onnx soundfile scipy pyloudnorm
 # modelo de voz (Apache-2.0), ~350 MB:
 #   github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx
 #   github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
+python3 audio/make_script.py      # storyboard → falas
 python3 audio/tts.py --models /pasta/do/kokoro
 python3 audio/music.py
 node src/build.js                 # renderiza e monta os MP4 em out/
@@ -136,7 +157,8 @@ node src/assets.js                # artes avulsas e animação do selo
 node src/stills.js bravi 0 30.5 61 # quadros soltos para revisão em build/qa/
 ```
 
-Precisa de `ffmpeg` com libx264. Um vídeo leva poucos minutos em 4 núcleos.
+Precisa de `ffmpeg` com libx264. Os dois vídeos levam cerca de 6 minutos em 4
+núcleos. `FP_HUD=v1` volta o guia da primeira versão.
 
 ## Criando a próxima fada
 
@@ -146,10 +168,11 @@ O sistema foi feito para as sete:
 2. cores e ícone da missão em `THEMES` (`src/hud.js`) e o selo em `BADGES`
    (`src/badge.js`);
 3. uma cena em `src/scenes/<fada>.js` com as quatro missões nos quatro
-   quadrantes;
-4. as falas em `audio/script.json` e uma composição em `audio/music.py`.
+   quadrantes, cada uma se soltando em 5 etapas (`src/progress.js` tem as
+   ferramentas: níveis por passo, antecipação, rachaduras, peças);
+4. o roteiro no storyboard e uma composição em `audio/music.py`.
 
-O HUD, o relógio, a recompensa, a mixagem e a montagem são compartilhados.
+O guia, o relógio, a recompensa, a mixagem e a montagem são compartilhados.
 
 ## Fontes e licenças
 
@@ -158,6 +181,7 @@ Fredoka (SIL Open Font License, `fonts/Fredoka-OFL.txt`). Kokoro-82M
 
 ## Aviso clínico
 
-30 s por quadrante é uma divisão prática do tempo, não garantia de
-higienização. As pílulas OUTSIDE / INSIDE / TOPS existem para lembrar das três
-faces, e crianças pequenas precisam de um adulto escovando junto ou revisando.
+30 s por quadrante e 5 s por região são uma divisão prática do tempo, não
+garantia de higienização. Os passos existem para lembrar das três faces e dos
+dentes de trás, e crianças pequenas precisam de um adulto escovando junto ou
+revisando.

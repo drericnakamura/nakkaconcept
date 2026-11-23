@@ -170,6 +170,74 @@ def swell(dur, vel=1.0):
     return y * env * vel
 
 
+def stone_crack(vel=1.0, seed=1):
+    r = np.random.default_rng(seed)
+    t = T(0.7)
+    y = noise_hit(0.7, 0.045, 180, 2600, 1.0)
+    y += 0.5 * np.sin(2 * np.pi * 70 * t) * np.exp(-t / 0.08)
+    for k in range(6):                                  # little pebbles
+        i = int(r.uniform(0.08, 0.55) * SR)
+        c = noise_hit(0.05, 0.008, 1500, 6000, r.uniform(0.2, 0.5))
+        y[i:i + len(c)] += c[:len(y) - i]
+    return y * vel
+
+
+def gate_clank(vel=1.0):
+    t = T(0.9)
+    y = sum(a * np.sin(2 * np.pi * f * t) * np.exp(-t / d) for f, a, d in ((182, 0.6, 0.35), (413, 0.5, 0.25), (761, 0.35, 0.18), (1130, 0.25, 0.12)))
+    for k in range(5):                                  # chain rattle
+        i = int((0.12 + k * 0.07) * SR)
+        c = noise_hit(0.04, 0.01, 2500, 8000, 0.35)
+        y[i:i + len(c)] += c
+    return y * vel
+
+
+def ice_crack(vel=1.0, seed=5):
+    r = np.random.default_rng(seed)
+    t = T(0.8)
+    y = noise_hit(0.8, 0.02, 4500, None, 1.0)
+    for k in range(5):
+        f = r.uniform(2400, 5200)
+        y += 0.25 * np.sin(2 * np.pi * f * t + k) * np.exp(-t / r.uniform(0.05, 0.2))
+    return y * vel
+
+
+def lock_pop(vel=1.0):
+    t = T(0.6)
+    y = noise_hit(0.6, 0.006, 3000, 9000, 0.8)
+    y += sum(a * np.sin(2 * np.pi * f * t) * np.exp(-t / d) for f, a, d in ((2210, 0.5, 0.12), (3120, 0.35, 0.08), (4730, 0.25, 0.05)))
+    return y * vel
+
+
+def rustle(vel=1.0):
+    t = T(0.6)
+    y = noise_hit(0.6, 0.25, 1200, 5200, 1.0) * (0.6 + 0.4 * np.sin(2 * np.pi * 23 * t)) * np.sin(np.pi * np.clip(t / 0.6, 0, 1))
+    return y * vel
+
+
+def mission_sound(sfx, fairy, ph, at, key, i):
+    """One small sound per step, matching what opens on screen."""
+    if fairy == 'bravi':
+        if ph == 0:   # a heart-lock pops and the door creaks a little
+            sfx.add(lock_pop(0.32), at, 0.3); sfx.add(swell(0.5, 0.05), at + 0.05, 0.2)
+        elif ph == 1:  # a vine lets go and blooms
+            sfx.add(rustle(0.22), at - 0.05, -0.3); sfx.add(celesta(mtof(key + 24 + i), 0.2, 1.2), at + 0.35, -0.2)
+        elif ph == 2:  # a piece of stone cracks off
+            sfx.add(stone_crack(0.38, 10 + i), at, -0.2)
+        else:          # the portcullis rises a notch
+            sfx.add(gate_clank(0.28), at, 0.25)
+    else:
+        if ph == 0:   # a puff of cloud floats away
+            sfx.add(whoosh(0.7, 0.08, True), at - 0.05, 0.4); sfx.add(celesta(mtof(key + 26), 0.18, 1.0), at + 0.25, 0.4)
+        elif ph == 1:  # a new crack in the ice
+            sfx.add(ice_crack(0.3, 20 + i), at, -0.4)
+        elif ph == 2:  # a petal opens
+            for j, m in enumerate((key + 12, key + 16, key + 19)):
+                sfx.add(harp(mtof(m + i), 0.22), at + j * 0.07, -0.3)
+        else:          # a firefly snaps a point onto the star
+            sfx.add(celesta(mtof(key + 24 + (i * 2) % 7), 0.28, 1.2), at, 0.2); sfx.add(shimmer(0.6, 2600, 8, 0.5, seed=300 + i), at + 0.05)
+
+
 # ---------------- reverb ----------------
 
 def make_ir(rt=2.2, seed=3):
@@ -325,8 +393,9 @@ def compose(fairy, mus, sfx):
     # ---------- sound effects ----------
     key = S['key_root']
     for ph in range(4):
-        for s in (10, 20):                                   # surface changes
-            sfx.add(celesta(mtof(key + 19), 0.34, 1.4), ph * 30 + s, 0.3)
+        for i, s in enumerate((5, 10, 15, 20, 25)):          # every step: gem on the ring + the mission's own sound
+            sfx.add(celesta(mtof(key + 19 + (i % 2) * 5), 0.3, 1.4), ph * 30 + s, 0.3)
+            mission_sound(sfx, fairy, ph, ph * 30 + s, key, i)
         for s in (27, 28, 29):                               # 3-2-1 before switching
             sfx.add(tock(0.32 if s < 29 else 0.42), ph * 30 + s, -0.25)
     for tq in (30, 60, 90, 120):                             # mission complete
@@ -345,13 +414,18 @@ def compose(fairy, mus, sfx):
         sfx.add(shimmer(2.0, 2000, 20, 0.5, seed=11), 0.2)
         # key turning in the lock
         sfx.add(tock(0.2), 59.6, -0.2); sfx.add(tock(0.16), 59.78, -0.2)
-        sfx.add(swell(1.4, 0.12), 88.6, 0)                   # shield waking up
+        sfx.add(swell(1.4, 0.12), 88.6, 0)                   # shield breaking free
+        sfx.add(stone_crack(0.5), 90.0, 0); sfx.add(stone_crack(0.35, 3), 90.12, -0.4); sfx.add(stone_crack(0.3, 4), 90.22, 0.4)
+        sfx.add(gate_clank(0.35), 120.0, 0.2)                # portcullis goes all the way up
         sfx.add(shimmer(1.6, 1600, 24, 0.7, seed=90, rise=True), 89.2)
         sfx.add(shimmer(2.2, 2200, 30, 0.6, seed=120), 120.3)  # castle lights up
     else:
         sfx.add(shimmer(2.0, 2400, 20, 0.5, seed=12), 0.2)
         for i in range(3):                                   # the moon's whisper
-            sfx.add(celesta(mtof(key + 24 + i * 2), 0.12, 1.0), 61.7 + i * 0.18, -0.5)
+            sfx.add(celesta(mtof(key + 24 + i * 2), 0.12, 1.0), 70.2 + i * 0.18, -0.5)
+        sfx.add(ice_crack(0.55), 60.0, -0.2); sfx.add(ice_crack(0.4, 9), 60.1, 0.3)   # crystal shatters
+        for i in range(8):
+            sfx.add(celesta(mtof(key + 31 + (i * 5) % 12), 0.12, 0.9), 60.05 + i * 0.045, (i % 3 - 1) * 0.6)
         sfx.add(shimmer(2.4, 1800, 34, 0.7, seed=121, rise=True), 120.2)  # constellation lines
     # badge unlock fanfare
     sfx.add(swell(0.9, 0.12), 0.0 + 120.1, 0)
@@ -399,8 +473,8 @@ def main():
         music *= duck
         effects = reverb(sfx.x, 0.3)
         effects *= 10 ** ((-24 - loudness(effects)) / 20)
-        mix = (music + effects + voice) * 10 ** (2.5 / 20)
-        music, effects, voice = (b * 10 ** (2.5 / 20) for b in (music, effects, voice))
+        mix = (music + effects + voice) * 10 ** (0.5 / 20)
+        music, effects, voice = (b * 10 ** (0.5 / 20) for b in (music, effects, voice))
         lu = 0.0                      # stems below are written at their final level
         ceil = 0.89
         mix = np.where(np.abs(mix) > ceil * 0.8, np.sign(mix) * (ceil * 0.8 + (ceil * 0.2) * np.tanh((np.abs(mix) - ceil * 0.8) / (ceil * 0.2))), mix)

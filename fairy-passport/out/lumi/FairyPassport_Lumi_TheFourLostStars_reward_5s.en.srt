@@ -1,7 +1,7 @@
 1
-00:00:00,300 --> 00:00:03,199
-Wonderful! You helped Lumi bring every star home.
+00:00:00,300 --> 00:00:01,203
+Wonderful!
 
 2
-00:00:03,189 --> 00:00:04,864
-Your smile is shining bright!
+00:00:01,193 --> 00:00:05,000
+You helped Lumi bring every star home. Your smile is shining bright!

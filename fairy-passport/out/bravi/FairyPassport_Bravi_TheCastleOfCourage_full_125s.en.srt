@@ -1,63 +1,151 @@
 1
-00:00:00,500 --> 00:00:01,929
-Bravi needs your help!
+00:00:00,350 --> 00:00:05,113
+Four magic doors are locked! Help Bravi, start with the big back teeth, outside!
 
 2
-00:00:01,919 --> 00:00:06,275
-Four magical doors are locked... and only your toothbrush can open them!
+00:00:05,200 --> 00:00:07,919
+One lock! Now the front teeth, little circles!
 
 3
-00:00:06,265 --> 00:00:08,111
-Let's start up here, on this side.
+00:00:10,200 --> 00:00:13,368
+Now the back side, inside, by the roof of your mouth!
 
 4
-00:00:08,101 --> 00:00:11,293
-Brush the outside, the inside, and the tops of your teeth.
+00:00:15,200 --> 00:00:17,600
+Inside the front teeth, up and down!
 
 5
-00:00:30,750 --> 00:00:32,923
-You did it! The first door is open!
+00:00:20,200 --> 00:00:22,426
+Now the chewing tops, scrub, scrub!
 
 6
-00:00:32,913 --> 00:00:34,337
-Look, a golden key!
+00:00:25,250 --> 00:00:26,521
+Sparkle finish!
 
 7
-00:00:34,327 --> 00:00:37,755
-Follow it to the next tower. Top teeth, on the other side!
+00:00:27,020 --> 00:00:27,854
+Three!
 
 8
-00:01:00,750 --> 00:01:02,351
-We found the Courage Shield!
+00:00:28,020 --> 00:00:28,799
+Two!
 
 9
-00:01:02,341 --> 00:01:04,084
-But its magic is sleeping...
+00:00:29,020 --> 00:00:29,744
+One!
 
 10
-00:01:04,214 --> 00:01:06,000
-Let's bring back its sparkle!
+00:00:30,350 --> 00:00:34,245
+A golden key! Follow it to the other side, back teeth, outside!
 
 11
-00:01:05,990 --> 00:01:08,011
-Bottom teeth now, right below.
+00:00:35,200 --> 00:00:37,620
+The vines let go! Front teeth now.
 
 12
-00:01:30,750 --> 00:01:32,288
-Just one door left!
+00:00:40,200 --> 00:00:41,843
+The back side, inside!
 
 13
-00:01:32,278 --> 00:01:33,636
-You're doing amazing!
+00:00:45,200 --> 00:00:47,600
+Inside the front teeth, up and down!
 
 14
-00:01:33,626 --> 00:01:37,395
-Let's finish our mission together. Bottom teeth, on the other side!
+00:00:50,200 --> 00:00:52,339
+Chewing tops, scrub like a hero!
 
 15
+00:00:55,250 --> 00:00:56,320
+Turn the key!
+
+16
+00:00:57,020 --> 00:00:57,854
+Three!
+
+17
+00:00:58,020 --> 00:00:58,799
+Two!
+
+18
+00:00:59,020 --> 00:00:59,744
+One!
+
+19
+00:01:00,350 --> 00:01:04,983
+The Courage Shield is stuck in stone! Bottom teeth now, back teeth, outside.
+
+20
+00:01:05,200 --> 00:01:06,921
+Shiny! Now the front teeth.
+
+21
+00:01:10,200 --> 00:01:12,626
+Now the back side, inside, by your tongue!
+
+22
+00:01:15,200 --> 00:01:17,600
+Inside the front teeth, up and down!
+
+23
+00:01:20,200 --> 00:01:21,988
+Chewing tops, scrub, scrub!
+
+24
+00:01:25,250 --> 00:01:26,587
+Break free, shield!
+
+25
+00:01:27,020 --> 00:01:27,854
+Three!
+
+26
+00:01:28,020 --> 00:01:28,799
+Two!
+
+27
+00:01:29,020 --> 00:01:29,744
+One!
+
+28
+00:01:30,350 --> 00:01:33,918
+Just one door left! The other side, back teeth, outside!
+
+29
+00:01:35,200 --> 00:01:37,814
+The castle is waking up! Front teeth now.
+
+30
+00:01:40,200 --> 00:01:41,843
+The back side, inside!
+
+31
+00:01:45,200 --> 00:01:47,600
+Inside the front teeth, up and down!
+
+32
+00:01:50,200 --> 00:01:52,035
+Last part, the chewing tops!
+
+33
+00:01:55,250 --> 00:01:56,607
+You're doing amazing!
+
+34
+00:01:57,020 --> 00:01:57,854
+Three!
+
+35
+00:01:58,020 --> 00:01:58,799
+Two!
+
+36
+00:01:59,020 --> 00:01:59,744
+One!
+
+37
 00:02:00,300 --> 00:02:01,252
 You did it!
 
-16
+38
 00:02:01,242 --> 00:02:04,512
 Being brave means trying, even when something feels new!

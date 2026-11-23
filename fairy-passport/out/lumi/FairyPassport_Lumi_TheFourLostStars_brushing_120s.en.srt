@@ -1,51 +1,143 @@
 1
-00:00:00,500 --> 00:00:03,128
-Oh no! Four little stars have disappeared!
+00:00:00,350 --> 00:00:05,053
+Oh no, four stars are lost! Let's find the first one: big back teeth, outside!
 
 2
-00:00:03,118 --> 00:00:05,377
-Lumi needs your help to bring them home.
+00:00:05,200 --> 00:00:07,158
+A twinkle! Now the front teeth.
 
 3
-00:00:05,367 --> 00:00:08,059
-Let's find the first one, up here, on this side.
+00:00:10,200 --> 00:00:13,368
+Now the back side, inside, by the roof of your mouth!
 
 4
-00:00:08,049 --> 00:00:11,241
-Brush the outside, the inside, and the tops of your teeth.
+00:00:15,200 --> 00:00:17,600
+Inside the front teeth, up and down!
 
 5
-00:00:30,750 --> 00:00:32,189
-One star is back!
+00:00:20,200 --> 00:00:22,426
+Now the chewing tops, scrub, scrub!
 
 6
-00:00:32,179 --> 00:00:33,887
-Look at that sparkling trail!
+00:00:25,250 --> 00:00:26,364
+Here it comes!
 
 7
-00:00:33,877 --> 00:00:38,489
-I think it's showing us where the next star is hiding. Top teeth, on the other side!
+00:00:27,020 --> 00:00:27,854
+Three!
 
 8
-00:01:00,750 --> 00:01:02,105
-Two stars found!
+00:00:28,020 --> 00:00:28,799
+Two!
 
 9
-00:01:02,096 --> 00:01:06,312
-The moon has a secret... the third star is hiding just below us.
+00:00:29,020 --> 00:00:29,744
+One!
 
 10
-00:01:06,302 --> 00:01:08,285
-Let's go! Bottom teeth now!
+00:00:30,350 --> 00:00:34,963
+One star is home! Follow the trail to the other side, back teeth, outside!
 
 11
-00:01:30,750 --> 00:01:32,158
-Just one more star!
+00:00:35,200 --> 00:00:36,932
+A crack! Front teeth now.
 
 12
-00:01:32,148 --> 00:01:33,798
-Can you see where it belongs?
+00:00:40,200 --> 00:00:41,843
+The back side, inside!
 
 13
-00:01:33,788 --> 00:01:38,124
-Let's make the whole sky sparkle again. Bottom teeth, on the other side!
+00:00:45,200 --> 00:00:47,600
+Inside the front teeth, up and down!
+
+14
+00:00:50,200 --> 00:00:51,988
+Chewing tops, scrub, scrub!
+
+15
+00:00:55,250 --> 00:00:56,692
+The ice is breaking!
+
+16
+00:00:57,020 --> 00:00:57,854
+Three!
+
+17
+00:00:58,020 --> 00:00:58,799
+Two!
+
+18
+00:00:59,020 --> 00:00:59,744
+One!
+
+19
+00:01:00,350 --> 00:01:04,851
+Two stars! The moon has a secret... Bottom teeth, back teeth, outside.
+
+20
+00:01:05,200 --> 00:01:07,679
+The moon is waking up! Front teeth now.
+
+21
+00:01:10,200 --> 00:01:12,428
+The back side, inside, by your tongue!
+
+22
+00:01:15,200 --> 00:01:17,600
+Inside the front teeth, up and down!
+
+23
+00:01:20,200 --> 00:01:23,213
+A petal opens! Chewing tops, scrub, scrub!
+
+24
+00:01:25,250 --> 00:01:26,753
+The flower is opening!
+
+25
+00:01:27,020 --> 00:01:27,854
+Three!
+
+26
+00:01:28,020 --> 00:01:28,799
+Two!
+
+27
+00:01:29,020 --> 00:01:29,744
+One!
+
+28
+00:01:30,350 --> 00:01:33,843
+Just one more star! The other side, back teeth, outside!
+
+29
+00:01:35,200 --> 00:01:37,356
+A piece of light! Front teeth now.
+
+30
+00:01:40,200 --> 00:01:41,843
+The back side, inside!
+
+31
+00:01:45,200 --> 00:01:47,600
+Inside the front teeth, up and down!
+
+32
+00:01:50,200 --> 00:01:52,035
+Last part, the chewing tops!
+
+33
+00:01:55,250 --> 00:01:56,958
+The sky is almost ready!
+
+34
+00:01:57,020 --> 00:01:57,854
+Three!
+
+35
+00:01:58,020 --> 00:01:58,799
+Two!
+
+36
+00:01:59,020 --> 00:01:59,744
+One!

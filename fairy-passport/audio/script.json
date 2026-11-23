@@ -1,48 +1,673 @@
 {
-  "_note": "Narration. 'at' = start time in seconds on the 125 s timeline (0–120 brushing, 120–125 reward). Each line is synthesised sentence by sentence so captions are exact. Lines sit at the start of each 30 s phase and leave the rest quiet for brushing.",
-  "bravi": [
-    { "at": 0.5, "phase": 1, "sentences": [
-      "Bravi needs your help!",
-      "Four magical doors are locked... and only your toothbrush can open them!",
-      "Let's start up here, on this side.",
-      "Brush the outside, the inside, and the tops of your teeth." ] },
-    { "at": 30.75, "phase": 2, "sentences": [
-      "You did it! The first door is open!",
-      "Look, a golden key!",
-      "Follow it to the next tower. Top teeth, on the other side!" ] },
-    { "at": 60.75, "phase": 3, "sentences": [
-      "We found the Courage Shield!",
-      "But its magic is sleeping...",
-      "Let's bring back its sparkle!",
-      "Bottom teeth now, right below." ] },
-    { "at": 90.75, "phase": 4, "sentences": [
-      "Just one door left!",
-      "You're doing amazing!",
-      "Let's finish our mission together. Bottom teeth, on the other side!" ] },
-    { "at": 120.3, "phase": "reward", "sentences": [
-      "You did it!",
-      "Being brave means trying, even when something feels new!" ] }
-  ],
-  "lumi": [
-    { "at": 0.5, "phase": 1, "sentences": [
-      "Oh no! Four little stars have disappeared!",
-      "Lumi needs your help to bring them home.",
-      "Let's find the first one, up here, on this side.",
-      "Brush the outside, the inside, and the tops of your teeth." ] },
-    { "at": 30.75, "phase": 2, "sentences": [
-      "One star is back!",
-      "Look at that sparkling trail!",
-      "I think it's showing us where the next star is hiding. Top teeth, on the other side!" ] },
-    { "at": 60.75, "phase": 3, "sentences": [
-      "Two stars found!",
-      "The moon has a secret... the third star is hiding just below us.",
-      "Let's go! Bottom teeth now!" ] },
-    { "at": 90.75, "phase": 4, "sentences": [
-      "Just one more star!",
-      "Can you see where it belongs?",
-      "Let's make the whole sky sparkle again. Bottom teeth, on the other side!" ] },
-    { "at": 120.3, "phase": "reward", "sentences": [
-      "Wonderful! You helped Lumi bring every star home.",
-      "Your smile is shining bright!" ] }
-  ]
+ "_note": "Generated from storyboard/storyboard_v3.json by audio/make_script.py. at = start in seconds; max = longest the take may last.",
+ "bravi": [
+  {
+   "at": 0.35,
+   "max": 4.53,
+   "phase": 1,
+   "step": 1,
+   "sentences": [
+    "Four magic doors are locked! Help Bravi, start with the big back teeth, outside!"
+   ]
+  },
+  {
+   "at": 5.2,
+   "max": 4.68,
+   "phase": 1,
+   "step": 2,
+   "sentences": [
+    "One lock! Now the front teeth, little circles!"
+   ]
+  },
+  {
+   "at": 10.2,
+   "max": 4.68,
+   "phase": 1,
+   "step": 3,
+   "sentences": [
+    "Now the back side, inside, by the roof of your mouth!"
+   ]
+  },
+  {
+   "at": 15.2,
+   "max": 4.68,
+   "phase": 1,
+   "step": 4,
+   "sentences": [
+    "Inside the front teeth, up and down!"
+   ]
+  },
+  {
+   "at": 20.2,
+   "max": 4.68,
+   "phase": 1,
+   "step": 5,
+   "sentences": [
+    "Now the chewing tops, scrub, scrub!"
+   ]
+  },
+  {
+   "at": 25.25,
+   "max": 1.65,
+   "phase": 1,
+   "step": 6,
+   "sentences": [
+    "Sparkle finish!"
+   ]
+  },
+  {
+   "at": 27.02,
+   "max": 0.85,
+   "phase": 1,
+   "step": "count",
+   "sentences": [
+    "Three!"
+   ]
+  },
+  {
+   "at": 28.02,
+   "max": 0.85,
+   "phase": 1,
+   "step": "count",
+   "sentences": [
+    "Two!"
+   ]
+  },
+  {
+   "at": 29.02,
+   "max": 0.85,
+   "phase": 1,
+   "step": "count",
+   "sentences": [
+    "One!"
+   ]
+  },
+  {
+   "at": 30.35,
+   "max": 4.53,
+   "phase": 2,
+   "step": 1,
+   "sentences": [
+    "A golden key! Follow it to the other side, back teeth, outside!"
+   ]
+  },
+  {
+   "at": 35.2,
+   "max": 4.68,
+   "phase": 2,
+   "step": 2,
+   "sentences": [
+    "The vines let go! Front teeth now."
+   ]
+  },
+  {
+   "at": 40.2,
+   "max": 4.68,
+   "phase": 2,
+   "step": 3,
+   "sentences": [
+    "The back side, inside!"
+   ]
+  },
+  {
+   "at": 45.2,
+   "max": 4.68,
+   "phase": 2,
+   "step": 4,
+   "sentences": [
+    "Inside the front teeth, up and down!"
+   ]
+  },
+  {
+   "at": 50.2,
+   "max": 4.68,
+   "phase": 2,
+   "step": 5,
+   "sentences": [
+    "Chewing tops, scrub like a hero!"
+   ]
+  },
+  {
+   "at": 55.25,
+   "max": 1.65,
+   "phase": 2,
+   "step": 6,
+   "sentences": [
+    "Turn the key!"
+   ]
+  },
+  {
+   "at": 57.02,
+   "max": 0.85,
+   "phase": 2,
+   "step": "count",
+   "sentences": [
+    "Three!"
+   ]
+  },
+  {
+   "at": 58.02,
+   "max": 0.85,
+   "phase": 2,
+   "step": "count",
+   "sentences": [
+    "Two!"
+   ]
+  },
+  {
+   "at": 59.02,
+   "max": 0.85,
+   "phase": 2,
+   "step": "count",
+   "sentences": [
+    "One!"
+   ]
+  },
+  {
+   "at": 60.35,
+   "max": 4.53,
+   "phase": 3,
+   "step": 1,
+   "sentences": [
+    "The Courage Shield is stuck in stone! Bottom teeth now, back teeth, outside."
+   ]
+  },
+  {
+   "at": 65.2,
+   "max": 4.68,
+   "phase": 3,
+   "step": 2,
+   "sentences": [
+    "Shiny! Now the front teeth."
+   ]
+  },
+  {
+   "at": 70.2,
+   "max": 4.68,
+   "phase": 3,
+   "step": 3,
+   "sentences": [
+    "Now the back side, inside, by your tongue!"
+   ]
+  },
+  {
+   "at": 75.2,
+   "max": 4.68,
+   "phase": 3,
+   "step": 4,
+   "sentences": [
+    "Inside the front teeth, up and down!"
+   ]
+  },
+  {
+   "at": 80.2,
+   "max": 4.68,
+   "phase": 3,
+   "step": 5,
+   "sentences": [
+    "Chewing tops, scrub, scrub!"
+   ]
+  },
+  {
+   "at": 85.25,
+   "max": 1.65,
+   "phase": 3,
+   "step": 6,
+   "sentences": [
+    "Break free, shield!"
+   ]
+  },
+  {
+   "at": 87.02,
+   "max": 0.85,
+   "phase": 3,
+   "step": "count",
+   "sentences": [
+    "Three!"
+   ]
+  },
+  {
+   "at": 88.02,
+   "max": 0.85,
+   "phase": 3,
+   "step": "count",
+   "sentences": [
+    "Two!"
+   ]
+  },
+  {
+   "at": 89.02,
+   "max": 0.85,
+   "phase": 3,
+   "step": "count",
+   "sentences": [
+    "One!"
+   ]
+  },
+  {
+   "at": 90.35,
+   "max": 4.53,
+   "phase": 4,
+   "step": 1,
+   "sentences": [
+    "Just one door left! The other side, back teeth, outside!"
+   ]
+  },
+  {
+   "at": 95.2,
+   "max": 4.68,
+   "phase": 4,
+   "step": 2,
+   "sentences": [
+    "The castle is waking up! Front teeth now."
+   ]
+  },
+  {
+   "at": 100.2,
+   "max": 4.68,
+   "phase": 4,
+   "step": 3,
+   "sentences": [
+    "The back side, inside!"
+   ]
+  },
+  {
+   "at": 105.2,
+   "max": 4.68,
+   "phase": 4,
+   "step": 4,
+   "sentences": [
+    "Inside the front teeth, up and down!"
+   ]
+  },
+  {
+   "at": 110.2,
+   "max": 4.68,
+   "phase": 4,
+   "step": 5,
+   "sentences": [
+    "Last part, the chewing tops!"
+   ]
+  },
+  {
+   "at": 115.25,
+   "max": 1.65,
+   "phase": 4,
+   "step": 6,
+   "sentences": [
+    "You're doing amazing!"
+   ]
+  },
+  {
+   "at": 117.02,
+   "max": 0.85,
+   "phase": 4,
+   "step": "count",
+   "sentences": [
+    "Three!"
+   ]
+  },
+  {
+   "at": 118.02,
+   "max": 0.85,
+   "phase": 4,
+   "step": "count",
+   "sentences": [
+    "Two!"
+   ]
+  },
+  {
+   "at": 119.02,
+   "max": 0.85,
+   "phase": 4,
+   "step": "count",
+   "sentences": [
+    "One!"
+   ]
+  },
+  {
+   "at": 120.3,
+   "max": 4.55,
+   "phase": "reward",
+   "sentences": [
+    "You did it!",
+    "Being brave means trying, even when something feels new!"
+   ]
+  }
+ ],
+ "lumi": [
+  {
+   "at": 0.35,
+   "max": 4.53,
+   "phase": 1,
+   "step": 1,
+   "sentences": [
+    "Oh no, four stars are lost! Let's find the first one: big back teeth, outside!"
+   ]
+  },
+  {
+   "at": 5.2,
+   "max": 4.68,
+   "phase": 1,
+   "step": 2,
+   "sentences": [
+    "A twinkle! Now the front teeth."
+   ]
+  },
+  {
+   "at": 10.2,
+   "max": 4.68,
+   "phase": 1,
+   "step": 3,
+   "sentences": [
+    "Now the back side, inside, by the roof of your mouth!"
+   ]
+  },
+  {
+   "at": 15.2,
+   "max": 4.68,
+   "phase": 1,
+   "step": 4,
+   "sentences": [
+    "Inside the front teeth, up and down!"
+   ]
+  },
+  {
+   "at": 20.2,
+   "max": 4.68,
+   "phase": 1,
+   "step": 5,
+   "sentences": [
+    "Now the chewing tops, scrub, scrub!"
+   ]
+  },
+  {
+   "at": 25.25,
+   "max": 1.65,
+   "phase": 1,
+   "step": 6,
+   "sentences": [
+    "Here it comes!"
+   ]
+  },
+  {
+   "at": 27.02,
+   "max": 0.85,
+   "phase": 1,
+   "step": "count",
+   "sentences": [
+    "Three!"
+   ]
+  },
+  {
+   "at": 28.02,
+   "max": 0.85,
+   "phase": 1,
+   "step": "count",
+   "sentences": [
+    "Two!"
+   ]
+  },
+  {
+   "at": 29.02,
+   "max": 0.85,
+   "phase": 1,
+   "step": "count",
+   "sentences": [
+    "One!"
+   ]
+  },
+  {
+   "at": 30.35,
+   "max": 4.53,
+   "phase": 2,
+   "step": 1,
+   "sentences": [
+    "One star is home! Follow the trail to the other side, back teeth, outside!"
+   ]
+  },
+  {
+   "at": 35.2,
+   "max": 4.68,
+   "phase": 2,
+   "step": 2,
+   "sentences": [
+    "A crack! Front teeth now."
+   ]
+  },
+  {
+   "at": 40.2,
+   "max": 4.68,
+   "phase": 2,
+   "step": 3,
+   "sentences": [
+    "The back side, inside!"
+   ]
+  },
+  {
+   "at": 45.2,
+   "max": 4.68,
+   "phase": 2,
+   "step": 4,
+   "sentences": [
+    "Inside the front teeth, up and down!"
+   ]
+  },
+  {
+   "at": 50.2,
+   "max": 4.68,
+   "phase": 2,
+   "step": 5,
+   "sentences": [
+    "Chewing tops, scrub, scrub!"
+   ]
+  },
+  {
+   "at": 55.25,
+   "max": 1.65,
+   "phase": 2,
+   "step": 6,
+   "sentences": [
+    "The ice is breaking!"
+   ]
+  },
+  {
+   "at": 57.02,
+   "max": 0.85,
+   "phase": 2,
+   "step": "count",
+   "sentences": [
+    "Three!"
+   ]
+  },
+  {
+   "at": 58.02,
+   "max": 0.85,
+   "phase": 2,
+   "step": "count",
+   "sentences": [
+    "Two!"
+   ]
+  },
+  {
+   "at": 59.02,
+   "max": 0.85,
+   "phase": 2,
+   "step": "count",
+   "sentences": [
+    "One!"
+   ]
+  },
+  {
+   "at": 60.35,
+   "max": 4.53,
+   "phase": 3,
+   "step": 1,
+   "sentences": [
+    "Two stars! The moon has a secret... Bottom teeth, back teeth, outside."
+   ]
+  },
+  {
+   "at": 65.2,
+   "max": 4.68,
+   "phase": 3,
+   "step": 2,
+   "sentences": [
+    "The moon is waking up! Front teeth now."
+   ]
+  },
+  {
+   "at": 70.2,
+   "max": 4.68,
+   "phase": 3,
+   "step": 3,
+   "sentences": [
+    "The back side, inside, by your tongue!"
+   ]
+  },
+  {
+   "at": 75.2,
+   "max": 4.68,
+   "phase": 3,
+   "step": 4,
+   "sentences": [
+    "Inside the front teeth, up and down!"
+   ]
+  },
+  {
+   "at": 80.2,
+   "max": 4.68,
+   "phase": 3,
+   "step": 5,
+   "sentences": [
+    "A petal opens! Chewing tops, scrub, scrub!"
+   ]
+  },
+  {
+   "at": 85.25,
+   "max": 1.65,
+   "phase": 3,
+   "step": 6,
+   "sentences": [
+    "The flower is opening!"
+   ]
+  },
+  {
+   "at": 87.02,
+   "max": 0.85,
+   "phase": 3,
+   "step": "count",
+   "sentences": [
+    "Three!"
+   ]
+  },
+  {
+   "at": 88.02,
+   "max": 0.85,
+   "phase": 3,
+   "step": "count",
+   "sentences": [
+    "Two!"
+   ]
+  },
+  {
+   "at": 89.02,
+   "max": 0.85,
+   "phase": 3,
+   "step": "count",
+   "sentences": [
+    "One!"
+   ]
+  },
+  {
+   "at": 90.35,
+   "max": 4.53,
+   "phase": 4,
+   "step": 1,
+   "sentences": [
+    "Just one more star! The other side, back teeth, outside!"
+   ]
+  },
+  {
+   "at": 95.2,
+   "max": 4.68,
+   "phase": 4,
+   "step": 2,
+   "sentences": [
+    "A piece of light! Front teeth now."
+   ]
+  },
+  {
+   "at": 100.2,
+   "max": 4.68,
+   "phase": 4,
+   "step": 3,
+   "sentences": [
+    "The back side, inside!"
+   ]
+  },
+  {
+   "at": 105.2,
+   "max": 4.68,
+   "phase": 4,
+   "step": 4,
+   "sentences": [
+    "Inside the front teeth, up and down!"
+   ]
+  },
+  {
+   "at": 110.2,
+   "max": 4.68,
+   "phase": 4,
+   "step": 5,
+   "sentences": [
+    "Last part, the chewing tops!"
+   ]
+  },
+  {
+   "at": 115.25,
+   "max": 1.65,
+   "phase": 4,
+   "step": 6,
+   "sentences": [
+    "The sky is almost ready!"
+   ]
+  },
+  {
+   "at": 117.02,
+   "max": 0.85,
+   "phase": 4,
+   "step": "count",
+   "sentences": [
+    "Three!"
+   ]
+  },
+  {
+   "at": 118.02,
+   "max": 0.85,
+   "phase": 4,
+   "step": "count",
+   "sentences": [
+    "Two!"
+   ]
+  },
+  {
+   "at": 119.02,
+   "max": 0.85,
+   "phase": 4,
+   "step": "count",
+   "sentences": [
+    "One!"
+   ]
+  },
+  {
+   "at": 120.3,
+   "max": 4.55,
+   "phase": "reward",
+   "sentences": [
+    "Wonderful!",
+    "You helped Lumi bring every star home. Your smile is shining bright!"
+   ]
+  }
+ ]
 }

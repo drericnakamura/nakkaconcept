@@ -71,6 +71,7 @@ def main():
                 k = Kokoro(os.path.join(args.models, 'kokoro-v1.0.onnx'), os.path.join(args.models, 'voices-v1.0.bin'))
                 tok = Tokenizer()
             speed = args.speed * (1.06 if reward else 1.0)
+            limit = line.get('max') or (125 - line['at'] - 0.15 if reward else 24.0)
             while True:
                 parts, caps, t = [], [], 0.0
                 for si, s in enumerate(line['sentences']):
@@ -82,10 +83,11 @@ def main():
                         parts.append(np.zeros(int(gap * SR), np.float32)); t += gap
                 y = np.concatenate(parts)
                 dur = len(y) / SR
-                limit = 125 - line['at'] - 0.15 if reward else 24.0
-                if dur <= limit or speed > 1.25:
+                if dur <= limit or speed > 1.2:
                     break
-                speed *= 1.04
+                speed *= 1.03
+            if dur > limit:
+                print(f'  ! {fairy} line{li} is {dur:.2f}s, window {limit:.2f}s — shorten the text')
             peak = np.max(np.abs(y)) + 1e-9
             y = (y / peak * 0.89).astype(np.float32)
             sf.write(path, y, SR, subtype='FLOAT')
