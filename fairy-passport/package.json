@@ -1,0 +1,14 @@
+{
+  "name": "fairy-passport-brushing-videos",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Fairy Passport — interactive 2-minute toothbrushing adventures (Bravi, Lumi). Frame-accurate renderer.",
+  "scripts": {
+    "stills": "node src/stills.js",
+    "render": "node src/render.js",
+    "assets": "node src/assets.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.100"
+  }
+}

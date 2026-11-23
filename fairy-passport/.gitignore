@@ -1,0 +1,6 @@
+node_modules/
+build/
+*.onnx
+voices-*.bin
+# the 125 s version is the 120 s + 5 s files back to back; regenerate with src/build.js
+out/*/*_full_125s.mp4

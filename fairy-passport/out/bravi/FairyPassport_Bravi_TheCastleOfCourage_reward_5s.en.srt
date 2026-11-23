@@ -1,0 +1,7 @@
+1
+00:00:00,300 --> 00:00:01,252
+You did it!
+
+2
+00:00:01,242 --> 00:00:04,512
+Being brave means trying, even when something feels new!
