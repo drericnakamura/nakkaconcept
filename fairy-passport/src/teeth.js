@@ -220,8 +220,8 @@ function drawArchesTop(ctx, cx, cy, st = {}) {
   // spotlight: everything else fades back
   if (st.spot !== false) {
     const g = ctx.createRadialGradient(gcx, gcy, 46 * k, gcx, gcy, 120 * k);
-    g.addColorStop(0, 'rgba(255,253,248,0)'); g.addColorStop(1, 'rgba(255,253,248,0.62)');
-    ctx.fillStyle = g; ctx.fillRect(cx - 170 * k, cy - 170 * k, 340 * k, 340 * k);
+    g.addColorStop(0, 'rgba(255,253,248,0)'); g.addColorStop(1, 'rgba(255,253,248,0.5)');
+    ctx.fillStyle = g; ctx.fillRect(cx - 400, cy - 400, 800, 800);
   }
   glow(ctx, gcx, gcy, 70 * k, hl, 0.35 + 0.2 * pulse, 'source-over');
   // the surface to brush
@@ -343,6 +343,7 @@ function drawCoachProfile(ctx, cx, cy, st) {
   ctx.lineWidth = 2.5; ctx.strokeStyle = GUM.line; ctx.stroke();
   ctx.save(); ctx.globalAlpha = 0.22; ctx.beginPath(); ctx.rect(-70, 4, 140, 140); ctx.clip(); profilePath(ctx, kind); ctx.fillStyle = '#FFF6EA'; ctx.fill(); ctx.restore();
   // toothbrush
+  if (st.brush === false) { ctx.restore(); return; }
   const w = t * TAU * 2.2;
   const s = 0.74;
   ctx.save();

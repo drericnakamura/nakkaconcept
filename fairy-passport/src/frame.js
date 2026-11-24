@@ -2,7 +2,7 @@
 'use strict';
 const L = require('./lib');
 // v2 coaching HUD (one step every 5 s) is the default; FP_HUD=v1 brings back the first cut
-const { drawHUD } = process.env.FP_HUD === 'v1' ? require('./hud') : require('./hud_v2');
+const { drawHUD } = process.env.FP_HUD === 'v1' ? require('./hud') : process.env.FP_HUD === 'v3' ? require('./hud_v3') : require('./hud_v2');
 const { BRUSH } = require('./timeline');
 const SCENES = { bravi: require('./scenes/bravi'), lumi: null };
 let reward = null;

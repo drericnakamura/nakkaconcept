@@ -242,4 +242,4 @@ function drawHUD(ctx, id, t) {
   drawRing(ctx, theme, t, info, id);
 }
 
-module.exports = { drawHUD };
+module.exports = { drawHUD, drawRing };
